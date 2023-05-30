@@ -1,0 +1,7 @@
+#+TITLE: Philosophy Blogs
+#+INCLUDE: ~/org/blog/philosophy/header.org
+
+* Posts
++ [[file:external-value-properties.org][Argument For External Value Properties]]
+
++ [[file:visibility-of-value.org][Visibility Of Value]]

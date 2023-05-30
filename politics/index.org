@@ -1,0 +1,6 @@
+#+TITLE: Politics
+#+INCLUDE: ~/org/blog/politics/header.org
+
+* Posts
+
++ [[file:ajw-banko.org][Actual Justice Warrior is an Insane Racist Freak]] 

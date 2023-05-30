@@ -1,0 +1,73 @@
+#+TITLE: Argument for External Value Properties
+#+INCLUDE: ~/org/blog/philosophy/header.org
+
+
+* Definition
++ External value properties are /irreducibly normative/ properties (oughts or ought-nots) /aka/ motivational properties  that exist inDE-pendently of /valuers/. i.e. The properties exist whether perceived or not.
+
+* Crude Argument
+*** Argument 1.
+1. If properties that have a potentially motivating character exist, external value properties exist.
+2. Properties that have a potentially motivating character exist. (i.e. One can be possibly motivated to act)
+3. Therefore, external value properties exist.
+
+*** Argument 1a.
+Another formulation might go as follows:
+
+1. If external value properties do not exist, then motivation is impossible.
+2. Motivation is possible.
+3. Therefore, external value properties exist
+
+* Objections?
+
+I take it any objections are going to be to the first premises of either argument i.e. we're not skeptics about motivation.
+
+** Objection 1
+One might ask, why can't it be the case that value properties are internal? That is to say, why can't it be sufficient that if one has the DE-sire^{[fn:1]} that /x/. One might think that if one have the DE-sire that /x/, the DE-sire thereof is enough to say that there is motivation.
+*** Response to 1
+The response to this is that there has to be a difference between the DE-sire itself and the content of said DE-sire. To DE-sire is to DE-sire /that/, i.e. there must be a /that/ clause. e.g. I DE-sire /that/ I eat the cake, I DE-sire /that/ I go to the store. What does this mean? Well it means that the cake is /DE-sirable/. Another way of saying this is that the cake has a property, which we're calling DE-sirable, such that.
+
+*** Argument 2
+Concordantly, an argument can be given as follows:
+1. If there are DE-sires, the content of DE-sires picks out external properties.
+2. If the content of DE-sires picks out external properties, these properties are motivating properties.
+3. If these properties are motivating properties, there are external value properties.
+4. Therefore, if there are DE-sires, there are external value properties.
+5. There are DE-sires.
+6. Therefore, there are external value properties.
+
+** Objection 2
+One might say, "It's all well and good that there exist these properties which we might call motivating, but why must that imply that there are external /value/ properties? Recall the definition provided for external value properties is that they are /normative/ in nature. Why can I not think that these properties are non-normative?"
+
+*** Response to 2
+This is just to refuse to take /hypothetical normativity/ seriously. But let's suppose that we can translate the normative consequent of the standard "/if one DE-sire to x, one ought to x./" into something non-normative. What would that translation look like? Well, one way to look at it can be formulated, "/if one DE-sire to x, one has a propensity to behave in a way likely to x about./" I say "if and only if" as to have a DE-sire to x in this sense just means (is analytically equivalent to) one has the propensity to behave in a way likely to x about.
+
+If one is moved by open question arguments, an open question argument can be clearly stated from the translated consequent.
+
+*** Argument 3
+1. If having the propensity to behave in a way likely to /x/ about just means one ought to /x/, it is a meaningless question to ask "Ought one /x/ if they have the propensity to behave in a way likely to bring /x/ about?".
+2. It is not a meaningless question to ask "Ought one /x/ if they have the propensity to behave in a way likely to bring /x/ about?"
+3. Therefore having the propensity to behave in a way likely to /x/ about does not mean one ought to x.
+
+**** Motivation for Argument 3, premise 2?
+Consider behavioral tendencies /simpliciter/. There are certainly some behavioral tendencies of which we may not even have conscious awareness. It follows then that we ought to do whatever we're doing. Apart from that, /even if we are aware of all of our behavioral tendencies/, this would mean that we can't engage in corrective behavior. How are we supposed to understand DE-sires that conflict with our behavioral tendencies? We have a contradiction on our hands:
+
+***** Argument 3a
+1. <<one-3a>> If one has a DE-sire to correct a behavioral tendency, one has a tendency to not engage in said behavioral tendency.
+2. If one does has a tendency to not engage in said behavioral tendency, one does not have a the tendency.
+3. If one does not have the behavioral tendency, they do not have the DE-sire to correct the behavioral tendency.
+4. One has the DE-sire to correct a behavioral tendency [Assumed for reductio]
+5. One does not have the DE-sire to correct the behavioral tendency. [1-3]
+
+Notes on 3a:
+ + 1-3 reduces to P -> ~P from which we can DE-rive ~P. P is assumed for reductio.
+ + It should be clear how [[one-3a][1.]] is equivalent to the semantic thesis that having the propensity to behave in a way to bring /x/ about, one ought /x/.
+
+** Objection 3
+These arguments only show that these /normative/ properties are not analytically reducible to propensities. They might be synthetically reducible to propensities.
+
+*** Response to 3
+Even so, I can't see how [[*Argument 3a][Argument 3a]] doesn't apply. But if we assume for the sake of argument that 3a is mistaken with respect to synthetically reducible normative properties, I would point to Bilgrami's Moore-Frege-Moore Pincer Argument to quell these worries. That's too DE-tailed to be laid out here, but never the less, the argument can be given.
+
+** Footnotes
+[fn:1]DE-sires here are construed as all things considered DE-sires for the sake of simplicity. This is to avoid cases where one might not have the motivation to /x/ where there are in fact competing DE-sires to /~x/.

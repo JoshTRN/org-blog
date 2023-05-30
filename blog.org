@@ -1,0 +1,8 @@
+#+TITLE: Home Page
+#+AUTHOR: Joshua Wood
+#+INCLUDE: header.org
+
+
+* [[file:development/index.org][Development]]
+
+* [[file:philosophy/index.org][Philosophy]]

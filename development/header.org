@@ -1,0 +1,13 @@
+#+DESCRIPTION: Header
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil ^:{}
+
+#+begin_export html
+  <div class="topbar-menu-container">
+    <span class="topbar-menu"><a href="/">Home</a></span>
+    <span class="topbar-menu"><a class="current" href="/development/index.html">Development</a></span>
+    <span class="topbar-menu"><a href="/philosophy/index.html">Philosophy</a></span>
+    <span class="topbar-menu"><a href="/politics/index.html">Politics</a></span>
+  </div>
+#+end_export
+

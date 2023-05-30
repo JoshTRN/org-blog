@@ -1,0 +1,7 @@
+# example-namespace.yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: my-new-namespace
+  labels:
+    name: my-new-namespace
