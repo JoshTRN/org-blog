@@ -2,6 +2,6 @@
 #+INCLUDE: ~/org/blog/development/header.org
 
 * Posts
-+ [[file:kubernetes/app-demo.org][Kubernetes Demo]]
++ [[file:kubernetes/index.org][Kubernetes Demo]]
 
-+ [[file:why-emacs/emacs.org][Why Emacs?]]
++ [[file:why-emacs/index.org][Why Emacs?]]
