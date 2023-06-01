@@ -1346,7 +1346,7 @@ span a {
 
 body {
   padding-top: 0px;
-  background-color: rgb(2, 2, 8)
+  background-color: rgb(1, 6, 15);
 }
 
 ::-webkit-scrollbar {
@@ -1518,3 +1518,4 @@ ul.nav li.active ul li.active a {
 #table-of-contents li ul li a {
   background: rgba(116, 12, 182, 0.19);
 }
+
