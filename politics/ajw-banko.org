@@ -5,17 +5,30 @@
 In response to the controversy regarding Banko Brown, Actually Deranged Racist Freak (a.k.a Actual Justice Warrior) DE-cided to embellish the recorded events surrounding the incident. I posted a twitter thread about it, but I will post the contents of the thread in this block and link it for posterity sake.
 
 
-* Tweet
+* Tweet Thread
 #+begin_export html
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/IamSean90?ref_src=twsrc%5Etfw">@IamSean90</a> 🧵You should take down the video where you claim that Banko Brown &quot;decided to lunge at the security guard with a knife,&quot; and paint Brown as an attempted murderer.<a href="https://t.co/O5j4nkWbHN">https://t.co/O5j4nkWbHN</a><br><br>You said that Brown, &quot;drew a knife,&quot; and that, [1/22]</p>&mdash; Josh Coder (@JoshCoder) <a href="https://twitter.com/JoshCoder/status/1653962352167976962?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/IamSean90?ref_src=twsrc%5Etfw">@IamSean90</a> 🧵You should take down the video where you claim that Banko Brown &quot;decided to lunge at the security guard with a knife,&quot; and paint Brown as an attempted murderer.<a href="https://t.co/O5j4nkWbHN">https://t.co/O5j4nkWbHN</a><br><br>You said that Brown, &quot;drew a knife,&quot; and that, [1/22]</p>&mdash; Josh Coder (@JoshCoder) <a href="https://twitter.com/JoshCoder/status/1653962352167976962?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 #+end_export
 
+
+* AJW's Interpolation
 You should take down the video where you claim that Banko Brown "decided to lunge at the security guard with a knife," and paint Brown as an attempted murderer.
 
-https://youtu.be/I8jDoHymRBI?t=558
+#+begin_export html
+<div class="video-container">
+<iframe class="video" src="https://www.youtube.com/embed/I8jDoHymRBI?start=558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
 
 You said that Brown, "drew a knife," and that, "the security guard did not pull the trigger at the moment the knife was presented," but this isn't even supported by your OWN SOURCE THAT YOU SHOW ON SCREEN WHILE YOU SAY IT.
-https://youtu.be/I8jDoHymRBI?t=535
+
+
+#+begin_export html
+<div class="video-container">
+<iframe class="video" src="https://www.youtube.com/embed/I8jDoHymRBI?start=535" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
 
 Contrast what you said with your own source:
 
@@ -53,6 +66,7 @@ It gets even worse than this. Here are several sources contradicting your claim,
 #+end_quote
 
 
+* A Good Explanation
 Now that there's contradictory evidence to your claim, one has to wonder, once again, why did you eisegete what you did into the text? One explanation, and a good one at that, is that you're a DE-ranged racist freak. You might wonder what makes it a good explanation. Well, from your other video thumbnails and titles, you can tell it's very important to you to point out the race of victims of crimes when they're white and their victimizers are black. For example "BLM Activist FRAMES White Girl" and "White Family Targeted Media Silent," but defend white people who kill black people like "The Ralph Yarl Hoax." This is the evidence that confirms the hypothesis that you racistly interpolated stuff into a source you cited because you're a psychotic racist freak.
 
 The other interpretation is that you lied. You knew exactly what you were doing and you just lied. But why would someone lie about this? Well, Brown was black and you're a racist freak, is a good explanation for that.
