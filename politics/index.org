@@ -3,6 +3,6 @@
 
 * Posts
 
-+ [[file:ajw-banko/index.org][Actual Justice Warrior is an Insane Racist Freak]]
-+ [[file:in-defence-of-socialist-planning/index.org][In Defence Of Socialist Planning]]
-+ [[file:chomsky-vs-lenin/index.org][Chomsky Vs. Lenin]]
++ [[file:ajw-banko][Actual Justice Warrior is an Insane Racist Freak]]
++ [[file:in-defence-of-socialist-planning][In Defence Of Socialist Planning]]
++ [[file:chomsky-vs-lenin][Chomsky Vs. Lenin]]

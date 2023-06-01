@@ -4,8 +4,8 @@
 
 
 * Categories
-+ [[file:development/index.org][Development]]
++ [[file:development][Development]]
 
-+ [[file:philosophy/index.org][Philosophy]]
++ [[file:philosophy][Philosophy]]
 
-+ [[file:politics/index.org][Politics]]
++ [[file:politics][Politics]]
