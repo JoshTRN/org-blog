@@ -1,0 +1,254 @@
+#+TITLE:  Women Are Not Adult Human Females
+#+AUTHOR: Rebecca Mason
+#+INCLUDE: ~/org/blog/philosophy/header.org
+* Preface
+
+Authored by Rebecca Mason.
+
+University of San Francisco
+
+Some philosophers argue that women are adult human females. Call this the Adult Human Female thesis (AHF). The aim of this paper is to show that AHF is false.
+
+*Key words:* gender, sex, female, woman, trans woman
+
+* 1. Introduction
+
+Some philosophers defend the thesis that women are adult human females. Call this the adult human female thesis (AHF). There are two versions of AHF---one modal and one definitional. According to the modal version, necessarily, S is a woman if and only if S is an adult human female (Byrne 2020).[fn:1] According to the definitional version, ‘women, by definition, are adult human females' (Stock et al., 2019). On this version of AHF, being an adult human female is part of the real definition of being a woman. Real definitions (as opposed to linguistic definitions) define entities (as opposed to words). The real definition of an entity, x, specifies /what x is/, or /what it is/ to be x (Fine 1994a, Rosen 2015). Thus, the definitional version of AHF asserts that what it is to be a woman is to be an adult human female.[fn:2]
+
+I argue that both versions of AHF are false. However, I direct my argumentative attention to the modal version. This is because the definitional version of AHF entails the modal version. That is, if being an adult human female constitutes the real definition of being a woman, then, necessarily, S is a woman if and only if S is an adult human female.[fn:3] Because the definitional version of AHF entails the modal version, the definitional version of AHF is false if the modal version is. Thus, in what follows, I argue that it is not the case that, necessarily, S is a woman if and only if S is an adult human female (modal version of AHF). It follows that it is not the case that what it is to be a woman is to be an adult human female (definitional version of AHF).
+
+My argumentative strategy is to consider several ways of analysing the property of being female: in terms of chromosomal properties (having XX chromosomes), gametic properties (producing ova), phenotypic properties (having breasts, having a vagina, having a uterus, etc.), and various combinations of these. I show that there are counterexamples to each analysis: for every way of analysing the property of being female, either there are some women who fail to have that property (thus it is false that necessarily, S is a woman only if S is an adult human female), or some men who have it (thus it is false that necessarily S is a woman if S is an adult human female).
+
+Before I say more about my argumentative strategy in what follows, I'd like to pause briefly to situate my arguments against AHF in the broader social and political context, especially their implications for trans rights. Trans people in general, and particularly trans women, are subject to intense public and political scrutiny, and experience a wide variety of harms, including (but not limited to) misgendering, identity invalidation, genital verification, and other forms of transphobia (Bettcher 2007, 2014 and 2017; Kapusta 2016).[fn:4] In this social and political context, AHF is used to deny that trans women are women, and to restrict their access to women-only spaces.[fn:5] For example, a group of activists in the UK who opposed a change to the Gender Recognition Act which would de-medicalise the process through which trans people can change their legal gender (that is, the gender listed on their birth certificate) did so based on the claim that women are adult human females. Similarly, variants of AHF are used to justify the exclusion of trans women from women-only spaces such as bathrooms, dormitories, hostels, showers, and prisons etc.[fn:6] As such, my arguments against AHF have both theoretical and practical significance: if AHF is false, then it cannot be used as a premise in these trans-exclusionary arguments.[fn:7]
+
+In light of this social and political context, my arguments against AHF will not use trans women as counterexamples to avoid begging the question against those who use AHF to deny that trans women are women.[fn:8] I argue that if the modal version of AHF is true, then the following conditions must be satisfied:
+
+1. All non-trans women are female in the relevant sense,[fn:9] and
+
+2. No non-trans men are female in the relevant sense,[fn:10]
+
+I show that no matter how the property of being female is analysed, these conditions cannot be met. I conclude that the modal version AHF is false. Because the definitional version of AHF entails the modal version, it follows that the definitional version of AHF is false as well.
+
+* 2. Chromosomal Sex
+
+Let's start with chromosomal sex---what is sometimes thought of as ‘sex itself' (Richardson 2013). On this proposal, someone is female if and only if all their cells contain two and only two X chromosomes, and no Y chromosomes. The idea that being female should be analysed in terms of having XX chromosomes is appealing because, intuitively, chromosomal sex is more biologically fundamental than other biological sex properties.
+
+However, sex chromosome abnormalities are common in humans. Although there are two and only two sex chromosomes, it is not the case that humans can be neatly separated into two and only two categories---XX and XY.[fn:11] To the contrary, one in every 1,606 adults have neither XX nor XY chromosomes (Samango-Sprouse et al. 2016, 7). Some individuals have a single sex chromosome (for example, XO), or three or more sex chromosomes: XXY, XYY, XXX, XXXY, XXYY, XYYY, etc. Moreover, some individuals have mosaic karyotypes: the presence of two or more different chromosome complements within an individual developed from a single zygote, for example, some cells are XX and others are XY (Conlin et al., 2010). Finally, sex chromosome chimerism occurs when an individual's cells contain genetic material from more than one zygote. For example, an individual may have some cells that are XX and others that are XY because they developed from a combination of two fertilized eggs, that is, embryonic twins that merged in utero (James et al., 2011).[fn:12] Therefore, it is not the case that everyone has either XX or XY chromosomes. To the contrary, sex chromosome aneuploidies (the presence of an abnormal number of chromosomes in a cell) are relatively common (Skuse et al., 2018).
+
+Given this, having XX chromosomes is neither necessary nor sufficient for being a woman. Some women (for example, those with Swyer syndrome) have an XY karyotype. Other women (for example, those with Turner syndrome) have an XO karyotype. Individuals with Swyer or Turner syndrome have unambiguously female genitalia, are classified as female at birth, are raised as girls, typically identify as women, and are perceived as women by those around them (Tuke, Marcus et al., 2019; Michala, L., et al., 2008; Lippe 1991). Therefore, having XX chromosomes is not necessary for being a woman.
+
+Moreover, some non-trans men have an XX karyotype. Due to the translocation of the SRY gene onto the X, these individuals develop unambiguously male genitalia (Vorona et al., 2007). Like most non-intersex men, they are classified as male at birth, are raised as boys, typically identify as men, and are perceived to be men by those around them. Therefore, having XX chromosomes is not sufficient for being a woman. If having XX chromosomes is neither necessary nor sufficient for being a woman, then it is not the case that necessarily S is a woman if and only if S has XX chromosomes.
+
+One might object that individuals with intersex conditions do not constitute legitimate counterexamples to AHF given that such cases are contested by proponents of that thesis.[fn:13] I claim that they are legitimate.[fn:14] Cases involving intersex individuals can't be ruled ineligible simply because they are contested by proponents of AHF. To the contrary, it is precisely because individuals with intersex conditions pose problems for AHF that ruling them out without an independent argument begs the question against those who deny that thesis. Thus, proponents of AHF must provide reasons independent of their claim that AHF is true for excluding counterexamples involving individuals with intersex conditions.
+
+To see this more clearly, consider the following analogy. In the epistemology of testimony, some philosophers (reductionists) argue that having positive reasons to believe a speaker (that is, having reason to think that the speaker is reliable) is necessary for testimonial justification. Their opponents (anti-reductionists) argue that children can have testimonial justification even though they lack positive reasons; therefore, reductionism is false. Without further argument, it would be illegitimate (and unpersuasive) for reductionists to reply that cases involving children are contested, and so cannot be employed as counterexamples. To the contrary, reductionists must supply independent reasons for ruling out counterexamples involving children (that is, reasons independent of their claim positive reasons are necessary for testimonial justification).[fn:15] Analogously, proponents of AHF must provide independent reasons for excluding counterexamples involving individuals with intersex conditions. Unless such reasons are provided, relying on counterexamples to AHF involving intersex patients is legitimate.
+
+* 3. Gametic Sex
+
+An alternative way of analysing the property of being female is by appeal to gametes: females produce large, typically non-motile gametes (ova). Indeed, in the biological literature on sexual reproduction, males and females are primarily defined in terms of gametes rather than chromosomes or phenotype.[fn:16] For example, according to Lehtonen and Parker (2014) ‘males are those individuals that produce smaller gametes (e.g., sperm), while females are defined as those that produce the larger gametes. Of course, in many species, a whole suite of secondary sex characteristics exists, but the fundamental definition is rooted in this definition of gametes' (1161-1162). Likewise, according to Schäver, Rowe, and Arnqvist (2012), ‘the sexes are defined by differences in the type of gametes they produce; the female sex produces relatively few, large and usually non-motile gametes (eggs or ovules), whereas the male sex produces many, smaller and often motile gametes' (260). Similarly, Richardson (2013) notes that ‘the subclass of a species that produces the larger gamete is always considered female, regardless of its chromosome complement or its mating and offspring-rearing behaviors' (26).
+
+However, producing ova is neither necessary nor sufficient for being a woman. First, it is not the case that all women produce ova. For example, women with Swyer syndrome don't produce ova because they have streak gonads (fibrous tissue) rather than ovaries (Zieliñska et al., 2007). Other women are born with improperly functioning ovaries (their ovaries don't produce normal follicles where eggs can mature). Finally, it is not the case that someone stops being a woman simply because she has her ovaries removed (for example, due to ovarian cancer). Therefore, producing ova is not necessary for being a woman.
+
+In response to putative counterexamples such as these, Holly Lawford-Smith claims that what the gametic analysis requires is the ability to produce ova ‘when all goes well' (Lawford-Smith 2019). Although Lawford-Smith does not explain what she means by this suggestion, one way of developing her idea is by appeal to the idea of proper function (Bogardus 2020, fn.5). A biological trait can have a proper function even although some of its instances do not actually perform that function (Millikan 1989 288). Suppose that the proper function of ovaries is to produce ova. Someone who has improperly functioning ovaries does not actually produce ova, but Lawford-Smith's proposal does not preclude her being a woman because her ovaries have the proper function of producing ova.
+
+However, having an organ that has the proper function of producing ova is not necessary for being a woman. This is because women with Swyer syndrome do not have ovaries. Therefore, they do not have an organ which has the proper function of producing ova. Moreover, having an organ that has the proper function of producing ova is not sufficient for being a woman. This is because some non-trans men have an organ that has the proper function of producing ova: men with certain ovotesticular differences of sexual development, typically those with mosaic karyotypes, have both an ovary and testis, or one ovary and one ovotestis (Kim, Hey In et al., 2021; Scarpa et al., 2017; Kanaka-Gantenbein, Ch, et al., 2007; Wit, J.M., et al., 1987; Parvin 1982). Such individuals are born with unambiguously male genitalia, are classified as male at birth, are raised as boys, typically identify as men, and are perceived as men by everyone around them. Thus, having an organ that has the proper function of producing ova is neither necessary nor sufficient for being a woman.[fn:17]
+
+* 4. Phenotypic Sex
+
+A third proposal is that women are those individuals who instantiate all or some of the following properties: having relatively higher levels of oestrogen, having a vulva, vagina, ovaries, uterus, breasts, etc. Such individuals are /phenotypically/ female. There are a few ways of developing this analysis of femaleness. First, one might maintain that someone is a woman if and only if they instantiate /all/ of the properties listed above. On this proposal, the property of being female is analysed in terms of a conjunction of phenotypic properties. However, this is far too strong. Individuals often have various combinations of internal and external genitalia, secondary sex characteristics, and sex hormone ratios (Fausto-Sterling 2000). [fn:18] For example, non-trans women who have mastectomies or hysterectomies and those who have their ovaries surgically removed do not instantiate all of the properties listed above. The same goes for women with Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome, a condition that causes the vagina and uterus to be underdeveloped or absent (Pizzo, Alfonsa et al., 2013). Thus, on this analysis of being female (that is, having relatively higher levels of oestrogen, /and/ a vulva, /and/ a vagina, /and/ ovaries, /and/ a uterus, /and/ breasts, etc.), having all of the relevant phenotypic properties is not necessary for being a woman: many individuals are women (for example, those with MRKH syndrome) although they do not instantiate some of them.
+
+Second, one might maintain that someone is a woman if and only if they instantiate /at least one/ of the properties listed above. On this proposal, the property of being female is analysed in terms of a disjunction of properties: having relatively higher levels of oestrogen, /or/ having a vulva, /or/ having a vagina, /or/ having ovaries, /or/ having a uterus /or/ having breasts. Although it is likely to be the case that all women have at least one of these properties, the proposed definition is too weak because there are non-trans men who instantiate at least one of them as well (for example, non-trans men with ovaries and testes). Thus, on this disjunctive analysis, being phenotypically female is not sufficient for being a woman.[fn:19]
+
+Finally, one might maintain that someone is a woman if and only if she instantiates a subset of the properties listed above. This is a ‘cluster' view of the property of being female. For example, Sophie Allen (2019) argues that being female should be ‘conceived in terms of clusters of properties, none of which are individually necessary' (Allen 2019). Similarly, Sophie Allen, Jane Clare Jones, Holly Lawford-Smith, Mary Leng, Rebecca Reilly-Cooper, and Kathleen Stock say that
+
+#+begin_quote
+Several of us endorse a cluster account of femaleness, according to which possession of some vague number of a certain set of endogenously-produced primary sex characteristics---including vagina, ovaries, womb, fallopian tubes, and XX chromosomes---is sufficient for femaleness, though no particular characteristic is necessary or essential.
+#+end_quote
+
+If being a woman requires the instantiation of more than one (but not all) of the relevant properties, then we need a principled way of determining how many of the relevant properties are required to be female in this sense. However, the biological facts don't give us a straightforward way of making this determination. Indeed, doing so is especially difficult given both the prevalence of differences of sexual development (some non-trans women will have relatively few of these properties and some non-trans men will have more than one of them) and the fact that which properties an individual instantiates can change over the course of her life.
+
+For example, a simple majoritarian condition (that is, someone is a woman if and only if she instantiates most of the properties in the cluster) won't do. Consider a woman with Turner syndrome. Women with Turner syndrome have unambiguously female external genitalia; however, because their ovaries don't produce sufficient oestrogen, Turner women don't go through puberty and so don't develop secondary sex characteristics like breasts without hormone therapy. Suppose that such an individual does not receive hormone therapy, and has their ovaries and uterus removed due to cancer. The present proposal says that such an individual is not a woman, because she doesn't instantiate most of the properties in the cluster. But as I argue in section 2, like most non-intersex women, individuals Turner syndrome have unambiguously female genitalia, are classified as female at birth, are raised as girls, typically identify as women, and are perceived as women by those around them. In other words, they are women. A minimalist condition (that is, S is a woman if and only if S instantiates at least one of the properties in the cluster) likewise delivers the wrong result. For example, some non-trans men with mosaic karyotypes have ovaries; however, as I argue in section 3, these individuals are typically men and not women.
+
+A proponent of the cluster view of being female may respond that their view need not provide a precise list of the properties definitively required for being female because nature is rife with borderline cases of biological kinds (due to for example, hybridization and genetic mutations), and /femaleness/ is no different in this regard.[fn:20] Be that as it may, the cluster view of being female faces counterexamples. This is because the cluster view is simply a covert version of the disjunctive analysis already considered. According to the cluster view, someone is phenotypically female when they instantiate more than one of the properties in the cluster. Moreover, different individuals can instantiate different combinations of those properties. For example, some individuals who are phenotypically female have the following properties: higher levels of oestrogen, a vulva, and a vagina. Other individuals who are phenotypically female have a different combination of properties: ovaries, a uterus, and breasts, and so on.
+
+Thus, on the cluster view, being phenotypically female is /a disjunction of conjunctions of properties/: (having relatively higher levels of oestrogen, and having a vulva, /and/ having a vagina) /OR/ (having ovaries, and having a uterus, and having breasts) /OR/ (having a vagina and having breasts) and so on for the various combinations of phenotypic properties. On this view, someone is a woman if and only if she instantiates a conjunction of properties that belongs to the disjunction. However, the disjunctive analysis of being female is too weak: it implies that some non-trans men with differences of sexual development (for example, those with at least one ovary, relatively higher oestrogen, etc.) are women.
+
+Are there alternative ways of developing the cluster view of being female? One proposal appeals to the idea that female (and male) are homeostatic property cluster (HPC) kinds (Boyd 1999).[fn:21] According to Boyd, since the various properties belonging to a cluster, along with the underlying mechanism(s) that hold those properties in homeostasis can change over time (for example, over time, members of a species may instantiate different properties due to environmental factors or genetic mutations), HPC kinds are individuated /historically/, not by the clusters of properties or the underlying mechanisms. That is, HPC kinds are ‘individuated like a (type or token) historical object or process: certain changes over time (or in space) in the property cluster or in the underlying homeostatic mechanisms preserve the identity of the defining cluster' (144). It is this historical aspect of Boyd's view renders HPC kinds non-disjunctive.
+
+If being phenotypically female is an HPC kind, then an historical relation that individuates the respective cluster of biological properties must be identified. With respect to biological species such as /homo sapiens/ or /drosophila melanogaster/, there is a standard (although not uncontroversial) story about the relevant historical relation: species are individuated by their relationship to a node in the phylogenetic tree (that is, a speciation event) and members of a species belong to a common lineage descending from a single common ancestor (Griffiths 1999; LaPorte 2004). But there is no analogous story to tell in the case of sex. As Richardson argues,
+
+#+begin_quote
+sexes are not accurately analogized to species. Sexes are not lineages. Males do not produce males, females do not produce females. Males and females mate, and their male and female offspring carry a random combination of paternal and maternal genetic material. Because of sexual reproduction, the sexes do not meet any of the criteria for a species, including interbreeding, shared common ancestry (monophyly), morphology, and spatial and temporal boundaries. Human males and females are biological subclasses of a sexual species. As a class, males are not descended from a common ancestor, nor do they breed only with one another; the same goes for females. (Richardson 2010: 832)
+#+end_quote
+
+If sexes are not like species, then the viability of proposal that being phenotypically female is a HPC kind rests on the plausibility of identifying an alternative historical relation capable of individuating the relevant cluster of properties over time. In the absence of such a relation, there is no reason for thinking that being female (and being male) is an HPC kind.[fn:22]
+
+I conclude that being phenotypically female, even on the cluster analysis, is not sufficient for being a woman. If being phenotypically female is not sufficient for being a woman, then the modal version of AHF is false. Because the definitional version of AHF entails the modal version, these arguments demonstrate that the definitional version of AHF is false as well.
+
+* 5. Combination Views
+
+Could the property of being female be identified with some combination of chromosomal, gametic, and phenotypic properties? For example, perhaps being female should be identified with the conjunctive property having XX chromosomes, /and/ having an organ which has the proper function of producing ova, /and/ having the relevant phenotypic properties. Alternatively, one might argue that the property of being female should be identified with the disjunctive property having XX chromosomes, /or/ having an organ which has the proper function of producing ova, /or/ having the relevant phenotypic properties.
+
+Both proposals fail. The conjunctive proposal fails for the same reasons that its conjuncts do. Although it does not deliver the result that non-trans men with certain differences of sexual development are women, it entails that those individuals who don't have an XX karyotype (for example, women with Swyer syndrome or Turner's syndrome) are not women. But, as I argue above, there are strong reasons to believe that many of these individuals are women. The disjunctive proposal, like its disjuncts, fails to provide a sufficient condition for being a woman: some non-trans men have XX chromosomes, have an organ which has the proper function of producing ova, or have the relevant phenotypic properties.
+
+* 6. Concluding Remarks
+
+I have argued that the modal version of AHF is true only if the following conditions are satisfied:
+
+1. All non-trans women are female in the relevant sense, and
+
+2. No non-trans men are female in the relevant sense.
+
+Although it is true that most women have XX chromosomes, have an organ which has the proper function of producing ova, and have the relevant phenotypic properties (for example, breasts, vagina, relatively higher oestrogen, etc.), none of these ways of analysing femaleness delivers the required results in all cases.[fn:23] Either some non-trans women fail to be female in the relevant sense, or some non-trans men are female in the relevant sense. Therefore, that it is not the case that S is a woman if and only if S is an adult human female. In other words, the modal version of AHF is false. Because the definitional version of AHF entails the modal version, it follows that the definitional version of AHF is false as well.
+
+* Acknowledgements
+
+I am grateful to Derek Anderson, Louise Antony, Magdalene Dimitriadou, Maegan Fairchild, Sophie Horowitz, Stephanie Kapusta, Nick Leonard, Jesse Prinz, Elanor Taylor, and Tyler Zimmer for feedback on the arguments given in this paper. Thanks to audiences at Dalhousie University, University of Massachusetts Amherst, San Jose State University, West Point University, SWIP-NYC, and the Workshop on Agency in the Mountains for valuable discussion. Thanks also to an anonymous referee for this journal and to the editors for their rigorous and constructive comments.
+
+* References
+
+Allen, Sophie (2019) ‘How Not to Find out Who Counts as a Woman: A Response to Carol Hay', /Medium/. /‘Woman Billboard Removed after Transphobia Row' (2018), BBC News 26 September./
+
+Bettcher, T M (2007) ‘Evil Deceivers and Make-Believers: On Transphobic Violence and the Politics of Illusion', /Hypatia/ *22*: 43--65.
+
+Bettcher, Talia Mae (2014) ‘Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance', /Signs: Journal of Women in Culture and Society/ *39*: 383--406.
+
+Bettcher, Talia Mae (2017) ‘Through the Looking Glass Trans Theory Meets Feminist Philosophy', in Ann Garry, Serene J Khader and Alison Stone, eds., /The Routledge Companion to Feminist Philosophy/: 393--404. Routledge.
+
+Bogardus, Tomas (2020) ‘Evaluating Arguments for the Sex/Gender Distinction', /Philosophia: Philosophical Quarterly of Israel/ *48*: 873. doi:[[https://doi.org/10.1007/s11406-019-00157-6][10.1007/s11406-019-00157-6]].
+
+Byrne, Alex (2020) ‘Are Women Adult Human Females?', /Philosophical Studies/ *177*: 3783--3803. doi:[[https://doi.org/10.1007/s11098-019-01408-8][10.1007/s11098-019-01408-8]].
+
+Charlesworth, Deborah and Brian Charlesworth (2010) ‘Evolutionary Biology: The Origins of Two Sexes', /Current Biology/ *20*: R519--21. doi:[[https://doi.org/10.1016/j.cub.2010.05.015][10.1016/j.cub.2010.05.015]].
+
+Conlin, Laura K, Brian D Thiel, Carsten G Bonnemann, Livija Medne, Linda M Ernst, /et al./ (2010) ‘Mechanisms of Mosaicism, Chimerism and Uniparental Disomy Identified by Single Nucleotide Polymorphism Array Analysis', /Human Molecular Genetics/ *19*: 1263--75. doi:[[https://doi.org/10.1093/hmg/ddq003][10.1093/hmg/ddq003]].
+
+Dembroff, Robin (2021) ‘Escaping the Natural Attitude about Gender', /Philosophical Studies/ *178*: 983--1003. doi:[[https://doi.org/10.1007/s11098-020-01468-1][10.1007/s11098-020-01468-1]].
+
+Gammill, Hilary S and J Lee Nelson (2010) ‘Naturally Acquired Microchimerism', /The International Journal of Developmental Biology/ *54*: 531--43. doi:[[https://doi.org/10.1387/ijdb.082767hg][10.1387/ijdb.082767hg]].
+
+Fausto-Sterling, Anne (2000) /Sexing the Body: Gender Politics and the Construction of Sexuality/. BasicBooks.
+
+Fine, Kit (1994) ‘Essence and Modality', /Philosophical Perspectives/ *8*: 1--16.
+
+Franklin-Hall, Laura (2020) ‘The Animal Sexes as Historical Explanatory Kinds', in Shamik Dasgupta, Ravit Dotan and Brad Weslake, eds., /Current Controversies in Philosophy of Science/: 177--97. Routledge.
+
+James, Paul A, Katherine Rose, David Francis, and Fiona Norris (2011) ‘High-Level 46XX/46XY Chimerism without Clinical Effect in a Healthy Multiparous Female', /American Journal of Medical Genetics Part A/ *155*: 2484--88. doi:[[https://doi.org/10.1002/ajmg.a.34123][10.1002/ajmg.a.34123]].
+
+Jenkins, Katharine (2018) ‘Toward an Account of Gender Identity', /Ergo, an Open Access Journal of Philosophy/ *5*: 713--44. doi:[[https://doi.org/10.3998/ergo.12405314.0005.027]].
+
+Kanaka-Gantenbein, Ch, E Papandreou, K Stefanaki, H Fryssira, A Kolialexi, /et al./ (2007) ‘Spontaneous Ovulation in a True Hermaphrodite with Normal Male Phenotype and a Rare 46,XX/47,XXY Klinefelter's Mosaic Karyotype', /Hormone Research in Paediatrics/ *68*: 139--44. doi:[[https://doi.org/10.1159/000101190][10.1159/000101190]].
+
+Kapusta, Stephanie (2016) ‘Misgendering and Its Moral Contestability', /Hypatia: A Journal of Feminist Philosophy/ *31*: 502--19.
+
+Kim, Hye In, Inha Lee, Sang Hwa Kim, Yong Seung Lee, Sang Won Han, and Bo Hyon Yun (2021) ‘Ovotesticular Disorder of Sex Development in Korean Children: A Single-Center Analysis over a 30-Year Period', /Journal of Pediatric and Adolescent Gynecology/ *34*: 626--30. doi:[[https://doi.org/10.1016/j.jpag.2021.02.105][10.1016/j.jpag.2021.02.105]].
+
+Lawford-Smith, Holly (2019) ‘Is It Possible to Change Sex?', /TheArticle/. [[https://www.thearticle.com/is-it-possible-to-change-sex]].
+
+Lehtonen, Jussi (2017) ‘Gamete Size', in Todd K Shackelford and Viviana A Weekes-Shackelford, eds., /Encyclopedia of Evolutionary Psychological Science/: 1--4. Springer International Publishing.
+
+Lehtonen Jussi, Kokko Hanna, and Parker Geoff A. (2016) ‘What Do Isogamous Organisms Teach Us about Sex and the Two Sexes?', /Philosophical Transactions of the Royal Society B: Biological Sciences/ *371*: 20150532. doi:[[https://doi.org/10.1098/rstb.2015.0532][10.1098/rstb.2015.0532]].
+
+Lehtonen, Jussi and Hanna Kokko (2011) ‘Two Roads to Two Sexes: Unifying Gamete Competition and Gamete Limitation in a Single Model of Anisogamy Evolution', /Behavioral Ecology and Sociobiology/ *65*: 445--59. doi:[[https://doi.org/10.1007/s00265-010-1116-8][10.1007/s00265-010-1116-8]].
+
+Lehtonen, Jussi and Geoff Parker (2014) ‘Gamete Competition, Gamete Limitation, and the Evolution of the Two Sexes', /Molecular Human Reproduction/ *20*: 1161--68.
+
+Lippe, Barbara (1991) ‘Turner Syndrome', /Endocrinology and Metabolism Clinics of North America/ *20*: 121--52. doi:[[https://doi.org/10.1016/S0889-8529(18)30284-6][10.1016/S0889-8529(18)30284-6]].
+
+Michala, L, D Goswami, Sm Creighton, and Gs Conway (2008) ‘Swyer Syndrome: Presentation and Outcomes', /BJOG: An International Journal of Obstetrics & Gynaecology/ *115*: 737--41. doi:[[https://doi.org/10.1111/j.1471-0528.2008.01703.x][10.1111/j.1471-0528.2008.01703.x]].
+
+McKinnon, Rachel (2018) ‘The Epistemology of Propaganda', /Philosophy and Phenomenological Research/ *96*: 483--89. doi:[[https://doi.org/10.1111/phpr.12429]].
+
+McKitrick, Jennifer (2015) ‘A Dispositional Account of Gender', /Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition/ *172*: 2575--89.
+
+Millikan, Ruth Garrett (1989) ‘In Defense of Proper Functions', /Philosophy of Science/ *56*: 288--302.
+
+Monro Keyne and Marshall Dustin J. (2016) ‘Unravelling Anisogamy: Egg Size and Ejaculate Size Mediate Selection on Morphology in Free-Swimming Sperm', /Proceedings of the Royal Society B: Biological Sciences/ *283*: 20160671. doi:[[https://doi.org/10.1098/rspb.2016.0671][10.1098/rspb.2016.0671]].
+
+Parker, G A, R R Baker, and V G F Smith (1972) ‘The Origin and Evolution of Gamete Dimorphism and the Male-Female Phenomenon', /Journal of Theoretical Biology/ *36*: 529--53. doi:[[https://doi.org/10.1016/0022-5193(72)90007-0][10.1016/0022-5193(72)90007-0]].
+
+Parvin, S D (1982) ‘Ovulation in a Cytogenetically Proved Phenotypically Male Fertile Hermaphrodite', /The British Journal of Surgery/ *69*: 279--80. doi:[[https://doi.org/10.1002/bjs.1800690517][10.1002/bjs.1800690517]].
+
+Pizzo, Alfonsa, Antonio Simone Laganà, Emanuele Sturlese, Giovanni Retto, Annalisa Retto, /et al./ (2013) ‘Mayer-Rokitansky-Kuster-Hauser Syndrome: Embryology, Genetics and Clinical and Surgical Treatment', /ISRN Obstetrics and Gynecology/ *2013*. doi:[[https://doi.org/10.1155/2013/628717][10.1155/2013/628717]].
+
+Richardson, Sarah (2013) /Sex Itself: The Search for Male and Female in the Human Genome/. The University of Chicago Press.
+
+Richardson, Sarah S (2010) ‘Sexes, Species, and Genomes: Why Males and Females Are Not Like Humans and Chimpanzees', /Biology and Philosophy/ *25*: 823--41.
+
+Rosen, Gideon (2015) ‘Real Definition', /Analytic Philosophy/ *56*: 189--209. doi:[[https://doi.org/10.1111/phib.12067][10.1111/phib.12067]]
+
+Roughgarden, Joan (2004) /Evolution's Rainbow: Diversity, Gender, and Sexuality in Nature and People/. University of California Press.
+
+Samango-Sprouse, Carole, Eser Kırkızlar, Megan P Hall, Patrick Lawson, Zachary Demko, /et al./ (2016) ‘Incidence of X and Y Chromosomal Aneuploidy in a Large Child Bearing Population', /PLOS ONE/ *11*: e0161045. doi:[[https://doi.org/10.1371/journal.pone.0161045][10.1371/journal.pone.0161045]].
+
+Scarpa, Maria-Grazia, Massimo Di Grazia, and Gianluca Tornese (2017) ‘46,XY Ovotesticular Disorders of Sex Development: A Therapeutic Challenge', /Pediatric Reports/ *9*. doi:[[https://doi.org/10.4081/pr.2017.7085][10.4081/pr.2017.7085]].
+
+Schärer, Lukas, Locke Rowe, and Göran Arnqvist (2012) ‘Anisogamy, Chance and the Evolution of Sex Roles', /Trends in Ecology & Evolution/ *27*: 260--64. doi:[[https://doi.org/10.1016/j.tree.2011.12.006][10.1016/j.tree.2011.12.006]].
+
+Skuse, David, Frida Printzlau, and Jeanne Wolstencroft (2018) ‘Sex Chromosome Aneuploidies', in /Handbook of Clinical Neurology/, vol. *147*: 355--76. Elsevier.
+
+Stock, Kathleen, Sophie Allen, Jane Clare Jones, Mary Leng, Rebecca Reilly-Cooper, and Holly Lawford-Smith (2019) ‘Doing Better in Arguments About Sex and Gender', /Medium/.
+
+Tang-Martínez, Zuleyma (2016) ‘Rethinking Bateman's Principles: Challenging Persistent Myths of Sexually Reluctant Females and Promiscuous Males', /Journal of Sex Research/ *53*: 532--59. doi:[[https://doi.org/10.1080/00224499.2016.1150938][10.1080/00224499.2016.1150938]].
+
+Tuke, Marcus A, Katherine S Ruth, Andrew R Wood, Robin N Beaumont, Jessica Tyrrell, /et al./ (2019) ‘Mosaic Turner Syndrome Shows Reduced Penetrance in an Adult Population Study', /Genetics in Medicine/ *21*: 877--86. doi:[[https://doi.org/10.1038/s41436-018-0271-6][10.1038/s41436-018-0271-6]].
+
+Umen, James and Joseph Heitman (2013) ‘Evolution of Sex: Mating Rituals of a Pre-Metazoan', /Current Biology/ *23*: R1006--8. doi:[[https://doi.org/10.1016/j.cub.2013.10.009][10.1016/j.cub.2013.10.009]].
+
+Vorona, Elena, Michael Zitzmann, Jörg Gromoll, Andreas N Schüring, and Eberhard Nieschlag (2007) ‘Clinical, Endocrinological, and Epigenetic Features of the 46,XX Male Syndrome, Compared with 47,XXY Klinefelter Patients', /The Journal of Clinical Endocrinology & Metabolism/ *92*: 3458--65. doi:[[https://doi.org/10.1210/jc.2007-0447][10.1210/jc.2007-0447]].
+
+Wit, J M, A O Quartero, N M A Bax, and J Huber (1987) ‘A Phenotypic Male with True Hermaphroditism and a 46,XX/46,XY/ 47,XXY Karyotype', /Clinical Genetics/ *31*: 243--48. doi:[[https://doi.org/10.1111/j.1399-0004.1987.tb02802.x][10.1111/j.1399-0004.1987.tb02802.x]].
+
+Woodland, Hugh R (2016) ‘The Birth of Animal Development: Multicellularity and the Germline', in Paul M Wassarman, ed., /Current Topics in Developmental Biology/, vol. *117*: 609--30. Academic Press.
+
+World Health Organization (n.d.) ‘Gender and Genetics', /World Health Organization/. [[https://www.who.int/genomics/gender/en/index1.html]].
+
+Zieliñska, Dorota, Stanislaw Zajączek, and Izabella Rzepka-Górska (2007) ‘Tumors of Dysgenetic Gonads in Swyer Syndrome', /Journal of Pediatric Surgery/ *42*: 1721--24. doi:[[https://doi.org/10.1016/j.jpedsurg.2007.05.029][10.1016/j.jpedsurg.2007.05.029]].
+
+* Footnotes
+[fn:1] See Dembroff (2021) for a different response to Bryne's arguments.
+
+[fn:2] I interpret the definitional version of AHF in terms of real definition (rather than linguistic definition) because discussions of that thesis typically concern individuals (i.e., women) rather than (merely) the words we use to refer to those individuals (i.e., ‘women').
+
+[fn:3] Compare: if being H_{2}O constitutes the real definition of water, then some molecule, /o,/ (or collection of molecules, /o/_{1}.../o/_{n}), is water if and only if it is H_{2}O.
+
+[fn:4] According to Talia Bettcher (2007), transphobia need not ‘imply the fear of trans people, but simply any negative attitudes (hatred, loathing, rage, moral indignation) harbored toward trans people on the basis of our enactments of gender' (46).
+
+[fn:5] See /BBC News/. 2018. ‘Woman Billboard Removed after Transphobia Row,' September 26, 2018, sec. UK. [[https://www.bbc.com/news/uk-45650462]].
+
+[fn:6] See Finlayson et al. (2018) and McKinnon (2018) for a critique of some of the arguments used to support the exclusion of trans women from women-only spaces. Of course, those with trans exclusionary aims may opt to sidestep the question of whether trans women are women by arguing that trans women are not /female/ and should be excluded from /female/-only spaces. However, as I argue in what follows, on each of the various ways of analyzing /femaleness/, many non-trans women fail to have the property of /being female/, and many non-trans men have that property. Thus, this alternative trans exclusionary argument is both too strong and too weak: it excludes some non-trans women from female-only spaces and grants some non-trans men access to female-only spaces. I am grateful to an editor for encouraging me to emphasise this point. 
+
+[fn:7] An alternative strategy is to endorse AHF while affirming that trans women are female in the relevant sense. I am grateful to Derek Anderson for this suggestion.
+
+[fn:8] I define ‘trans woman' as someone who identifies as a woman but was classified as male at birth, and ‘trans man' as someone who identifies as a man but was classified as female at birth. It is beyond the scope of this paper to offer an account of gender identity. See Jenkins' (2018), Bettcher (2017) and, McKitrick (2015).
+
+[fn:9] Otherwise, AHF implies that they are not women.
+
+[fn:10] Otherwise, AHF implies that they /are/ women.
+
+[fn:11] Moreover, as Sarah Richardson argues, it is not clear whether the X and the Y chromosome ought to be conceived of as /sex/ chromosomes in the first place (2013: 207).
+
+[fn:12] Although cases such as these are rare, ‘microchimerism' is not. This occurs when a small number of cells from a fetus cross the placenta and vice versa (Gammill and Nelson 2011).
+
+[fn:13] Bryne (2020) suggests that individuals with an imaginary intersex condition he dubs ‘CAS' (‘Complete Asexual Syndrome') are not women (3793). However, I see no reason to think that this imaginary case has any bearing on whether /actual/ intersex individuals are women or men.
+
+[fn:14] It is worth emphasizing that although some intersex infants are born with ambiguous genital morphology, many are not. For this reason, some individuals with intersex conditions do not learn that they are intersex until much later in life (for example, during puberty). Indeed, some individuals /never/ discover that they have an intersex condition.
+
+[fn:15] I am grateful to Nick Leonard for this example.
+
+[fn:16] See Parker, et al., 1972; Roughgarden 2004; Charlesworth and Charlesworth 2010; Lehtonen and Kokko 2011, 2014; Schärer, Rowe, and Arnqvist, 2012; Richardson 2013; Umen and Heltman 2013; Letonen and Parker 2014; Tang-Martínez 2016; Monro and Marshall 2016; Lehtonon, Kokko, and Parker 2016; Woodland 2016; Lehtonen 2017.
+
+[fn:17] In response to this counterexample, an anonymous referee for this journal argues that non-trans men with ovaries and testes are not counterexamples to AHF because proponents of AHF would claim that such individuals are both male and female, and therefore both men /and women/. However, this line of reasoning is question begging. The claim that such individuals are male, and female does not imply that they are men /and women/ unless AHF is true. But this is precisely what is up for debate. Proponents of AHF cannot legitimately dismiss the counterexample by asserting that such an individual is a woman because they are female, for this presupposes AHF. I can grant that non-trans men with both ovaries and testes are both male and female. Indeed, on the gametic analysis of /maleness/ and /femaleness/ under consideration, they /are/ both male and female. However, I assert that such individuals are men and not women. There is ample empirical evidence that such individuals have unambiguously male genitalia, are raised as boys (and not girls), typically identify as men (and not women), and are perceived as men (and not women) by everyone around them. Thus, they are men and not women. Proponents of AHF who allege that such an individual is both a man /and a woman/ must provide some argument, /independent of AHF,/ for thinking that this is so. Without such an argument, the counterexample stands. 
+
+[fn:18] As Ayala and Vasilyeva (2015) observe: ‘The amount of individual variability is often underestimated because social practices actively mask deviations' (727). This is the sense in which many feminists (both in and outside of philosophy) argue that both sex and gender are socially constructed.
+
+[fn:19] Below, I consider the possibility that being female and being male are homeostatic property cluster (HPC) kinds (Boyd 1999). On Boyd's account, HPC account such kinds are not disjunctive.
+
+[fn:20] Thanks to Louise Antony for this objection.
+
+[fn:21] Thanks to Maegan Fairchild for this suggestion.
+
+[fn:22] Laura Franklin-Hall (2020) defends an alternative historical analysis of sex (one that doesn't appeal to HPC kinds) according to which an organism is male if and only if the developmental processes that brought about their reproductive traits (e.g., genitalia, gonads, internal reproductive organs) are variants of the developmental process responsible for the reproductive traits of their earliest /small/-gamete producing animal ancestors. An organism is female if and only if the developmental processes that brought about their reproductive traits are variants of the developmental process responsible for the reproductive traits of their earliest /large-/gamete producing animal ancestors. What does this historical account say about organisms that have a mix of reproductive traits, some of which are brought about by variants of developmental processes responsible for the reproductive traits of their earliest /small-/gamete producing animal ancestors, and others of their earliest /large-/gamete producing animal ancestors? Either such organisms are both male and female, or neither male nor female. Both horns of this dilemma generate counterexamples to AHF. Suppose that these organisms are both male and female: non-trans men with a penis, an ovary, and a testis show that being female is not sufficient for being a woman. Suppose that these organisms are neither male nor female: non-trans women who have a vagina and undescended testes (and no other internal reproductive organs) show that being female is not necessary for being a woman.
+
+[fn:23] This is not to say that these properties (having XX chromosomes, producing ova, and having breasts, a vagina, a uterus, etc.) don't exist, or that they have nothing to do with gender- and sex-based oppression. To the contrary, many of the individuals who instantiate those properties experience oppression on that basis---that is, they are oppressed because they instantiate (or are taken to instantiate) some or all of those properties.
+

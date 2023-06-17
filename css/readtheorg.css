@@ -361,9 +361,12 @@ dl dd{
 }
 
 code{
-    color: #000;
-    background:#98be65;
-    border:solid 1px #a9dc76;
+  color: #bbc2cf;
+  border-color: rgb(56, 61, 63);
+  background-image: initial;
+  border: solid 1px #404040;
+  border-radius: 5px;
+  background-color: rgb(24, 26, 27);
     /* color:#000;  for clickable code */
     font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
     font-size:80%;
@@ -1519,3 +1522,31 @@ ul.nav li.active ul li.active a {
   background: rgba(116, 12, 182, 0.19);
 }
 
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 5px;
+  text-align: center;
+  grid-auto-rows: minmax(0, 1fr);
+}
+
+
+.calendar a:hover {
+  background: #651f7a2b;
+}
+KantsKonsept82469383#
+.weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.calendar a:not([href]) {
+  cursor: default;
+  color: gray;
+  aspect-ratio: 1/1;
+}

@@ -1,0 +1,58 @@
+#+TITLE: June 16th, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Why am I even doing this?
+
+When I was in my early to mid 20s, I asked my dad to tell me his life's story. I don't often have very long conversations with my dad, but this lasted more than an hour--maybe two. How much more could my curiosity have been satiated had his father written a journal that I had access to? One that my father carried on himself? How much richer would that story be?
+
+Life has a nasty habit of confronting you with the apparent futility of your actions. However long these pages last, it is a losing battle against time itself. That doesn't mean the battle is not worth fighting. Firstly, it's the technical and practical aspects confronting me with open questions. I host this site on a single server in Georgia so I have the least possible latency. Apologies to all the Indian folk who want to read the intimate details of this journal without latency. How long will it last? What if the company goes out of business? What if the DNS provider I use falters? Should I be backing this up somewhere else? I already back up every file on github so I can just redeploy somewhere else if I need to. What if I collect so many images I can no longer store them on github with their 10 GB limit? What if all the technical infrastructure collapses!?! Should I be printing this stuff? What if my house catches on fire with the print in it!?!
+
+Apart from the technical concerns, there's the much more important concerns. How far back do you, the reader, care to know the details of the lives of your ancestors? Do you want the biography of your great grandparents? What about your great great grandparents? Great, great, grea...
+
+#+begin_export html
+<img class="lightbox-image" src="https://64.media.tumblr.com/1f0431e1739d72118e697991420a15ad/tumblr_p6omzxOmWL1st0dt8o2_540.gifv" width="540" height="240">
+<hr>
+#+end_export
+
+Really, hoping I can continue to reread these well into my old age is reason enough. But, more than that, I want Noumena to be able to look back and read all the memories. I want her to never have to forget a day she doesn't want to. What about her potential future spouse? Will they want to know their wife through her father's eyes? What about her potential future children? Will they want to know their mother as their grandpa did?
+
+Time will of course win. It cannot be defeated, but it can be endured. Usually, I'm quite comfortable with the transient nature of reality, but this is too important, time is my adversary, and I will strike as many blows as I can against her. Why try to make these words endure just for the mere possibility that they may last long enough to make an impact on me, Noumena and/or any of Noumena's loved one's all to inevitably fail in the end anyway?
+
+It's worth it.
+
+
+* Dinner
+
+When I arrived at Noumena's daycare, they greeted me with a father's day poem written on a paper signed with her red hand print. This will be one of the innumerable pieces of Noumena memorabilia that will adorn my walls once I get a frame for it.
+
+[[file:fathers-day-poem.jpeg]]
+
+I had no plans after work, no idea what I was going to do to feed Noumena. Nothing came to mind that I could prepare, so right as I left to go pick her up, I thought "Olive Garden." We went straight there after I picked her up from day care.
+
+We sat down and I initially told the wait staff I wanted a high chair. It wasn't ready when we were seated, so I just sat her in the booth next to me. Of course, they brought crayons and something to draw on, and as I watched her play at the table I realized she didn't need a high chair. I just put the soup and breadsticks on a plate and she fed herself right from the booth. She also surprised me by being able to drink from a straw! It was the first time I tried it and it seemed as though she already knew what to do.
+
+[[file:together-at-dinner.png]]
+[[file:crayons-in-olive-garden.jpg]]
+
+
+* Playtime
+
+As usual, we went to the park our typical walk. Noumena went down the big slide /all by herself twice/! It just always seems like there are more milestones. When she climbs the steps these days, she no longer puts her hands on the step followed by one knee up then the other and stands repeating the process with the next step. No, she's far too grown for that now. She can't be wasting her time with that nonsense. Now, she holds on to the bars near the steps and attempts to step right up them! The steps are so high relative to her, she's basically practicing one legged squats as she lifts herself from step to step.
+
+Standing at the edge of the sidewalk that snakes through the park, she pauses trying to evaluate how to take the ledge. I stand next to her and jump. Of course, she tries it, she's mimicking Daddy. "Jump," Daddy says to her. "Jump." She does her best to oblige as she tumbles into the mulch that lines the playground.
+
+When we arrive home, I know she's thirsty and we drink soymilk together. I tried to prompt her to help with the laundry, but she knows well where her toys are now and she's much too preoccupied with them to help Daddy fold the laundry, which is fine by me because honestly, despite her best efforts, it's less messy when she doesn't participate. Since finishing the laundry, I know I'm going to have to remove her dirty clothes and since I already have the basket... might as well let her run around in just her diaper 5 minutes before her bath.
+
+[[file:diaper.jpg]]
+
+"Wait, kid! What are you doing with my wallet!?! Put my ID back in there!"
+
+
+* Bath Time
+
+As a father, you master the art of toddler distraction. Are you getting water in her eyes rinsing out the shampoo from her eyes? Quick! Throw a toy. Did she accidentally hit her head on the corner of the tub? She's not really hurt! Bang the shampoo bottle!
+
+
+* Bed time
+
+Just before bed we follow our usual routine, though bath time was somehow faster than usual. Maybe it's that Daddy is getting better at distracting her. But not only do we listen to /Isn't She Lovely/, but we listen to Ben E. Kings /Stand By Me/ after an hour of our usual music listening. My legendary sleeper nods out as I hold her against my chest without fuss and I lay her down for peaceful slumber.

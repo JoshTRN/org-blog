@@ -1,0 +1,4 @@
+#+TITLE: The Year 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* [[file:june][June]]

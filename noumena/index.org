@@ -1,0 +1,4 @@
+#+TITLE: Noumena By Year
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+** [[file:2023][2023]]
