@@ -1,0 +1,155 @@
+#+TITLE: June 17, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Where will all the video go?
+
+YouTube's servers handle [[https://www.statista.com/statistics/259477/hours-of-video-uploaded-to-youtube-every-minute/#:~:text=As%20of%20June%202022%2C%20more%20than%20500%20hours%20of%20video%20were%20uploaded%20to%20YouTube%20every%20minute.][500 hrs of uploads every minute]]. Let's do a little math. I promise it's not that bad. Let's figure out how many minutes there are in a year.
+
+60 minutes per hour times 24 hours per day times 365 days per year, we get:
+\[
+60 \times 24 \times 365 = 525,600 \text{ minutes per year}
+\]
+
+Take the minutes per year and multiply by 500 to get 262,800,000 hours of YouTube per year.
+
+\[
+500 \times 525,600 = 262,800,000 \text{ hours of YouTube per year}
+\]
+
+There are 24 x 365 hours in a year, so 8760 hours per year.
+
+\[
+24 \times 365 = 8,760 \text{ hours in a year}
+\]
+
+To figure out the number of years of YouTube per year, we take the total hours and divide it by the hours per year
+
+\[
+\frac{262,800,000}{8,760} = 30,000 \text{ years of YouTube per year}
+\]
+
+30,000 years of video per year is literally three decamillennia of video yearly. If this 500 hours of video per minute claim is to be believed, three times the years of recorded history is uploaded every year and YouTube's been around for 18 years at this point. I know that it's wrong to extrapolate the data from 2022 to past years since it's been growing, but how different could those years be? If we extrapolate it exactly, we get */540,000/* years of YouTube. That's almost twice as long as Humans have been a species. Even if /that/ number's inaccurate, is it really a stretch to think it's close to 315,000 years? If one guy decided to watch YouTube every second of every day since 310,000 B.C., would he have caught up to today? Forgive me for thinking this isn't sustainable. Is YouTube really a reliable store of recordings of Noumena? Can I really trust them to keep the videos as long as I want?
+
+Maybe I should move to vimeo...
+
+
+* Morning
+
+It's 8am. I awake at and don't hear any crying, so I close my eyes and try to fall back asleep. With my eyes shut, I hear faint baby noises coming from her room. She's talking. She's awake and talking. To whom and about what? Science may never know. But since she's okay there, I'll rest my eyes as long as I can. Okay, she's crying now.
+
+No one tells you before you have a baby that you'll always be buying the next size up. Noumena's 13 months old now, broaching 14 months and all the clothing I bought for her last time was for 18 month olds. Instead of thinking of it as what they should be wearing at the age they're at, I think of it as the upper limit to a range. So 12 months - 18 months.
+
+As she toddles around after breakfast in her oversized pajamas, she's tall enough to reach the table now. Can she get her toy off of it? We have story time with mom in a couple hours, but what else are we going to do today?
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XP3c8E5qvqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div id="orgfaf00d5" class="figure">
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img src="toddling-3.jpg" alt="toddling-3.jpg" width="50%">
+<img src="toddling-2.jpg" alt="toddling-2.jpg" width="50%">
+</p>
+<img src="toddling-1.jpg" alt="toddling-1.jpg" width="100%">
+</div>
+#+end_export
+
+
+* Story time
+
+We met mom for story time which was a bit different today. Normally, they set out kid chairs around the stage the story teller speaks from. Today, instead of chairs, it was lily pad... pads. We set her down on one of the pads and she did okay for a little while staying on the pad focusing on the story teller. She loves to wander there, so it wasn't long before she stood and started moving around. She would pick up the pads, carry them around the room and throw them onto other pads or the floor. Because she's such a wanderer, it was hard to pay attention to the stories, but we danced and sang along to the songs which is always great.
+
+After story time, we went into the library's court yard where fountains spray and mom hung Noumena over the fountain to play in the streams. She loved it so much she couldn't get enough. If we set her down, she would start going limp in protest and whining. Temper tantums have begun... But they're mild now and mostly easy to handle. To remove her from the distraction of the fountain, we went to the play room and let her play with the other kids.
+
+#+ATTR_ORG: :width 100%
+[[file:mom-hangs-noumena-over-fountain-to-play-in-stream.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0hhAmhZBWuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+I guess I underestimated how much she had expended herself this morning because I didn't think she would fall asleep in the car on our way back home. Nevertheless, after maybe 3 minutes of driving, she was totally out. I guess lunch will have to wait until after she wakes from her nap.
+
+
+* When she wakes
+
+It's almost 1:45 and she's slept for about an hour and a half. Usually she naps longer. And she's fussy! Gonna have to make lunch! Lunch today is leftover minestrone from Olive Garden, a white nectarine and half a banana.
+
+Running low on diapers, we have to walk to CVS to pick some up. It doesn't looks like it's going to rain. The internet said it would rain all day when I looked at it this morning. There are a few dark clouds around but none over head, so I put her up on my shoulders and away we go. I'm thinking we're going to go straight to the park after CVS. The beanie babies catch Noumena's eye, so I have to let her down to check them out. I'm trying to figure something out on my phone, so she runs a muck taking off everything from the shelves... my goodness.
+
+As we leave CVS, we begin feeling drops on our heads... oh no. I guess the park is a no go and we're gonna get wet. Might as well suck it up. Gotta stay inside for a little while.
+
+#+ATTR_ORG: :width 100%
+[[file:hanging-with-chalmers.jpg]]
+
+
+* Skies Clear
+
+Finally! Noumena and I both get Cabin Fever when we can't go outside. I mean, before I had a child, it would have been easy for me, but with her, I want to take her to do what she wants to do. We travel to the park and she watches me and a 10 year old boy from the neighborhood named Ja kickflip on his skateboard as she runs around. She's thoroughly amused. Ja doesn't believe me when I tell him that she's now tall enough to bang her head on tables. I explained that I understood his incredulity. She just doesn't seem that big. We must have mini furniture, he concludes. I told him it's normal furniture and that I'll show him a photo next time I see him. Take that, Ja:
+
+#+begin_export html
+<div id="orgfaf00d5" class="figure">
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img src="reaching.jpg" alt="toddling-3.jpg" width="50%">
+<img src="tall-as-table.jpg" alt="toddling-2.jpg" width="50%">
+</p>
+</div>
+#+end_export
+
+
+We take the long route home and she's falling asleep on my chest. It's almost 5:15 when we get get back, so I give her the rest of our soymilk and lay her down for a nap and take a short one myself.
+
+
+* Evening
+
+It's 6 and I have to wake her up or she won't go to bed well. So, I wake her up and it's time for dinner. I know I said a couple days ago that I made mashed potatoes and she didn't want them then, well I tried again she acted like I hit her in the head or something. She hated them! I wonder if I messed up the recipe this time or she is just over it. Who's to say, so I went with my second go-to: Pasta.
+
+After dinner, we have time to kill and we're out of soymilk. I know I have to shop for groceries tomorrow, but I think I'll also go to Walmart today. I don't like the diapers they had a CVS anyway and I can reup on the wipes. Soymilk is a staple in my household. I bought 3 gallons and they will be gone by next weekend. After we finish up, we have to take a detour to the toy isle because c'mon... we just gotta.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gwOeq8nWEc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+As we're leaving, I see these Budweiser hats and given the recent controversy, I can't pass this opportunity up to trans my kid:
+
+#+ATTR_ORG: :width 100%
+[[file:transing-the-kids.jpg]]
+
+
+We get back and it's almost 8pm. Oh my god, it's so late and this kid hasn't had enough exercise to go to sleep easily I just know it. Quick I gotta get to the park and chase her around to wear her out! Cardio is good for your heart anyway.
+
+#+begin_export html
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EQ27auYLyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
+#+end_export
+
+* Bath time
+
+Before having Noumena, I thought I knew what love was. And maybe, intellectually, I did. But the devotion I feel to her is unassailable. When she sits in the bath and smiles at me while I'm on my knees besides the tub I understand fully. Emotionally. I know what it is for another's happiness to be my own. What love is. Love is when her fulfillment is my own.
+
+Baths happen every day; how can there be anything special about today's? Kids: they often surprise you. It's always been difficult to rinse her hair, but I learned a trick today. If I get her standing by the tub faucet, I can get her to look up at the wall. If she's looking up, he head is tilted back making it much easier to rinse her hair. Achievement unlocked. Another thing I realized is she's more and more preoccupied with balls. There is a single blue ball in her assortment of bath toys, but she was so focused on it today she would consistently pick it out amongst the other toys no matter where I put it.
+
+A mesh bag hanging from 2 hooks sunctioned to the tub walls is where her toys hang to dry after every bath. Yesterday, I tried to get Noumena to help me put the toys in that bag to no avail. Something was different today, though. I noticed her trying to put the ball into the bag herself. So as the tub was draining, I took the bag off the hooks, demonstrated putting other toys into it, and prompted her to copy me with the ball... and then the rubber boats... and then the rubber submarine... until all her toys were in the bag. She picked up every single one herself.
+
+
+* Bedtime
+
+Remember what I said about buying sizes up? Throw that all in the garbage. It's nonsense. When I was at Walmart, I saw this lion onesie with thin material--perfect pajamas for summer time. It looked huge and it's oversized on her but it was labeled 12 months. That's another thing I've noticed. The variability for the same age range is so vast, there's no standards for these manufacturers. I saw other onesies there that were smaller than the one I got her that said they were for 18 month olds. Ridiculous.
+
+
+#+ATTR_ORG: :width 100%
+[[file:Lion-pajamas.jpg]]
+
+
+I cradle her in my arms every night before she goes to sleep and usually rock her to sleep before laying her in her crib. I was right about her not getting enough exercise though. As I cradle and rock her, she's keeping her eyes open in the dark. I rock for ten minutes, and she's still awake. She never fusses, though. She's just relaxing. She knows how to sooth herself now, so even though she's not sleeping, I still set her down. She fusses a little after I lay her in her crib; nevertheless, she goes to sleep very easily. She's such an angel right now. Such an easy baby to handle. I hope she always stays this way. Noumena, will you always please be daddy's angel?
+

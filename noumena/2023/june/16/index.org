@@ -30,8 +30,18 @@ When I arrived at Noumena's daycare, they greeted me with a father's day poem wr
 I had no plans after work, no idea what I was going to do to feed Noumena. Nothing came to mind that I could prepare, so right as I left to go pick her up, I thought "Olive Garden." We went straight there after I picked her up from day care.
 
 We sat down and I initially told the wait staff I wanted a high chair. It wasn't ready when we were seated, so I just sat her in the booth next to me. Of course, they brought crayons and something to draw on, and as I watched her play at the table I realized she didn't need a high chair. I just put the soup and breadsticks on a plate and she fed herself right from the booth. She also surprised me by being able to drink from a straw! It was the first time I tried it and it seemed as though she already knew what to do.
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-NMzxD1vD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
 
 [[file:together-at-dinner.png]]
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zs6Xqiedv8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
 [[file:crayons-in-olive-garden.jpg]]
 
 
@@ -39,7 +49,20 @@ We sat down and I initially told the wait staff I wanted a high chair. It wasn't
 
 As usual, we went to the park our typical walk. Noumena went down the big slide /all by herself twice/! It just always seems like there are more milestones. When she climbs the steps these days, she no longer puts her hands on the step followed by one knee up then the other and stands repeating the process with the next step. No, she's far too grown for that now. She can't be wasting her time with that nonsense. Now, she holds on to the bars near the steps and attempts to step right up them! The steps are so high relative to her, she's basically practicing one legged squats as she lifts herself from step to step.
 
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/pcqwOoZEXSc" title="Going down the slide all by herself!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
 Standing at the edge of the sidewalk that snakes through the park, she pauses trying to evaluate how to take the ledge. I stand next to her and jump. Of course, she tries it, she's mimicking Daddy. "Jump," Daddy says to her. "Jump." She does her best to oblige as she tumbles into the mulch that lines the playground.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/OUEaW3AztTc" title="going down the slide all by herself!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
 
 When we arrive home, I know she's thirsty and we drink soymilk together. I tried to prompt her to help with the laundry, but she knows well where her toys are now and she's much too preoccupied with them to help Daddy fold the laundry, which is fine by me because honestly, despite her best efforts, it's less messy when she doesn't participate. Since finishing the laundry, I know I'm going to have to remove her dirty clothes and since I already have the basket... might as well let her run around in just her diaper 5 minutes before her bath.
 

@@ -296,6 +296,9 @@ dl dd{
   }
     .tablet-hide{
         display:none}
+    .video-container {
+      margin-bottom: 24px;
+    }
 }
 
 @media screen and (max-width: 480px){
@@ -1535,7 +1538,7 @@ ul.nav li.active ul li.active a {
 .calendar a:hover {
   background: #651f7a2b;
 }
-KantsKonsept82469383#
+
 .weekdays {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
@@ -1549,4 +1552,10 @@ KantsKonsept82469383#
   cursor: default;
   color: gray;
   aspect-ratio: 1/1;
+}
+
+@media only screen and (max-width: 768px) {
+  mjx-math {
+    white-space: normal !important;
+  }
 }
