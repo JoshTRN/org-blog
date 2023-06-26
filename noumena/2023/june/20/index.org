@@ -1,0 +1,124 @@
+#+TITLE: June 20, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Mistakes
+
+They tell you long before you ever become a parent that you're going to make mistakes. It seems obvious, but what they don't tell you is the frequency and magnitude of the mistakes. How could they honestly? I suppose they would have to use the qualifiers "a lot" and "sometime huge" to describe them. Yeah, that sounds about right. Let's make that Rule # 1. You're going to make a lot of mistakes as a parent and sometimes they're going to be huge.
+
+I'm going to tell you about what I think so far was the biggest mistake I made, but a first a little bit of backstory.
+
+Not too long ago, right after Noumena had started daycare, she contracted strep throat. When she started to develop a fever 2 days after I started noticing symptoms, I took her to the pediatric urgent care where they diagnosed her and we picked up antibiotics that same night. I started feeling symptoms a day after her and thought that I just wasn't going to get sick--that my immune system seemed like it could handle whatever she got. That was a mistake. I got it too and didn't get on antibiotics until three days later when my symptoms were markedly worse.
+
+#+BEGIN_EXPORT html
+<div class="figure">
+  <img src="./sick-baby.jpg">
+  <p style="color: #bbc2cf; text-align: right;">-Noumena sick with strep throat falling asleep on Daddy</p>
+</div>
+#+END_EXPORT
+
+During this time, Noumena was obviously having a really rough go of it. Sometimes she was inconsolable. I have to admit though when she was in the throws of her most feverish bouts, and all she wanted Daddy to do was hold her until she fell asleep on his chest, I did love that. Being unable to console your child, though... nothing prepares you for how tough that is. When the world is so cruel and there's nothing you can do to stop it when you would give your soul to do so, it's really hard. Let's call that Rule #2. For more reasons than you can count, being a parent is hard.
+
+One night in particular, nothing would help her get to sleep. I would pick her up and rock her as I normally do, but that didn't to much to wane the tears. In fact, the commotion of me picking her up, moving her around, investigating her nostrils to see if she could breathe probably made it worse. Sometimes it's doing them a kindness to allow them to cry to sleep.
+
+I thought I was doing just that. I listened to her cry in the other room while trying to distract myself and it was gut wrenching the entire time. I hated that there was nothing I could do, but I thought I would just make things worse if I went in there so I refrained. On this particular night, she had lodged her legs between the bars of her crib and I didn't know. When she cried for 30 minutes, I could no longer stand it and went in there. I didn't know how long she had had her legs stuck like this, but I felt absolutely awful.
+
+I realized my mistake then and vowed that if for any reason she's ever inconsolable, never allow 10 minutes to pass without checking on her.
+
+Today was no exception to Rule #1.
+
+* Morning
+
+Noumena slept so wonderfully last night I was grateful to her. It sounds funny because it's not as though she was trying to help me out, but her snoozes definitely allowed me to catch up on some sleep. It was after 8 am and I woke up and got out of bed before she ever made a peep.
+
+When I wake up before her, I enter her room and brush her hair lightly with my finger tips to gently wake her. She was in a good mood, unsurprisingly because she had gotten such wonderful sleep.
+
+Since we're running a bit late, we eat a quick oatmeal breakfast and head off to daycare.
+
+
+* Afternoon
+
+Recently, they switched the monitoring app they use at the daycare, and I didn't get an invite, so I'm in the dark about how her day is going. On these apps, they update when and what she eats, her naps, and her dirty diapers. This actually helps a lot because it gives me a barometer for how I'm going to treat her at home---if she needs to be changed or eat right away.
+
+I'm so excited to see Noumena today I leave work 15 minutes early. I miss her all day and since writing these blogs, I go back and review them sometimes while I'm on the clock and just end up seeing all her wonderful photos and videos and just end up missing her more.
+
+
+When I arrive at the daycare, one of the teachers is holding her. She's excited to see me, but not like usual. I should have known then something was up. I took her outside and she was constantly pointing and grunting. I set her down to see if she wanted to walk around outside. She ended up just getting frustrated and crying so I picked her back up. As she points and grunts at various objects, I carry her from tree to tree, bench to sidewalk, whatever she seems to be pointing at. She still seems to grow frustrated.
+
+While driving, she's cooing subtly, but coos of discontent as she falls asleep. When I remove her from the car seat she's very upset. It's so unusual for her to be upset like this, but when I try rocking her to sleep she just whines, so I hold her up and carry her around her bedroom to the things she's pointing out thinking that what's really frustrating her is her inability to express herself.
+
+Lately, she's been so talkative and that's what I'm thinking this is. A developmental roadblock. Imagine knowing what to say but not knowing how to say it--something like locked in syndrome.
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/etm065rhI_I" title="Chalmers hurts Noumena accidentally" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/MIeSrAVrsXM" title="Noumena trying to express herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+I have no idea what's going on so I think she  must be hungry. I give her oatmeal since it's quick to see if I can tide her over until I put something more substantial in her stomach. She eats, but it's a fight. She's making noises and still frustrated. Since nothing is working, I think she's got to be tired. Or maybe she's not feeling well from yesterday. I don't know. I can't rock her to sleep, so I lay her in her crib at around 5:50pm and think to myself "If she's not asleep in 5 minutes I'll go back and try to help whatever is going on." She's out cold by 5:55pm.
+
+[[file:sleeping.jpg]]
+
+
+*  Rainy Evening
+
+It's so hard when you feel helpless to fix whatever issue your baby is having. Her nap is short because she has to be tired in order to go to bed on time, so I wake her up at 6:30. She would have slept a lot longer, and boy when she woke up was she mad at me. She's still doing this pointing and grunting thing and just having a really rough go of it. I know Noumena gets stir crazy so I take her outside. It's cloudy, and it looks like it's going to rain, but we're going to risk it anyway. When we leave the house, Kisa is sticking around on the porch, so I set Noumena down to go play with her.
+
+[[file:excited-on-the-porch.jpg]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/uuT03N5Oii8" title="Noumena loves Kisa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+Just as we approach the park, it begins to rain. We head back immediately. I expected her to be upset by not getting to go to the park, but I think she understood and didn't seem to interested in being in the rain.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/Ap4Lg2tqyOs" title="Caught in the rain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* What is wrong!?!
+
+When we get back I have no idea what I'm going to do with this kid. We read the book /Never Touch A Dragon/. Being a touch and feel book, Noumena is very interested in the cover. We flip one page, I read it to her and then she flips back to the cover. I flip to a new page, she traces the texture and flips back to the cover. After that we play with her chair, but she's still cranky. I think I'll take her to the bed and act crazy. That cheers her up quite a bit, but it's very short lived and she doesn't want to be away from me whatsoever. My characteristically independent little girl had no independence today.
+
+The rain clears up faster than I expected, so I go to take her to the church to play in the grass since she loved that so much yesterday. Again, disinterested. I set her down and am able to entertain her briefly by running around acting crazy, but when she's out of Daddy's arms she's crying and when she's in Daddy's arms she's grunting and pointing.
+
+Being adjacent to CVS, I take her there to play with the toys. She's less interested than usual and when she comes across a coloring book with the markers affixed to the clear packaging she ends up getting really frustrated and screaming--not the fun screams the frustrated ones.
+
+I purchase a cliff bar and we head home. I break off pieces to hand to her and all of a sudden her demeanor begins to change. That's all I had to do was feed her something different? Arriving home, I head straight for the medjool dates. Giving them to her, my happy independent girl has returned. That was it!?! She was hungry!?! Just for different food!?! Why didn't you say so, Noumena!?!
+
+I give her 2 more dates and some avocado. She's delighted.
+
+[[file:playing-with-chalmers.jpg]]
+[[file:riding-chalmers.jpg]]
+
+
+All of this and for the past 2.5 hours she was having a horrible time and all I had to do was give her different food. I guess I learned my lesson, but not soon enough. There's only an hour left before bath time and right after bath time is bed time. I barely got any time to spend with my happy little girl.
+
+Before bath time, I threw her on the bed and we cuddle and tickled and wrestled both me and Chalmers and I get to experience a little bit of the joy that makes this all worth it.
+
+
+* Bed time
+
+We follow our usual routine before bath and I have to say the trick I came up with where I stick one of her letters to the wall so she looks up giving me the opportunity to wash her hair works like a charm. Very happy I figured that trick out.
+
+We listen to our usual songs as I rock her to sleep.
+
+I'm sorry about today, Noumena. I'll do better next time.
+
+Goodnight, baby girl. Sleep tight!

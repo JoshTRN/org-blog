@@ -1,0 +1,109 @@
+#+TITLE: June 21, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+Has Noumena reached her "Five more minutes, Dad" phase? It can't be. She has been such a good sleeper lately, I don't even know how. At what age does your brain start shutting down your bladder at night? She doesn't have a wet diaper and I have no idea why. No matter, I put Desitin on her every night before she goes to bed to prevent diaper rash, so I know she's fine... or so I thought.
+
+[[file:morning.jpg]]
+
+Unfortunately, we don't get to spend much time together this morning. I had to go fill out some of the registration paperwork at the day care and I was already waking up late so we kind of had to rush out the door. Just as we're heading out the door, Noumena gets diarrhea. She walks to the door, falls to her butt and poo comes out the sides of her diaper... oh my god!!! There's poo on the floor, thankfully on the linoleum so it's easy to clean. Her shoes are dirty and she got it on her clothes. I have to change everything.
+
+I'm sort of in a rush, so I leave the poo on the floor thinking I'll clean it when I get back home. When I arrived back from dropping her off the poo was gone. Chalmers seemed melancholy all day and I his stomach noises were very clearly audible... I'll leave you to infer where it went... 🤮‍
+
+* Daycare
+
+I got access to the new app where they track her activity at daycare. Sometimes they take photos. These are the ones from today:
+
+#+begin_export html
+<div id="orgfaf00d5" class="figure">
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img src="./daycare-1.jpg" width="50%">
+<img src="./daycare-2.jpg" width="50%">
+</p>
+</div>
+#+end_export
+
+
+* Noumenaaaaa!!!
+
+As usual, I'm so excited to pick her up. It's cloudy today and I don't want to miss the opportunity to take her to the park because it's going to rain, so we head straight home after daycare. There's always time for cuddles right when I strap her into the car. Some of the best photos I've gotten from Noumena are when she's just been strapped into the car seat right as I pick her up from daycare. I poke my head in and out of the car, make noises and give her kisses. I didn't take a photo today, but this is an old one of that very thing:
+
+#+BEGIN_EXPORT html
+<div class="figure">
+  <img src="./car-seat.png">
+  <p style="color: #bbc2cf; text-align: right;">-Enjoying herself while Daddy's being goofy</p>
+</div>
+#+END_EXPORT
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/uY7KWrU_TSc" title="Backseat Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Park
+
+As I said, there's no time to dilly around. I don't bring any of her stuff in from the car. Instead we head straight to the park. Not trying to get rained on as we did yesterday. The rest of the kids see us coming and they all come running. Mia, Yaya, Ja, Caleb and Briley all run up to us. Everyone loves Noumena it's so wonderful to see.
+
+It had rained earlier in the day, so without question we're going to get wet. I don't even try to stop it. When Noumena runs to get onto the wet slide, I do my best to get the water off, but I know I won't get it completely dry and that's okay.
+
+We end up playing tag with all the kids. Unfortunately, Ja, while running from me slips on the concrete and hurts his ankle. Since Caleb and Mia live the closest, they go to their place to get a band aid. It begins to rain slightly, so we head back.
+
+* Evening
+
+It's about 6pm when we arrive and I can't remember what transpired that got her pants off, but I couldn't be helped but to leave them off since it was so cute.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/GolSe6qb2dg" title="Where are your pants?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+She helps me with laundry and I get her distracted long enough to make us dinner. After we eat, I can tell she's antsy. It didn't rain as badly as I thought it was going to, so we take the long way to the park at about 7pm.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/gNn4TQ6dTIc" title="Trying to get out of the park." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+Noumena takes the big slide a couple times by herself from going all the way to the steps and climbing all the way up to the big slide to go down it. After the second time, I decide I'll expedite the process. Instead of making her climb the steps, I just lift her up to the platform to take the slide. We do this about 10 times because she's so excited by sliding.
+
+With bravery comes risk, however. She's gotten to the point where her confidence doesn't exactly match up to her competence. She puts her right leg in the correct position to slide, but due to the way she takes the seated position, her right leg ends up in front of her and she sits on her right butt cheek, but her left leg stays tucked under her left butt cheek and she's wearing shorts. This means her left knee is on the slide and since the slide is just wet enough to be sticky, I know as she goes down that leg is going to get stuck. Normally I let her take some risks and get hurt a little so she learns discernment, but I'm not ready for her to smash her face into the slide because one leg stays behind.
+
+Daddy helps her down the slide all 10 times.
+
+
+* Home
+
+Once at home, we're listening to Nessun Dorma when we get home and Daddy's singing (albeit rather poorly) like the opera men to her. She wants to stay close and that's fine by me, we end up doing lots of cuddles before we take a bath.
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/8n-NtlHvyTg" title="Bubbles!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/uotA2teKETc" title="Noumena chant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/ZvKDeM2PwS0" title="Squeezing my baby to make noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath time
+
+Part of the problem of having a toddler is that they learn so quickly. If they see you get into stuff they're not supposed to get into, they figure out how to do it!
+
+The reason I smack her foam letters to the side of the tub wall when she takes a bath is that when she looks up at them I get an opportunity to rinse her hair without the suds falling into her eyes. I do it twice, but then she catches on that I'm rinsing her hair. Luckily, I got most of it out the 2 times she hadn't caught on, but the third time, she started looking down. Thankfully, not many suds got into her eyes, but she just couldn't bear to keep it easy on me.
+
+* Bed time
+
+Remember how we always dance and listen to music just before bed. She was so tuckered tonight, she didn't even make it through that. What a joyous baby.
+
+[[file:sleepy.jpg]]
