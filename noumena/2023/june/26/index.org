@@ -1,0 +1,100 @@
+#+TITLE: June 26, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Evening
+
+I was so excited to go see Noumena today, I missed her all day. When I pick her up from daycare, she's of course excited to see me too. I wish there was a way I didn't have to work so I could just hang out with my kid all day.
+
+While we drive home, she seems like she's having a bit of a hard time. Our daily commute is unfortunate for her. When we drive in the mornings, we drive west. Since Noumena's in a rear facing car seat, the comes in through the rear windshield and gets in her eyes. When we travel home, we're headed east, so the same thing occurs. She's a little bit whiny periodically which is unusual for her.
+
+Sometimes the step mother of our neighbor across the street comes to visit her step daughter. Her name is Theresa and she watched Noumena for a while before Noumena went to daycare. Theresa is there, and as everyone who encounters Noumena does, she's fallen in love with Noumena, so we go to visit her. I'm starving and Oksana made food, so I'm excited to eat.
+
+* Dinner
+
+Dinner tonight is Vinegret, a Russian salad made from beats, potatoes, onions and pickles. I think Noumena is going to like it, so I'm excited for her to try it. Unfortunately, she's really not interested in it. She whines and cries while we try to get her to eat. We also tried to get her bananas, raspberries and apples, but she just wasn't having it. I knew she would eat the soup that Oksana made yesterday, so we offer her that and she ate it up so much that she went back for seconds.
+
+
+* Night
+
+We play around the house for a little while and Noumena is so independent. Once she's no longer hungry, she becomes an explorer. She explores the house until she starts getting tired. Once she's tired, we have to keep her awake until bed time, so we take her to the park. Unfortunately, she poops shortly after we get to the park, so we only go down the slide a couple of times before it's time to head home and change her.
+
+Once we get home, we play all night, and since Oksana is around we catch a lot of it video that we normally wouldn't, so there's a huge video dump after this:
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/Nf1uyao1S7A" title="Dancing with Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/RjS438-vdHg" title="Playing on the bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/fc53tu2TqLc" title="Playing on the bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/LDob6YMn9To" title="Playing on the bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/HRTDiMtryuk" title="Hamper play" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/YFCrgkIq-g0" title="Hamper play" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/n8N6QyFNMVQ" title="Running from daddy with blanky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/qhyiu7tEGPQ" title="Eating Berries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/tbJtrNfV0PA" title="Chalmers Kisses Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/nttqRsj1JB0" title="Focusing on the light" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/Wvz9oyRpayQ" title="Tearing paper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/1hbkWbdCo4g" title="Getting ready for Bath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+

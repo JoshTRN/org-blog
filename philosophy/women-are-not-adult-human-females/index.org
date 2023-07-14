@@ -3,7 +3,7 @@
 #+INCLUDE: ~/org/blog/philosophy/header.org
 * Preface
 
-Authored by Rebecca Mason.
+Authored by Rebecca Mason and published here with her permission.
 
 University of San Francisco
 

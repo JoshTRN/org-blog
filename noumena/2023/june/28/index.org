@@ -1,0 +1,132 @@
+#+TITLE: June 28, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:looking-on-the-bridge.jpg]]
+
+
+* Morning
+
+A habit has developed of Noumena sleeping with a fleece blanket. We have two of these blankets, a pink one that Noumena has had since before she was born that we got for her baby shower and a red one her mom got for her when she was really little and we discovered she likes owls. Her pink blanket is her favorite as far as I can tell, but she definitely loves the owl blanket too. She sleeps with them because I lay them down as a pillow in her crib so when I set her down for bed, I lay her face on the soft fabric. She always does this cute thing where even if she's asleep when I lay her down she reaches her right arm out, grabs the blanket, and pulls it just a little closer.
+
+Noumena awakens at 7:30am this morning. I didn't sleep well last night, so I was hoping she wouldn't get up so early. She's making more fusses than usual, so I get out of bed right away. Usually if I hear a little fussing, sometimes she goes back to sleep, so I'll wait a couple minutes. But this is different, I can tell so I get right up, groggy as ever. She's thrown her blanket out of her crib. That's why she's awake and that's why she's making so much noise.
+
+I feed her her usual oatmeal breakfast and we head to daycare a little early.
+
+I'm always reluctant to just drop her off at daycare and take off. Not that I think it helps all that much, but I always walk around her class (called the wiggly worms) and say good morning to her classmates and check what they're up to before I set her down. She clings to me every morning before I set her down or hand her to one of the teachers. This morning, as I'm walking around, a little girl with beads in her hair is holding a book and showing it to me. She's asking me to read it to her. So I sit with Noumena and this little girl and begin to read it to her. Soon, most of her class is over by me listening to the story and one little boy is trying to get me to eat the dinosaurs he has in his hands. I have story time with them before lettings her go.
+
+#+begin_export html
+<div class="figure" style="text-align: center;">
+  <img src="./story-time-with-other-kiddos.jpg">
+  <p style="color: #bbc2cf; text-align: right;">-Story time with Noumena's friends and favorite pink blanket</p>
+</div>
+#+end_export
+
+* Daycare
+
+The only pictures I have today are of her eating at daycare. They fed her corndogs, mixed veggies and applesauce. Honestly it looks like the only thing she likes is applesauce (not that I blame her). But she does not look that into this food:
+
+#+begin_export html
+<div class="figure">
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img src="./daycare-food-1.jpg" alt="daycare-food-1" width="50%">
+<img src="./daycare-food-2.jpg" alt="daycare-food-2" width="50%">
+</p>
+#+end_export
+
+
+
+* Back at home
+
+Once we're home, the first thing I want to do is feed her. Today Oksana made more of the soup Noumena loves so much, and told me the recipe. This is going to be a new one of my go-tos. It's got broccoli, carrots, onions, bullion cubes, potatoes, cabbage and noodles in it. This time the noodles are stars Oksana got especially for Noumena. We have that and bread. Oh my god, the bread is so good I have to stop myself from making the whole journal entry about it. Oksana tells me a story of how her grandmother would break the bread up and put it in the soup, so we did that and Noumena absolutely loved it. I captured her communicating with us in a heartfelt display:
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/W2P-uFOZpR0" title="Point and grunt!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+After eating, we play around the living room for a while. I feel like I need to stretch, and she's fairly independent which feels good to me because I need a little break since I'm tired from this morning.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/yZS9vt3ks7E" title="Talking on the phone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/g5DZXlGDPhY" title="Sitting On Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/sGlfgjEC0Do" title="chewing on my daughter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Noumena's daycare sent a message through the app saying that Friday is a "water day" and that I have to bring her with a towel, change of clothes and swim wear already on her when she arrives. The trouble is I don't have swim wear for her. When we go swimming we just wear whatever. Well, if they want swim wear, I'll get it. They want her to have a swim suit and swim shoes, so we have to go to Walmart. Because it's already 6:30pm after we finish playing, I want to take her to the park before we go to the store just in case the neighborhood kids are around at the playground. I want Noumena to take every opportunity to play with her friends that she can. Oksana suggests taking the car to the park whereas we usually walk so that we can head to the store right after. I think it's a good idea, so we head out.
+
+
+* Park
+
+Unfortunately for Noumena, none of her friends are around when we arrive at the park. There are two other ginger kids swinging who bear every resemblance to their father and none to their mother both of whom are sitting at the benches as their children play. Sadly, those kids don't stay long so Noumena doesn't even really get the chance to make new friends.
+
+Every so often, Noumena will pick trash up from the ground when we're at the park. There's often so much litter at this park, it's really dismal. Usually, when she picks it up, I grab it from her and throw it away, but today I did something different, something I've done before but not to the same extent, probably because when I did it before, other kids were around so she wasn't as invested. Today when she picked up the trash, I picked her up and had her throw it away. This spawns Noumena's environmentalist arc. Most of the time at the park this evening is spent whisking her from the area she picked up the trash to the trash can.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/HT75OO8mFB8" title="Cleaning the park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Walmart
+
+We did also want to get more soy milk from Walmart. That's the only place that has the half gallons of unsweetened Silk brand for less than $3. To my dismay, they only have a single half gallon. I guess that stuff is really popular because they always have several of the sweetened versions, but are often out of the unsweetened kind.
+
+We head to the swim suit section and pick out a one piece that might as well be made for boys. I don't know if it is or isn't. To be honest, the gender stuff is weird to me, but it's blue and has Mickey Mouse on it. I assume they would have put Minnie Mouse on it if it were "meant for girls", but what do I know. We're also supposed to get swim shoes, but we can't seem to find any. I set her on the bench next to the shoes to try on some sandals and they fit, so I think they'll have to do.
+
+
+* Park part 2
+
+While we were looking for swim shoes in Walmart, Noumena did not want to be held. No, she wanted to run and play. I thought she didn't get enough exercise or something, so I decided to take her to a different park after we left Walmart. I wanted to go to a different park to make it a little more fun to her, but also to avoid mosquitoes which run rampant at the park close to our home.
+
+She falls in love with the trees at this park.
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/shZNPRq7AEo" title="Walking amongst the trees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+But also falls in love with this bridge and can't stop pacing it. This is good. This is really good. She'll wear herself out tonight! Spoiler Alert! I wasn't wrong...
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/9-K1hJnoNDs" title="Back and forth on the bridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Night
+
+It's about 8:20pm when we get home--ten minutes before her bath time--and I want to feed her just in case before she goes to bed. Oksana warms up this concoction she made earlier out of Rice, apples, sweet potatoes and soy milk she calls "Kasha" which translates to "porridge" in english and I sit with Noumena on the couch and play with her phone while Oksana prepares. It's so incredible. I never hold the phone up to my ear so I don't know where she learned this behavior from, let alone a rotary phone, but I'm so excited by it! If I were so inclined to wax philosophical about it---how could my pretentious self not---I might say that she perceived the teleological properties of the phone.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/98scH0mlLpM" title="SHE TALKS ON THE PHONE!!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+We follow our usual bed time routine and Oksana captures a very special moment, one that happens every night but I can't capture because, as you can see, I have my hands full.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/O-P2PRORSyY" title="Stand by me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+I was right about her tuckering herself out earlier. She goes to bed---no fuss at all---just a little bit early.
+
+I love you, Noumena! Sweet dreams!

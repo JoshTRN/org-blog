@@ -273,6 +273,15 @@ dl dd{
   transform: translateX(-50%);
 }
 
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 90%;
+  height: 90%;
+  transform: translateX(-50%);
+}
+
 .video {
   aspect-ratio: 16 / 9;
   width: 100%;

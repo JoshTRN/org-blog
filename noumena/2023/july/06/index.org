@@ -1,0 +1,118 @@
+#+TITLE: July 6, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+#+ATTR_ORG: :width 50%
+[[file:daddy-noumena-chalmers-riding.jpg]]
+
+* Morning
+
+I woke up so early today. It was 4:30am for me. I have no idea why I woke up so early, but it was really hard to get back to sleep. I laid awake in bed until I'd estimate about 6am. Noumena woke up at 7:30 as she usually does.
+
+For the past couple days, I've made overnight oats for us and we have been eating together. It's super simple to make. We listen to some music and read a book this morning then head out to daycare.
+
+
+* Return from daycare
+
+Oksana arrives to come help out while Noumena is at daycare, so I have a surprise for Noumena when she gets out.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/uE2xRoKp-u4" title="picking up noumena from daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+When we get home, the first thing, as usual, is to eat food. I have soup left over that Noumena will never get board with. Oksana made me a salad, so while the soup is reheating in the microwave, I give Noumena salad. I put everything on her tray, cucumber, lettuce, onion, tomato... She didn't eat any of it. Once the soup is ready, we eat together and I finish first, so I have some time to wash dishes while she finishes up her food.
+
+She was a bit fussy in the car and she woke up at 2pm when I checked the daycare app, so we thought she would need a nap. After eating, I take her into her room, turn on her white noise machine, rock her a little bit and she goes to sleep at about 6:00pm. We wake her up around 6:45pm and head to the park.
+
+* Park
+
+Our friends Yaya and Ja were at the park today and Yaya is a huge fan of Noumena so we spend a good amount of time playing together.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/FJI75HeuCAo" title="yaya and noumena on playground equipment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/5CaCZJph8e8" title="noumena slides to yaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+At some point, chasing becomes the thing to do so Yaya and I end up chasing each other with Noumena in tow both ways.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/FEs434zJYeY" title="running from yaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/oWds1SkK_o8" title="chasing yaya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Living Room
+
+[[file:looking-back.jpg]]
+
+
+The rest of the evening is spent in the living room after we get back. I ate some not very tasty canned peaches and tried to give Noumena some, but she agreed that they weren't very tasty so she didn't eat any. I gave her a fruit pouch instead.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/QbpBxg-tcLI" title="talking on the phone with daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/jP0K8ao5UkM" title="mounting chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/d0ebm4yY55U" title="sock removal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/s-Ct4_EqHPg" title="hugging daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/uz87yCfONLY" title="bringing book to daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed time routine
+
+8:30pm comes so soon because we're having so much fun. I just never have enough time with this girl. Oksana gets some awesome bath time photos and films us while we dance with our nightly routine.
+
+[[file:shampoo-time.jpg]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/HQ-fUNXk63g" title="stand by me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/462Es4J6niE" title="isnt she lovely" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+Sweet dreams, Noumena! I had lots of fun with you today.
