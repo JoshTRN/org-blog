@@ -1,0 +1,114 @@
+#+TITLE: July 18, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+She wakes up her usual at 7:30am, but I can tell that she's not going to make much of a fuss, so I don't go in to see her right away. I don't know whether she fell back asleep or was just somehow entertained in her room for another half hour, but I don't get out of bed until 7:50am and prepare her porridge before coming into say hi to her. She's already awake when I get in there and she's happy to see me. There's nothing better than seeing her happy.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/gn442lysbew" title="happy morning noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Daycare pickup
+
+Every day when we leave the daycare, Noumena points at the trees on the way to the parking lot. Today I decide that if she wants to go say hi to the trees, I'm going to let her. I set her down on the ground and she walks right up to the tree she was just pointing at.
+
+[[file:holding-tree.jpg]]
+
+[[file:touching-tree.jpg]]
+
+On the ride home, she's clearly having difficulty staying awake, but you can tell she's trying to---like she doesn't /want/ to go to sleep, but she can't really help it. I think about giving her a nap when we get home, but when I pull her out of the car seat, she's wide awake.
+
+* Dinner
+
+Dinner tonight is more soup, but this time I just heat up the whole container because I'm also eating it with Noumena. After Noumena finishes the soup, she seems like she still wants more. I want to try something else, but I don't want to give her more puree. I have some bananas, so I try to give her that. She's not interested in eating the banana at all, though she's interested in feeding it to me. I decline and set her in her high chair. Maybe if she's stuck in her seat, she'll eat the banana. This proves to be false, however as she just starts feeding the banana to Chalmers and of course he loves it. The banana is a losing fight, so I eat the rest myself.
+
+We hang out in the living room for a little while before I take Noumena to the park.
+
+* Park
+
+When we're arriving at the park, a girl is swinging on the swings. She was the only one there and she leaves just as we arrive, but for some reason, Noumena took quite an interest in the swing she was using. It swayed back and forth after the girl had gotten off of it and Noumena watched the swing sway and decided to approach. By the time she had gotten there, it was no longer swinging, but Noumena began to push it making it swing. She wasn't really familiar with the concept, however and she ends up swinging it into her head.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/ejtvkMET_IE" title="hitting head on swing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+I know she didn't get hurt too badly, but I rush over to take care of her. I pick her up and it's hard to console her at first, but I know exactly what to do. Oddly enough, there are a couple dryer sheets strewn across the playground, so I lean her over to pick one up and then carry her to the trash can to throw it away. She stops crying as soon as she picks up a dryer sheet. After she tosses it in the garbage can, I set her down. Apparently, Noumena isn't entirely over the hit to the head, so she starts whining a little bit. We repeat this process with another dryer sheet and after she throws the second one away, she's happy as can be. She climbs on the playground equipment a bit, but oddly never goes down any slides.
+
+I decide to take the long way home. For some reason, Noumena hasn't been liking riding atop my shoulders. Instead I carry her in my arms, but I make sure to inform her that this is actually much more difficult. Go figure, she doesn't seem to care.
+
+Despite the fact that I'm holding her in my arms, she's still super whiny. I lay her back and cradle her in my arms and she begins to fall asleep. Arriving home, I take her right to her room and lay her down for a short. It's unfortunately going to be a late nap as we get back to the house at 7:10pm. She's out by 7:15pm and I let her nap for 30 minutes before waking her up.
+
+* After Nap
+
+When Noumena wakes up from the nap, she's still a little cranky and understandably so. After all, she only slept for 30 minutes. I don't think she napped well at daycare either, but she's got an hour and 15 minutes before bed time, so she has to get up. I start playing music in my bedroom and dancing with her and it cheers her up a bit. We watch musicians play on my phone while sitting on the bed and hanging out with Chalmers.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/ngz_itdO7TI" title="on the bed with chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/5ixdv1y7i5E" title="chalmers aggressively kissing noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+She feels much better at around 8, so we spend the rest of the night hanging out in the living room.
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/7oYPsXnVz88" title="more popout toy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/KOxgdMlriv8" title="playing with popout toy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/e9yEq5UbcXQ" title="playing in the living room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:on-bed-with-chalmers.jpg]]
+
+[[file:placing-rings.jpg]]
+
+[[file:rings-placed.jpg]]
+
+The late nap really sucked. Not only for her getting such little sleep and still being tired plus making it harder for her getting to bed at bed time, but also because even though it was only 30 minutes, it feels like it drastically shortened my time with her. I can't believe it's bed time already when 8:30pm rolls around and I hesitate for a few minutes before taking her to have a bath.
+
+
+[[file:laying-on-blanket.jpg]]
+
+
+* Bath/Bed time
+
+My standard procedure after bath time is to carry Noumena to her room in the towel I dry her off with to lay her on her changing table. I used to dry her hair /while she's on/ the changing table, and she never liked that. But, one day I got it into my head to dry her hair /before/ going into her room in the bathroom after I pull her out of the tub. She looks into the mirror and it's been pretty good about distracting her while I dry her hair.
+
+She doesn't seem to care that much today though.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/7UNlpjHG1p0" title="she doesnt care about the mirror" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+She's a little fussy in the living room, so we take the music to her room and I rock her for about 15-20 minutes before laying her down. I rocked her so long because that late nap really made it difficult to get her to sleep.
+
+Even when Noumena doesn't want to sleep, at night right before bed, she's very relaxed. She'll just lay there in my arms as I rock her and doesn't move or fuss. But, since she's still pretty well awake even after 15 minutes in the dark, when I lay her down she starts making lots of noise. She clearly still wants to be held, but I think she'll wear herself out. Surely enough, within a minute there's silence from her room and she's fast asleep.
+
+She's been sleeping sort of light for the last couple days I've noticed. Even since writing this, she's stirred in bed a couple of times waking up long enough to let out a few cries here and there but then immediately going back to sleep. I hope it's indicative of learning and progress rather than it indicating that she's having a hard time.
+
+I love you Noumena. Sleep tight!

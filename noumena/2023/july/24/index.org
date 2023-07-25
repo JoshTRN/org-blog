@@ -1,0 +1,61 @@
+#+TITLE: July 24, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning Sun
+
+
+* Daycare
+
+* Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/GOFneAKTD1k" title="pouting and porridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/snG4YotE4eQ" title="if youre happy and you know it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/MFphxhM9To0" title="being dangerous at playground" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+
+</div>
+#+end_export
+
+
+
+* Back At Home
+
+* Bath And Bed Time
+
+
+#+begin_export html
+<div class="video-container">
+<video style="max-width:100%;" width="1905" height="733" controls>
+  <source src="./letters-stuck-to-back.mp4" type="video/mp4">
+</video>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<video style="max-width:100%;" width="1905" height="733" controls>
+  <source src="./sticking-letters-to-bath-wall.mp4" type="video/mp4">
+</video>
+</div>
+#+end_export
+
+* Late Night Wake Up
