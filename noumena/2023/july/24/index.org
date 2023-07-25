@@ -1,17 +1,29 @@
 #+TITLE: July 24, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
+[[file:at-the-playground-zoomed-in.jpg]]
+
 * Morning Sun
 
+Noumena wakes at about 7:45am this morning. Having made porridge yesterday with bananas thinking they would enhance the appeal, I add soymilk to it and serve it to Noumena. Boy was I wrong about the banana thing. I got her to eat a few bites of it but then she didn't want anymore. She wiggled around in my arms from frustration due to hunger, so she was difficult to hold on to. Apparently, it's test Daddy's patience day today, and test she shall. Because she doesn't want to each what I prepared I try to get her dressed so she doesn't miss breakfast at daycare. She doesn't like this at all. She's flails around on the changing table while I try to adorn her diaper and clothes and it's just nonstop until I finish dressing her. It has to be because she's still hungry. When I plop her into her car seat, she reaches her hand back expecting food. I have given her dates while she sat in the back seat for car rides before, so I think she's grown to expect them. It's crazy how quickly she associated the car seat and driving with food. Nevertheless, I brought no dates, so I put on music and she cries a couple minutes while we drive.
+
+The daycare workers set out peaches on a plate when I get there for her and I set her in the chair. She cries as I leave and I feel bad, but of course she'll be fine.
 
 * Daycare
 
+[[file:playing-with-dinosaurs-at-daycare.jpg]]
+
 * Home
+
+Just before I left to pick Noumena up, I made more porridge this time without bananas in it. This is what she ends up eating for dinner because I wanted to test if that was the reason this morning. She eats a ton of it when we get home. After I had given her a full bowl of the porridge, we somehow got back in the kitchen and I got a great video of her pouting and eating porridge at the same time.
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/GOFneAKTD1k" title="pouting and porridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
+
+At some point, /If You're Happy And You Know It/ was bouncing around in my head, so I started singing it while Noumena was in my arms. To my surprise, she starts clapping along. Oh my god, I have to get this on video!
 
 #+begin_export html
 <div class="video-container">
@@ -22,24 +34,51 @@
 
 * Park
 
+[[file:at-the-playground.jpg]]
+
+It rained earlier in the day so the park was wet. Recently Noumena hasn't been all that inclined to going down the slides (that pun was definitely not intended). However, she seemed like she would today. The slides are always the worst when it rains as water pools at the bottom. Since I wanted her to have the opportunity to go down the slide, I use my shoes to remove any pooled water and then my hands to spread it evenly across the slide in hopes that it will dry more quickly. After all is said and done, since I don't have a towel, I end up just using my shorts to dry off the slide so that my daughter can go down...
+
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/MFphxhM9To0" title="being dangerous at playground" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
+The first time /Noumena climbs up the slide/ I didn't catch it on video. I could hardly believe my eyes! I prompted her to do it again, so I /could/ catch it on video. Happily, Noumena obliges and I am just over the moon ecstatic!
+
 #+begin_export html
 <div class="video-container">
-
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/meXrUfKcAZA" title="she climbs up the slide all by herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
 
+We have to leave a bit early since someone is stopping by to purchase an old car of mine, but on the way back, I think Noumena isn't worn out enough so she whines almost the entire way back and gesticulates in odd fashions contorting her body to express discontentment while I carry her home either in my arms or on my shoulders. She's not even keen on walking beside me while I hold her hand and direct her where to walk. Did I mention that it's test Daddy's patience day today? Yeah. It is.
 
 * Back At Home
 
+
+Noumena and I were goofing around so much at home, I couldn't tell when this started, but I was pretending to be a thug grabbing her by her collar and holding her against the wall. This obviously required both of my hands so I couldn't film it, but I wanted to so I ended up just doing it int the couch where I could use a free hand to film.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/eW9OCTWi-Wk" title="gimme my money" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Unfortunately, that wasn't the only thing that we missed out getting on video. What was really unfortunate was when I would run down the hall carrying Noumena and Chalmers would chase us. When she heard his nails clack against the linoleum hardwood floor indicating the chase was on, she would lose her mind with laughter. It was such a beautiful ephemeral moment. I feel like every unique scenario has its own priceless laughs, so while I have plenty of laughter captured on video, I'll never get to hear /this/ laughter again.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/Ns1z7vO5yQo" title="playing with chalmers then daddy eating noumenas feet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
 * Bath And Bed Time
 
+I have no idea what possesses me to stick the letters Noumena plays with in the bath to her back at bath time, but I do and what ensues is absolute hilarity.
 
 #+begin_export html
 <div class="video-container">
@@ -49,6 +88,7 @@
 </div>
 #+end_export
 
+Just before I started filming, Noumena would traverse back and forth in the tub to pick up letters and then stick them to the wall. Sadly enough, I didn't capture much of the traveling back and forth to get the letters, but I did get her cutely applying them to the wall.
 
 #+begin_export html
 <div class="video-container">
@@ -58,4 +98,13 @@
 </div>
 #+end_export
 
+
+We follow our usual routine and Noumena goes to sleep so easily.
+
 * Late Night Wake Up
+
+Do babies have Nightmares? I have no idea. I wonder if it's a sleep regression because she's progressing every day so she's processing a lot and that's why she's waking up. Maybe it's because her nose is stuffed up. In any case, she wakes up and she's screaming. I usually just let her calm herself down, but she screams for 10 minutes and I have to go into to check on her. Nothing seems amiss when I go in her room. Her legs aren't stuck in between the bars or the crib or anything like that. I'm not sure what it is. I pick her up and rock her back to sleep for about 10 minutes. When I lay her down, she begins to cry again, but it's much less of a wail than it was before. Noumena thankfully gets back into a deep sleep within a couple of minutes.
+
+Whatever it is whether it be dreams, or snot, or progress or gas or whatever, I hope you don't have any more sleep disturbances Noumena. I love you, and if you need Daddy to come in and rock you back to sleep because you're having a hard night again, I will.
+
+Sleep tight, my wonderful, precious, beautiful, amazing, little girl!
