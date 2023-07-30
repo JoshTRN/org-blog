@@ -1,0 +1,61 @@
+#+TITLE: July 28, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:sleeping.jpg]]
+
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/YzPfipglDPE" title="trying to get noumena to go after chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/ttIv2cF99es" title="sitting in her car seat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Daycare
+
+Noumena and I hang out playing with the kiddos at the daycare when we arrive for a little while. I try to do this often to help her acclimate to being left there. It's so easy to play with the kiddos there because they'll always come up to you with something or play around or do something goofy. Eventually, I sit on the rug and play with some blocks with the kids. One of them brings a book up so I start reading to them. After a little while, Noumena stands so I inch away. When she starts crying, I come closer and hug her. This happens a couple times before I leave. As I'm exiting, one of the daycare workers tells me she sees me and that I'm a really good dad and to keep up the good work. It means a lot that others can tell how much I love my daughter.
+
+It's Nations of the World day and they're celebrating America today and they send me photos of them doing it.
+
+[[file:daycare.jpg]]
+
+[[file:daycare-2.jpg]]
+
+[[file:daycare-3.jpg]]
+
+[[file:daycare-4.jpg]]
+
+* Dinner
+
+* Evening
+
+[[file:sitting-on-daddys-pillow.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/Y2szBp9RchM" title="she says owl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/zttde9dWvHY" title="sitting on daddys pillow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/dXVI07stBtw" title="VID 20230728 202057" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bath/Bed Time
