@@ -7,3 +7,5 @@
 + [[file:external-value-properties][Argument For External Value Properties]]
 
 + [[file:visibility-of-value][Visibility Of Value]]
+
++ [[file:secular-liberalism-and-moral-psychology-of-identity][Secular Liberalism And Moral Psychology Of Identity]]
