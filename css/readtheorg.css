@@ -1541,6 +1541,7 @@ ul.nav li.active ul li.active a {
   grid-gap: 5px;
   text-align: center;
   grid-auto-rows: minmax(0, 1fr);
+  aspect-ratio: 1/1
 }
 
 
@@ -1560,7 +1561,6 @@ ul.nav li.active ul li.active a {
 .calendar a:not([href]) {
   cursor: default;
   color: gray;
-  aspect-ratio: 1/1;
 }
 
 @media only screen and (max-width: 768px) {

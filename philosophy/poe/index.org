@@ -2,6 +2,8 @@
 #+DESCRIPTION: Notes on the Logical Problem Of Evil Dialectic
 #+AUTHOR: Josh
 
+The quote falsely but nevertheless frequently attributed to Dostoevsky, "If there is no God, everything is permitted."
+
 * Problem of Evil
 
 #+begin_quote
@@ -25,7 +27,7 @@
 + Evil properties are properties of states of affairs that ought not be brought about.
 **** Non-normative Notion
 + The non-normative conception of evil is understood as inconsistent with good.
-  + e.g. A machine that causes chairs not to exist in its vicinity is inconsistent with chairs existing.
+  + e.g. A perfectly effective chair destroying machine, /i.e./ a machine that destroys chairs the moment they come into existence, is not consistent inconsistent with chairs existing.
 
 * The Argument
 
