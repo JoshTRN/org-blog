@@ -856,7 +856,9 @@ hr{
     padding:0.4045em 2.427em}
 
 #table-of-contents li ul li ul li a{
-    padding:0.4045em 3.236em}
+  padding:0.4045em 3.236em;
+            color: white !important;
+}
 
 #table-of-contents li.current ul{
     display:block}

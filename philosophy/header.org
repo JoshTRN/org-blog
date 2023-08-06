@@ -1,5 +1,5 @@
 #+DESCRIPTION: Header
-#+OPTIONS: num:nil ^:{}
+#+OPTIONS: num:nil ^:{} :with-footnotes
 
 #+begin_export html
   <div class="topbar-menu-container">
@@ -9,4 +9,3 @@
     <span class="topbar-menu"><a href="/politics">Politics</a></span>
   </div>
 #+end_export
-
