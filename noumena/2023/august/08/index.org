@@ -54,6 +54,7 @@ When we get to the park, Brian is playing there with his older brothers. His old
 
 [[file:Holding-Daddys-Hand.jpg]]
 
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/01UTRHnSwkg" title="Playing Soccer With Friends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -62,6 +63,9 @@ When we get to the park, Brian is playing there with his older brothers. His old
 
 
 [[file:shoe-stealing-fairy-closeup.jpg]]
+
+There's a philosophy reference that got popularized with some of the people I talk to occasionally about evidence. The idea is that evidence is a weak notion in the sense that it's sort of easy to come up with hypotheses to explain some datum. One illustration we use for this is called the "shoe stealing fairy" hypothesis. If you wake up and find your she's disappeared, that's expected on the hypothesis that there exist shoe stealing fairies. Anyway, I think I found one!
+
 
 #+begin_export html
 <div class="video-container">
