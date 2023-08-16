@@ -74,9 +74,10 @@
 <br>
 <div class="calendar">
   <span></span>
+  <span></span>
   <a href="./august/01">1</a>   <a href="./august/02/">2</a>   <a href="./august/03">3</a>   <a href="./august/04">4</a>
-  <a href="./august/05">5</a>   <a href="./august/06">6</a>   <a href="./august/07">7</a>   <a href="./august/08">8</a>   <a href="./august/09">9</a>   <a href="./august/10">10</a>   <a>11</a>
-  <a>12</a>   <a>13</a>   <a>14</a>   <a>15</a>   <a>16</a>   <a>17</a>   <a>18</a>
+  <a href="./august/05">5</a>   <a href="./august/06">6</a>   <a href="./august/07">7</a>   <a href="./august/08">8</a>   <a href="./august/09">9</a>   <a href="./august/10">10</a>   <a href="./august/11">11</a>
+  <a href="./august/12">12</a>   <a href="./august/13">13</a>   <a href="./august/14">14</a>   <a href="./august/15">15</a>   <a>16</a>   <a>17</a>   <a>18</a>
   <a>19</a>   <a>20</a>   <a>21</a>   <a>22</a>   <a>23</a>   <a>24</a>   <a>25</a>
   <a>26</a>   <a>27</a>   <a>28</a>   <a>29</a>   <a>30</a>   <a>31</a> </div>
   #+end_export
