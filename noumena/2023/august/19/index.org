@@ -1,0 +1,133 @@
+#+TITLE: August 19, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:sitting-by-the-city.jpg]]
+
+I took 20 videos today which is too much to include in the journal entry, so here is a link to a [[https://www.youtube.com/playlist?list=PLvsp2g973pZvd4Jk5JGgeT4JK0peTAQeW][playlist of all of today's videos]].
+
+* Morning
+
+I stayed up really late last night, so I was happy Noumena provided me enough time to get some good rest. She started making noise at 8:30am but wasn't too restless so I had plenty of time to prepare our porridge and my coffee. Noumena's ready to go immediately when I enter her room. She stands and stretches her arms out as usual to tell daddy to pick her up. After we finish porridge, we hang out in the house until it's time to go to story time.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/FeUdVnzUkpE" title="Saying Good Morning To Kisa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/_iDMgliwtV8" title="Being Cute On Changing Table" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/hOgADqZVC3U" title="Trying To Shut Daddy Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Story Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/3EPkz4NLFb8" title="Climbing Stairs At Library" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+Story time was really fun today. Noumena is getting better at paying attention to the stories and the songs. It could be because of her age or because of daycare or both, but either way it's so impressive watching her grow.
+
+* Museum Of Science And History (MOSH)
+
+Noumena's mother suggested going to the museum after story time and I agreed so we went. Apart from a couple times where she was scared of the dinosaurs Noumena had a blast.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/qPzYsvudToQ" title="Feeding Noumena To T Rex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:watching-the-turtle-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/ou5o1FR3oXw" title="Watching The Turtle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:touching-octopus-looking-at-camera.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/95_LY2ebhqw" title="Scared Of The Dinos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Noumena falls asleep on the way home and surprisingly doesn't awaken when I pull her out of her car seat. She rests her head on my shoulder and sleeps until I put her in her crib and ends up sleeping for 3 and a half hours.
+
+* Linner And Hanging Out
+
+This gives me plenty of time to clean the house, exercise and make dinner so I welcomed her long nap. I didn't know exactly what I'd make her but then remembered I had a tofu block so I decided on tofu scramble because she loves that and also some toast with jelly on it.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/vlbRaIysTJA" title="Waking Up From Long Nap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/3tacO8IrL6Y" title="Eating Tofu Scramble And Jelly Toast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Riverwalk
+
+We hung out inside until about 6:30pm. I wanted it to cool down a little bit before heading out. I decided I wanted to take Noumena down to the river walk so I fill up her water bottle and we head there.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/oYmIVu8HZqY" title="Noumena Driving Daddys CAr" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[file:looking-out-across-the-river.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/GJuZVi9fFTE" title="Walking Along The Edge At Riverwalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:daddy-and-noumena-in-front-of-downtown.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/5c4TyGCOazs" title="Walking Along Ledge At Riverwalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:noumena-running-into-the-park.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/ERnOxmiD8Xs" title="Walking Along Side The River With Noumena Talking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:resting-on-daddy.jpg]]
+
+
+* Bath and Bed time
+
+I bathe Noumena and this time get some soap in her eye. I tried my best to prevent it, but she was being difficult. I think it's because she's getting sick. I did notice that her body felt warm when I got her naked to put her in the tub. Regardless, this made this bath time one of the worst experiences for her. I even tried to cheer her up playing with the letters and the shark and boat. It helped a little but she went right back to crying.
+
+Even when I put her in her pajamas it was really hard. She was having such a hard time.
+
+Thankfully, when I turned on our music, shut off the light, and closed the door to her room, she fell asleep instantaneously. She did a lot of exercise today so I hope she sleeps well. I hope whatever is causing the fever subsides quickly. I don't want my poor baby to be sick.
+
+I love you Noumena. See you in the morning.
