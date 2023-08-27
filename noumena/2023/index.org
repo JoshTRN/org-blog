@@ -27,7 +27,6 @@
   </div>
   #+end_export
 
-
 * [[file:july/][July]]
 
   #+begin_export html
@@ -79,5 +78,5 @@
   <a href="./august/05">5</a>   <a href="./august/06">6</a>   <a href="./august/07">7</a>   <a href="./august/08">8</a>   <a href="./august/09">9</a>   <a href="./august/10">10</a>   <a href="./august/11">11</a>
   <a href="./august/12">12</a>   <a href="./august/13">13</a>   <a href="./august/14">14</a>   <a href="./august/15">15</a>   <a href="./august/16">16</a>   <a href="./august/17">17</a>   <a href="./august/18">18</a>
   <a href="./august/19">19</a>   <a href="./august/20">20</a>   <a href="./august/21">21</a>   <a href="./august/22">22</a>   <a href="./august/23">23</a>   <a href="./august/24">24</a>   <a href="./august/25">25</a>
-  <a>26</a>   <a>27</a>   <a>28</a>   <a>29</a>   <a>30</a>   <a>31</a> </div>
+  <a href="./august/26">26</a>   <a>27</a>   <a>28</a>   <a>29</a>   <a>30</a>   <a>31</a> </div>
   #+end_export
