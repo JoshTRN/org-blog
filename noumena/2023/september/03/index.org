@@ -1,7 +1,22 @@
 #+TITLE: September  3, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
+
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/noumena/2023/september/03/">
+#+HTML_HEAD_EXTRA: <meta name="og:type" content="article">
+#+HTML_HEAD_EXTRA: <meta name="og:title" content="September  3, 2023">
+#+HTML_HEAD_EXTRA: <meta name="og:image" content="https://joshua-wood.dev/noumena/2023/september/03/playing-in-balls-smiling.jpg">
+#+HTML_HEAD_EXTRA: <meta property="og:image:width" content="4000">
+#+HTML_HEAD_EXTRA: <meta property="og:image:height" content="3000">
+#+HTML_HEAD_EXTRA: <meta property="og:image:alt" content>
+#+HTML_HEAD_EXTRA: <meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/september/03/playing-in-balls-smiling.jpg">
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image">
+
+[[file:playing-in-balls-smiling.jpg]]
+
 * Morning
+
+This morning, Noumena didn't even wake up until after 9am! She slept over 12 hours it was great! I love it when my little girl gets plenty of sleep. We ate the rest of her porridge for breakfast, but she seemed still hungry because when we walked into the kitchen, she started pointing at the bread and whining. Of course I gave her some.
 
 #+begin_export html
 <div class="video-container">
@@ -23,17 +38,26 @@
 
 
 * Spending Time With Mommy
+
+Noumena's mother came by at around 10am maybe a little later and had ordered a reusable coloring pad that uses a water pen to apply water and reveal the colors.
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/PoJxQqw7SW0" title="Painting With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
+Afterward, she takes Noumena out to lunch and the humane society to look at the dogs and cats.
 
 * Park
 
+When she gets home, we decide that we're going to take her to the park together. We don't stay at the park very long because it's very hot! Noumena doesn't do much other than run around at the park. She tries going down a single slide, but the dress she was wearing wasn't good for that and she got a little scratch on her back because of it.
+
+When we're leaving, I don't think Noumena saw, but I noticed a snapping turtle in the creek! I tried to get her attention, though I couldn't tell if she saw it.
 
 * NOUMENA SAYS HER FIRST SENTENCE!!!
+
+We're hanging out at home for a little while and I go to change Noumena's diaper. I needed a distraction because she's been making it extra difficult to change her recently. So I put her stuffed owl Oksana had bought her inside an empty lampshade that was attached to the light in her corner, turned the music and the lights inside the owl, and went to work changing her. While I was changing her, she said "Bye owl!!!!!" I was absolutely besides myself!!! She constructed a sentence all by herself. There was no prompting or anything whatsover. She just understood what she said! I was so excited! I love Noumena so much! I was freaking out!!!!
 
 #+begin_export html
 <div class="video-container">
@@ -49,6 +73,8 @@
 
 * Nap time
 
+Shortly thereafter, Noumena took a nap. She stayed napping for about 2 hours before waking up at about 3pm.
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/4VbrO9lEaZU" title="Sleeping Like A Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -58,6 +84,8 @@
 
 * Hanging out At Home
 
+We really didn't do a lot around the house. We just played with toys and read books for a long time. While we were reading the book, it was clear she was making an effort to learn some of the words. There were trees in the book, however, and most of her focus was pointing out the trees and saying tree since she knows what a tree is. She was constantly pointing at trees and saying "tree."
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/QwF-k61RA_E" title="Wrestling With Noumena On The Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -65,13 +93,15 @@
 #+end_export
 
 * Walmart
+
 [[file:smoked-gouda-at-walmart.jpg]]
 
-[[file:playing-in-balls-smiling.jpg]]
+I needed to get some grocery shopping done, so we went to walmart so I could pick up stuff for the week. After our shopping was concluded, I packed all the grocery bags into the car. I couldn't just leave like that though, so we went back inside to let Noumena play in the toy isle. the first thing she was was a pit of balls and that's exactly what she wanted to play in!
 
 [[file:playing-in-balls.jpg]]
 
 [[file:playing-in-balls-2.jpg]]
+
 
 #+begin_export html
 <div class="video-container">
@@ -79,10 +109,11 @@
 </div>
 #+end_export
 
-
 [[file:playing-in-balls-3.jpg]]
 
 * Park
+
+I took Noumena to the park on the way back home. Today, she seemed more interested in the vegetation than the playground. We swing in the swings a little bit but it wasn't long before we needed to head back home.
 
 [[file:hiding-behind-tree.jpg]]
 
@@ -97,3 +128,11 @@
 <iframe width="1905" height="733" src="https://www.youtube.com/embed/w4isWlIsuo4" title="Playing With Toy Mommy Bough Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
+
+* Bath/Bed Time
+
+We wrestled on the bed until bath time. After her bath, today's teeth brushing session was the best in has ever been. That's good because I had worried that since Noumena had been more difficult lately that it would last and be harder to brush her teeth than I felt comfortable with. She's such a good girl though, she let me brush every corner of her teeth without having to remove the toothbrush today!
+
+Noumena is didn't take a nap since she had woken up at 3pm so at this point she's been up six hours. That was plenty of time to make her tired. Before /Isn't She Lovely/ is over, Noumena is fast asleep. I continue to hold her and dance through /Stand By Me/ and even a little of /Just The Two Of Us/ before laying her down in her crib. When I lay her down, she doesn't move a muscle. She's fast asleep.
+
+Good night, Noumena! I was so excited that you said your first sentence today! It's just onward and upward from here, baby! I'm sure you'll continue to make progress and impress Daddy every day of your life! I love you! Please sleep soundly, my precious baby girl.
