@@ -1,19 +1,31 @@
 #+TITLE: October  2, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
+[[file:sleeping-really-funny.jpg]]
+
 * Morning
 
-Noumena woke me up with her cries this morning.
+Noumena woke me up with her cries this morning because I'd once again gone to bed late. Tonight, I've taken care of all of the immediately obvious obligations, so I should get better sleep tonight. My poor sleep habits come with the unfortunate consequence that I didn't prepare Noumena's breakfast, so I have to resort to instant oatmeal. While she still enjoys it, I'd rather her eat something more substantive. At least this gave her an opportunity to work on her spoon skills. My only contribution to her eating today was to load the spoon, but she ate every bite herself! Afterward, I got her dressed in a purple outfit and we left for daycare.
+
 * The Trip Home
+
+When I arrived at Noumena's daycare and went to her classroom, she didn't see me right away. The teacher was reading to her and another child. They were the last two children there. She would bring the teacher the different books and didn't notice me until I started laughing at how cute she is. As is customary, once she notices me she runs at me arms outstretched ready to receive her flood of hugs and kisses. I pick her up, she says "bye" to everyone as we exit the daycare and I load her into the car. On the way home, she starts reading her book aloud to me while we drive, and once I'm stopped at a stop light, I turn back to record her reading to me.
+
 #+begin_export html
 <div class="video-container">
 <iframe width="435" height="774" src="https://www.youtube.com/embed/_H6tgIQEJVk" title="Reading Her Book On The Way Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
+She falls asleep on the way home and a when we get there, I lay her down for another nap.
+
 * Dinner Attempt
 
+On my lunch break, I had prepared soup for us to eat this evening. Just before I woke Noumena up, I had prepared a bowl of soup and buttered some sour dough bread for her to eat. She's often crabby when I wake her up from her evening nap and tonight was no exception. I set her in her high chair and she was very frustrated. As I placed food on her tray, she would continually throw it. I usually just ignore this behavior because once she gets some food in her mouth, it usually stops and she begins to focus on eating. Tonight was different though. Although for a brief period of time she did in fact calm down to eat, it was very short lived and she ate very little. She began throwing a fit again, one of the worst I'd seen. As the tears streamed down her face, I could no longer in good conscience allow her to stay seated there. I left the food on the table to return to eat it later and took her outside to see if I could distract her with our cat Kisa or some of the neighborhood animals as animals are probably her favorite thing.
+
 * Tidewater Acres Park
+
+On our way to the park, we see our friend Harley and run back and forth as she follows us kept behind her electric fence. This instantly cheers Noumena up and when she sees Harley run up to us, she lets out a squeal of joy! This makes the rest of the walk much easier on us. As we're approaching the park, I start singing /Isn't She Lovely/ and Noumena decides to join in the singing. It's the cutest thing in the world.
 
 #+begin_export html
 <div class="video-container">
@@ -21,7 +33,11 @@ Noumena woke me up with her cries this morning.
 </div>
 #+end_export
 
+Once we arrive at the park, I stand between the slides and the swings and let her decide which way she'd like to go first. As is probably obvious from the video, she of course chooses to go down the slide first. Her skirt, not necessarily being amenable to sliding as it rides up leaving her legs exposed so she's considerably slower going down this time. We repeat the slide process a few more times, but Noumena's ultimately less interested than she was the previous days. Again, this may have to do with there being no one else around for her to show her awesome skills to. Nevertheless, every time I go set her down, she immediately wants to be picked back up. She's very clingy. I sit her in the swings and she swings for a bit, but ultimately she just wants to be in Daddy's arm and I'm no one to deny this demand. Since the park has lost its appeal, we head home the long way.
+
 * Walking Home
+
+On our way home, we see a neighborhood cat. I squat down and the cat comes up to us allowing me to pet her. I'm not sure why I'm convinced the cat is female, but I go with it. Maybe because it almost looked pregnant, but it could have just been a fat cat. In any case, Noumena appears to be jealous that the cat will let me pet her and wants to pet the cat herself. I set her down to pet the cat, but she approaches too aggressively and the cat runs away. Noumena, on the chase, walks into the yard the cat is occupying at which point I pick her up and we continue on our way.
 
 #+begin_export html
 <div class="video-container">
@@ -29,11 +45,15 @@ Noumena woke me up with her cries this morning.
 </div>
 #+end_export
 
+Again I started singing /Isn't She Lovely/ but this time I was mimicking the harmonica, so I'm using falsetto. Again Noumena joins in using her falsetto voice and it's just too much. I can't watch this video without smiling. It's impossible!
+
 #+begin_export html
 <div class="video-container">
 <iframe width="435" height="774" src="https://www.youtube.com/embed/4PSJnYqy560" title="Singing High Pitched With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
+
+She wasn't requesting down like she sometimes does, but I did want to give her the experience of walking on her own two feet on the way home, so I do anyway. My reasons are two fold. I want her to enjoy herself, but also---concerned that she hasn't expended enough energy at the park since she napped so late---I'm trying to wear her out. In keeping with that last motive, I pick up the pace and begin to run with toddler style steps instigating her to do the same. It's just too cute watching her run!
 
 #+begin_export html
 <div class="video-container">
@@ -43,4 +63,14 @@ Noumena woke me up with her cries this morning.
 
 * Back At Home
 
+Back at home, I'm not yet convinced that she wants to resume dinner. I start reading books to her which she gladly pays attention to, but after a while, she starts to wonder on her own and wanders over to the dining room table and grabs the bread off plate which was situated on the table. At this point I realize she's hungry enough and in a good enough mood to eat, so I sit her up on my lap and we finish eating together. We eat all the way through her typical bath time so we end up getting her into the tub a bit late.
+
 * Bath & Bed Time
+
+Tonight's bath may be the worst Noumena has every experienced. I'm not sure because she didn't want to be in the bath at all when she was sick, so maybe it wasn't. I used my typical trick of getting her to play with the pouring faucet while I shampooed her. So far it's the best trick in the book for getting her shampooed quickly and efficiently with minimal fuss. So for the most part it goes off with out a hitch but near the end, as she wanders about the tub, she falls directly on to one of her hard bath toys. Watching it happen and feeling helpless to stop it. She lets out an intense wail, and I immediately pick her up and begin to comfort her and begin searching for Chalmers and Kisa to help take the edge off. Once she's calm, I get her dressed in her pajamas. She's stopped crying, but you can see the imprint the circular toy left behind on her butt. My poor baby. Nevertheless, in true Noumena fashion, she's fine moments later, but indeed that has to be one of the worst pains she's yet endured.
+
+I brush her teeth and forgoing our typical feeding of the pets since it's so late, I take her to her bedroom to listen to our playlist for her to fall asleep in my arms. We get through /Isn't She Lovely/ and she hasn't yet fallen asleep, so we continue on our playlist and by the time we get through /Stand By Me/ she's out cold. I lay her down, again with no fuss and let her drift to sleep in her crib.
+
+My baby, I'm so sorry that you got hurt tonight. Thankfully, it won't leave any lasting damage and hopefully you were comforted by the fact that your Daddy will always be there when you're hurting to do everything he can to make it better. You are the light that shines through the darkness in my life and you make every hardship bearable. I don't know what I would do without you now that I have you. The thought of it is unimaginable. You are by far the best thing that's ever happened to me and I'll do everything to let you know that's true every day of your life regardless of the circumstances. I want you to feel loved with every kiss, every hug and every touch. You are my entire world.
+
+Good night, sweet Noumena. See you in the morning!

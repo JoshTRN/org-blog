@@ -1,0 +1,63 @@
+#+TITLE: Strange GitHub Situation
+#+INCLUDE: ~/org/blog/development/header.org
+
+By default everything in my git workflow to uses ssh keys. It's always been easiest for me to configure my git interactions that way what with never having to worry about passwords. That said, this is the one time tonight I found a niche circumstance where the ssh key was inferior to https.
+
+* The Situation
+
+I have a project that I contribute to daily and I use git as an extra form of redundancy not necessarily to track code changes. I don't particularly care about the edits, it's the "final product" (as final as an ongoing project can ever be) that I care about, so backing up to git is not always at the forefront of my mind when I contribute every day. Having not updated the repo in several weeks, I had amassed literally hundreds of files---many of them binaries so their file sizes were quite large. Tonight, since I had remembered, I decided it was as good a time as any to back up. Everything was fine when I staged and committed all the files, but when I went to push, I kept getting the following error:
+
+#+begin_example
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+#+end_example
+
+and...
+
+#+begin_example
+client_loop: send disconnect:
+Broken pipe fatal: the remote end hung up unexpectedly
+#+end_example
+
+Needless to say, I was freaking out worried I wouldn't be able to back these changes up.
+
+* The Solution
+
+Fortunately, I came across [[https://stackoverflow.com/a/67499353][this stack overflow answer]] suggesting it was as simple as converting to the remote origin url to https.
+
+#+begin_src shell
+git remote set-url https://github.com/<USERNAME>/<REPOSITORY>.git
+#+end_src
+
+Unfortunately, as the stack overflow pointed out, you will be prompted to authenticate using username and password going this route, [[https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/][a feature that was removed from GitHub on August 13th, 2021]]. Fortunately, they do have a [[https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls][blog post about it]], which I didn't read instead opting for [[https://stackoverflow.com/a/21027728][this stack overflow post]] giving the following answer in the comments:
+
+
+#+begin_src shell
+git remote add origin https://<USERNAME>:<ACCESS-TOKEN>@github.com/<USERNAME>/<REPOSITORY>.git
+#+end_src
+
+However, since my origin was already added, that command failed, so I simply modified it to set the url instead like so:
+
+#+begin_src shell
+git remote set-url origin https://<USERNAME>:<ACCESS-TOKEN>@github.com/<USERNAME>/<REPOSITORY>.git
+#+end_src
+
+With that answer in hand, I googled how to create an access token:
+
+#+begin_quote
+1. In the upper-right corner of any page, click your profile photo, then click Settings.
+2. In the left sidebar, click Developer settings.
+3. In the left sidebar, click Personal access tokens.
+4. Click Generate new token.
+5. In the "Note" field, give your token a descriptive name.
+#+end_quote
+
+And, following the instructions above, I was able to back up to GitHub.
+
+#+begin_export html
+<div class="figure">
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img src="./relieved-face_1f60c.gif">
+</p>
+</div>
+#+end_export
