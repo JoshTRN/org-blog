@@ -1,0 +1,45 @@
+#+TITLE: September 22, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+[[file:looking-out-from-the-fence.jpg]]
+
+* Morning
+
+* Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/HBRbnDlNf4Y" title="Mommy Awakens Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Warrington Park
+
+[[file:looking-out-from-the-fence-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/B5xPq2etoUg" title="Powerful Legs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/kCUVWBZDahI" title="Chasing A Basketball At The Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back at Home
+
+* Bath Time With Mommy
+
+* Just Before Bed
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/1e3-pf1iZnQ" title="Brushing Hair With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bed Time

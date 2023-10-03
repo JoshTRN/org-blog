@@ -1,0 +1,43 @@
+#+TITLE: September 21, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:Sleeping-In-This-Morning.jpg]]
+
+* Morning
+
+I didn't wake up until almost 8:30am.
+
+
+* Evening
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/5AP1AKh20F8" title="Feeding Chalmers Cheese" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/5AP1AKh20F8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/5j5Sdkur-b0" title="Chasing Kisa In The Yard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/P0XJEzvZdAg" title="First Time In A Tennis Court" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Night Time
+
+* Bath & Bed time

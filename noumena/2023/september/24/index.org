@@ -1,0 +1,48 @@
+#+TITLE: September 24, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+* Lunch
+
+* Sensory Towne
+
+[[file:swing-lights-sensory-towne.jpg]]
+[[file:with-mommy-on-couch-2.jpg]]
+[[file:with-mommy-playing-with-lights-sensory-town.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/pX4GrXQYpgg" title="Playing In Ball Pit With Mommy At Sensory Towne" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/NABHxpO9UEY" title="Playing On The Pads At Sensory Towne" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/oUX0EmXmgFM" title="Crawling Up The Rollers Sensory Towne" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/qpR7PUuSu_k" title="Climbing Up To The Rollers At Sensory Towne Herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+
+* Hanging Out At Home After Nap
+
+[[file:mismatched-outfit.jpg]]
+
+* Store
+
+* Arlingwood Park
+
+* Bath & Bed Time

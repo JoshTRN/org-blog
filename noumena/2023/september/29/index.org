@@ -1,0 +1,23 @@
+#+TITLE: September 29, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+[[file:eating-pasta.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/b1NPXy83_Tg" title="Making Funny Sniffles Walking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/v0cXMFbFNDU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/n1lUnkZ5JiQ" title="Beating Up Daddy On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

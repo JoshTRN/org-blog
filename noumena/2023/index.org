@@ -85,7 +85,6 @@
 
 
 * [[file:september/][September]]
-#+INCLUDE: ~/org/blog/noumena/header.org
 
 #+begin_export html
 <div class="weekdays">
@@ -105,10 +104,31 @@
   <span></span>
   <span></span>
   <a href="/noumena/2023/september/01">1</a>
-  <a href="/noumena/2023/september/02">2</a>   <a href="/noumena/2023/september/03">3</a>   <a>4</a>   <a>5</a>   <a>6</a>   <a>7</a>   <a>8</a>
-  <a>9</a>   <a>10</a>   <a>11</a>   <a>12</a>   <a>13</a>   <a>14</a>   <a>15</a>
-  <a>16</a>   <a>17</a>   <a>18</a>   <a>19</a>   <a>20</a>   <a>21</a>   <a>22</a>
-  <a>23</a>   <a>24</a>   <a>25</a>   <a>26</a>   <a>27</a>   <a>28</a>   <a>29</a>
-  <a>30</a> </div>
+  <a href="/noumena/2023/september/02">2</a>   <a href="/noumena/2023/september/03">3</a>   <a href="/noumena/2023/september/04">4</a>   <a href="/noumena/2023/september/05">5</a>   <a href="/noumena/2023/september/06">6</a>   <a href="/noumena/2023/september/07">7</a>   <a href="/noumena/2023/september/08">8</a>
+  <a href="/noumena/2023/september/09">9</a>   <a href="/noumena/2023/september/10">10</a>   <a href="/noumena/2023/september/11">11</a>   <a href="/noumena/2023/september/12">12</a>   <a href="/noumena/2023/september/13">13</a>   <a href="/noumena/2023/september/14">14</a>   <a href="/noumena/2023/september/15">15</a>
+  <a>16</a>   <a href="/noumena/2023/september/17/">17</a>   <a href="/noumena/2023/september/18/">18</a>   <a href="/noumena/2023/september/19/">19</a>   <a href="/noumena/2023/september/20/">20</a>   <a href="/noumena/2023/september/21/">21</a>   <a href="/noumena/2023/september/22/">22</a>
+  <a href="/noumena/2023/september/23/">23</a>   <a href="/noumena/2023/september/24/">24</a>   <a href="/noumena/2023/september/25/">25</a>   <a href="/noumena/2023/september/26/">26</a>   <a href="/noumena/2023/september/27/">27</a>   <a href="/noumena/2023/september/28/">28</a>   <a href="/noumena/2023/september/29/">29</a>
+  <a href="/noumena/2023/september/30/">30</a> </div>
+#+end_export
 
+* [[file:october/][October]]
+
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <a href="/noumena/2023/october/01">1</a>   <a>2</a>   <a>3</a>   <a>4</a>   <a>5</a>   <a>6</a>
+  <a>7</a>   <a>8</a>   <a>9</a>   <a>10</a>   <a>11</a>   <a>12</a>   <a>13</a>
+  <a>14</a>   <a>15</a>   <a>16</a>   <a>17</a>   <a>18</a>   <a>19</a>   <a>20</a>
+  <a>21</a>   <a>22</a>   <a>23</a>   <a>24</a>   <a>25</a>   <a>26</a>   <a>27</a>
+  <a>28</a>   <a>29</a>   <a>30</a>   <a>31</a>
+</div>
 #+end_export

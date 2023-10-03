@@ -1,0 +1,75 @@
+#+TITLE: September 23, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:sitting-with-mommy.jpg]]
+
+* Morning
+[[file:laying-on-couch.jpg]]
+
+[[file:reading-in-chair.jpg]]
+
+[[file:reading-in-chair-2.jpg]]
+
+[[file:reading-in-chair-3.jpg]]
+
+[[file:with-chalmers-and-daddy.jpg]]
+
+* Decorating The House
+
+* Carving Pumpkin With Mommy And Daddy!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/EriZJA0rcZw" title="Carving Pumpkin With Mommy And Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Treaty Oak Park
+
+[[file:treaty-oak.jpg]]
+
+[[file:treaty-oak-2.jpg]]
+
+[[file:treaty-oak-3.jpg]]
+
+[[file:treaty-oak-4.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/SMCRTN60KXU" title="Wandering At Treaty Oak Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/cvZyJdEz2Eg" title="Walking Up To Treaty Oak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:leanign-on-treaty-oak-2.jpg]]
+
+[[file:leaning-on-treaty-oak.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/_oEqB83PDU4" title="Walking Up Treaty Oak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:mommy-holding-noumena-on-treaty-oak.jpg]]
+
+[[file:mommy-holding-noumena-on-treaty-oak-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/73uyK83srbA" title="Walking Through The Branches At Treaty Oak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+* Memorial Park
+
+* Wrestling At Home
+
+* Bath & Bed Time

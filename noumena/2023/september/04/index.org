@@ -1,0 +1,79 @@
+#+TITLE: September  4, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:sitting-on-the-dresser-looking-at-daddy.jpg]]
+
+* Morning
+
+* Time With Mommy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/6eeECV40mY4" title="Building A Smoothie With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:crying-on-top-of-chalmers.jpg]]
+
+* Park
+
+* Nap Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/gAmpAwmsc7I" title="Being A Goofball With Bread" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sleeping-like-a-cutie.jpg]]
+
+* Afternoon
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/Jt9ueeLNeGM" title="Playing In Her Fort" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/Iew7o02s79M" title="Testing Kisas Boundaries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:pointing-at-kisa.jpg]]
+
+[[file:sitting-on-the-dresser.jpg]]
+
+
+* Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/AH1bUn8uB3E" title="Bouncing On The Bridge At The Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:in-the-middle-of-the-playground.jpg]]
+
+[[file:sitting-on-the-playground-equipment.jpg]]
+
+* Late Dinner
+
+[[file:finished-eating-chili.jpg]]
+
+[[file:finished-up-chili.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/4DPXw5jt84M" title="Eating Chili For Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/uXeeCmMSMcg" title="Cleaning Up After Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath/Bed Time

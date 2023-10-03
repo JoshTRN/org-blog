@@ -1,0 +1,23 @@
+#+TITLE: September 13, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Daycare
+[[file:coloring-at-daycare.jpg]]
+[[file:playing-with-blocks-daycare.jpg]]
+[[file:playing-with-rings-daycare.jpg]]
+[[file:playing-with-popcorn.jpg]]
+
+* Park
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/IMDWSFFKnr4" title="Doing Weird Head Stuff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/D58mD2-8wpI" title="Thowing A Fit Because She Cant Pick Up Trash" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

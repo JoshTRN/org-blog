@@ -14,14 +14,15 @@ There is a quote that is falsely but nevertheless frequently attributed to Dosto
 
 As emphasized in the J.L. Mackie quote above, my argument from evil rests on only a single assumption: /Good is opposed to evil/. That said, the argument doesn't require that evil be a normative notion. To give an analogy, imagine a perfectly effective chair-prevention machine. In every world this chair-prevention machine, it spans all of spacetime and prevents chairs from every coming into existence. This is what it means for this chair-prevention machine to be opposed in a non-normative sense to the existence of chairs. Any time in these worlds a chair is about to be produced, as long as the chair-prevention machine at that time, it will prevent that chair by whatever means it has. If there are chairs that exist prior to the machine existing, they will be destroyed immediately conditional on the existence of the machine. Remember, this machine is perfectly effective.
 
+** Basic Argument
 Perhaps my interlocutor will say that this notion of opposition begs the question. After all, it becomes fairly trivial to how to construct the argument from this notion. This notion implies the following conditional is true:
 
+
 <<premise-1>>
- 1. If God[fn:2] exists, then evil does not exists.
+ 1. If God[fn:2] exists, then evil does not exist.
 
 Taking [[premise-1][1]] into consideration, we can easily assume the existence of God and Evil to derive the contradiction.
 
-** Argument 1
 
 <<premise-2>>
 2. [@2] God Exists.
@@ -32,14 +33,18 @@ Taking [[premise-1][1]] into consideration, we can easily assume the existence o
 6. Evil does not exist [1,2 modus ponens]
 7. Evil does not exist and Evil exists [3,6 conjunction]
 
-But let us examine the other option as I see only one. At the very minimum, there has to be some sense in which good is /inconsistent/ with evil. The robust notion outlined above certainly meets that criterion, but what other option is there? Well, one might say that the other option is that good is in no way itself evil. /i.e./ if something is perfectly good it is in no way evil. One way of thinking about this is by analogy with color. Something cannot be completely red and also green in any way. Likewise, something cannot be perfectly good and evil in any way and vice versa. The unfortunate consequence of this view, however, is that God's existence is perfectly compatible with everything besides God being evil.
+What other options are there for the theist? I see only one. At the very minimum, there has to be some sense in which good is /inconsistent/ with evil. The robust notion outlined above certainly meets that criterion, so what's left? Well, one might say that the other option is that good is in no way itself evil. /i.e./ if something is perfectly good it is in no way evil. One way of thinking about this is by analogy with color. Something cannot be completely red and also green in any way. Likewise, something cannot be perfectly good and evil in any way and vice versa. The unfortunate consequence of this view, however, is that God's existence is perfectly compatible with everything besides God being evil.
 
-Here will be the only time I go into examples of paradigmatic instantiations of evil only because I don't think the what counts as an exemplar of evil is particularly relevant to the conceptual scaffolding that causes all the issues, /i.e./ kittens may as well be evil and it makes no difference to the argument. That said, the Holocaust is widely regarded as such an example. The view outlined above commits one to saying God's existence is perfectly compatible with the equivalent of the Holocaust happening at every moment since the beginning of time and endlessly into the future without any of the compensatory goods purported to have come from the Holocaust in this world. a world where no one has ever sinned and is thereby innocent suffering unending torture and agony realized to its greatest possible extent for all time is compatible with Gods existence.
+Here will be the only time I go into examples of paradigmatic instantiations of evil only because I don't think the what counts as an exemplar of evil is particularly relevant to the conceptual scaffolding causing all the issues in the problem of evil, /i.e./ kittens may as well be evil and it makes no difference to the argument. That said, the Holocaust is widely regarded as such an example. The view outlined above commits one to saying God's existence is perfectly compatible with the equivalent of the Holocaust happening at every moment since the beginning of time and endlessly into the future without any of the compensatory goods purported to have come from the Holocaust in this world. a world where no one has ever sinned and is thereby innocent suffering unending torture and agony realized to its greatest possible extent for all time is compatible with Gods existence.
 
 This route, although technically consistent under my assumption, obviously comes at great cost and I view it as a type of conceptual reengineering meant only to avoid the conclusion of the logical problem. It's similar to defining evil as any set of innocuous objects like tables and chairs. After all, presuming God is essentially not a chair, those things are also opposed to God in this way and no one rendering the argument is arguing as the content of their argument that God is inconsistent with the existence of tables and chairs (even if it turns out such is a consequence of these arguments). I'm therefore inclined to dismiss this response as question-begging. Even if I'm wrong about this, consider the bullets we've bitten just to get to this point.
 
+ #+begin_quote
  * Evil is a descriptive notion. It's therefore unclear how it's relevant to morality at all.
  * God is compossible with everything else besides God being evil however it's cashed out.
+ #+end_quote
+
+ Let's now turn our eyes to the common-sense notion of evil---the normative notion.
 
 * Normative Evil
 
@@ -54,14 +59,15 @@ No responses to this problem I'm raising work, and all of them turn on the same 
 We can create the following argument:
 
 
-** Argument 2
+** Supplemental Argument to [[Basic Argument]]
+
 <<premise-8>>
 8. [@8] If God exists, there's no distinction between that which is evil and that which is merely permissible.
 9. If there's no distinction between that which is evil and that which is merely permissible, then evil does not exist.
 
 We then derive [[premise-1][1]] via hypothetical syllogism.
 
-10. [@10] If God does not exist, then evil does not exist. [8, 9 Hypothetical Syllogism]
+10. [@10] If God exists, then evil does not exist. [8, 9 Hypothetical Syllogism]
 
 At which point, inferences [[premise-4][4-7]] follow from assumptions [[premise-2][2-3]].
 

@@ -1,0 +1,26 @@
+#+TITLE: September 14, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/gJQK0Uc3QK8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/5vBb72F9JoQ" title="Playing With Blocks At Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Home Again
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/oN9JFdlohX0" title="Chomping The Growing Onion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

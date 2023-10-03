@@ -1,0 +1,102 @@
+#+TITLE: September 10, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Zoo
+
+[[file:sitting-on-car.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/nbmBRwVfofU" title="Looking At The Elephants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/WvIy4GPTkbI" title="Feeding The Giraffe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/kyCzoMYNpS4" title="Following The Pigs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-on-elephant-trunk.jpg]]
+
+[[file:watching-birds.jpg]]
+
+[[file:with-mommy-by-birds.jpg]]
+
+[[file:with-mommy-on-elephants.jpg]]
+
+[[file:with-mommy-on-elephants-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/4sUKIVvyNfk" title="Leaning On The Window" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/2T5quLm1trM" title="Carousel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:with-the-elephants.jpg]]
+
+[[file:looking-at-elephants.jpg]]
+
+[[file:looking-at-elephants-2.jpg]]
+
+* Home
+
+[[file:next-to-kisa.jpg]]
+
+[[file:chasing-kisa.jpg]]
+
+[[file:kisa-on-fence.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/oQEY6ZVQA-I" title="Eating Tofu Scramble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/Ducu9aSUKZI" title="Caterpillar Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Park
+
+[[file:daddy-and-noumena-with-kitten.jpg]]
+
+[[file:kitten-on-daddys-shoulder.jpg]]
+
+[[file:kitten-on-daddys-shoulder-with-noumena.jpg]]
+
+[[file:little-girl-walks-with-noumena.jpg]]
+
+[[file:little-girl-walks-with-noumena-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/aAsjZgJvOtA" title="Little Girl Plays With Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/TFjuMbrAYa0" title="Little Girl Carries Noumena Around" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+[[file:crazy-hair-in-bathroom-mirror.jpg]]
+
+[[file:crazy-hair-in-bathroom-mirror-2.jpg]]

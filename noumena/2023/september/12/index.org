@@ -1,0 +1,19 @@
+#+TITLE: September 12, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/EtObk8OtNnc" title="coloring on the book with mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/DKmMSofXdmA" title="thai dinner with mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

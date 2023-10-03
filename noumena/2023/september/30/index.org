@@ -1,0 +1,120 @@
+#+TITLE: September 30, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:on-mommys-lap-bay-window-2.jpg]]
+
+* Morning
+
+I went to bed late last night, so Noumena woke me up this morning at about 8:30am. I hadn't prepared breakfast the night before so we settled for rice-flour meal with maple syrup drizzled within. Noumena ate a huge bowl of that---more than I thought she would. Since we woke up late, there wasn't much time before we had to head to the library to meet Noumena's mother there. I got Noumena dressed after we ate, changed her soiled diaper and I cleaned the house a little before we headed out the door to the library at about 9:45am.
+
+* Jacksonville Public Library Main
+
+I had a little time to stop at the convenience store on our way to the library to get some caffeine, so I pulled into 7-11, spent way too much on a red bull and continued driving to meet Noumena's mother. As we were pulling up to our parking spot, I saw Noumena's mom crossing the street. I honked at her signifying we had arrived and parked at the nearest spot. Once parked, Noumena's mom unbuckled Noumena and removed her from the car seat.
+
+We crossed the street and started walking to the library. I was still finishing my drink, and Noumena's mother was carrying Noumena but didn't want to because Noumena is so heavy, so she tried to hand Noumena to me. Instead of holding Noumena, I grabbed her by the arm and lowered her to the ground. For a moment, Noumena tried to do spaghetti legs, but I was able to convince her to walk along side us. I told her mom that Noumena was reaching for her hand, so her mom lowered her hand allowing Noumena to grab it and we walked the entire 2 blocks to the library---Noumena grasping each of our hands.
+
+Typically, story time is on the second floor, but they were cleaning the carpet on the second floor, so they were conducting story time downstairs today. We walked Noumena by the hand down the stairs and into the story time room. Noumena could hardly sit still through the hello song in story time. She would get up and run out of the room every time we brought her back into the story time room, so it seemed obvious that story time was out of the cards today. We left the room and went up to the stairs.
+
+While Noumena's mother went ahead to investigate the first floor of the library, Noumena and I stayed behind because Noumena was most interested in traversing the stairs both up and down repeatedly. Of course, I was willing to let her repeatedly climb the stairs not only to allow her to exercise her autonomy, but also so that she would wear herself out for her nap.
+
+Noumena's mom found where the toys that are typically in the toy room upstairs, so she came back to get Noumena to follow her over to the toys. We played with the toys a while before leaving to go to the candy store.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OW68rTI9Myw?si=9mjQJp8j3QWD9ac5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Sweet Pete's Candy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/0-CO6zbOBLo" title="Eating FirstCandy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-at-bay-window.jpg]]
+
+[[file:sitting-at-bay-window-2.jpg]]
+
+[[file:on-mommys-lap-bay-window.jpg]]
+
+[[file:chilling-in-adirondack-chair.jpg]]
+
+[[file:chilling-in-adirondack-chair-2.jpg]]
+
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JT9okUpORxI?si=x8fFaRWBYL26cqe1" title="Petting Kisa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rhwLqqQdO2c?si=FQ4_vqRpuFdp3okk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nsP3NzWjcpM?si=vntjq7zujlP0xySz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/33k14Bu_nCU" title="Too Slow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Late Lunch
+:PROPERTIES:
+:CUSTOM_ID: first-use-of-fork
+:END:
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/YXCUt_ciXZQ" title="Attacking Noumena In Car Seat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/y4m5fqo1WYU" title="Eating With Fork For First Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/W60BVi2y4DI" title="Rocking With Boy At Arlingwood Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/dBee-XzewYE" title="Watching Boy Spin At Arlingwood Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:boys-helps-noumena-climb-into-rocker.jpg]]
+
+[[file:rocking-with-little-boy.jpg]]
+
+[[file:rocking-with-little-boy-2.jpg]]
+
+[[file:rocking-with-little-boy-3.jpg]]
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/NCi-qwIEsUc" title="Feeding Chalmers Daddys Drumstick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath & Bed Time

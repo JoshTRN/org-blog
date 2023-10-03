@@ -1,0 +1,19 @@
+#+TITLE: September 26, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+[[file:Dirty-Face.jpg]]
+[[file:Dirty-Face-2.jpg]]
+[[file:Messy-Face.jpg]]
+[[file:Messy-Face-Next-To-High-Chair.jpg]]
+
+* Drive To Daycare
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/5q_NnM1a3fw" title="Playing With Animals In Car Seat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Mommy Visits
+[[file:With-Mom-On-Bed.jpg]]

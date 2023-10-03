@@ -1,0 +1,58 @@
+#+TITLE: September 27, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+
+* Tidewater Acres Park
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/nlXquLAPKz4" title="Trying To Get Noumena To Look At Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="717" src="https://www.youtube.com/embed/46VFwOb9HCE" title="Chasing A Cat At The Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/mJxfaO9L3lg" title="Visiting A Doggy In The Neighborhood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/QQQzMfBFT6Y" title="Chasing The Neighrborhood Cats" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:holding-daddys-hand.jpg]]
+[[file:holding-daddys-hand-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/WDG_Y7p7N0E" title="Visiting Neighborhood Dogs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/DGy3uicyK3g" title="Nomming Down That Chili" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:loving-on-her-baby.jpg]]
+
+[[file:sitting-with-baby-on-couch.jpg]]
+
+* Bath Time
+[[file:wearing-towel-like-hood.jpg]]
+[[file:wearing-towel-on-head-2.jpg]]
+
+* Bed Time
