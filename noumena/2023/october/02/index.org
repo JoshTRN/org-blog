@@ -3,6 +3,7 @@
 
 * Morning
 
+Noumena woke me up with her cries this morning.
 * The Trip Home
 #+begin_export html
 <div class="video-container">
