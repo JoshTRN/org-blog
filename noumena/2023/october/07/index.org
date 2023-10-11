@@ -1,0 +1,67 @@
+#+TITLE: October  7, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+I went to bed Super early last night. The last few days I've been sick so it's been really difficult to take care of all the normal responsibilities. So this morning, Noumena allowed me to sleep in quite a bit. Once about 9am rolled around, I forced myself out of bed to take care of her. Since I didn't prepare our breakfast ahead of time, I resorted to instant oatmeal. Unfortunately for me she no longer likes to eat with the spoon. Instead she just reaches her hand right into the oatmeal grabbing a fistful to shove into her mouth. Despite my efforts, she continues almost the whole time we're eating.
+
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/UPRVNGOWxYw" title="Sticking Tongue Out On Couch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/u9EBtO83nx8" title="Playing With Drum Sticks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:playing-with-papers.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/1ifDFGmiQOg" title="Playing With Papers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Relaxing In Bed
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/TXsVCmXsEV8" title="Watching TV With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/LAglc-F2opE" title="Watching TV Relaxing On Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/PA-l8KUHEEY" title="Noumena Says Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/V846oDoiRRE" title="Relaxing On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/_rAsCY0r5Ic" title="Laying Down Watching Fishies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:chilling-with-daddy-2.jpg]]
+[[file:chilling-with-daddy.jpg]]
+
+* Bed Time
+
+[[file:petting-noumena-to-sleep.jpg]]

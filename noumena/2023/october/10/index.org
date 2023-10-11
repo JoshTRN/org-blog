@@ -1,0 +1,40 @@
+#+TITLE: October 10, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:looking-back-at-park.jpg]]
+
+* Dinner With Mommy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/h76O3g3tPz0" title="Playing With Aligator Toy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Warren W. Schell Jr. Memorial Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/tPlHAutmNns" title="Visiting Dog Named Aura At Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="717" src="https://www.youtube.com/embed/_3FCZE8Tqp0" title="Playing With Mulch At Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Tidewater Acres Park
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="733" src="https://www.youtube.com/embed/n25fOTdTiNs" title="French Kiss Hippopotamus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+* Bed Time
