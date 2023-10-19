@@ -1,0 +1,18 @@
+#+TITLE: October 18, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:drumming-with-daddy.jpg]]
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/JDWFn1F2Mko" title="Being Goofy Walking Around" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Playing Drums With Daddy
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/NfaCO2eJuRY" title="Playing Drums With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

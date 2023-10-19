@@ -1,0 +1,85 @@
+#+TITLE: October 13, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:holding-noumena-at-daycare.jpg]]
+
+* Morning
+
+Noumena is so independent it always surprises me. I've only gushed a million times at this point about how good of a sleeper Noumena is. That said, I'm not sure if it's so good for me in a way. Her sleeping so much allows me to sleep in more than I'd like to. In some ways, I rely on her as an alarm clock in the cases I sleep in. Today, I didn't wake up until almost 9am and Noumena hadn't made a peep.
+
+I had prepared our breakfast earlier last night so it was ready for her when I finally went to get her out of bed. Since she was as quiet as a church mouse, I expected to be waking her up. This wasn't the case, however, as she was sitting up in her crib with her blankets in her hands. I'm not sure what she was doing, but she was content. Noticing me, she stood to be taken out. I brought her into the dining room for us to eat our breakfast.
+
+Noumena didn't eat much before she started playing with her food, so I saved the rest for later. She wasn't necessarily happy about it---she wanted to continue playing with it and making a mess---but following a few minor groans she accepted it and I took her to her room to get her dressed for the day. We left the house, and headed off to daycare.
+
+When we arrived at her daycare, the worker there wanted to take a picture of us. She snapped the photo above before I set her down. We played with the balls other children brought to us for a few brief moments. Seeing as she was on the ground, I thought for certain I could walk away and she'd be fine. She began to cry just as I was leaving, however, pulling on my heart strings and saddening me as I had to leave her.
+
+* Picking Noumena Up From Daycare
+
+Noumena's mother was close by at the end of my work day, so she decided to come over so we could pick Noumena up from daycare together. Remembering the missed opportunity from yesterday, I began filming as Noumena's mother approached her classroom. Noumena was so excited to see her mother, she didn't even want Daddy to hold her!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/lKLcEWbLwL0" title="Mommy Picking Up Noumena From Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Mommy sat in the back seat with Noumena entertaining her and reading to her on the way back home.
+
+* Spending Time At Home With Mommy
+
+Part of the reason Mommy came over was so that she could give Noumena the Russian nesting dolls decorated as owls. Just as we entered the door, she saw the owl and pointed it out saying "owl". I sat her down with Mommy to watch as Mommy removed one owl after the other.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/7nQyXM28zwI" title="Russian Nesting Doll Owls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/vHVqIlYIjrU" title="Mimicking Animal Noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/PRn3wQ8N920" title="Laying On Kitchen Floor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/tke8Sx7GZuU" title="Playing In Living Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Tidewater Acres Park
+[[file:riding-on-daddys-shoulders.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/OZ5dR36Hvos" title="Making Funny Faces" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/dHPWp7utAQI" title="Swinging With Arms In Funny Position" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/1MzDJ2_AKmY" title="Being Cute On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+#+begin_export html
+<div class="video-container">
+<video style="max-width:100%;" width="1905" height="733" controls>
+  <source src="./Playing-With-Letters-In-The-Tub.mp4" type="video/mp4">
+</video>
+</div>
+#+end_export

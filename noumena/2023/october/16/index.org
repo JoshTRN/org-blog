@@ -1,0 +1,24 @@
+#+TITLE: October 16, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Watching TV With Daddy
+[[file:sick-on-daddys-lap.jpg]]
+
+[[file:watching-miss-rachel.jpg]]
+
+[[file:watching-miss-rachel-2.jpg]]
+
+[[file:watching-tv-with-daddy.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/cwiVbLhc0x0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Wrestling With Daddy
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/aAQLchhFdUU" title="Playing With Noumena On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

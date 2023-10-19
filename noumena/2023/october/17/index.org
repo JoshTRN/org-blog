@@ -1,0 +1,33 @@
+#+TITLE: October 17, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:dressed-in-warm-clothes.jpg]]
+
+* Hanging Out With Daddy
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/VHhVaO_ZNog" title="Beating Daddy Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/RE7y8RIUh-w" title="If Youre Happy And You Know It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Walking To The Store
+
+[[file:dressed-in-warm-clothes-2.jpg]]
+
+[[file:dressed-in-warm-clothes-3.jpg]]
+
+[[file:dressed-in-warm-clothes-4.jpg]]
+
+[[file:putting-toys-away.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/9bUINlPcYzE" title="Walking To The Store" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
