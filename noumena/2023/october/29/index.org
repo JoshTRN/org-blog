@@ -1,0 +1,107 @@
+#+TITLE: October 29, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:dinosaur-3.jpg]]
+
+I will never let the fact that I did the best I could do be an excuse when raising Noumena. Sometimes the best you can do is not good enough. It wasn't good enough from my parents and it won't be good enough from me. As far as I'm concerned, Noumena, you have the right to tell Daddy when, where and how I wronged you even if it turns out to be impossible that I didn't. I will fuck things up, Noumena. I will do the wrong things and maybe I will continue to think they were the right things even after you've told me, but I will always welcome you telling me. I will always be here to listen to you---to hear you---even if I can't fix it.
+
+Even if fixing it requires a time machine to go back and do things differently, I will listen. The one right thing I hope I can do as a father is to make you feel safe to tell me any misgivings you have. Every journal entry I miss, every moment I didn't capture, every sadness and every sickness, every time I can't show up 110% for you is inexcusable to me, and you deserve to know it. However good a father I am, I will never be good enough for you, baby. This isn't self-denigration. It's accountability. It's acknowledgement that I'm imperfect and the love inside me screams every day that you deserve perfection. As I scrawl these words, I'm reminded of a bible verse:
+
+#+begin_quote
+Be perfect, therefore, as your heavenly Father is perfect. --Matthew 5:48
+#+end_quote
+
+This isn't the only time in history that perfection is demanded and it won't be the last. Failing perfection, what I can do is be accountable to you, Noumena.
+
+Even if it's not good enough, Noumena, I will do my best.
+
+* Morning
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/Lpm3YK_OjKM" title="Playing With Laundry In Her Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:bringing-daddy-shoes.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/W577nYE0P4M" title="More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/4jUtbc43A2E" title="Sitting In The Chair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/tQtn2KAlb38" title="Making Animal Noises In The Car Seat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Riverside Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/1gJYygKqsng" title="Looking At The Pretty Ducks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/zPhg9ZdVQ84" title="Crazy Jumping" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/dpSnS-Mn0NM" title="Swinging Like A Big Girl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/ILR0JDPzELQ" title="Playing With New Friend On Bouncy Bridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/AizW9TTMgxE" title="Being Entertained On The Park Bench" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:nap-time.jpg]]
+
+* Trunk Or Treat
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/GL0xQfv3lC4" title="Being Scared Of Godzilla Halloween Costume" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Lovelace Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/NJlSqehlAw8" title="Playing With Friend Aiden And His Trucks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-on-stump-3.jpg]]
+
+
+[[file:walking-with-mommy-4.jpg]]
+
+* Dinner
+
+* Home
+
+* Bath Time
+
+* Bed Time

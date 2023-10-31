@@ -1,0 +1,24 @@
+#+TITLE: October 19, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:playing-with-her-toys-on-her-chair.jpg]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/smSS1C7Pex8" title="Playing With Animals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/cQzcyRIUgh0" title="Kissing Noumena On The Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/81YqHr3je7o" title="Trying To Put On Socks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

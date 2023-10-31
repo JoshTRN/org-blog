@@ -1,0 +1,49 @@
+#+TITLE: October 23, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Picking Noumena Up From Daycare
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/3qot09XROjU" title="Waiting For Noumena To Notice Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/I7R2oOSbDZ0" title="Being Cute In The Car Seat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/UC-b78PJLYs" title="Petting Kisa At Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/RPhC7fRPfCI" title="Eating With A Fork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/UO8xHQaBJyg" title="So Brave Climbing At The Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/F7gQ8vGkJXk" title="Sidewalk Chalk With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Store
+
+* Bath Time
+
+* Bed Time

@@ -1,0 +1,70 @@
+#+TITLE: October 21, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+[[file:chair-at-urgent-care.jpg]]
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/CeKOFHalGns" title="Rolling Around On The Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Urgent Care
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/aKqWS4_EjAA" title="Playing Outside Urgent Care While Daddy Waits For His Appointment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/-8IIv8H0vz0" title="Pulling Out Chair At Urgent Care" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Teasing Chalmers
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/mBDvnHAkxlw" title="Teasing Chalmers Watching TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/4SPVBrTSRS0" title="Teasing Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/o5LRdy0FcNY" title="Saying No To Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/FRmN0IbdBdc" title="Being Nice To Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Evening
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/ztj0Y3P_5so" title="Picking On Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/BNyblTcQRko" title="Being A Weirdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="435" height="774" src="https://www.youtube.com/embed/VdoQGgkdiJ4" title="Holding Noumena On Couch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

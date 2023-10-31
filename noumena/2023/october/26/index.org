@@ -1,0 +1,36 @@
+#+TITLE: October 26, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:wearing-mask.jpg]]
+
+[[file:outside-olive-garden.jpg]]
+
+
+* Home From Daycare
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/sgJpv09llg8" title="Walking In Her Owl Feet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Olive Garden
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="733" src="https://www.youtube.com/embed/V9GiQT8Ysqg" title="Making Animal Sounds In The Car Seat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/7V5fFB_qpKg" title="Walking Around Outside Olive Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/cC2bbBjF7cU" title="Giving Daddy Kissses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

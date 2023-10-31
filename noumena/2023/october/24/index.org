@@ -1,0 +1,10 @@
+#+TITLE: October 24, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="717" src="https://www.youtube.com/embed/TQHqU9kOOxs" title="At Dennys With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

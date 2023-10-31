@@ -1,0 +1,13 @@
+#+TITLE: October 22, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:holding-daddys-hand-before-bed-time.jpg]]
+
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="717" src="https://www.youtube.com/embed/ahVFfCL_dUM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
