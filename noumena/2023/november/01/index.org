@@ -1,0 +1,41 @@
+#+TITLE: November  1, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+* Picking Up From Daycare
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="761" src="https://www.youtube.com/embed/0tMF1LnASAY" title="Mimicking Daddys Noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="745" src="https://www.youtube.com/embed/myWJc48A66A" title="Noumena Making Animal Noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="745" src="https://www.youtube.com/embed/XZytxmj783s" title="Making Daddy Kiss Her Finger At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Arlingwood Park
+
+* Night
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="761" src="https://www.youtube.com/embed/AC9b0WM8gfY" title="Rocking Her Owl And Playing In Her Bedroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+* Bed Time

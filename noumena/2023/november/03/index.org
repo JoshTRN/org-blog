@@ -1,0 +1,40 @@
+#+TITLE: November  3, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:sleeping-all-cozy.jpg]]
+
+[[file:sleeping-all-cozy-2.jpg]]
+
+* Watching Miss Rachel
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/q0EogVC-2t4" title="Ignoring Daddy Watching Miss Rachel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Hibachi With Mommy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/dqOTEG3leEw" title="Watching Hibachi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Riverside Park
+
+[[file:looking-in-pond.jpg]]
+
+[[file:looking-in-pond-2.jpg]]
+
+[[file:looking-in-pond-3.jpg]]
+
+[[file:looking-in-pond-4.jpg]]
+
+* Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/_KymVy85ZDw" title="Rocking Her Babies And Giving Daddy Hugs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

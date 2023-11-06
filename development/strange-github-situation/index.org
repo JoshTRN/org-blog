@@ -56,8 +56,8 @@ And, following the instructions above, I was able to back up to GitHub.
 
 #+begin_export html
 <div class="figure">
-<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img src="./relieved-face_1f60c.gif">
-</p>
+  <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+    <img src="./relieved-face_1f60c.gif">
+  </p>
 </div>
 #+end_export

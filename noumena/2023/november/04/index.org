@@ -1,0 +1,105 @@
+#+TITLE: November  4, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:sitting-exceptionally-cute-on-bench.jpg]]
+
+* Jacksonville Fair
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/d54df9ItEhk" title="Petting Cow At Fair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/pPssuAbSZb0" title="Trying To Pet Chicken" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/yln0-7atDr4" title="Looking At The Chickens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/HiqHshO9qkM" title="Fascinated By The Chicks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/YuNd6wO6anY" title="Playing On The Bleachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/J3tQI1FqlTM" title="Playing With Mommys Glasses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/sBQrMH5wqKM" title="Playing Bean Bag Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:eating-junkfood-at-jacksonville-fair.jpg]]
+
+[[file:bee-face-jacksonville-fair.jpg]]
+
+[[file:bee-face-jacksonville-fair-2.jpg]]
+
+[[file:bee-face-jacksonville-fair-3.jpg]]
+
+
+* Home
+
+[[file:passed-out-after-fair.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/zbGkvK2UkAU" title="Tossign Noumena On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+
+[[file:daring-to-look-into-the-creek.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/O8WEsnlaV_0" title="Climbing The Slide Going Down With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/0PHn8PaglJA" title="Swinging With Other Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/erl4OzlsvEs" title="Noumena Discovers Static Electricity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-cute-on-bench.jpg]]
+
+* Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/CXmFQqr1h1s" title="Putting Balls Inside Her Toy House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[file:holding-daddys-hand-to-sleep.jpg]]
+
+[[file:daddy-comforting-noumena-18mo-sleep-regression.jpg]]

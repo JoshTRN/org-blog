@@ -1,0 +1,109 @@
+#+TITLE: November  5, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:behaving-badly.jpg]]
+
+
+
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/2dv_67UVSII" title="Doing Cute Hand Gesture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/QhykVXfH7-w" title="HItting Noumenas Belly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/tgc53xJLGQE" title="Playing with Her Spoon Pretending To Eat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/rzY7IzK_wQ4" title="Noumena Identifying Body Parts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/47ar1JGlgJA" title="Noumena Identifying More Body Parts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/eKNEAS-xSzk" title="Being Bad In A Cute Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/98HdBFSQ_aQ" title="Going Fast Down Slide Sticking Landing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:passed-out-napping.jpg]]
+
+* Lunch
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/8Izdj46uGMM" title="Eating Tofu Scramble Thats Hot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Lovelace Park
+
+[[file:riding-dinosaur-with-royce.jpg]]
+
+[[file:riding-dino-with-royce.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/D_8qCGQw1S8" title="Groing Through Tunnel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/AVFcIxn_7Js" title="Walking Around Perfectly Fine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Night Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/BVOC2fBK3Fg" title="Respecting Kisa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/DNaXTJKYqz4" title="Noumena Being Gentle With Kisa And Affectionate With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/N2G70YkpDr4" title="Standing On Daddys Hands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/KgxGqFS8UOk" title="Giving Her Baby Her Binky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
