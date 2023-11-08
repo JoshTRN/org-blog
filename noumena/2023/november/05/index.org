@@ -3,8 +3,6 @@
 
 [[file:behaving-badly.jpg]]
 
-
-
 * Morning
 
 #+begin_export html

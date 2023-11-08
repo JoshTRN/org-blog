@@ -1,0 +1,76 @@
+#+TITLE: November  6, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:watching-dinosaurs.jpg]]
+
+* Morning
+
+* Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="761" src="https://www.youtube.com/embed/A9-ClFpKy0U" title="Folding Laundry With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+[[file:messy-tofu-scramble.jpg]]
+
+* Playing at Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="745" src="https://www.youtube.com/embed/kmWhZnAApFQ" title="Watching Her Dinosaur Toys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="745" src="https://www.youtube.com/embed/hnW2d7zr_zw" title="Playing With Her Dinosaurs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="745" src="https://www.youtube.com/embed/9YGaRTois_g" title="Making A Mess In Her Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="745" src="https://www.youtube.com/embed/72GKefgBLnI" title="Daddy Gets A Silly Idea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="745" src="https://www.youtube.com/embed/HVVPawBZUlM" title="Reading Her Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="761" src="https://www.youtube.com/embed/VkHRlEfJcWw" title="Playing On The Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:my-family.jpg]]
+
+[[file:books-we-read.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="761" src="https://www.youtube.com/embed/-xHmjA4dUE0" title="Playing With Her Horsies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:drinking-bottle-on-floor-in-bedroom.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="451" height="802" src="https://www.youtube.com/embed/b0HdPOacFJM" title="Rocking In Her Baby Swing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath & Bed Time

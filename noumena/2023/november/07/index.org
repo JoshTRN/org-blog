@@ -1,0 +1,82 @@
+#+TITLE: November  7, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+[[file:pediatricians-office.jpg]]
+
+For the last week, Noumena's been experiencing what's commonly referred to as an 18 month sleep regression. Don't ask me why I thought it wouldn't happen to her. I guess I thought that since her sleep has been so close to perfect for the last 6 months that she'd be immune. I guess the reason it's called a regression is toddlers and infants do wonderfully for a time and then their sleep gets markedly worse.
+
+Because of these nighttime awakenings, it's 2am as I write this entry. As Noumena's progressed through all her various stages, I've always tried to comfort her through the nights when she's awaken. One of the challenges facing caring parents is the onslaught of parental advice. Even advice from medical professionals and pediatricians vary wildly in their prescriptions. I've read numerous studies on the long and short term effects of tens of methods of dealing with infant and toddler sleep regressions and all of them are inconclusive. Even the ones that sound conclusive are in their prose are contravened by evidence and findings elsewhere. So what are we to do as parents? I'm hesitant to say that we're to trust our guts, but faced with the options, it's the only reasonable conclusion to reach. So, I follow mine and try to quiet the litany of white noise that is parental advice.
+
+With Noumena, my gut tells me to take the most compassionate approach possible, hence the last few nights spent standing by her crib, sometimes for up to an hour just to assuage the separation anxiety that comes from waking up scared in a dark room all alone. It's nothing like the sleep regressions in infancy. It's no longer discomfort or hunger or anything like that. Now the only thing she wants is my presence.
+
+When the regression began, I was inclined to think it was like previous regressions. During past regressions, I felt much more comfortable letting Noumena cry. Her cries then were more like whimpers---light, sustained groans. She would still be laying down and seemingly still asleep. Sometimes they'd increase in intensity for brief periods, but quiet to murmurs again before ceasing entirely with the occasional distressful crying awakening. But this regression is different. Because of this, I when it started, I let her cry for a little while, but now the moment I notice her cries, I go in to comfort her. Now, whenever she awakens, she's always sitting up, clearly awake and distressed.
+
+When I enter Noumena's bedroom, Noumena reaches out her arms, but the moment I pick her up, she falls into my arms cradling her and starts to fall back asleep. But when I lay her back down in her crib, she always awakens a little bit. She's usually fine when I lay her back down, but if she's not in a deep sleep, she often checks to see that I'm still there. If she sees me, she'll reach her hand out. When the regression started I would hold her hand, but now I just whisper "shh shh shh" and place my hand on her back. As long as she knows I'm there, she's comfortable to try falling asleep again.
+
+Noumena's need for my presence is one of the most heartwarming experiences I've ever faced. I've never felt as loved by anyone as I feel by Noumena and I'd be lying if I said this isn't a hugely motivating factor for the long nights spent beside her crib comforting her back to sleep. Still, there is a more important and less selfish reason I take this approach.
+
+To me, everything in my child's life is an opportunity for her to learn and this is no exception. If I let her cry herself back to sleep as many regression methods suggest or some version of, what am I teaching her then? What is "self-soothing" in this context? To my mind, I'm teaching her to get used to abandonment. That's not something I ever want her to get used to with me. Conversely, what am I teaching her by comforting her? As far as I can tell, I teach her that I'm reliable, trustworthy and loving.
+
+Many parents, including pediatricians, think that you'll teach them that they run the show with methods like mine and that by coddling them, you're reducing their resilience. I beg to differ. As far as teaching her she's in control, in order to teach effective obedience you have to teach respect. And in order to teach respect, you have to be trustworthy. As far as resilience is concerned, for months as Noumena's developed, I've witnessed firsthand her resilience sky-rocket. Unless there's imminent, substantial danger, I let her take risks many parents wouldn't allow their children to take. She's climbs and falls and gets roughed up all the time. Sometimes I'm the one doing the roughing up! The difference between this form of resilience and the resilience she'd develop if I let her cry alone at night in the dark in her crib is that the risks she takes on her own she evaluates herself. They're consensual risks. She learns the consequences of her own actions in these scenarios. That's not true in the case of night time awakenings. She didn't put herself in that situation, I did.
+
+And I'll be damned if I let Noumena experience distress at my hands when I know how to stop it! As far as I'm concerned, allowing that is cruel! And I love Noumena!
+
+* Morning
+
+* 18 Month Pediatrician Appointment
+:PROPERTIES:
+:CUSTOM_ID: 18-mo-pediatrician-appointment
+:END:
+
+
+[[file:growth-chart.jpg]]
+[[file:weight-for-age-and-head-circumference-charts.jpg]]
+[[file:weight-for-length-and-bmi-charts.jpg]]
+
+* Playing With Dogs and Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="755" src="https://www.youtube.com/embed/se_4FzZAnGk" title="Playing With Friendly Dog Kody" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Playing At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="739" src="https://www.youtube.com/embed/mD4YWSDUIAM" title="Daddy Throwing Noumena On Couch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="739" src="https://www.youtube.com/embed/WjK3fExctz8" title="Blowing Bubbles Together" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Feeding The Pets
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="739" src="https://www.youtube.com/embed/TWU_nK3yjKU" title="Feeding The Pets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Noumena's Bedroom
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="739" src="https://www.youtube.com/embed/a4HvdAsbOLo" title="Playing In Her Closet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="739" src="https://www.youtube.com/embed/8dJClNbRiQ8" title="Hiding And Seek In Noumenas Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[file:sleeping-with-blanky.jpg]]
