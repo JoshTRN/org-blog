@@ -1,0 +1,19 @@
+#+TITLE: November 8, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:ready-for-school-2.jpg]]
+
+[[file:ready-for-school.jpg]]
+
+* Dinner
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/ncMYspiAzfw" title="Noumena Says More Chili" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/n3FHpNySN7s" title="Noumena Eating Daddys Chili" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

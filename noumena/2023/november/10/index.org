@@ -1,0 +1,102 @@
+#+TITLE: November 10, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/PgwLGw_qDEw" title="Noumena Says Eat In Sign Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/b1F3N2W-ma4" title="Playing With Dinos In The Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/zHxoDgv7waY" title="Playing With Blankies In Her Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:messy-room-from-playing.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/X0YbHRScaQA" title="Sitting With Daddy On Front Porch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/K8vE5UE1mxA" title="Noumena Says Chili" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+
+* Setting Up Tent
+
+[[file:helping-with-tent.jpg]]
+
+[[file:tent-to-setup.jpg]]
+
+[[file:helping-with-tent-base.jpg]]
+
+[[file:tent-base-messed-up.jpg]]
+
+
+[[file:sitting-on-porch-with-daddy.jpg]]
+
+* Lovelace Park
+
+
+[[file:going-down-tube-slide.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/uwRBV_-p-v0" title="Wandering Around In Woods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/MbPBcKhnfn8" title="Noumena Plays With Tree Bark" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:hanging-over-bridge-2.jpg]]
+
+[[file:hanging-over-bridge-3.jpg]]
+
+[[file:walking-in-woods.jpg]]
+
+* Nap Time
+
+* Hanging out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/TAisPV-JpWs" title="Reaction To Tent Setup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/1neAel9b2XA" title="Problems With Tent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+* Hanging Out At Home
+
+[[file:helping-daddy-with-laundry.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/0xMcWcj4g-Y" title="Failing At Feeding Pets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
