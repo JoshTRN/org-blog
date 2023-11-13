@@ -1,0 +1,51 @@
+#+TITLE: November 12, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+[[file:hanging-out-at-home.jpg]]
+
+
+
+* Hanging Out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/jhd1y9f1YOM" title="Playing Piano By Herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/JCbTgOskpgI" title="Teaching Noumena To Be A Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/-pjCt7cbBV8" title="Getting Her Bottle From Where She Hid It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/Uc_hbwoftrA" title="Dancing On Daddys Feet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:loving-chalmers.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/xMLxjuyo0ZI" title="P ing On Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/0eG3BPBBOBk" title="Making It Clear Its Mine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/rxq0IIXCrvE" title="Watching Meshuggah With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

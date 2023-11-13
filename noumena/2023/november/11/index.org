@@ -1,0 +1,82 @@
+#+TITLE: November 11, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:proclaiming-about-her-bear.jpg]]
+
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/hnneFzhaQvU" title="Playing In The Living Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Mommy Comes Over
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/ebGdsawpKmE" title="Mommy Reads And Licks Noumenas Face" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/naqnAhlpGQg" title="18 Month Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-on-porch-with-daddy.jpg]]
+
+
+* Eating Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/DSEMyCPKeLM" title="Putting Her Bottle Down Correctly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Going For A Walk
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/K0pXRse2uJA" title="Noumena Walking Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/JaqlNC44Qig" title="Noumena Walking Chalmers 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Haning Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/MdkigcgJ8tc" title="Being Affectionate Wtih Her Doggy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/-GC1qk-DXCM" title="Picking Veggies For Daddy To Eat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Making An Obstacle Course
+
+[[file:obstacle-course-1.jpg]]
+
+[[file:obstacle-course-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/Cf94tIrR1VU" title="Going Through Obstacle Coruse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/oj9Lb_Ml7y0" title="Trying To Get Her To Run Obstacles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
