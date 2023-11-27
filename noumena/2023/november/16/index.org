@@ -1,0 +1,31 @@
+#+TITLE: November 16, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Photos
+[[file:bubbles.jpg]]
+
+[[file:bubbles-2.jpg]]
+
+[[file:bubbles-3.jpg]]
+
+[[file:crazy-hair.jpg]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/hZ005Mzwhd4" title="Noumena Pointing At The Animals In The Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/vxfoeRA18Nw" title="Running Around With Her Books" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/dZ_bZrgQTD0" title="Wearing Daddys Shoes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

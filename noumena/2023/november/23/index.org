@@ -1,0 +1,40 @@
+#+TITLE: November 23, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Photo
+[[file:snotty-nose.jpg]]
+
+[[file:chilling-on-the-floor-2.jpg]]
+
+[[file:daddy-mopped-the-floors.jpg]]
+
+[[file:reading-with-daddy-2.jpg]]
+
+[[file:reading-with-daddy-3.jpg]]
+
+[[file:spitting-soymilk-all-over-daddy.jpg]]
+
+* Video
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/vsISgVcT76k" title="Dancing With Blankies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/IWSCyT6ixB8" title="Making Noises With Mouth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/zx1LzEhcWec" title="Screaming On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/SbaDTKN8pMk" title="Getting Caught Under Crib" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

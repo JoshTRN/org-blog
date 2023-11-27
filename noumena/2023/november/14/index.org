@@ -1,0 +1,11 @@
+#+TITLE: November 14, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:watching-tv-with-daddy.jpg]]
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/mftK7Im49-w" title="Messing With Non Toys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

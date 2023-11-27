@@ -1,0 +1,30 @@
+#+TITLE: November 17, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:passed-out.jpg]]
+
+
+* Photos
+
+[[file:naked-on-the-floor-2.jpg]]
+
+[[file:stickers-on-my-baby-2.jpg]]
+
+* Videos
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/Iz4j0qopi8o" title="Tickle Scratching Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/eylYCsyvobs" title="Hide And Skeek With Shirt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/2Ky2hOZCtcs" title="Acting Crazy Before Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

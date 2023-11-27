@@ -1,0 +1,33 @@
+#+TITLE: November 22, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:laying-on-daddy-2.jpg]]
+
+* Photo
+[[file:laying-on-daddy.jpg]]
+
+[[file:looking-cute.jpg]]
+
+[[file:looking-cute-2.jpg]]
+
+[[file:sitting-with-mommy-2.jpg]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/LGFfT4n7_mk" title="Playing In Living Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/i1i-TytUtyY" title="Giving Daddy A Hug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/UWxDiJWe1nA" title="Picking On Noumena With Aspirator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

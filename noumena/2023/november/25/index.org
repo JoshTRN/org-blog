@@ -1,0 +1,48 @@
+#+TITLE: November 25, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+[[file:hugging-chalmers-with-blanky.jpg]]
+
+* Morning
+
+[[file:snot-face.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/2dAAXWaUw7U" title="Picking On Daddy In The Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/TAa98gEXV1s" title="Touching Daddys Nipples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:hugging-chalmers.jpg]]
+
+
+[[file:playing-with-container.jpg]]
+
+* Evening
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/IZSM48IVul8" title="Saying Words" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/bvpriFOhLic" title="Saying More Words" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Emergency Room
+
+[[file:with-daddy-at-emergency-room.jpg]]
+
+[[file:with-mommy-at-emergency-room-2.jpg]]
