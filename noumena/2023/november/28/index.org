@@ -1,0 +1,51 @@
+#+TITLE: November 28, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+[[file:pics-with-chalmers-1.jpg]]
+
+[[file:pics-with-chalmers-2.jpg]]
+
+[[file:pics-with-chalmers-3.jpg]]
+
+[[file:pics-with-chalmers-4.jpg]]
+
+[[file:pics-with-chalmers-5.jpg]]
+
+[[file:pics-with-chalmers-6.jpg]]
+
+* Daycare Pickup
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/z0gc5F2W4I8" title="Eating Chips With Friends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/P6ZYyeZrvXU" title="Eating Tomato Soup And Making A Mess" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/zvAZH54k2X8" title="Going Through Her Catapiller" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/KMRnHo8xzj0" title="Making A Mess With Kisas Food" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/Bz-T_gnIwZ8" title="Making Mouth Noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

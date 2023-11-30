@@ -1,0 +1,62 @@
+#+TITLE: November 29, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:riding-chalmers.jpg]]
+
+* Good Morning, Noumena!
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/zLy6EvlA2b8" title="Bouncing In The Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/Jxw-4ivcWcc" title="Refusing To Eat Mac And Cheese" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe
+</div>
+#+end_export
+
+* Playing In Crib
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/iHo-RPGqRQE" title="In Crib Wtih Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/7EE0OanQlVs" title="Watching Daddy Wrestle With Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/MYwItOeDVUw" title="Putting Away Coins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/TyxsTB1O-tM" title="Making Animal Noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bath Time
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/3rUncATt1z8" title="Putting Laundry Away Herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/oqh9F2UtPVk" title="Daddy Licking Noumenas Face" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
