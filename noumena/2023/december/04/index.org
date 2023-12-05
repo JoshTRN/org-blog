@@ -1,0 +1,59 @@
+#+TITLE: December  4, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:hanging-with-chamlers-in-crib.jpg]]
+
+
+* Daycare
+
+[[file:daycare-1.jpg]]
+
+[[file:daycare-2.jpg]]
+
+[[file:daycare-food-1.jpg]]
+
+[[file:daycare-food-2.jpg]]
+
+[[file:daycare-food-3.jpg]]
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/vvJG1j3HxfQ" title="Using Cup Like Big Girl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Post Dinner Fit
+
+
+* Hanging out
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/LEZsTACE5r0" title="Refusing Daddy Kisses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/jDatJqaxQLQ" title="Putting Blocks Away Correctly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/pNqRGb6_u74" title="Baby Meat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/FAmumJD28Eg" title="Trying To Make Her Biceps Huge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/0i9PNtQ07gU" title="Eating Almonds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

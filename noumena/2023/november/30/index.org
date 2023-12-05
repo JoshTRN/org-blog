@@ -1,0 +1,27 @@
+#+TITLE: November 30, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/Ua5ZZ-Zuor0" title="Being Goofy Before Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Daycare
+
+[[file:going-down-slide.jpg]]
+
+[[file:going-down-slide-2.jpg]]
+
+[[file:playing-at-playground.jpg]]
+
+[[file:playing-at-playground-2.jpg]]
+
+
+* Target
+
+[[file:eating-chocolate-in-store.jpg]]
+
+[[file:eating-chocolate-in-store-2.jpg]]

@@ -1,0 +1,17 @@
+#+TITLE: December  3, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+
+* Walmart
+
+[[file:touching-cat.jpg]]
+
+[[file:toching-cat-at-walmart-2.jpg]]
+
+* Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/K0qkbVPxIEw" title="Using Daddys Let As Hurdle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

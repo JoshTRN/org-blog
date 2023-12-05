@@ -4,6 +4,7 @@
 [[file:riding-chalmers.jpg]]
 
 * Good Morning, Noumena!
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1885" height="713" src="https://www.youtube.com/embed/zLy6EvlA2b8" title="Bouncing In The Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -11,6 +12,7 @@
 #+end_export
 
 * Dinner
+
 #+begin_export html
 <div class="video-container">
 <iframe width="1885" height="713" src="https://www.youtube.com/embed/Jxw-4ivcWcc" title="Refusing To Eat Mac And Cheese" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe
@@ -18,6 +20,7 @@
 #+end_export
 
 * Playing In Crib
+
 #+begin_export html
 <div class="video-container">
 <iframe width="433" height="770" src="https://www.youtube.com/embed/iHo-RPGqRQE" title="In Crib Wtih Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
