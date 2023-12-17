@@ -1,0 +1,32 @@
+#+TITLE: December  7, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Morning
+
+[[file:sitting-with-bear-smiling.jpg]]
+
+[[file:sitting-with-bear-smiling-2.jpg]]
+
+[[file:sitting-with-her-bear.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1017" height="763" src="https://www.youtube.com/embed/r9qHcJYkL9U" title="Climbing Into The Crib" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Daycare
+[[file:coloring-with-friends-1.jpg]]
+[[file:coloring-with-friends-2.jpg]]
+
+* Dinner
+
+[[file:using-chopsticks.jpg]]
+
+[[file:using-chopsticks-2.jpg]]
+
+[[file:eating-dinner.jpg]]
+
+* Evening
+
+[[file:relaxing-in-the-house.jpg]]

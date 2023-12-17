@@ -1,0 +1,27 @@
+#+TITLE: December  6, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:reading-daddys-book-2.jpg]]
+
+
+
+* Morning
+
+[[file:playing-with-her-big-bear.jpg]]
+
+[[file:reading-daddys-book.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1017" height="763" src="https://www.youtube.com/embed/xj3bMZJgG4E" title="Playing With Her Bear In Her Crib" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Evening
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1017" height="763" src="https://www.youtube.com/embed/kSbIYL4IxJc" title="Watching Music Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

@@ -1,0 +1,94 @@
+#+TITLE: December 16, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+[[file:christmas-tree-at-james-weldon-park-5.jpg]]
+
+* Morning
+
+Noumena woke up at a little after 8 this morning. She woke me up from whatever bad dream I was having, so I went to the kitchen to prepare her oatmeal and let Chalmers out before going in her bedroom to greet her. I put the oatmeal into the freezer to cool down a bit before heading into Noumena's room. When I get there, she looks as though she's about to cry. I start acting goofy, and grab her giant bear and put him into the crib with her and she's fine.
+
+Noumena's slowly learning how to manipulate. There are times when I can tell she's not genuinely upset, but she does want something from me. The only issue is it's often hard to tell exactly what! Like in her crib this morning, she was making faces to get something out of me even thought it wasn't clear exactly what she wanted. I did distract her, but it's interesting observing her realize that I'm a separate person and that I can be influenced by her behavior. She's experimenting...
+
+After feeding Noumena, we hang out for a little while before heading out to meet Mommy for story time.
+
+* Story Time
+
+Across the street from the main library, there's a park. Since we'd arrived early and were waiting for Mommy, I take Noumena to the park to go and look at the festivities. There are fenced off sculptures created by local children themed "Deck The Chairs." We spend some time looking at those as well as the giant Christmas tree they have there before meeting Mommy for story time.
+
+  #+begin_export html
+<div id="orgfaf00d5" class="figure">
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-1.jpg" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-2.jpg" alt="toddling-3.jpg" width="50%">
+</p>
+<p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-3.jpg" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-4.jpg" alt="toddling-3.jpg" width="50%">
+</p>
+</div>
+#+end_export
+
+Noumena seems to be paying attention really for the first 10 minutes of story time but soon becomes restless. She gets up from her chair and runs out to the main room of the children's library to see the manatee seat they have as well as the small boat seat. Mommy walks outside to the courtyard and we follow her there before checking out some books an heading to the playroom. Mommy has stuff to do, so she leaves and we hang out a little longer reading some books and playing with some puppets.
+
+[[file:fountain-downtown-library.jpg]]
+
+As we're leaving the library, Noumena is fascinated with the stairs in the atrium so much so that when we reach the bottom, she turns around and begins climbing right back up. Once we've reached the top, she turns and goes right back down again. We repeat this loop probably five times before I decide it's finally time to go. Noumena, of course, wishing we'd continued our Sisyphean task, begins to protest as I carry her out of the library. We head back to the park across the street and hang out a little bit before I decide to walk with Noumena to a place very close by for lunch.
+
+[[file:deck-the-chairs-1.jpg]]
+
+[[file:deck-the-chairs-2.jpg]]
+
+* Lunch
+
+There used to be Zuccini spaghetti at this place I was kind of excited for, but I guess since ownership changed they don't have it anymore. Sadly, I resigned myself to getting the fried rice with tofu and an side of tofu bites for Noumena. Noumena was so well behaved at lunch it was wonderful. After eating, we head back to the car and drive home. About 30 minutes after we get home, I set Noumena down for a nap.
+
+#+begin_export html
+<div class="video-container">
+  <iframe width="1870" height="729" src="https://www.youtube.com/embed/OOoX2HyaO3Y" title="Being Scared Of Santa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Afternoon
+
+Mommy comes back around just before Noumena's nap ends to wake Noumena up and watches her while I go to return an extra Christmas tree we'd ordered by accident. When I get back, I need to get some gift wrapping paper to wrap Noumena's presents, so I invite Mommy to go to the store us and get some. She gets Noumena dressed in a ridiculous dress and we head out.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/Cu9qvlwJxlE" title="Wearing Her Ugly Dress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+ATTR_ORG: :width 50%
+[[file:ugly-dress.jpg]]
+
+#+ATTR_ORG: :width 50%
+[[file:ugly-dress-make-a-mess.jpg]]
+
+#+ATTR_ORG: :width 50%
+[[file:walking-to-mommy.jpg]]
+
+We decided to go to target and while we were there, we let Noumena pick out a stocking and got an extension chord so our tree topper will light up now and then we head home.
+
+* Evening
+
+Noumena and I had a very relaxed evening. We had macaroni and cheese for dinner and mostly read books and played with flash cards. She fed the pets as usual and "helped" daddy put away laundry.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/Zu0NBU7SFWw" title="Helping Daddy Do Laundry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath & Bed Time
+
+When it's finally time for Noumena's bath, we follow our usual routine where she puts the wash cloths in the tub, turn on the faucet, take her clothes off, put them in the laundry basket and throw away her diaper. However, when she goes to throw away her diaper today, she does something very strange that I can't help but laugh at. She starts carrying the diaper between her legs and seemingly realizing it's a bad idea, crouches down to inspect what's going on. So I have a naked baby, squatting in my room staring at her diaper on the floor and it's just one of the funniest scenes. Eventually, I get her to throw away her diaper and head into the bathroom for bath time.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/MttC0qjTkUg" title="Being Just Too Cute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+I get Noumena dressed as we follow our usual bed time routine of brushing her teeth and listening to our bedtime playlist. It's so sad that my growing baby just does not want to be rocked to sleep anymore. I'm coping with it, but I do miss it so when I could hold her in my arms and let her fall asleep there before transferring her to her crib.
+
+Noumena, I miss you already and I'm excited for what tomorrow has in store for us. Sleep well, my precious baby. See you in the morning!

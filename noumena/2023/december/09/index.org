@@ -1,0 +1,2 @@
+#+TITLE: December  9, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
