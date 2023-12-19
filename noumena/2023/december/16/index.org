@@ -1,7 +1,13 @@
 #+TITLE: December 16, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
 
-[[file:christmas-tree-at-james-weldon-park-5.jpg]]
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/16/christmas-tree-at-james-weldon-park-5_1_4000_sized_2.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 16th Header Photo"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="December 16, 2023">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/16/christmas-tree-at-james-weldon-park-5_1_4000_sized_2.jpg" />
+
+[[file:christmas-tree-at-james-weldon-park-5.jpeg]]
 
 * Morning
 
@@ -10,7 +16,6 @@ Noumena woke up at a little after 8 this morning. She woke me up from whatever b
 Noumena's slowly learning how to manipulate. There are times when I can tell she's not genuinely upset, but she does want something from me. The only issue is it's often hard to tell exactly what! Like in her crib this morning, she was making faces to get something out of me even thought it wasn't clear exactly what she wanted. I did distract her, but it's interesting observing her realize that I'm a separate person and that I can be influenced by her behavior. She's experimenting...
 
 After feeding Noumena, we hang out for a little while before heading out to meet Mommy for story time.
-
 * Story Time
 
 Across the street from the main library, there's a park. Since we'd arrived early and were waiting for Mommy, I take Noumena to the park to go and look at the festivities. There are fenced off sculptures created by local children themed "Deck The Chairs." We spend some time looking at those as well as the giant Christmas tree they have there before meeting Mommy for story time.

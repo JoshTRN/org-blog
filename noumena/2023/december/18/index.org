@@ -1,0 +1,96 @@
+#+TITLE: December 18, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/18/dinner-with-mommy-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 18th Header Photo"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="Making Dinner With Mommy">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/18/dinner-with-mommy-preview.jpg" />
+
+[[file:dinner-with-mommy.jpg]]
+
+
+* Good Morning, Noumena!
+
+ I rolled out of bed at about 8am just a little earlier than Noumena and she started waking up while I was preparing her oatmeal. Toddlers surprise you in the weirdest and not necessarily most pleasant ways. When I entered her room, she was seemingly in a fantastic mood. She played a little rolling around in her crib before I got her out to eat. Starting breakfast was fine, but about halfway through, she began to get irritable, at what I don't know. She often has a bit of frustration while eating in the morning and I'm not exactly sure what the cause of it is, but today seemed a little bit more excessive than usual.
+
+ Despite Noumena's outbursts, I never really lose patience with Noumena. Often, I just tried to understand and empathize with what she's feeling even if I don't understand it, letting her get up and run and pout for a short while before returning to eat. Eventually, as always, Noumea stabilized and we finished breakfast, got ready for daycare and head out.
+
+ Dropping Noumena off at daycare, there's no hesitation anymore, no crying when Daddy leaves, except now, from Daddy. Thoughts I'm sure many parents have pop up in my mind, however easily rationalized away, that draw out tears. Of course, it was always bound to happen. Obviously, Noumena wasn't always going to cry when being dropped off, but from my perspective, it just feels like she doesn't need Daddy anymore. And maybe that much is true. Maybe, to the extent that she's feels safe and comfortable in that environment, she doesn't need Daddy to feel safe. She's grown and I'm proud of her and happy she feels safe. Still, while the part of me that cherishes her independence smiles, the part of me that misses that specific neediness weeps. Leaving the daycare, tears of pride and sadness stream from the corner of my eyes. I'll inevitably acclimate to the change. Nevertheless, for the time being, her growth is viewed through my eyes as both sad beautiful at the same time.
+
+* Making Dinner With Mommy
+
+Mommy picked Noumena up a little early from daycare today and took her to the grocery store to buy some ingredients to cook us all dinner. She had the idea to have Noumena cook with her and Noumena absolutely loved ever second of it. Noumena helped Mommy skin the potatoes and put the green beans in the pot after Mommy had cut off the stems.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/sYz_g7riK2I" title="Making Dinner With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+After Noumena's helped Mommy with all the stages she can, she still wants to be in the kitchen while Mommy cooks, so it's my duty to distract her, a job I'm all to happy to take on. I change her diaper and then when we're in Noumena's bedroom, I got it in my head that her tent was a cuddle tent and that while she was in there, I was going to force her to cuddle with me. Whenever she tried to leave, I'd snatch her back up and bring her back into the tent for more cuddles, periodically letting her leave the room so I could chase her down the hall just to bring her back into the tent to inflict more cuddles. After a while, I tried to switch up the game a bit so that the tent became the only place that would stop me from cuddling her, that she had to run in there for refuge. This latter half of the game didn't catch on as well as the former. Maybe in few months she'll better understand invisible force fields. Regardless, we had plenty of fun before dinner was ready.
+
+When dinner was ready, we sat down to enjoy our meal together. Mommy wanted Noumena to try eating from a bowl, so she separated out Noumena's portion into one of her baby shark bowls and we gave her utensils to with. Once Mommy and I finished eating, Mommy wanted to make cookies with Noumena. We didn't have frosting, so I went to the store to get some while Noumena finished up. Mommy started washing Noumena's hands and we ended up getting Noumena's shirt wet, so we had to change it. This turned into a battle royal on the bed!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/aN3YaHrqpSI" title="Running Away From Daddy Trying To Clothe Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging out at Home
+
+[[file:wearing-daddys-coat.jpg]]
+
+Mommy read a few books with Noumena and afterward Noumena and I just hung out while Mommy cleaned up. At some point I got the idea to put my hoodie on her. I tried to get it all the way on her, but obviously she felt restricted by that so started whining. I took it off immediately. I don't remember how we got back into Noumena's room, but when we did, she wanted to be in her crib. Noticing that she had a lot of energy, I wanted to do something that would wear her out, so we decided to go for a walk. We invited Mommy go with us, got Noumena dressed and left the house, but Mommy didn't feel so well so she decided to turn back.
+
+[[file:messy-hair.jpg]]
+
+[[file:reading.jpg]]
+
+
+* Nightime Walk
+
+I've been giving Noumena a lot of independence on our walks. I always stay close to her but I only try to hold her hand when we're crossings streets or cars are around. To keep her focused on where I want her to go, then, I end up having to act goofy to get her to follow along. Of course, she has to mimic me and ends up doing some truly amazingly cute things.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/SkMk47iG4Qw" title="Being Crazy On A Walk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Once we got to parking lot of the church just down the street from us, again still trying to entice Noumena to follow my lead, I crouch down with my head to the ground and look at her from between my legs prompting her to follow in my ugh... head steps. At this time, I'm truly in the moment. I feel so connected to Noumena when it's just me and her out there in the cold weather together. I want to show her everything, teach her everything and always be there for her.
+
+[[file:being-goofy.jpg]]
+
+[[file:goof-ball.jpg]]
+
+We spend a lot of time jumping off ledges, running through the grass, playing hide and seek and climbing stairs. Mommy calls and says she's going home, but wants to say goodbye to us so I tell her we're in the parking lot of the church. Mommy drives by to say goodbye to Noumena and Noumena tries to crawl inside Mommy's car. Mommy picks Noumena up and lets her sit behind the wheel before giving her a kiss and saying goodbye. Noumena cries when she realizes Mommy's leaving, but I'm able to distract her and we leave for home to change Noumena's stinky diaper.
+
+[[file:driving-mommys-car.jpg]]
+
+* Night
+
+Since I had to change her diaper and it was so close to her bath time, I decided to just take her clothes off and let her wander around with only a diaper on. From the changing table, she climbs down into her crib and starts playing with her blankets and then starts rubbing her fingers together.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/ganAQcVoFEM" title="Playing With Fingers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+She seemed to enjoy the music she was listening to in the crib, so I thought maybe she'd want to go watch some of her favorite music videos. We sit down together and watch /ABC/ by Polyphia and /Levitation 21/ by Tigran Hamasyan and she's absolutely in love with these videos.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/R6U_bW3CCU4" title="Loving Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath & Bed Time
+
+Because we watched Tigran on repeat so many times, we ran a little late to bath time. Bath time goes as usual which has gotten a lot easier for me now that she doesn't really put up a fight when shampooing and rinsing her hair. Hell, she's actually taken quite a liking to being washed, so she'll listen to all the commands I give her when trying to wash her. Even drying her off has turned into its own game where I slowly approach her head with a towel and then attack her head with it!
+
+I almost always give her a choice in the pajamas she's wearing to bed, but I couldn't find the bottoms of one set, so I made the executive decision to put her in the cat pajamas. We brush her teeth and head back into her room to listen to her night time playlist.
+
+She doesn't even want to fall asleep against me anymore. She's gotten so used to bed time and knows she's going to be in the crib, that she just wants me to set her in there immediately, so of course I do. Instead of dancing, I caress her face to the music as she drifts off into dream land. Goodnight, Noumena. I hope you enjoy the sweetest of dreams.

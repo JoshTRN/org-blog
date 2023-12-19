@@ -8,4 +8,3 @@
     <span class="topbar-menu"><a href="/philosophy">Philosophy</a></span>
   </div>
 #+end_export
-

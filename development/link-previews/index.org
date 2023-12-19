@@ -1,0 +1,38 @@
+#+TITLE: Generating Link Previews in Telegram and Signal
+#+INCLUDE: ~/org/blog/development/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+  #+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image" />
+  #+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+  #+HTML_HEAD_EXTRA: <meta property="og:image:type" content="image/jpeg" />
+  #+HTML_HEAD_EXTRA: <meta property="og:image" content="https://joshua-wood.dev/development/link-previews/meme.jpg"/>
+  #+HTML_HEAD_EXTRA: <meta property="og:image:width" content="750"/>
+  #+HTML_HEAD_EXTRA: <meta property="og:image:height" content="459"/>
+  #+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/">
+
+Every programmer understands the following meme. Though this isn't /exactly/ what I experienced, the same feeling experienced there is a similar experience I went through when trying to generate link previews for images with signal and telegram.
+
+[[file:meme.jpg]]
+
+Initially, when you start looking into link previews, it seems as simple as just adding the following image tag:
+
+#+begin_src html
+  <meta property="og:image" content="{IMAGE_URL}">
+#+end_src
+
+Deceptively, for websites such as twitter, Facebook, and LinkedIn, that is all you need. Things get a little more complicated for Signal and Telegram.
+
+* Signal
+
+
+* Telegram
+
+
+#+begin_src html
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="og:type" content="website">
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="1280"/>
+  <meta property="og:image:height" content="720"/>
+  <meta property="og:url" content="https://joshua-wood.dev/">
+#+end_src
