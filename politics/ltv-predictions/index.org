@@ -1,0 +1,44 @@
+#+TITLE: Predictions Made By The Labor Theory Of Value
+#+OPTIONS: num:t ^:_
+
+#+INCLUDE: ~/org/blog/politics/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/politics/ltv-predictions/ltv-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="Predictions Made By The Labor Theory Of Value"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="Predictions Made By The Labor Theory Of Value">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/politics/ltv-predictions/ltv-preview.jpg" />
+
+*  A tendency for the value rate of profit to decline during long wave periods of expansion
+
+A "novel fact" according to Lakatosian criteria in that the phenomenon was not explained by previous theories; also, this tendency is not predicted by neoclassical economics
+
+* The relative immiseration of the proletariat
+ i.e., an increase in the rate of surplus-value, as a secular trend. Not predicted by neoclassical theory
+
+* An inherent tendency toward technological change, as a secular trend
+A "novel fact" according to Lakatosian criteria in that the phenomenon was not explained by previous theories; also not predicted by neoclassical theory
+
+* An increase in the physical ratio of machinery (and raw materials) to current labor, as a secular trend
+Not predicted by neoclassical theory -- indeed, neoclassical theory cannot even provide an ex-post explanation of the causes of the observed increase in this ratio, because it cannot discriminate empirically between supply causes and demand causes
+
+* A secular tendency for technological change to substitute machinery for labor even in capitalist economies which are "labor-abundant" or "capital scarce"
+
+Neoclassical theory, by contrast, seems to predict that labor abundant economies should be characterized by the widespread replacement of machinery with labor, both by "substitution" and perhaps by an induced "labor-saving" bias in technological change; however, the history of developing countries supports Marx's prediction and contradicts neoclassical theory
+
+* An inherent conflict between workers and capitalists over the length of the working day
+A "novel fact" according to Lakatosian criteria in that the phenomenon was not explained by previous theories; also not predicted by neoclassical theory -- indeed, the empirical evidence also contradicts the neoclassical theory of labor supply, according to which the working day is determined by the preferences of workers, because competition among firms forces them to accommodate workers' preferences. According to this theory, there should be no conflict between firms and workers over the length of the working day, but competition has the opposite effect, forcing firms to resist attempts by workers to reduce the working day because such a reduction will reduce profit in the short run
+
+* Class conflict over the pace and intensity of labor effort
+A "novel fact" according to Lakatosian criteria in that the phenomenon was not explained by previous theories; also not predicted by neoclassical theory.
+
+* Periodically recurrent recessions and unemployment
+A novel fact.
+
+* A secular tendency for capital to concentrate
+A novel fact not predicted by the neoclassical theory of the firm.
+
+* A secular tendency for capital to centralize
+
+* A secular decline in the percentage of self-employed producers and an increase in the percentage of the labor force who are employees
+A prediction concerning the evolution of the class structure in capitalist societies is not derivable from any other economic theory.
