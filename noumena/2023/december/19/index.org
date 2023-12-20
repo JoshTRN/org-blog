@@ -1,0 +1,82 @@
+#+TITLE: December 19, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/19/messy-hair-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 19th Header Photo"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="Hanging Out At Home">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/19/messy-hair-preview.jpg" />
+
+[[file:messy-hair.jpg]]
+
+For the longest time, Noumena sat on my lap in the mornings while I spoon fed her. Now, she's getting too old for that and craves her independence. It reminds me of something I think a lot of parenting advice gets wrong. Often, we're told to do various things that encourage growth and development in a way that seems hasty to me. One example that comes to mind is sleep training---something that, despite the innumerable parenting blogs I've read, I still don't understand in any concrete terms. They insist on promoting your child falling asleep without parental assistance---something I think is more done for the parents' sake rather than the child's.
+
+Here's the thing, no one  knows any adults who need their parents' help falling asleep. This, like a dozen or so examples I can't recall off the top of my head, is something they're going to grow out of whether you like it or not! Just as she no longer wants to be spoon fed, she no longer wants to be rocked to sleep. I cherished the time she would let me feed her, so I saw no rush to abandon the practice. And, just as I predicted, that time is sadly coming to an end. She will feed herself from now on.
+
+My beloved infant has been gradually disappearing into toddlerhood, and far too soon will my toddler disappear into childhood leaving only memories... and these entries.
+
+* Good Morning, Noumena!
+
+Noumena let me sleep up until 8:30 this morning, which I was grateful for since I stayed up so late last night writing her journal entry from yesterday. I prepared her oatmeal and let Chalmers out before going to retrieve her from her crib. The instant oatmeal is always hot when I go to pull it from the microwave, so I set it in the freezer to cool down quickly because Noumena always seems to wake up ravenous. Since the oatmeal is in the freezer and Noumena is stirrings, clearly wanting out, when I go into her bedroom, I try to buy as much time as I can, because once she sees the food, it's all over. If I don't give it to her right away, and I mean /immediately/, it's a huge fuss! So, I try to occupy her in her crib as long as I can before she insists on coming out to go eat. I usually change her diaper after breakfast, but today, I noticed she'd soiled herself, so I changed it right away buying me some extra time.
+
+Despite having grown out of Daddy spoon feeding her, Noumena is still content to sit on my lap while she enjoys her breakfast. I'm not sure what I can extrapolate from my experience today, but I did notice something. Often, I would share the bowl of oatmeal with her, and today, when I took a bite off her spoon without her offering it to me of her own volition, she seemed to start to get really upset. She's been regularly fussy at breakfast recently and I'm wondering to myself if the whole time it was just because I wasn't letting her eat herself or if it was my sharing with her. She calmed down quickly once I gave her the spoon back and so now I'm not going to share with her any more either. I'll let her dictate the terms of her eating. I'm even considering getting a toddler table for her to choose to sit at and eat completely independently.
+
+Once breakfast is over, Noumena's in a good mood. I get her dressed in her sweats since it's pretty cold outside today and we make our way to the car. These days, she walks out the door all on her own and follows Daddy to the car. We haven't quite gotten to the stage where she can climb into the car on her own just yet, but I think it's because I try to get her to climb in on the side with the car seat. Tomorrow, I'm going to see if she can climb into the car from the other side and sit herself down in the car seat.
+
+Just as the previous few days, once we arrive at the daycare, and say hi to the manatee statue which stands outside the building, she enters her class without hesitation and not a single fuss at the prospect that she won't get to hang out with Daddy for the rest of the day. She's excited to see the teachers and her friends and I'm saddened by it all once again.
+
+* Arriving Home
+
+Noumena's mother stopped by the house to wrap some of Noumena's Christmas gifts before I left to pick Noumena up, so she accompanied me to retrieve Noumena from daycare. She got a book /Go Dogs, Go/ that she was very excited to read to Noumena, so once we arrived home, she started reading to Noumena right away. Noumena was very interested but shortly became more interested in the TV.
+
+Once Noumena sees the remote within reaching distance, it's all over. She will grab it, grunt at you and hand you the remote. Mommy and Noumena began watching TV together while I warmed leftover mashed potatoes from yesterday and 2 day old macaroni and cheese. Once I was finished, and set the food at the table, Noumena was not interested in eating. She wanted to continue watching the TV, but Mommy had to so when I took her off Mommy's lap, she got very fussy about it. No longer was she interested in watching whatever kids shows were on TV. I happen to know, however, how much Noumena likes watching /Levitation 21/ by Tigran Hamasyan, so I turn that on and of course she's captivated.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/uWuLwKEw29I" title="Watching More Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Are You Going To Stick To Your Guns?
+
+Noumena and I watch for a little while together, but I think the combination of Mommy leaving and me turning off the TV turns into a huge tantrum. She's not interested in eating and is in fact actively resisting it. I will never force her to eat. I think that's a horrible practice, so I put the food away confident that she'll get hungry later and eat it then, but the fit persists.
+
+Often, children will throw fits because they want attention. I never understood the reasoning that children "just want attention" as a reason for withholding it from them. My job as a parent is to attend to my daughter. My daughter deserves my utmost attention, but in this case, it's doing nothing to relieve her frustration. At this point, I'm realizing that the fit is not for attention, but to get her way. As difficult as it is to witness your most beloved gift in such distress, I do think it's important not to give in when they're simply not getting their way. So I let her throw her tantrum. I allow her to get out all the frustration and just move along taking care of things around the house while she throws the tantrum.
+
+Since I never remember to do it, I go to organize her clothes. Screaming and hollering, Noumena follows me around the house. I take the clothes into her bedroom and start organizing them into her drawers. She follows me in there and watches me calmly put away her clothes. She knows I'm not leaving her, but I'm also not paying her demands elicited by the howls any mind. As I'm putting away clothes, a wave of calmness overtakes her. In mere moments, she just becomes curious, calms down and starts helping me. Words fail to describe how beautiful I find her calming down. I'm not even sure what it means to me exactly, but watching the distress fade into curiosity and contentment, I have a memory I never want to lose.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/dCoBoyFtga8" title="Making A Mess From Her Clean Clothes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Noumena plays independently alone in her room just putting away clothes for 40 whole minutes allowing me to get stuff done around the house. I am so impressed with her.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/8RySeNWhsyg" title="Piling Clothes Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Eventually, as I predicted, once she's calm, she grows hungry. I heat up the food I'd set aside and sit her in her high chair. After a few brief moments of resistance, she begins to eat her potatoes and macaroni and is contented once again.
+
+* Before Bed
+
+It was almost 8pm when Noumena finally finished eating and the night seemed to have just flown by. We read a few books together of her choosing. In fact, we almost make it through the entire 50 pages of /Go Dogs, Go/! Her attention is marvelous! Later, we spend some time on the bed loving on Kisa before it's bath time.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/snX8vUiSymQ" title="Being Wonderful To Kisa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath & Bed Time
+
+Following our usual bath time routine, when I tell Noumena it's bath time, she runs to the bathroom to turn the tub on. Then we head to the bedroom to remove her clothes for her to put in the laundry basket and run, diaper in hand, to the trash can to throw it away before running back to get into the tub. Once again, bathing her couldn't be simpler. As she's grown and we've been through literally hundreds of baths, she's acclimated and is now helpful when I'm shampooing her and practically demanding that I scrub her down. Since washing her is so fast, we have some time just to play with her toys before putting them away and getting ready for bed.
+
+As always, I let her choose which pajamas she's going to wear from two options, get her dressed brush her teeth and take her into her dark bedroom to put her to bed.
+
+Noumena, I know you're a big girl already, but Daddy's just not ready not to dance holding you while you fall asleep in his arms! Instead of dancing, however, Noumena wants to be placed in her crib as our bedtime playlist plays. I tickle-scratch her face until she's fast asleep.
+
+I love you so much, Noumena, and I'm so proud of all the amazing progress you make every single day, but you're growing up too fast baby. Daddy misses little Noumena.
