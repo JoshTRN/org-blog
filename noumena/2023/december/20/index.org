@@ -1,0 +1,121 @@
+#+TITLE: December 20, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/20/bundled-up-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 20, 2023 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/20/bundled-up-preview.jpg" />
+
+[[file:church-stairs-2.jpg]]
+
+* Good Morning, Noumena!
+
+Last night, after I put Noumena to bed, I finally got around to preparing her porridge once again, so when I rolled out of bed at 8:30am after I heard Noumena talking to herself in her bedroom I prepared that. I'm not sure how I fell off of doing that because a the little upfront investment I have to make to prepare it actually makes life easier in the long run. With the oatmeal, it's always too hot after it cooks, so I have to cool it in the freezer because as I said in yesterday's journal entry, when Noumena wakes in the morning she's absolutely ravenous! Not to mention the fact that the oatmeal is way more loaded with artificial sugars. But, when I warm up the porridge, it's hot, but I always cool it down with soymilk making it just warm enough to eat right away.
+
+I was worried when I set her in her high chair this morning that the reduced sweetness of the porridge would cause her to fuss, but she must have remembered the taste even though it's been over a month since she last had it, because she dove right in and absolutely loved it. Again, as I said in yesterday's entry, I'm no longer going to be spoon feeding her despite missing all the kisses I give her when she sits on my lap to eat. As I predicted, fostering her independence seems to have paid off. Apart from the very little fuss I witnessed at the very beginning of her meal, she was all too happy to be shoveling the food in her mouth herself.
+
+I've been watching a lot of Montessori videos on YouTube and they strongly emphasize toddler independence. Intuitively, I agree with most of the advice, so I gave Noumena a metal spoon today to serve herself. They insist on metal cutlery as with forks it's easier to stab food items and the texture of the metal makes food less likely to slip off the cutlery compared to plastic cutlery. The spoon is too big for her, so I'm going to get her some metal ones. The next thing I intend to do is get her her own toddler sized table with a chair to eat at.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/FNn78hHcBcw" title="Eating Porridge All By Herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[file:cute-outfit-2.jpg]]
+
+[[file:cute-outfit-for-today.jpg]]
+
+After eating and getting dressed for the day, following the theme of fostering independence, I allow her to get into the car and sit in her car seat all by herself.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/JK4_XihfgfY" title="Getting In The Car By Herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* The Drive Home
+
+When I pick Noumena up from daycare, the teacher is just setting her down to be changed. Since we caught her in the middle of changing Noumena on Monday, Noumena was making a big fuss about it. Since she knew we were there, she didn't want to be laying on the changing table---she wanted to be interacting with me and her mother. I knew the same thing would happen if I allowed the teacher to change Noumena today, so I insisted that I do it. After changing her, I washed her hands  and mine at their little toddler sink and we head home.
+
+Getting into the car, I started playing /ABC/ by Polyphia because she loves that song so much. Immediately she's getting into it which keeps her content. We listen to it a couple of times before I turn on /Opiate Lies/ by SKEB. For over a year of Noumena's life, that was the song I rocked her to sleep to. It seems so out of character that that song would be a song a baby could fall asleep to, but it worked. More than that, it was a pivotal in getting her to calm down in car rides. I'm not sure why that practice had stopped, but seeing as Noumena seems more interested in music as time goes on, I turned it on again. Funnily enough, she began to fall asleep nearing the end of that song and I wondered to myself if it was a Pavlovian response conditioned in her from infancy to fall asleep to that song. I reached my hand back and tickle-scratched her face as she dozed off.
+
+Noumena probably started falling asleep at about 5:30-ish and we arrived at the house around 5:45pm. I worried about waking her up, but I couldn't let her sleep past 6pm or she'd give me a rough time going to bed. When I pulled into the driveway, I left the car running to keep her warm in the backseat and sat there with her while she snoozed. Thankfully, right at 5:58pm, Noumena started to arouse from sleep, and, with a little conversation with Daddy, she was excited to be home. I didn't have to deal with a tired and fussy baby. Crisis averted.
+
+* Dinner
+
+Carrying Noumena into the house, she's excited to greet Chalmers. I set her down, and he runs up to her licking her face as she smiles, laughs and hugs him. I've been waiting for this behavior for quite a while now. Ever since Noumena started daycare, she's been very clingy after I pick her up. For the longest time, I haven't been able to set her down just as I get home---she's only wanted to stay in Daddy's arms until she's acclimated to my presence.
+
+Tonight's menu consists of leftover mashed potatoes, tofu scramble and a protein shake I made for myself while she was eating that I decided to share with her. While I was on my lunch break today, I went to target to get her metal silverware and once her food had warmed, gave that to her to eat with. She already had a sippy cup of water, but since we're working on growing independence, I'm considering getting her a spout of filtered water that she can poor from herself to get water whenever she wants. After having made the shake, I fill another normal cup with the shake for her to drink from. I take the opportunity to clean some dishes as she eats, but I glance in her direction and I see her take her mashed potatoes on her fork, dunk them into the protein shake, pull the fork back out with the potatoes still on them, and consume the potatoes. I have no idea where I went wrong as a parent...
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LsvZ1Aks-4k?si=JiAd-Pume8pB3lci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Reading And Listening to Music
+
+I served Noumena dinner in her coat. I'm not sure why I went that route, but I think it turned out okay kinda like a bib. Once we're done I ask her if she wants to read a book and she goes and picks up her book /Busy Gorillas/ and read that to her a few times before she picks up /Go Dog, Go/. We get through the entire 60 page book /Go Dog, Go/. When I read to her, I point at each word as I say them because in my mind I think it might help her associate the words with the sounds and the meanings faster. That's a lot of words---making it all the more impressive that she was able to get through the entire thing.
+
+After reading, Noumena heads over to the shelf where many of her toys rests and starts asking to look at the top shelf, so I pick her up, she points to the basket we keep her books in and clearly wants it, so I grab it down and set it in the middle of the living room for her to pull from. Unbeknownst to me, Noumena's mother had put Noumena's flash cards into that basket since we lost the box they came in. I turned over the whole house looking for that box too and couldn't find anything. I suspect Noumena threw it into the trash and I didn't notice because there is just no other accounting of it's disappearance. Anyway, she's totally occupied with pulling the flash cards out giving me ample opportunity to clean tidy the house as she plays. Eventually, perhaps because she was reminded of the other smaller flash cards her mother had gotten her, she fetches those from the shelf as well, I open them for her and she continues to play.
+
+I had Nevermore stuck in my head, so I turned that on and Noumena and I listened to Vitaliy's vocal cover of /My Acid Words/ and we jam to that. It reminded me of a conversation Vitaliy and I had last night about how she reacted to Meshuggah, so after /My Acid Words/ is done, remembering that she used to like /Rational Gaze/ by Meshuggah, we turn that on and listen to it together. She absolutely loves it. Definitely my kid.
+
+* Nighttime Walk
+
+Afterward, I wanted to take Noumena on a walk through the neighborhood. Given that Noumena's jacket from earlier was soiled by the food she'd eaten and remembering that she had another jacket in the car, I go out to get it. Noticing a zip up hoodie in there, I bring that in as well. I first put on her hoodie, but fearing that it might not be warm enough, I overlay her leopard print jacket. She is so mismatched it's hilarious. Her long, red and black, plaid long sleeve shirt protrudes from the bottom of her bright pink hoodie which is wrapped by her leopard print jacket. it's truly a sight to behold!
+
+[[file:bundled-up.jpg]]
+
+[[file:bundled-up-2.jpg]]
+
+On our walk, the neighborhood dogs are out, compelling Noumena to stop and have a chat.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cAq7_nMxeGQ?si=eUqXCjz7zWiXsCCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+I'm not sure why, but the church parking lot seems like such a great place to wander and play at night, so we spend a long time there running, jumping and exploring.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0ddbNtnGds?si=vexa6hUlNCHPKIpS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+I saw this flight of stairs and knowing how much Noumena loves to climb stairs (can you imagine?) we spend a few minutes there. Knowing this, however, makes it all the more difficult for her when it's time to pull her away. It's almost 8pm, so we have to head back home and she lets her dissatisfaction with the situation be know through protest. Nevertheless, I stick to my guns and carry her back home eventually being able to distract her by point to the various objects like trees, mailboxes, driveways and houses on our way back bringing the fussiness to an end.
+
+[[file:chruch-stairs.jpg]]
+
+[[file:church-stairs-3.jpg]]
+
+Once home, I get Noumena to feed the pets after playing with her flashcards a bit that had been left out. I get Noumena to feed the pets and then we read a few books until bath time.
+
+* Bath Time
+
+As usual, Noumena is so wonderfully helpful during bath time allowing me to clean her quickly so we can just play with toys for the remainder of the bath. Eventually, I'll have to figure out a way to film her putting away her toys. I can't do it because while she puts them away, I have to use both hands in order to hold the mesh bag bath toy container open, but when she puts away her toys she makes a surprised face, opening her mouth with an 'o' shape hesitating to put the toys away until she does and I let out a high pitched yelp saying "VERY GOOD, NOUMENA!"
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seAv_KgMwSY?si=UAtmjMux13-reQeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3wkt_YqFIA?si=47Qf0dUm55FJnuiB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Goodnight, Noumena!
+
+We follow our usual routine of letting her pick out her pajamas after applying diaper rash cream before putting a fresh diaper on, brushing her teeth and bringing her into her dark bedroom to dance to sleep. But, just like yesterday, Noumena doesn't like dancing anymore. She wants to lay in bed immediately upon entering her darkened room. Gone are the days when I can hold my baby in my arms as she falls asleep and I don't think I will ever stop missing them. The adage "they grow up too fast" will never not ring true for me.
+
+Instead, as /Isn't She Lovely/ plays, I cover her with her blanket and caress her face. Probably because of the nap in the car, she falls asleep much slower than usual. We listen to her entire playlist twice before she's fallen asleep. Tonight, however, she's sleeping very hard. As I'm up at 2am now, not so much as a peep has come from her room. I'm happy she's staying in a deep sleep tonight.
+
+Good night, my beautiful baby. I love you so much. Just looking at the photos from today at how perfect you are has brought me to tears. I hope you have the sweetest of dreams and know Daddy will always be here for you.

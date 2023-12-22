@@ -1,0 +1,72 @@
+#+TITLE: December 21, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/21/eating-dinner-making-funny-faces-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 21, 2023 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="Ikea Trip Day">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/21/eating-dinner-making-funny-faces-preview.jpg" />
+
+[[file:eating-dinner-making-funny-faces.jpg]]
+
+Increasingly, fostering Noumena's independence has drawn nearer into focus. The next step of which is turning her crib into a toddler bed that she can crawl into and out of at will. Now, my internal monologue worries,
+
+"I'm not even sure if I should keep her door closed at night. What if she wants to leave her room? Maybe I'll crack it just before I go to sleep at night."
+
+Even imagining I decide to keep her door closed until morning, and I just let her roam around her room, eventually, she'll be grow tall enough and smart enough to open the door without assistance! What this means for me is that sooner or later, a precious pair of toddler eyes will be peering up at me from my bedside, and a faint, high-pitched voice saying "Daddy" will  wake me rather than distant sounds emanating from her bedroom. As much as I relish the thought of such a beautiful experience, I also worry that she'll then begin to wake earlier, and, therefore, waking me earlier decreasing the already little sleep I get trying to take care of everything.
+
+I suppose, as with all challenges, I'll cross that bridge when I get to it.
+
+* Good Morning, Noumena
+
+Like clockwork, Noumena's waking noises radiate from her room at 8:30am on the dot waking me from my sleep. Feeling especially groggy given how late I've been up the last few nights writing these entries, I roll out of bed to warm her morning porridge. Having learned from yesterday, I get everything ready her high chair, and set her porridge on the table next to it along with two of the metal spoons I'd bought for her yesterday allowing her to choose herself between the pink and blue ones. This morning, after extending her morning salutations and changing her wet diaper, I sit her down to eat. She chooses the blue spoon and proceeds to eat her breakfast all by herself. Noticing that the plastic bowl I've provided her slips around as she's spoons porridge out of it, so I grab a roll of polyester shelf liner we have leftover and cut a piece to set down reducing slippage. She finishes the remainder of her meal while I prepare myself a cup of coffee. I think she's grateful for all the choices I've given her.
+
+When it's time to get dressed, I take her down from her high chair and get her to follow me to her bedroom to select her outfit for the day giving her the choice between her white sweat outfit and black one. She chooses black, so I get her dressed on my bed in order that she puts her dirty pajamas into the hamper as she does when I take her clothes off at night for bath time.  Of course, like the wonderful little helper she is, she obliges. Regrettably, I didn't clean her well enough when I removed her from her high chair, so remnants of porridge are left on my bedsheets. No matter---/C'est la vie/.
+
+When I tell Noumena it's time to go to daycare, she already knows to start heading for the door and practically races me there. I like to think maybe she's excited to see her friends. Worrying that it might be too cold out, I make a quick pit stop to get her jacket before heading out the door with her. Just like  yesterday, I allow her to follow me to the car in order to allow her the agency of climbing into the car seat herself. When I get to the car, I notice that she's not behind me and I can't see her. My heart jumps into my throat and I rush over looking for her. She was on the other side of the other car when I saw her, and, laying eyes on her, I'm comforted by a wave of relief. I verbally nudge her to follow me again walks around the car to the rear driver's-side door and climbs in with the slightest assistance from me. Sensing some difficulty Noumena's having getting into the car seat, I head to the other side of the car to buckle her in and away we go. The first thing I play over the speakers is /ABC/ by Polyphia and of course she's excited and bobbing her head to it as we make our way to the daycare.
+
+We greet the manatee that stands outside the daycare as we enter and, much like the past week, I drop her off with no tears and no fuss. I used to  at least follow her through the toddler gate that stands in front of her classroom, but today the teacher is right there ready to grab her and I barely get the opportunity to high five her classmates before I leave! Our goodbyes are so short lived. I'm not ready for this.
+
+* Ikea
+
+Noumena's mother came by right as I got off work to go with me to pick Noumena up from daycare because she wanted to spend some time with Noumena and read her the /Go Dog, Do/ book she'd gotten Noumena. While driving to pick Noumena up, I discussed with her my desire to get Noumena a toddler table and chairs so that she can sit down to eat and stand as she likes saying that I wanted to do it today, because when I get these ideas, I always want to execute on them as soon as possible. We eventually agree to take Noumena with us to Ikea right as we pick her up from daycare.
+
+Noumena did exceptionally well on the car ride there. Honestly, given the that bridge nearby has been out, it wasn't much longer than our normal daily commute, so it's really not all that surprising. When we arrive, we head straight to the children's section and deliberate which table to pick out finally settling on the red, rectangular one and let her play in the area for a little while.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3_K7dA4cfY?si=ufIPkrDLBRQiqneO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+The children's section is right near the cafe, so after we let Noumena play briefly, we take her to eat dinner. Noumena and I both get plant base meatballs, green peas and mashed potatoes. She doesn't appear to be all that hungry and we get her a cup of water. Seemingly not that hungry, she proceeds to make a mess out of everything, but does eventually eat enough for us to continue on and pick up the items we selected from the self service area.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rbtR5e8vy4U?si=MpdlaCs-hLtPRiVJ&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back At Home
+
+[[file:playing-at-her-table.jpg]]
+
+It was late when we arrived home---already approximately 8:00pm. Mommy reads /Go Dog, Go/ to Noumena as daddy sets up her table. Once it's set up, Mommy sets her books onto the table for Noumena to play with while I continue to put together the chairs.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S5P8ZQfGSsE?si=GfNTzCsiX7eNCVwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Seeing that Noumena is preoccupied with her table and chairs, I go into her bedroom to try to finish the Sisyphean task of putting her clothes away. Of course, it's not long before Noumena shows up and messes up all the work I've done. Since I know she's going to be preoccupied for a long time putting the clothes in an out of the drawers and piling them up, I stepped away to play keyboard for a little while. When I finish, I come back to her and she starts crying. I couldn't tell why at first, but I thought it was because she thought I was going to try to take her away from her toys. Little did I know, she was being bad and she knew she was being bad, so what she really thought was that I had come to put a stop to that. I simply didn't know I'd caught her read handed! Once it became clear to her that I wasn't going to stop her from doing what she was doing thinking it was just playing with the clothes, she proceeded to be bad---taking the diaper wipes out of the package and throwing them into the small trashcan in her room. She was right about me stopping her from doing that. I tried to get her to hand me the wipes as she so often does, but she wouldn't do it, so I took them from her and a fit ensued. While the fit was occurring Mommy was leaving which I think compounded the wails. But, just as yesterday, I just ignored her until it was bath time.
+
+* Bath & Bed Time
+
+Eventually Noumena calmed down and helped me draw the bath as usual. And when we went to take her clothes off and put them in the laundry basket, everything was right as rain. It may sound strange, but I actually think Noumena, after she's calmed down from the fit she's having, she comes to respect the fact that I have standards and enforce them. She gave me plenty of kisses at bath time seemingly to assure me that she loves me despite our conflicts.
+
+As always Noumena is helpful during bath time, so we finish quickly despite the late start and I get her dressed in her pajamas giving her the choice between the kitten and the star pajamas. She chose the kitten ones, and after dressing her we get her teeth brushed and head into the bedroom to listen to our bed time playlist. Again, she refuses to be held and fall asleep in my arms instead opting for the crib to immediately lay down and go to sleep. I'm still not ready for this level of independence. I lay her down and caress her face as she falls asleep in the crib. We get through our whole playlist before I'm confident she's asleep.
+
+Noumena, your strong will, developing conscience, and blossoming personality never cease to amaze me. I think it's for that reason that I have the utmost patience with you when you're throwing your fits. I see them as developmental mile stones. I see a strong willed individual doing what she can to get what she wants out of this world and I admire it. I also admire the eventual acceptance that sometimes in life we don't get what we want and your ability to move on quickly from disappointment. You truly are the light of my life, baby girl, and I'm so happy to have the opportunity to see every fit, every learning and be a part of every milestone. It is I who should be thanking you for coming into my life.
+
+Goodnight, my lovely, wonderful, growing girl. Sweet dreams!
