@@ -1,0 +1,100 @@
+#+TITLE: December 25, 2023
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/25/laying-in-crib-set-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 25, 2023 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="Merry Christmas, Noumena!!!">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/25/laying-in-crib-set-preview.jpg" />
+
+[[file:laying-in-crib-set.jpg]]
+
+* Merry Christmas, Noumena!!!
+
+Mommy woke Noumena from  bed at about 8:30am while I warmed Noumena's porridge, sat it at the table on her silicone place-mat and gave her a choice of colored spoon and soymilk.  She sat down to eat immediately because food is always the priority for her in the morning, but right after breakfast we went immediately into gift opening.
+
+* Daddy's Gifts
+
+Noumena loves reading and loves books and I
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O2bXfkSwFc?si=svfEnzMbO-DGJctH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Mommy's Gifts
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jymrmXw_1K0?si=cwyfy3s0KcWWMHTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kGPGWCODphk?si=qKS6P0VIfBmhVnpr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMGDITPXkKE?si=iqoUSuCNwPF_wbZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Oksana's Gift
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/no7VHOtfcfw?si=vNrfwN6RKbYfPHEG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Great Aunt Trudy's Gift
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-koDSKqmEFc?si=cZwZ9b7yGO9wFPG6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Grandpa Jon's Gift
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuCD-qJWLic?si=cm_C7J5ORFgg_XN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5K0AhagMjcc?si=qOIbz_79GXxB4gla" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Aunt Lisa's Gift
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYYmVHzSnUg?si=jVDXmfOL39CwC2Kb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Playing With Christmas Toys
+
+After opening all of Noumena's gifts, I set up a few of them that needed to be set up and
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnql6u8vQCc?si=wt8zg-0i6O4ehTmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nap Time
+
+* Dinner
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoYd-nak8Cs?si=qwMVouipYD217hHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
