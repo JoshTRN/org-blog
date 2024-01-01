@@ -1,3 +1,5 @@
+#+HTML_HEAD_EXTRA:     <link rel="manifest" href="/manifest.json">
+
 # -*- org-html-checkbox-type: html -*-
 
 * Monday & Thursday
@@ -13,10 +15,10 @@
 * Tuesday & Friday
 
 - [ ] chinups | 2 x 8-12
-- [ ] lat slides | 2 x 8-12
-- [ ] bicep dip | 2 x 8-12
-- [ ] diamond pushups | 2 x 8-12
 - [ ] lunges | 2 x 15-20
+- [ ] lat slides | 2 x 8-12
+- [ ] diamond pushups | 2 x 8-12
+- [ ] bicep dip | 2 x 8-12
 - [ ] crunches | to failure
 
 * Wednesday & Saturday

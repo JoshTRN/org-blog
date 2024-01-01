@@ -23,6 +23,13 @@
          :recursive t
          :publishing-function org-publish-attachment
          )
+        ("blog-json"
+         :base-directory "~/org/blog"
+         :base-extension "json"
+         :publishing-directory "/ssh:joshua@joshua-wood.dev:/home/joshua/joshua-wood.dev"
+         :recursive t
+         :publishing-function org-publish-attachment
+         )
         ("blog-css"
          :base-directory "~/org/blog"
          :base-extension "css"

@@ -145,6 +145,13 @@ $(document).ready(function () {
 
 });
 
+if ('serviceWorker' in navigator) {
+  console.log("registering service worker")
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('/serviceWorker.js');
+  });
+}
+
 window.SphinxRtdTheme = (function (jquery) {
   var stickyNav = (function () {
     var navBar,
