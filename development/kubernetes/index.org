@@ -1,3 +1,4 @@
+#+TITLE: Kube Demo
 #+INCLUDE: ~/org/blog/development/header.org
 * Table of Contents                                       :TOC_5_gh:noexport:
 - [[#prerequisites][Prerequisites]]
@@ -172,7 +173,6 @@ After, we can use those values to create our Mongo secret.
     mongo-password: mongop
 #+end_src
 
-
 * Create Secret Via Bash
 #+NAME: sec
 #+begin_src bash :results output
@@ -191,7 +191,6 @@ After, we can use those values to create our Mongo secret.
 #+end_src
 
 #+RESULTS:
-
 
 ** Deployment
 
@@ -310,5 +309,3 @@ In this deployment, we make sure to match up with the webapp service through the
 
 #+RESULTS:
 : deployment.apps/webapp-deployment created
-
-

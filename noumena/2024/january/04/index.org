@@ -1,0 +1,92 @@
+#+TITLE: January  4, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/04/conducting-preview.png">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January  4, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/04/conducting-preview.png" />
+
+[[file:conducting-preview.png]]
+
+Naturally so much of my time has been invested into these entries that my sleep has taken a backseat to this and my other priorities. Once Noumena goes to bed, I make sure to take care of all my responsibilities right away including writing these entries. Although the ease with which the words find themselves on the page and my writing has improved, the time investment has therefore increased in proportion. The common refrain "there simply aren't enough hours in a day" couldn't be more applicable than in my case. Weariness has somewhat begun to catch up with me.
+
+It reminds me of my career, how often there are always trade-offs to particular decisions I make. It has forced me to assess the priorities. Because Noumena's bed time is fixed, the weekend is no relief---no respite from the time constraints I find myself under. I don't know how much longer I can last like this. Perhaps indefinitely. But every time I do the priority calculus, the writing of these entries falls squarely after the daily responsibilities needed to keep Noumena healthy and happy such as preparing healthy meals and keeping her schedule strict enough to deserve the title but not so rigid as to be inflexible. I think about long term goals like capital accrual for her long term security sake and if I should devote more time to career progress, but if it means taking time away from this, it always falls behind as do other pursuits and interests of mine. It's sad that I have to take such measures but ultimately, this is what I want Noumena to be able to look back on.
+
+As I said when I started this endeavor in July, I don't ever want Noumena to have to forget a day she doesn't want to. I want her to be able to look back at the time and energy her father devoted to her, revel in it and appreciate it as an adult. I want her to be able to share her life with /her/ children in a way that's basically unprecedented. Perhaps she'll be motivated to do the same. Who knows?
+
+In any case, this journal is Noumena and Noumena is /always/ first.
+
+* Morning
+
+Since I was up until 2am writing this journal, when my alarm goes off at 8:30am, I'm exhausted. No sounds emanate from Noumena's room so I have no reason not to sleep in as much as I can. I finally roll out of bed at 9am to warm Noumena's porridge. I'm not sure why Noumena's been so quiet in the mornings. When I pass through the doorway to her room, she's clearly been up for a while. As usual, I let her take her time getting up. She doesn't seem like she's in /great/ mood, so I throw her blankets over her face a few times as she sits in the corner of her crib surrounded by the rest of her blankets to heighten the levity. Although my attempts to cheer her up work a little, when she stands to move her blankets, I smell and unpleasant odor and looking at her diaper, I see excrement seemingly crawl up her backside breaching the top of her rim of her diaper. Uh oh.
+
+Thankfully, it's clearly not diarrhea, but it's the biggest bowel movement I've seen in all my 21 months as a father and I think that's really saying something. I remove a wipe and clean the bit that's made its way up her back before laying her on the changing table. She makes no attempts to resist, which I'm grateful for, because I don't know how messy things would have gotten had this been one of the times she decides to fight back as I'm getting her changed. I think she knew I was ultimately trying to help her out.
+
+Noumena remains dressed in only a fresh diaper when I take her out to choose her spoon to eat her porridge with. This morning I'd gotten the clever idea to sprinkle a little cinnamon over top the porridge for just a little bit of a flavor surprise. Skeptical at first, she takes a bite, makes a funny face, but then decides it's tasty enough to eat and she and I eat porridge together. I finish mine first, so while she finishes, I take off all her bedding and the blanket which lines the changing table and throw it into the washing machine with the few dirty clothes to be washed. It seems like every 2-3 days there's another reason to do laundry. Such is life with a toddler, I guess.
+
+There's no time to dilly-dally so once she's finished, I get allow Noumena to choose between her blue outfit and her white sweats. She chooses the blue outfit, so I promptly get her dressed, put on her jacket and tell her it's time to go. She walks with me out to the car where I strap her in and we head to daycare.
+
+* Daycare
+
+It's been a long time coming---finally I've set up the account where I can view the cameras in her classroom when she's there. In a sense, Noumena's spent all day with me as I kept my personal laptop open and the live video on fullscreen the whole day. Many times during the workday, I was transfixed with the feed, watching her for several minutes at a time when I was supposed to be working or in meetings etc.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bAiSTpKEUA?si=CrwHWnSYF2Rb6RZY" title="Reading At Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sifDtNU4U9k?si=jnzwILduA9fxbfmA" title="Explaining Noumenas Acrobatics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9b3bkgLWBA?si=Gxjx28E4p_DcYJ4a" title="Being A Little Acrobat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+One moment I regrettably failed to capture on video was when a little girl Karina (Corina? not sure how to spell it)---who absolutely loves me and apparently Noumena as well---was playing with Noumena and completely unprompted they decided to hug each other. It was absolutely one of the most precious things I've ever witnessed.
+
+* The Ride Home
+
+Mommy came over just before we head to pick Noumena up so we enter the daycare to greet her together. I'm not sure why, but Noumena, although excited to see me immediately raising her arms upon witnessing me, doesn't run up to me instead forcing me to snatch her into my arms. I say "Who's that?" and point to Mommy who she immediately wants to hold. I hand her over and we begin to leave the building. I start to grab her out of Mommy's arms, but she doesn't like that, so straight away I hand her back to Mommy and she's then content. Mommy carries Noumena to the car while I sign her out of daycare.
+
+* Dinner
+
+I was thinking of feeding Noumena the vegetable soup leftovers today, but ultimately decide I'd like to cook beans and rice. I realize didn't have enough rice once home, so, with Mommy keeping an eye on Noumena, I head down to the nearest grocery store and get a couple bags so I can cook. Mommy read to Noumena and plays with her in the living room while I cook.
+
+I didn't eat with Mommy and Noumena because I wanted to make tofu to eat with it. The tofu takes about 45 minutes to bake, so I should have started it while cooking the beans and rice. We all make mistakes. Anyway, while I'm baking, Noumena asks to watch TV so I let her watch her favorite music videos with Mommy.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EAAgA2ji4U?si=acsDcvsNNl-mShM4" title="Conducting To Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nighttime Walk
+
+After I eat, it's getting late and Noumena still needs to be worn out, so at about 7:30pm I invite Mommy on a walk with us which she declines. I attempt for the second time today to get Noumena to learn how to put on her jacket herself, but she's much too distracted with toys. We'll try again tomorrow. I put her jacket on myself and we head out the door.
+
+Noumena walks with Daddy to the end of the driveway, but---I think sensing the long walk to the church---she opts to be carried instead. As we walk to the church, Noumena begins correctly identifying objects along our path. "Fire hydrant, house, grass, driveway" are among some of the words she utters unprompted on our way correctly identifying each of them.
+
+Our time at the church is short lived. We tumble through the grass together, Noumena climbs the bench outside the church doors a couple times jumping into Daddy's, we jump off a few ledges and Noumena runs back and forth up and down the handicap accessible ramp on the sidewalk when she signifies to me that she's soiled herself. I let her play for a few more minutes where she discovers and correctly identifies her shadow against the wall of the church, but fearing that she'll get a diaper rash I hoist her onto my shoulders and we proceed home. I've managed to avoid any fit that may have transpired by marching to the rhythm while singing /The Ants Go Marching/ as she bounces atop my shoulders all the way home.
+
+* Back At Home
+
+We march all the way home and I continue the march all the way to Noumena's bedroom where I change her diaper. Thinking it's almost bath time, I decide not to dress her in bottoms again, so she spends the evening in just a jacket and a diaper. The contrast is amusing.
+
+Mommy was drawing a bath when we reentered, so I get Noumena to play with Mommy for a short time while I clean up from dinner. Noticing that the water had begun to cool indicating that we'd used most of the hot water, I decide to forego a bath tonight. It's okay, though, that just means more time to play with Noumena.
+
+Noumena picks up her toy cat Auntie Lisa had bought her and begins to carry it around, so I turn off all the lights and allow the stars it projects to adorn the ceiling as I lay and watch with Noumena. Noumena says "wow" but quickly tires of it and begins to step all over Daddy. Literally traipsing up and down my body, it turns into a wrestling match which continues for maybe 10 minutes. As Noumena's standard bath time approaches, since we're not taking it, she notices flash cards of instruments on the table that came with the musical mat her Grandpa Jon had gotten her for Christmas. We sift through these the entire time until it's time to get her dressed in pajamas to go to sleep.
+
+* Bed Time
+
+At bed time, I let Noumena choose between her cat and owl pajamas. She chooses her owl pajamas so I take them into her bedroom from mine where I'd allowed her to make the choice to apply her diaper rash cream and dress her. I brush her teeth and just before settling in to listen to our playlist, I tell Mommy how Noumena likes to be tucked in at night and get her to watch this new behavior that Noumena's just begun. It was shaping up to be mere minutes before Noumena's bed time and Mommy sat down to tell Noumena a story. Regrettably, in my haste to get Noumena to sleep I cut the story short. I felt bad about doing that. I know the story that Mommy was going to tell Noumena, so upon reflection and realizing it's short, I ought to have just allowed Mommy to tell Noumena the story. I will do better next time.
+
+I begin our playlist and turn off the lights holding Noumena's hand in mine through the bars of the crib as she drifts off to sleep.
+
+I love you, Noumena. I'm excited for tomorrow! Goodnight!

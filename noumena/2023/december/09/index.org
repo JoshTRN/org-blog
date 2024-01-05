@@ -1,2 +1,52 @@
 #+TITLE: December  9, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
+
+* Photos
+
+[[file:dazzling-lights-1.jpg]]
+
+[[file:dazzling-lights-2.jpg]]
+
+[[file:dazzling-lights-3.jpg]]
+
+[[file:dazzling-lights-4.jpg]]
+
+[[file:dazzling-lights-5.jpg]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AgHsiep2GhU?si=Ov3vhkf4vBb_K2I2" title="Jacksonville Arboretum Lights 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u0LRPrABiTw?si=YkEg0eK_2XfyK_A-" title="Walking With Mommy Jacksonville Arboretum LIghts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tg_iOTA-hg?si=2mSkbZvfVjK4FfeK" title="Walking Into Lights Jacksonville Arboretum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boCFGI4lwzM?si=vljN-dMms-rmYMh0" title="Wandering Around Jacksonville Arboretum Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQoiR9tmDzE?si=m0wSU7HSzGFKd3Sk" title="Jacksonville Arboretum Lights 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1L9kESmQGGE?si=ymB-hLI_iRLvKUrh" title="Listening To Christmas Music Jacksonville Arboretum Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
