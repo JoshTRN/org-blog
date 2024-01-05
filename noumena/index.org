@@ -2,3 +2,4 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 ** [[file:2023][2023]]
+** [[file:2024][2024]]
