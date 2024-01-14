@@ -1,0 +1,111 @@
+#+TITLE: January  7, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/07/sitting-with-bear-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January  7, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/07/sitting-with-bear-3-preview.jpg" />
+
+* Good Morning, Noumena!
+
+For the first time in a long time, Noumena serves as my alarm clock. She wakes up at 8:30am and I get out of bed immediately to start preparing her breakfast. She's not whining at all, just talking to herself. I warm her porridge and just as I'm finishing up the talking grows to a slight whine. Once again, Noumena has a messy diaper this morning, so I change her and leave off her bottoms taking her out to enjoy breakfast with me.
+
+[[file:big-bite-at-breakfast.jpg]]
+
+[[file:munching-big-bite-at-breakfase.jpg]]
+
+After breakfast, we read a lot of books. Something I've been noticing lately is Noumena likes to read through a book fully one time but then when she's finished, she likes to go back through and look back at a bunch of the pages. We also get out her flash cards. She's a lot better at putting them in the reader and it seems like she's gotten so good so fast. She has a few obvious favorites. The snake, dinosaur and shark are ones she likes to put in over and over again.
+
+[[file:sitting-with-bear-3.jpg]]
+
+[[file:sitting-with-bear-4.jpg]]
+
+* Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2EDNSM31YRU?si=uzpt4_hL0FEAS1DA" title="Swinging Tidewater Acres Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5dL1rwoWnw?si=qU87P5Ik0fibP84Y" title="Saying Bye To Daddy The Returning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cNPajilAJ9o?si=4hEFNCsDgXItmvrz" title="Playing With The Gate Tidewater Acres Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGmGXcvpDy4?si=Sg3msUBds3ifwDVU" title="Trying To Show Chalmers Cards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yn4qq4J194o?si=7vmvQ_CmCS2e1XbZ" title="Watching Daddy Play Guitar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Arlingwood Park
+[[file:laying-down-at-arlingwood-park.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BSvJ2mP1MUE?si=Fbbzob62WMfyA2Pc" title="Running Around Arlingwood Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Mommy's Here!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Umk0_pkKjY?si=bTha3FUmj5xvEnhE" title="Dancing To Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RSJUEPBdUEw?si=n3WWbN1jOnhgWw6h" title="More Listening To Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkz3RHfSwKo?si=OmkdH_l8mKqjxBKB" title="Dancing To Meshuggah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:with-daddy-and-chalmers-3.jpg]]
+
+* Lovelace Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CaWfMpfrJDQ?si=sBTzFG-cAqYok6ef" title="Wandering Around Lovelace Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KeCtqLOtfy8?si=CMo-MJjY9dDgcAG9" title="Making Chalmers Chase Her With Food" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+* Bed Time
+
+Mommy tells Noumena a bed time story.

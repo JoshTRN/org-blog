@@ -1,0 +1,38 @@
+#+TITLE: January 10, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/10/balloon-head-1-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 10, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/10/balloon-head-1-preview.jpg" />
+
+[[file:balloon-head-1.jpg]]
+
+* Morning
+
+* Daycare Pickup
+
+[[file:balloon-head-2.jpg]]
+
+[[file:balloon-head-3.jpg]]
+
+* Playing At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u08kqThvuos?si=PRXI93UxNv7concE" title="Shutting The Door On Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nighttime Walk
+
+* After Walk
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1M0rjPRfjU?si=JHzBIRLun17X9sBq" title="Playing Peek A Boo With Blankets In Crib" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath & Bed Time
