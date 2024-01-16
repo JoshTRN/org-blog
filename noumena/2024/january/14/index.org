@@ -2,7 +2,90 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/14/laying-with-kisa-6-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/14/sitting-at-cvs-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 14, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/14/laying-with-kisa-6-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/14/sitting-at-cvs-preview.jpg" />
+
+[[file:playing-with-toys-at-cvs.jpg]]
+
+* Hanging Out At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CdHI36EJTvA?si=CDj_HEXc5zdNzlty" title="Watching New Maps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Lovelace Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/86C4mP_ktHE?si=4Hn8KkJlsP3ALQMx" title="Wandering At Lovelace Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/caSkEPck-4E?si=Jk79K-7gNf07EO8p" title="Playing On Playground At Lovelace Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruuCPaLRUNU?si=mzytQ9GjnaQzc-7P" title="More Wandering AT Lovelace Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dsqAovzdydA?si=blAKFQlA9IIxlxPB" title="Pointing At Daddys Shirt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nOw3bOtQNG8?si=gf3WVWtFfuvnmWdg" title="Sharing Crumbs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Nighttime Walk
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WSlqgn3JdJQ?si=J8_dIUGCdjCqJVBb" title="Cold In Florida" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPVk0MyAmjY?si=50GWuRMtBvW6kqmu" title="Balancing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* CVS
+
+[[file:sitting-at-cvs.jpg]]
+
+[[file:sitting-with-daddy-1.jpg]]
+
+[[file:sitting-with-daddy-4.jpg]]
+
+[[file:sitting-with-daddy-at-cvs-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OuPxTHAGqh0?si=09ea3o58EFkjfQbW" title="Pulling Daddys Hood Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KPtSaMDVwb4?si=O_encCMXVMv7e_Vx" title="Playing In CVS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

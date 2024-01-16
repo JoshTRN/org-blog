@@ -131,4 +131,3 @@
 (spacemacs/set-leader-keys "jtn" 'noumena-journal-today)
 (spacemacs/declare-prefix "jtn" "Noumena Journal Entry Today")
 (spacemacs/set-leader-keys "jtt" 'jump-to-todos)
-(spacemacs/declare-prefix "jtt" "Todos")
