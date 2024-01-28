@@ -1,0 +1,54 @@
+#+TITLE: January 16, 2024
+
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/16/dancing-with-daddy-preview.png">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 16, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/16/dancing-with-daddy-preview.png" />
+
+* Good Morning, Noumena!
+
+* Daycare
+
+[[file:IMG_20240116_125106605.jpg]]
+
+[[file:stacking-blocks-1.jpg]]
+
+[[file:stacking-blocks-2.jpg]]
+
+[[file:stacking-blocks-3.jpg]]
+
+* Arriving Home
+
+* Dinner
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1DC3Qtr-BdA?si=Ve5zI1WxJHRE6zr_" title="Making Mess At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L9PtickFKS4?si=5Mgw5zqdif5M3Tjm" title="Loving New Maps With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nighttime Walk
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXzzpcAF59g?si=B2nEPgSIzoquxqtC" title="Using Walking Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-at-cvs.jpg]]
+
+[[file:sitting-at-cvs-2.jpg]]
+
+* Evening
+
+* Bath Time
+
+* Bed Time

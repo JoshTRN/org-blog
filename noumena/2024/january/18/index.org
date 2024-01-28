@@ -1,0 +1,29 @@
+#+TITLE: January 18, 2024
+
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/18/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 16, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/18/" />
+
+* Photos
+[[file:falling-asleep-on-daddy.jpg]]
+
+[[file:walking-at-night.jpg]]
+
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzRyIBqV46o?si=0AxDxsXqgEVZJ4VY" title="Reading Fish And Worm With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/IictThxs4Bw" title="Falling Asleep In Daddys Lullabying Arms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

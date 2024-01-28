@@ -1,0 +1,36 @@
+#+TITLE: January 21, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/21/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 21, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/21/" />
+
+* Photos
+
+[[file:looking-over-pond.jpg]]
+
+[[file:sitting-in-planter.jpg]]
+
+[[file:sitting-in-planter-closeup.jpg]]
+
+[[file:sitting-in-planter-cute.jpg]]
+
+[[file:sitting-in-planter-cute-2.jpg]]
+
+[[file:standing-on-manhole.jpg]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/byEASewWtQ8?si=sl12x1lEku6PoUga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_mi0JQtQW0?si=-09OFgXfUHt0j-oP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

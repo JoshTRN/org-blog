@@ -2,7 +2,54 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/15/">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/15/looking-up-from-table-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 15, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/15/" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/15/looking-up-from-table-preview.jpg" />
+
+
+* Photos
+
+[[file:being-cute.jpg]]
+
+[[file:looking-up-from-table.jpg]]
+
+[[file:looking-up-from-table-2.jpg]]
+
+[[file:playing-with-rocks.jpg]]
+
+[[file:pointing.jpg]]
+
+[[file:sitting-with-mommy.jpg]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/w3rkQ5iz_Fo" title="Saying Butt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yfctPhXsgg?si=JqxzKMps6AfxwZAY" title="Playing With The Neighborhood Doggys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gWjmG1tdUY?si=plzzoIDDb4fSfzjZ" title="Playing In Her Bedroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1natKUu91xc?si=HBBjMLk7XS_rC6eo" title="Making A Huge Mess With Christmas Decorations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sw-85AaZcXc?si=fVsyNq9a3wjSVIJQ" title="Mouth Noises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

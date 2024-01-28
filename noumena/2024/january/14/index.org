@@ -9,6 +9,14 @@
 
 [[file:playing-with-toys-at-cvs.jpg]]
 
+* Morning
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/w3rkQ5iz_Fo" title="Saying Butt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
 * Hanging Out At Home
 #+begin_export html
 <div class="video-container">
