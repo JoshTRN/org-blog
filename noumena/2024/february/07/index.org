@@ -2,7 +2,117 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/07/">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/07/chilling-with-chris-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  7, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/07/" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/07/chilling-with-chris-preview.jpg" />
+
+[[file:chilling-with-chris.jpg]]
+
+* Good Morning, Noumena!
+
+[[file:eating-and-smiling.jpg]]
+
+Noumena gracefully let me sleep in this morning, which is good because I didn't finish last night's journal entry until late. Thankfully, she starts stirring awake an 9am allowing me to get plenty of sleep. I warm her oatmeal as she waits patiently in her room setting out her place mats and giving her a choice of spoon.
+
+When I enter Noumena's room this morning, she's definitely slept all the fussiness from yesterday off. She's in a wonderful mood and throwing her blankets all over her crib and bouncing around. After a short time I take her out of bed at her request and we go to eat breakfast. After eating, she runs around the living room a bit before I take her to change into her outfit for the day and we head to daycare.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/9XvAoCY6gfo" title="Pointing To Herself When Daddy Says I Love You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/PIzmCE5LyXU" title="Playing With Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+Yesterday, my friend Chris invited us to go to dinner. So, I picked up Noumena a little early from daycare and had initially planned to pick Chris up since he was having his car worked on, but as Noumena and I approached where he was, they finished up his car. We turned around to head back to the place we were going for dinner. Arriving a little bit earlier than Chris, Noumena and I wander the streets for a little while with her on my shoulders and me singing /The Ants Go Marching/ until it's time to head back to the restaurant to meet Chris.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/URQmm8CbEF0" title="Running Through Leaves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:photo-through-leaves.jpg]]
+
+[[file:photo-through-leaves-2.jpg]]
+
+[[file:photo-through-leaves-3.jpg]]
+
+
+We're ordering from a food truck and then taking the food into the brewery that it's near, so after we finish ordering, we have 10-15 minutes to wait. We head into the brewery and sit down on a couch in a lounge spot with a coffee table that has a bunch of coaster. I pick up the coasters and start tossing them to Noumena who initially tosses them back at me, but then turns her attention to tossing them to Chris. We play like this until it's time to go get our food.
+
+Chris leaves to go check if the food is ready, but once Noumena sees him getting up and walking out the door, she's not ready to leave his company even for a moment so she starts chasing him down. I open the doors to the brewery and Noumena runs up to Chris once I've made him aware that she's chasing him. Arms outstretched, she demands Chris picks her up! we fetch our food and head back to the brewery to eat.
+
+[[file:vegan-fish-and-chips.jpg]]
+
+Noumena gets up quite a few times to go look out the window of the brewery in between bites of french fries and I have to call her back. While we finish up, Chris goes to refill my water glass and finds a very simple game I'm not sure what it's called. Two rings hang from a string on either end of a "T" shaped piece of wood with two hooks near the bottom of the "T" to catch the rings. Noumena and Chris play with this for a while until it's time to head out.
+
+On our way out, I noticed when we got our food that they were selling vegan cookies and so I went to get one for Noumena, give Chris a hug and say our goodbyes.
+
+[[file:vegan-cookie.jpg]]
+
+* Playing At Home
+
+Back at home, Noumena makes my life very easy tonight. When we first walk through the door, she of course greets Chalmers and follows him around for a bit before she begins to play with her pool noodle. I'm excited to get out some toys we haven't played with in a while starting with her caterpillar tent and tube.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/rRiUDtjEb2g" title="Messing With Her Caterpillar Toy And Playing In Living Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+Eventually, Noumena returns to the noodle this time taking several bites out of it and spitting them back out. She knows enough to know not to swallow anything, so I'm content to let her continue to take chunks out of the noodle.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/sH52kJnxQGA" title="Eating Noodle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+We make our way all over the house playing with various toys until I eventually have to change her diaper which of course she's not happy about. However, she doesn't throw too big of a fit and is eventually distracted playing with her flash cards and it culminates in us listening to music together for a little while in her bedroom.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/cH6hBJ5DHME" title="Dancing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+Eventually, we make our way out the living room where we collectively pick on Chalmers and finally she wants to watch T.V. It's 8pm and I usually put her in the bath at 8:20pm, so I think it's fine for her to watch 20 minutes of T.V. before bed. We watch, /You're Welcome/ from /Moana/ and /Bare Necessities/ from /Jungle Book/ which she loves and settle on Miss Rachel after a while which Noumena begins to emulate.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/f0ngdP7zqeQ" title="Picking On Chalmers Together" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/RgZ_sBuUvnY" title="Mimicking Miss Rachel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+When it's time to take a bath, Noumena doesn't want to do it which has become typical for us in recent times. How I wish it was like before when Noumena was excited for bath time, but for now that season has passed. Nevertheless, Noumena knows what she's supposed to do, so after some slight whining and a little resistance, she climbs down off the couch and starts heading toward the bath tub where I draw her bath before stripping her down and putting her in the tub. My newest trick for getting her calm in the tub is to stack her toys and for her to send them crashing down which she always enjoys.
+
+* Night Night, Noumena!
+
+[[file:bed-time.jpg]]
+
+[[file:bed-time-2.jpg]]
+
+[[file:bed-time-3.jpg]]
+
+[[file:bed-time-4.jpg]]
+
+After getting Noumena dressed in her pajamas and brushing her hair and teeth, we have to fetch her pink blanky from the living room where she'd left it. Holding the blanky in her arms, she doesn't appear to be reaching for and leaning down from my arms towards the crib. I take this as an opportunity to dance with her in my arms as we listen to our playlist together. Tonight, she drifts off in my arms which I had missed so much and am so grateful for. From now on, I'm going to try to give her the blanket every time to see if that will prompt her to stay in my arms and dance with me. Hopefully it works and I can go back to putting my baby to sleep in my arms.
+
+We had a wonderful time with Chris tonight, Noumena! I loved watching you play and you were so familiar with Chris that you loved spending time with him.
+
+I love you, my precious Noumena. Keep me in your dreams baby. I'm excited to see you tomorrow. Maybe we can do something fun with Chris this weekend too!
