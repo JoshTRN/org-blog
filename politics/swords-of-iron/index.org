@@ -1,0 +1,45 @@
+* Swords of Iron RR Calculation
+
+| Militant population estimates                   | Estimated troops | Comments                | Source          |
+|-------------------------------------------------+------------------+-------------------------+-----------------|
+| Estimaton Source                                |                  |                         |                 |
+| WSJ reported USA estimate                       |            27500 | 25,000-30,000           | [[https://today.lorientlejour.com/article/1365166/israeli-forces-have-killed-20-30-percent-of-hamas-fighters-wsj-report.html][source]] , [[https://www.wsj.com/world/middle-east/hamas-toll-thus-far-falls-short-of-israels-war-aims-u-s-says-d1c43164][source]] |
+| IDF estimate                                    |            30000 |                         | [[https://today.lorientlejour.com/article/1365166/israeli-forces-have-killed-20-30-percent-of-hamas-fighters-wsj-report.html][source]]          |
+| CIA World factbook (2023 estimate)              |            22500 | 20,000-25,000           | [[https://www.cia.gov/the-world-factbook/countries/gaza-strip/#military-and-security][source]]          |
+| Reuters reported "source close to Hamas"        |            40000 |                         | [[https://www.reuters.com/world/middle-east/how-hamas-secretly-built-mini-army-fight-israel-2023-10-13/][source]]          |
+|                                                 |                  |                         |                 |
+| Totaled average                                 |            30000 |                         |                 |
+|-------------------------------------------------+------------------+-------------------------+-----------------|
+| Militant Killed Estimate Sources                |                  |                         |                 |
+| WSJ reported USA estimate                       |             6875 | 20-30% of 25,000-30,000 | [[https://www.wsj.com/world/middle-east/hamas-toll-thus-far-falls-short-of-israels-war-aims-u-s-says-d1c43164][source]]          |
+| IDF estimate                                    |             9000 |                         | [[https://www.timesofisrael.com/the-war-in-numbers-9000-hamas-members-killed-11000-rockets-fired-into-israel/][source]]          |
+| Euro-Med Monitor (Pro-Palestine) estimate       |             2526 |                         | [[https://twitter.com/EuroMedHR/status/1748364485193003306][source]]          |
+|                                                 |                  |                         |                 |
+| Totaled average                                 |             6134 |                         |                 |
+|-------------------------------------------------+------------------+-------------------------+-----------------|
+| Gaza population                                 |                  |                         |                 |
+| Palestiniain Central Bureau of Statistics       |          2226544 |                         | [[https://www.pcbs.gov.ps/statisticsIndicatorsTables.aspx?lang=en&table_id=676][source]]          |
+|                                                 |                  |                         |                 |
+| Civilian population                             |                  |                         |                 |
+|                                                 |          2196544 |                         |                 |
+|-------------------------------------------------+------------------+-------------------------+-----------------|
+| Total killed in Gaza                            |                  |                         |                 |
+| Gaza Ministry of health                         |           25,105 |                         | [[https://www.barrons.com/amp/news/health-ministry-in-hamas-run-gaza-says-war-death-toll-at-25-105-6c2e1f0c/][source]]          |
+|-------------------------------------------------+------------------+-------------------------+-----------------|
+| Civilians Killed (total minus militants killed) |           18,971 |                         |                 |
+|                                                 |                  |                         |                 |
+| Relative risk                                   |                0 |                         |                 |
+#+TBLFM: @8$2=vmean(@3$2..@6$2)
+#+TBLFM: @14$2=round(vmean(@10$2..@12$2))
+#+TBLFM: @19$2=@16$2-@8$2
+#+TBLFM: @19$2=@16$2-@8$2
+#+TBLFM: @24$2=(@18$2/@16$2)
+
+| Militant population estimates            |        Estimated troops | Comments      | Source          |
+|------------------------------------------+-------------------------+---------------+-----------------|
+| Estimation Source                        |                         |               |                 |
+| WSJ reported USA estimate                |                   27500 | 25,000-30,000 | [[https://today.lorientlejour.com/article/1365166/israeli-forces-have-killed-20-30-percent-of-hamas-fighters-wsj-report.html][source]] , [[https://www.wsj.com/world/middle-east/hamas-toll-thus-far-falls-short-of-israels-war-aims-u-s-says-d1c43164][source]] |
+| IDF estimate                             |                   30000 |               | [[https://today.lorientlejour.com/article/1365166/israeli-forces-have-killed-20-30-percent-of-hamas-fighters-wsj-report.html][source]]          |
+| CIA World Factbook (2023 estimate)       |                   22500 | 20,000-25,000 | [[https://www.cia.gov/the-world-factbook/countries/gaza-strip/#military-and-security][source]]          |
+| Reuters reported "source close to Hamas" |                  40,000 |               | [[https://www.reuters.com/world/middle-east/how-hamas-secretly-built-mini-army-fight-israel-2023-10-13/][source]]          |
+| **Totaled average**                        | @>$2..$5=vmean(@2..@-1) |               |                 |

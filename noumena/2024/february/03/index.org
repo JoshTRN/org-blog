@@ -1,0 +1,100 @@
+#+TITLE: February  3, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/03/rosy-cheeks-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  3, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/03/rosy-cheeks-preview.jpg" />
+
+[[file:rosy-cheeks.jpg]]
+
+* Photo
+
+** Nap Time
+
+[[file:sleeping-on-belly.jpg]]
+
+** Arlingwood Park
+
+[[file:standing-by-noodles.jpg]]
+
+[[file:carrying-noodles.jpg]]
+
+[[file:chilling-with-daddy.jpg]]
+
+[[file:holding-noodles-while-swinging.jpg]]
+
+[[file:laying-on-noodle.jpg]]
+
+
+** Dinner
+
+[[file:looking-at-menu-with-mommy.jpg]]
+
+[[file:looking-at-menu-with-mommy-2.jpg]]
+
+[[file:kissing-mommy.jpg]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/OYWAUWqP7O4" title="Making Noumena Say Bad Words" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/ympbeORpmFU" title="Taking The Trash Out Of The Trash Can" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/DXr7U-4meaU" title="Listening To Polyphia With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/ItHvCOtrjgQ" title="Dancing To Physical Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/UMSjVv_N2jo" title="More Playing With Noodles At Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/D6JD7Ux1uHQ" title="Playing With Pool Noodles In The Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/TE85lpr0HEo" title="Swinging Hanging Onto Noodles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/PlYZpkZDfRA" title="Feeding The Doggy Daddy Won From Claw Machine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/bXJoint6jPc" title="Playing In Crib Listening To Nuryl With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/-mgKQn8OZqQ" title="Mommy Tied Up Noumenas Legs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

@@ -1,0 +1,88 @@
+#+TITLE: February  6, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/06/so-cute-standing-closeup-previewc.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  6, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/06/so-cute-standing-closeup-previewc.jpg" />
+
+[[file:so-cute-standing.jpg]]
+
+* Good Morning, Noumena!
+
+Recently, we've made the switch from porridge to oatmeal for our breakfast. When I started out, I was cooking the oatmeal the day of, but for the past week, I've just been letting the oats soak in soymilk overnight. I need more cinnamon, so I haven't been adding that, but I always add a tablespoon of maple syrup and 1/2 teaspoon vanilla extract to make it extra appealing.
+
+Noumena has been waking up a lot earlier lately. I'm not sure exactly why, but on occasion it's made things more difficult as she often gets up between 7-7:30am. This morning, she woke up at 7:30am and was seemingly in a bad mood from the get go. Most of my usual tricks to get her cheered up in the morning showed little effect. She's always hungry in the morning, however, and so after a little while of being goofy---even hopping in her crib at one point---I picked her up to take her to the dining room to eat. She reaches for her owl canvases on the way out the door but when I ask her what they are, she refuses to say for some reason.
+
+Usually, I'm holding Noumena in my arms as the microwave whirs heating up the cold oatmeal, which often makes Noumena none too happy as she's rather impatient when it comes to breakfast---eating in general, really. So typically after I fill her bowl, there's always some left int the Tupperware container and so I'll feed her a few spoonfuls while we watch her bowl travel in circles on the inside of the microwave. Today, however, I decided to forgo heating her oatmeal altogether and I just serve it to her cold since she's shown that she has no problem eating cold oatmeal.
+
+Most of the time when Noumena settles in to eat, she's quite the happy toddler. Today, however, her bad mood has carried on through to breakfast and it's a bit of a chore to get her focused on eating even though she's hungry. Eventually, by squatting down next to her at her table and her feeding me a few bites, she's able to finish the rest of her meal relatively unhindered by her poor mood.
+
+As is typical, and made no better by Noumena's mood, after breakfast I change her diaper, apply her Desitin and get her dressed. What's atypical, however, is Noumena being completely unwilling to pick her outfit for the day. I make the executive decision to dress her in her pink top with black pants---Noumena fighting me the entire time. It's sort of surprising to me that her mood is so poor as she slept all night without awakening a single time last night!
+
+Noumena is quite fond of her pink blanket and she needs it for nap time at daycare in any case, so we always make sure to take it with us when we get into the car for our morning drive. We always listen to music the whole time we drive to daycare and even though I'm in control of what we play, Noumena always has the final say about what she's going to listen to.
+
+* Daycare
+
+[[file:nap-time.jpg]]
+
+[[file:nap-time-2.jpg]]
+
+* Picking Up Noumena
+
+Noumena's mother arrived at the house just as I was getting off work and ready to pick Noumena up. I invited her along and she agreed to come with to pick Noumena up. Once we arrive, Noumena's so happy to see her mother, she insists on being held by her the entire trip to the car not even wanting to be held by me while I strap her into her car seat. She sits with Mommy in the back who reads books to her as we make our way home. With periodic whines, it's evident that Noumena's mood hasn't improved all that much since this morning.
+
+Arriving home, Noumena is fussy from the beginning. The first thing she wants to do is watch T.V. and my disallowing it from the start doesn't do anything to improve her mood. She displays her discontent with full force for a little while before I go to put the laundry I'd left in the washing machine into the dry where Noumena finds herself playing with the cabinet that I have kept in the garage containing some of her toys. This cabinet becomes a toy itself and discontent with leaving Noumena to play in the garage by herself as I think it's dangerous, I sit and watch her as she plays until Mommy invites her to come make pudding together.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/fUNlbCpnXIs" title="Playing In Garage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+Noumena has fun making pudding with Mommy, but given that it has to be refrigerated before it's ready to consume, her bad mood is exacerbated by having to wait. I know she's hungry, so we park her in front of the T.V. in attempts to calm her down so I can make dinner. I play a few songs and sing them to her as they play before she's calm enough for me to make pasta.
+
+My ravenous child consumes all of her pasta and indeed I made enough for seconds anticipating her hunger.
+
+* Playing Around At Home
+
+After dinner, I have to change Noumena's diaper which as is typical, she resists the whole way. Even after I've finished, she continues to fuss. It's only after a while I eventually go to sit and play the drums thinking she'll be intrigued enough to join me and of course I'm right. I play with Noumena for a little while, but she shortly grows tired and goes to pick up her flash card reader and we play with that for while inside of her tent.
+
+Given that Noumena's been content for a little while, I go to fetch the laundry from the dryer. I unwittingly left the garage door open enough for her to push it I realized as I begin to fold and she's already wandered down the hallway and entered the garage. I allow her to play in the garage until her curiosity gets the best of her and she begins to traverse to the parts of the garage I consider unsafe for her and I have to put an end to it all.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/NIypwg-1y3k" title="Playing In Garage 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+I take Noumena to the bedroom to help me finish folding laundry and after a brief stint of helping, Mommy reads her a couple books while I finish up.
+
+Noumena's worn herself out and made herself thirsty from all the crying that she's done and the fits she's been throwing throughout the house. As I sit patiently beside her waiting for the storm to subside, I'm overrun with pride as she goes and grabs her Elmo bottle using it to soothe herself. I prompt her to bring it into her bedroom so we can play in there and she obliges. After throwing another brief fit, she sees some of the old wet wipes she'd removed from their package and begins cleaning her bottle.
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/YEH21JEya2I" title="Cleaning Her Elmo Bottle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+At some point, her mother distracts her from what she's doing and she leaves to go play with her until bath time.
+
+* Bath & Bed Time
+
+Just before Noumena's bath, her mother made her a strawberry milkshake. Having finished it all, of course she wanted more but neither her mother nor I would allow her any more. She's reluctant to get into the bath and stands at the entrance to the bathroom as the tub feels looking somber but nevertheless calm as she mentally prepares for not getting what she wants.
+
+[[file:so-cute-standing-2.jpg]]
+
+[[file:so-cute-standing-closeup.jpg]]
+
+My latest bath time trick to get Noumena to cooperate is to stack her toys on the edge of the tub and act devastated as she knocks them in. After a few rounds of that, bath time usually becomes a breeze so it's my go to option for the time being. I start listening to Nuryl while we're bathing but she'll have none of it. Instead, all she wants to listen to is Animals As Leaders, so I put on a few songs and we listen to them up until she's put on her pajamas, brushed her teeth, and it's time to go to bed.
+
+We put on our bed time playlist and I lay with Noumena until she falls asleep. She falls asleep within five minutes, but I stay until our playlist is through and I make sure she's sound asleep.
+
+Goodnight, my beloved Noumena! I know you had a particularly rough day today. We all have bad days. I can only hope that tomorrow is better for you. Rest well, my beautiful little angel! and I make sure she's sound asleep.
+
+Goodnight, my beloved Noumena! I know you had a particularly rough day today. We all have bad days. I can only hope that tomorrow is better for you. Rest well, my beautiful little angel!

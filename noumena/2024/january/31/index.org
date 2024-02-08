@@ -1,0 +1,61 @@
+#+TITLE: January 31, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/31/laying-on-the-ground.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 31, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/31/laying-on-the-ground.jpg" />
+
+[[file:laying-on-the-ground.jpg]]
+
+* Daycare
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="745" src="https://www.youtube.com/embed/pwpbxAg2z7s" title="Dressing Baby At Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* At Home
+
+[[file:hanging-out-in-house.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="745" src="https://www.youtube.com/embed/WObeM3lG0U0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="745" src="https://www.youtube.com/embed/ypc9vwm9yFc" title="Terrorizing Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nighttime Walk
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="745" src="https://www.youtube.com/embed/u4rtgxrFaCY" title="Walking Around At Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="761" src="https://www.youtube.com/embed/kcvQ-5GTprw" title="Walking Around The Church" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back At Home Before Bed Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="761" src="https://www.youtube.com/embed/QGqLKt_ca8A" title="Listening To Music With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
