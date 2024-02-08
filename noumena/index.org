@@ -1,5 +1,6 @@
 #+TITLE: Noumena By Year
 #+INCLUDE: ~/org/blog/noumena/header.org
+#+HTML_HEAD_EXTRA:     <link rel="manifest" href="/noumena/manifest.json">
 
 ** [[file:2023][2023]]
 ** [[file:2024][2024]]
