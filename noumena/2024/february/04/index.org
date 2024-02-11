@@ -37,7 +37,7 @@
 
 #+begin_export html
 <div class="video-container">
-<iframe width="1885" height="713" src="https://www.youtube.com/embed/d3SOZ0kj2tg" title="Tickle Scratching Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/d3SOZ0kj2tg" title="Tickle Scratching Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
