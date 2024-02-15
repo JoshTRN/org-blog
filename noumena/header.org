@@ -2,9 +2,7 @@
 
 #+begin_export html
   <div class="topbar-menu-container">
-    <span class="topbar-menu"><a href="/">Home</a></span>
-    <span class="topbar-menu"><a href="/development">Development</a></span>
-    <span class="topbar-menu"><a href="/philosophy">Philosophy</a></span>
-    <span class="topbar-menu"><a class="current" href="/noumena">Noumena</a></span>
+    <span class="topbar-menu"><a href="../">Back</a></span>
+    <span class="topbar-menu"><a href="/noumena">Home</a></span>
   </div>
 #+end_export

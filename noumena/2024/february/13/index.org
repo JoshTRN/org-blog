@@ -1,0 +1,24 @@
+#+TITLE: February 13, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/13/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 13, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/13/" />
+
+* Photo
+
+[[file:falling-asleep-on-daddy-1.jpg]]
+
+[[file:falling-asleep-on-daddy-2.jpg]]
+
+[[file:falling-asleep-on-daddy-kisa-and-chalmers-1.jpg]]
+
+[[file:falling-asleep-on-daddy-kisa-and-chalmers-2.jpg]]
+
+[[file:falling-asleep-on-daddy-kisa-and-chalmers-3.jpg]]
+
+[[file:totally-passed-out.jpg]]
+
+* Video

@@ -1,0 +1,73 @@
+#+TITLE: February 11, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/11/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 11, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/11/" />
+
+
+* Photos
+
+[[file:chillin-with-flower-in-hair.jpg]]
+
+[[file:chillin-with-flower-in-hair-2.jpg]]
+
+[[file:sleeping-beauty.jpg]]
+
+[[file:sleeping-beauty-2.jpg]]
+
+[[file:sleeping-beauty-closeup.jpg]]
+
+[[file:waking-up-from-nap.jpg]]
+
+[[file:waking-up-from-nap-2.jpg]]
+
+[[file:with-dogs-at-arlingwood-park.jpg]]
+
+[[file:with-dogs-at-arlingwood-park-2.jpg]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/B-bF6RBw4BA" title="Rocking Out To Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/BmVEnx04weE" title="Noumena Talking Daddy Calling Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/gJ1BHIXsi5U" title="Eating Tofu Green Curry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/dKoZYaBcN30" title="Playing With Doggies At Arlingwood Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/S7jJCmqTTJo" title="Running Around With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/_M235uWmaUM" title="Getting Her To Run Home By Bribing Her With Blanky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/4pZEa17am9w" title="Picking Up Blanky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

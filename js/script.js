@@ -84,7 +84,6 @@ $(document).ready(function () {
   });
 
   slideout.on("open", function () {
-    console.log(href);
     if (href) href.scrollIntoView({ block: center });
     if (window.innerWidth > 768) {
       const content = document.getElementById("content");
@@ -146,7 +145,6 @@ $(document).ready(function () {
 });
 
 if ('serviceWorker' in navigator) {
-  console.log("registering service worker")
   window.addEventListener('load', function () {
     navigator.serviceWorker.register('/serviceWorker.js');
   });

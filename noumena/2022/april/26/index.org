@@ -1,0 +1,24 @@
+#+TITLE: April  26, 2022
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/april/26/closeup-on-newborn-noumena-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  8, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2022/april/26/closeup-on-newborn-noumena-3-preview.jpg" />
+
+* Photo
+
+[[file:closeup-on-newborn-noumena.jpg]]
+
+[[file:closeup-on-newborn-noumena-2.jpg]]
+
+[[file:closeup-on-newborn-noumena-3.jpg]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/PJvxztTldLA" title="Polyrhythms on Brand New Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
