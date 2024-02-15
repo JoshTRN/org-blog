@@ -22,3 +22,21 @@
 [[file:totally-passed-out.jpg]]
 
 * Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/FVaYopV7VPo" title="Touching Daddys Butt On The Toilet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/8g7bvxngnWk" title="Listening To Lingus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/3lu6Bkn72Po" title="Falling Asleep On Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
