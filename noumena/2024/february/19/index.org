@@ -1,0 +1,53 @@
+#+TITLE: February 19, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/19/climbing-with-friends-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 19, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/19/climbing-with-friends-preview.jpg" />
+
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBQkILGAFdQ?si=H5ndYtlXhHYx-P-c" title="Waking Daddy Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYk0IJ2VILg?si=q5XrQ2o9z9feOXNp" title="Tickle Scratching Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1qg9i-NjT4?si=xFDZrbXacqR1jX63" title="Eating Breakfast With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yVFlQmfaOJM?si=XE04f2I5rs6nswwZ" title="Closing Dish Washer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/2-4yaRZD_G8" title="Asking For More Of Daddys Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/mMp2PnfVVco" title="Driving In Cart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/hN3YfBpzEaE" title="Insisting On Watching More Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

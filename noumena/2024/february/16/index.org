@@ -1,0 +1,75 @@
+#+TITLE: February 16, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/16/sitting-outside-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 16, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/16/sitting-outside-3-preview.jpg" />
+
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/qhjbf7Gak-s" title="Singing Bubble Gum Song For Nouema" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/V8d-dQ4Odbk" title="Getting Noumena To Tense Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/E4-cYa00Mh8" title="Picking Veggies Out Of Daddys Bowl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nighttime Walk
+
+[[file:sitting-outside-1.jpg]]
+
+[[file:sitting-outside-2.jpg]]
+
+[[file:sitting-outside-3.jpg]]
+
+[[file:sitting-outside-4.jpg]]
+
+[[file:sitting-outside-5.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/W5RccaR6Tz0" title="Throwing Sticks In Drainage Ditch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/maPIgBBWx4Y" title="Crawing Around" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/u8UmppHl8VI" title="Just Playing In Parking Lot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/pgiZ_Qsj6hQ" title="More Playing In Parking Lot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/bnadc5Qd7yo" title="Tesnsing Up During Bath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

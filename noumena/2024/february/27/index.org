@@ -1,0 +1,51 @@
+#+TITLE: February 27, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/27/eating-chocolate-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 27, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/27/eating-chocolate-preview.jpg" />
+
+[[file:eating-chocolate.jpg]]
+
+* Good Morning, Noumena!
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/edP4KBAxDVg" title="Putting Necklaces On Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Ikea
+
+[[file:mirrors-at-ikea.jpg]]
+
+[[file:tongue-out-mirror-at-ikea.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/AbvUhNJZEuw" title="Putting With Hat On Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Melting Pot
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/T7Xf0FNMmps" title="Eating Chocolate Strawberries At Melting Pot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/ic4J1HIdsWM" title="Using Dipping Fork To Eat At Melting Pot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[file:sleeping-on-daddy.jpg]]
+
+[[file:sleeping-on-daddy-2.jpg]]
+
+[[file:sleeping-on-daddy-3.jpg]]

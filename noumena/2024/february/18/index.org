@@ -1,0 +1,113 @@
+#+TITLE: February 18, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/18/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 18, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/18/" />
+
+
+* Photo
+
+[[file:chilling-with-daddy.jpg]]
+
+[[file:mustache-2.jpg]]
+
+[[file:mustache-3.jpg]]
+
+[[file:outfit.jpg]]
+
+[[file:stickers.jpg]]
+
+[[file:stickers-preview.jpg]]
+
+[[file:wearing-jacket-with-hood.jpg]]
+
+[[file:wearing-mustache.jpg]]
+
+[[file:with-daddy-and-chris-2.jpg]]
+
+[[file:with-daddy-and-chris.jpg]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ENDDGuTnKs?si=3oHWMfW-wCc04yMO" title="Eating Oatmeal Running In Living Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GY2HHB5RaeI?si=mVWG1spqrly4d2gR" title="Rolling Off Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e3YnhBBbeWs?si=CdgDpH7kB_vG1vOD" title="Getting Into Daddys Wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NLXza9Mihtg?si=_ven4XyGe0KYeni5" title="Helping Daddy Vaccum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sEn_DtfhNZk?si=L8dN2fwcKboJq4hR" title="More Cipriano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/08lp4IM3sDY?si=9OYd6uuR-mXFuWB7" title="Sneezing With TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0x74_wJA2RU?si=Yltni9qIJrD4txxD" title="Getting Noumena To Close Her Eyes For Nap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQknhYnH4wg?si=qYJU4CqEO9xjdn4n" title="Waking Up With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p43Ke1JxEDY?si=dun9y6fmPWyIQ9YK" title="Playing In Chris House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDq7mLji_18?si=iSBSF-YpK0cThSqV" title="Tensing Up In Chris House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7t0O5_PxFk0?si=ND-fN9piaoPDAESF" title="Wearing Hood Wandering Around Chris House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xkPnnIXT9Js?si=TGgn5rJaTlOW7snD" title="Sitting On Chris Lap At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WwrxXQL75iM?si=uu8kB4BefokUrmVb" title="Being Goofy With Chris At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

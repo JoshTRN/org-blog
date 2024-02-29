@@ -1,0 +1,48 @@
+#+TITLE: February 22, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/22/with-daddy-by-st-johns-river-1-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 22, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/22/with-daddy-by-st-johns-river-1-preview.jpg" />
+
+[[file:with-daddy-by-st-johns-river-1.jpg]]
+
+* Good Morning, Noumena!
+
+* Dinner With Chris
+
+[[file:drinking-1.jpg]]
+
+[[file:drinking-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/tga78suGf4o" title="Fighting Daddy With The Water" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-on-chris-1.jpg]]
+
+[[file:sittin-on-chris-3.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/VtH1Zkd98HE" title="Chilling With Chris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Riverside Walk
+
+[[file:with-daddy-by-st-johns-river-2.jpg]]
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/2hNjbTZNPWk" title="Rocking Out To Knower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time

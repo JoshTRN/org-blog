@@ -1,0 +1,57 @@
+#+TITLE: February 28, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/28/sleeping-with-daddy-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 28, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/28/sleeping-with-daddy-preview.jpg" />
+
+[[file:sleeping-with-daddy.jpg]]
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/FIjq-T0KctA" title="Making Mess In Bedroom This Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:standing-on-chair-1.jpg]]
+
+[[file:standing-on-chair-2.jpg]]
+
+[[file:standing-on-chair-3.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/5q_QSQaMPxg" title="Arguing With Noumena About Changing Diaper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Playing At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/1g2VGl1I40M" title="Playing In Noumenas Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/Ctpe_5YCVgY" title="Jumping Off Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/88JqiyhccOk" title="More Jumping Off Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/sHp2JJqNmJ0" title="She Jumped Off The Bed Herself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export

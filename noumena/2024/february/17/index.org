@@ -1,0 +1,127 @@
+#+TITLE: February 17, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/17/sitting-with-chalmers-on-couch-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 17, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/17/sitting-with-chalmers-on-couch-3-preview.jpg" />
+
+[[file:sitting-with-chalmers-on-couch-3.jpg]]
+
+* Good Morning, Noumena
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="667" src="https://www.youtube.com/embed/Ots1dA92SLY" title="First Taking Off Noumenas Crib Rail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="500" src="https://www.youtube.com/embed/eVmiQAzVzBs" title="Checking Out Her Toddler Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:laying-in-bed.jpg]]
+
+[[file:sitting-in-bed-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="667" src="https://www.youtube.com/embed/cs79FABPE-o" title="Loving On Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:lying-with-daddy-in-bed.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="667" src="https://www.youtube.com/embed/9tz1joMPHjw" title="Laying In Bed With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="904" height="678" src="https://www.youtube.com/embed/kSpNsxXnNSY" title="More Laying In Bed Wtih Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="904" height="719" src="https://www.youtube.com/embed/LmM0Q7YOzO4" title="Playing In Daddys Bedroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="500" src="https://www.youtube.com/embed/dJf1t59ArO4" title="Watching Cipriano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="667" src="https://www.youtube.com/embed/_A1aXbGEMmY" title="Bouncing In Her Toddler Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="667" src="https://www.youtube.com/embed/NKUEnPwmnbA" title="Eating Carrots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Story Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="684" height="513" src="https://www.youtube.com/embed/dUcQdFHF6Mg" title="Playing with Ball And Kisa In Front Yard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="699" height="524" src="https://www.youtube.com/embed/tdOdS4nehrg" title="Saying Hi To Friend At Library" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:looking-at-grass-in-library.jpg]]
+
+[[file:walking-under-grass-library.jpg]]
+
+[[file:mild-fit-at-library.jpg]]
+
+[[file:getting-up-from-fit-at-library.jpg]]
+
+* Nap Time
+[[file:sleeping-in-toddler-bed.jpg]]
+
+
+* Getting Up From Nap
+
+#+begin_export html
+<div class="video-container">
+<iframe width="904" height="678" src="https://www.youtube.com/embed/TOuTdXdRsqQ" title="Crawling Out Of Tent From Nap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="889" height="667" src="https://www.youtube.com/embed/L0txDut_ke0" title="Jumping Over Noumenas Head" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="904" height="678" src="https://www.youtube.com/embed/noxJiQwuYxs" title="More Watching Cipriano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="904" height="678" src="https://www.youtube.com/embed/XEQTECfewbs" title="Eating Tofu Bites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
