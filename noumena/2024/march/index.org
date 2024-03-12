@@ -1,0 +1,29 @@
+#+TITLE: March 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+
+* Calendar
+
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <a href="/noumena/2024/march/01">1</a>   <a href="/noumena/2024/march/02">2</a>
+  <a href="/noumena/2024/march/03">3</a>   <a href="/noumena/2024/march/04">4</a>   <a href="/noumena/2024/march/05">5</a>   <a href="/noumena/2024/march/06">6</a>   <a href="/noumena/2024/march/07">7</a>   <a href="/noumena/2024/march/08">8</a>   <a href="/noumena/2024/march/09">9</a>
+  <a href="/noumena/2024/march/10">10</a>   <a href="/noumena/2024/march/11">11</a>   <a>12</a>   <a>13</a>   <a>14</a>   <a>15</a>   <a>16</a>
+  <a>17</a>   <a>18</a>   <a>19</a>   <a>20</a>   <a>21</a>   <a>22</a>   <a>23</a>
+  <a>24</a>   <a>25</a>   <a>26</a>   <a>27</a>   <a>28</a>   <a>29</a> <a>30</a> <a>31</a>
+  </div>
+#+end_export

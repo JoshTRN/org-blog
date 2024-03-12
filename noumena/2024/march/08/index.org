@@ -1,0 +1,25 @@
+#+TITLE: March  8, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/08/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March  8, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/08/" />
+
+* Photo
+
+[[file:fit-check.jpg]]
+
+[[file:closup-on-rock-outside-olive-garden.jpg]]
+
+[[file:hanging-around-1.jpg]]
+
+[[file:hanging-around-2.jpg]]
+
+[[file:hanging-around-3.jpg]]
+
+[[file:hanging-around-4.jpg]]
+
+[[file:rock-outside-olive-garden.jpg]]
+
+* Video

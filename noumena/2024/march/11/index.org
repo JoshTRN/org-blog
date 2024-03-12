@@ -1,0 +1,58 @@
+#+TITLE: March 11, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/11/carried-by-chris-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 11, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/11/carried-by-chris-3-preview.jpg" />
+
+[[file:carried-by-chris-3.jpg]]
+
+* Daycare Pickup
+
+#+begin_export html
+<div class="video-container">
+<iframe width="0" height="0" src="https://www.youtube.com/embed/f4mwgrl15vU" title="Asking If Noumena Wants To See Chris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+* J. Wayne and Delores Barr Weaver Park
+
+[[file:inside-ball.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/n5Dfx9wyQaY" title="Chris Spinning Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="729" src="https://www.youtube.com/embed/YUxToLAesXc" title="Teeder Todder With Chris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:teeder-todder-with-friends.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/deiILrDNsak" title="Spinning Another Little Girl At Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:carried-by-chris-1.jpg]]
+
+[[file:carried-by-chris-2.jpg]]
+
+
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/7lYdLdYxYis" title="Sliding On The Floor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
