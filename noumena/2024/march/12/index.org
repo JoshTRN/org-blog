@@ -1,0 +1,53 @@
+#+TITLE: March 12, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/12/skirt-on-daddys-head-1-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 12, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/12/skirt-on-daddys-head-1-preview.jpg" />
+
+* Good Morning, Noumena!
+
+[[file:laying-in-bed.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="770" src="https://www.youtube.com/embed/fIfu3K9dHzY" title="Leaving Daddy Alone In Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Tidewater Acres Park With Miss Theresa And Zayvon
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/KTTLLYf3VvI" title="Feeding Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Relaxing At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/lpqIGApdIEI" title="Being Picky About Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:skirt-on-daddys-head-1.jpg]]
+
+[[file:skirt-on-daddys-head-2.jpg]]
+
+[[file:skirt-on-daddys-head-3.jpg]]
+
+* Bath Time
+
+* Bed Time
+
+[[file:chosen-bedtime-outfit.jpg]]
+
+[[file:falling-asleep-with-daddy-1.jpg]]
+
+[[file:falling-asleep-with-daddy-2.jpg]]

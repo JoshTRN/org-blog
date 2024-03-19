@@ -1,0 +1,29 @@
+#+TITLE: March 13, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/13/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 13, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/13/" />
+
+
+* Dinner With Mommy
+
+[[file:matching-dresses-at-olive-garden-1.jpg]]
+
+[[file:matching-dresses-at-olive-garden-3.jpg]]
+
+[[file:matching-dresses-at-olive-garden-8.jpg]]
+
+[[file:matching-dresses-at-olive-garden-10.jpg]]
+
+* Back At Home
+
+[[file:chocolate-soy-milk-2.jpg]]
+
+[[file:chocolate-soy-milk-3.jpg]]
+
+[[file:milk-mustache-1.jpg]]
+
+[[file:milk-mustache-3.jpg]]

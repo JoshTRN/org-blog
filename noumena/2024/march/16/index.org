@@ -1,0 +1,105 @@
+#+TITLE: March 16, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/16/with-daddy-at-fountain-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 16, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/16/with-daddy-at-fountain-preview.jpg" />
+
+[[file:with-daddy-at-fountain.jpg]]
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/7T7793Edu1Q" title="Reading With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/PJf8G8sphxE" title="Feeding Chalemrs Almonds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:flowers-in-front-yard.jpg]]
+
+* Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/sj2lMSiDv7s" title="More Swinging Like Big Girl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/sm72mknPo8c" title="More Swinging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:holding-sticks-while-swinging-3.jpg]]
+
+[[file:holding-sticks-while-swinging-7.jpg]]
+
+[[file:swinging-3.jpg]]
+
+* CVS
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/N-zfFFCJVfM" title="Giving Beanie Babies Nap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nap Time
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/1Bq0tM9TUeo" title="Putting Bunny Down For Nap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/ohlRY1dAxUs" title="Playing With Daddys Face" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Ice Cream With Mommy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/OUKHtQe5-E4" title="Eating Ice Cream On Daddys Lap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/gLKR-soXyLk" title="Holding Ice Cream Cone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+*  Friendship Fountain
+
+
+[[file:with-mommy-at-fountain-10.jpg]]
+
+[[file:with-mommy-at-fountain-11.jpg]]
+
+[[file:with-mommy-at-fountain-12.jpg]]
+
+[[file:with-mommy-at-fountain-13.jpg]]
+
+[[file:with-mommy-at-fountain-6.jpg]]
+
+[[file:with-mommy-at-fountain-7.jpg]]
+
+[[file:with-mommy-at-fountain-8.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/W--f0oWNL6M" title="Watching Friendship Fountain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
