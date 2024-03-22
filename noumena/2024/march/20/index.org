@@ -1,0 +1,33 @@
+#+TITLE: March 20, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/20/playing-in-plants-2-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 20, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/20/playing-in-plants-2-preview.jpg" />
+
+
+* Dinner At CAVA
+
+[[file:being-cute-arriving-home-1.jpg]]
+
+[[file:being-cute-arriving-home-2.jpg]]
+
+[[file:being-cute-arriving-home-3.jpg]]
+
+* Playing Near St. John's River
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="755" src="https://www.youtube.com/embed/KLxSi3hczHE" title="Playing In Plants And Feeding Squirrels Popcorn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:playing-in-plants-1.jpg]]
+
+[[file:playing-in-plants-2.jpg]]
+
+[[file:playing-in-plants-2-preview.jpg]]
+
+[[file:playing-in-plants-3.jpg]]

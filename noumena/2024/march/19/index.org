@@ -1,0 +1,23 @@
+#+TITLE: March 19, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/19/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 19, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/19/" />
+
+* Daycare
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="739" src="https://www.youtube.com/embed/qnfoyNnYd4g" title="Playing With Book At Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Arlingwood Park
+
+[[file:going-down-slide-1.jpg]]
+
+[[file:going-down-slide-2.jpg]]
+
+[[file:going-down-slide-3.jpg]]

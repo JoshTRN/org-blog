@@ -1,0 +1,43 @@
+#+TITLE: March 21, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/21/playing-with-plants-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 21, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/21/playing-with-plants-preview.jpg" />
+
+[[file:playing-with-plants.jpg]]
+
+
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="755" src="https://www.youtube.com/embed/Eh6n7Naivlg" title="Making Lasagna With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Playing At Home
+[[file:being-cute-in-bed.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="739" src="https://www.youtube.com/embed/el0leqHbhaQ" title="Playing With Kisa And On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="739" src="https://www.youtube.com/embed/uDqeZ_ti0z0" title="Suffering Under Daddys Leg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="739" src="https://www.youtube.com/embed/9t2Zp5Up3AU" title="Noumena Loving Plants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
