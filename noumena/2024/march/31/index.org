@@ -6,3 +6,35 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 31, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/31/" />
+
+* Happy Easter, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/bFabgCm6oo8" title="Happy Easter Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/JajMR3Yj7Us" title="Making Daddy Take His Shirt Off" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/NmpFGf6jw8g" title="More Demanding Daddys Shirt Off" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/_lQR634szYY" title="Kissing The Boo Boo Noumena Gave Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[./falling-asleep-on-daddy.jpg]]
