@@ -1,0 +1,36 @@
+#+TITLE: March 25, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/25/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 25, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/25/" />
+
+* Good Morning, Noumena!
+
+[[file:playing-with-bears-in-morning.jpg]]
+
+* Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TDIpTHVcCs?si=Gwm_05kk7uCrH0S8" title="Playing With Gate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sitting-on-bridge-1.jpg]]
+
+[[file:sitting-on-bridge-2.jpg]]
+
+[[file:sitting-on-bridge-3.jpg]]
+
+[[file:sitting-on-bridge-4.jpg]]
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpIrjSR9Fg8?si=FAHTQ8o29koUSAiy" title="Trying To Put On Diapers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

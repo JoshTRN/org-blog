@@ -1,0 +1,145 @@
+#+TITLE: March 23, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/23/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 23, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/23/" />
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/5XZR77_GY1I" title="Playing With Wipes And Bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/oEi5LM6o6ro" title="More Vacuuming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/7QVsq7nMcq4" title="Playing In Just Diaper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/qVU0JCEUGYI" title="More Playing With Bear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Car Show At Church
+
+[[file:smelling-flowers-2.jpg]]
+
+[[file:smelling-flowers-3.jpg]]
+
+[[file:smelling-flowers-6.jpg]]
+
+[[file:smelling-flowers-7.jpg]]
+
+[[file:car-show.jpg]]
+
+[[file:car-show-2.jpg]]
+
+* CVS
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="729" src="https://www.youtube.com/embed/IoJkPswfLOg" title="Playing With Cars In CVS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Tidewater Acres Park
+
+[[file:eating-stick-while-swinging-2.jpg]]
+
+[[file:eating-stick-while-swinging-3.jpg]]
+
+[[file:stick-collector-1.jpg]]
+
+[[file:stick-collector-2.jpg]]
+
+[[file:stick-collector-3.jpg]]
+
+[[file:stick-collector-4.jpg]]
+
+[[file:laying-in-grass-1.jpg]]
+
+[[file:sitting-in-grass-1.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="713" src="https://www.youtube.com/embed/OTLTikYBKbc" title="Laying In The Grass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/3a3F3rcbj3w" title="Singing Stick Collector" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="713" src="https://www.youtube.com/embed/8SQnmowecuI" title="Noumena Getting Tuckered" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Playing At Home
+
+[[file:breaking-daddys-glasses.jpg]]
+
+[[file:family.jpg]]
+
+* Nap Time
+
+[[file:napping-on-daddy2.jpg]]
+
+* Mommy Comes To Visit Easter Bunny
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/RD4G4yFGwf4" title="Arriving At Easter Bunny" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:easter-bunny.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/aaQd5oEJoQ0" title="Playing In Toy Store" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner & Ice Cream Afterward
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="713" src="https://www.youtube.com/embed/zq03Zka_Dtc" title="Wiping Her Baby At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="713" src="https://www.youtube.com/embed/tKeWOLArGDg" title="Crawling Under Bars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:eating-ice-cream.jpg]]
+
+[[file:eating-ice-cream-with-mommy-1.jpg]]
+
+[[file:eating-ice-cream-with-mommy-2.jpg]]
+
+[[file:eating-ice-cream-with-mommy-3.jpg]]
+
+[[file:eating-ice-cream-with-mommy-4.jpg]]
+
+[[file:eating-ice-cream-with-mommy-5.jpg]]
