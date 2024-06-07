@@ -1,0 +1,41 @@
+#+TITLE: June  6, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/06/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June  6, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/06/" />
+
+* Dinner At CAVA
+
+[[./bench-at-cava.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe loading="lazy" width="1870" height="728" src="https://www.youtube.com/embed/shk1X1Vbu6c" title="Playing On Benches At Cava" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Riverside Park
+
+#+ATTR_HTML: :loading lazy
+[[./dick-pond-riverside-park.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe loading="lazy" width="1870" height="728" src="https://www.youtube.com/embed/Sa9OYLYV7p4" title="Visiting Duckies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe loading="lazy"  width="1870" height="728" src="https://www.youtube.com/embed/e8ADxVLtZrI" title="Hanging And Playing Like Crazy Girl Riverside Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="0" height="0" src="https://www.youtube.com/embed/Ob2LMswa_vs" title="Watching Turtle Swim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

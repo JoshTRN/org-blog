@@ -1,0 +1,59 @@
+#+TITLE: March 28, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/28/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 28, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/28/" />
+
+
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0D5mSrbqw-Q?si=PQ_ZZU9haYbz6gGe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* St Johns River
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GVg2Peg2pSI?si=8xnALwjuRnqxro0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[file:by-the-river-1.jpg]]
+
+[[file:by-the-river-2.jpg]]
+
+[[file:looking-into-river-1.jpg]]
+
+[[file:looking-into-river-2.jpg]]
+
+[[file:looking-into-river-3.jpg]]
+
+[[file:looking-into-river-4.jpg]]
+
+[[file:sitting-by-st-johns-river-1.jpg]]
+
+[[file:sitting-by-st-johns-river-2.jpg]]
+
+[[file:sitting-by-st-johns-river-3.jpg]]
+
+[[file:sitting-by-st-johns-river-4.jpg]]
+
+[[file:sitting-by-st-johns-river-5.jpg]]
+
+[[file:standing-by-st-johns-river.jpg]]
+
+[[file:standing-by-st-johns-river-2.jpg]]
+
+[[file:running-in-the-rain.jpg]]
+
+* Bed Time
+
+[[file:sleeping-on-daddy.jpg]]

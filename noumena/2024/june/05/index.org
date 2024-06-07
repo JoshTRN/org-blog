@@ -1,0 +1,68 @@
+#+TITLE: June  5, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/05/playing-in-plushies-1-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June  5, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/05/playing-in-plushies-1-preview.jpg" />
+
+* Water Day At Daycare
+
+
+[[file:water-day-1.jpg]]
+
+[[file:water-day-2.jpg]]
+
+
+* Walmart
+
+[[file:playing-in-plushies-1.jpg]]
+
+[[file:playing-in-plushies-2.jpg]]
+
+[[file:playing-in-plushies-3.jpg]]
+
+[[file:playing-in-plushies-4.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/SLFomeGfQdg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4ovtlV_8MI?si=H961Hq443pQdd0Gd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[file:slide-acquired.jpg]]
+
+* First Time With New Slide!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTrB-MpxAiM?si=DALjyk4zvRH4BMIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGHrkX8kXp0?si=mgmhuyLCgoCziNxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:playing-in-living-room.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pq3q7v242oI?si=cfWV5k1hvUBYWPb_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bed Time
+
+[[file:going-to-bed-on-daddy.jpg]]

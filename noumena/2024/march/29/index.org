@@ -1,0 +1,69 @@
+#+TITLE: March 29, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/29/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 29, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/29/" />
+
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCPQS8FgSqs?si=xB-ofwqCMHpnuA8D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AOh-tnKM5co?si=BrD-MtLE2F3n3jFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:sticker-on-belly.jpg]]
+
+[[file:walking-down-hall.jpg]]
+
+[[file:heading-outside.jpg]]
+
+[[file:playing-with-daddys-drums-1.jpg]]
+
+[[file:playing-with-daddys-drums-3.jpg]]
+
+* Mommy's Sobriety Dinner
+
+[[file:by-pond-2.jpg]]
+
+[[file:by-pond-4.jpg]]
+
+[[file:watching-turtles-in-pond-2.jpg]]
+
+[[file:watching-turtles-in-pond-3.jpg]]
+
+[[file:watching-turtles-in-pond-8.jpg]]
+
+[[file:watching-turtles-in-pond-10.jpg]]
+
+[[file:watching-turtles-in-pond-11.jpg]]
+
+[[file:watching-turtles-in-pond-12.jpg]]
+
+[[file:watching-turtles-in-pond-13.jpg]]
+
+[[file:with-josie-and-mommy-1.jpg]]
+
+[[file:with-josie-and-mommy-2.jpg]]
+
+[[file:with-josie-and-mommy-3.jpg]]
+
+[[file:with-josie-and-mommy-4.jpg]]
+
+* Home Before Bed
+#+begin_export html
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kZE5zpsxh4?si=TKeeuyuOZHsiLdA5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
