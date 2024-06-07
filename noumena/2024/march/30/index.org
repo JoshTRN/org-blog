@@ -6,3 +6,104 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 30, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/30/" />
+
+
+* Good Morning, Noumena!
+
+[[./laying-on-sidewalk-1.jpg]]
+
+[[./laying-on-sidewalk-2.jpg]]
+
+[[./chillin-on-the-couch.jpg]]
+
+* First Trip To Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/zCbGQlGqmE0" title="Stick Collecting At Tidewater Acres Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="712" src="https://www.youtube.com/embed/fL8mfWBsrMk" title="Swinging And Making Daddy Slide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/knVK15meHjA" title="Jumping Back And Forth At Tidewater Acres Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/xKzblwAWr8M" title="More Jumping At Tidewater Acres Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/AHCnY6iVoGk" title="More Stick Collecting At Tidewater Acres Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Lunch Time
+
+[[./lunch-with-daddy.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="712" src="https://www.youtube.com/embed/L_pPKa0uuCA" title="Lunch With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Nap Time
+
+[[./nap-time.jpg]]
+
+[[./nap-time-2.jpg]]
+
+[[./daddy-kissing-noumena-at-nap-time.jpg]]
+
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="712" src="https://www.youtube.com/embed/YJCLq1yeMRI" title="Noumena Saying Fuck Yeah At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/2HO4hFDTTtA" title="Running And Jumping At Dinner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+*  Evening-Walk
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/QWuJypKarBg" title="Playing Out Front" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./afternoon-walk-picking-up-sticks-1.jpg]]
+
+[[./afternoon-walk-picking-up-sticks-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/GloC6Xrivvs" title="Walking With Sticks To Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+*  Bed Time
+
+[[./bed-time-1.jpg]]
+
+[[./bed-time-2.jpg]]
+
+[[./bed-time-3.jpg]]
