@@ -6,3 +6,28 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April  1, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/april/01/" />
+
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/P_AkHj-khAU" title="Helping Daddy Drive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photo
+
+[[./playing-with-toy-truck.jpg]]
+
+[[./sleeping-on-daddy-1.jpg]]
+
+[[./sleeping-on-daddy-2.jpg]]
+
+[[./trying-to-calm-noumena-down-outside-1.jpg]]
+
+[[./trying-to-calm-noumena-down-outside-2.jpg]]
+
+[[./back-asleep-on-daddy.jpg]]
+
+[[./sleeping-in-weird-position.jpg]]
