@@ -6,3 +6,33 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April  2, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/april/02/" />
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/3GP2m9krF_A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photo
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="769" src="https://www.youtube.com/embed/5XFJNOlS6TI" title="Kissing Daddys Boo Boo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/VB1C_py9nj0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./trying-to-get-in-the-car-1.jpg]]
+
+[[./trying-to-get-in-the-car-2.jpg]]
+
+* Bed Time
+
+[[./falling-asleep-on-daddy.jpg]]
