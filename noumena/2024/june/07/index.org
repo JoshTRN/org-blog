@@ -1,0 +1,36 @@
+#+TITLE: June  7, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/07/hair-in-ponytail-at-daycare-2-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June  7, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/07/hair-in-ponytail-at-daycare-2-preview.jpg" />
+
+* Good Morning Noumena!
+
+* Daycare Pickup
+
+[[./hair-in-ponytail-at-daycare-1.jpg]]
+
+[[./hair-in-ponytail-at-daycare-2.jpg]]
+
+[[./hair-in-ponytail-at-daycare-3.jpg]]
+
+[[./hair-in-ponytail-at-daycare-4.jpg]]
+
+* Dinner
+[[./making-a-mess.jpg]]
+
+*  Playing In The Pool
+
+* Play And TV Time Before Bed
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/LpSniDuaUmo" title="Feeding Daddy And Cooking At Her Kitchen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bed Time
