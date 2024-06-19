@@ -6,3 +6,55 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April  5, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/april/05/" />
+
+
+
+* Tidewater Acres Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/bkJiMfuIYdw" title="Playing With Kisa In Front Yard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./playing-with-bryan-and-catherine-1.jpg]]
+
+[[./playing-with-bryan-and-catherine-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/Q5fgNU7AfAg" title="Bryan Pushing Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/5x4ksH10cI8" title="Playing With Gate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out With Miss Theresa
+
+[[./sitting-with-daddy-next-to-miss-theresa-1.jpg]]
+
+[[./sitting-with-daddy-next-to-miss-theresa-2.jpg]]
+
+[[./sitting-with-miss-theresa.jpg]]
+
+* Back at Home Before Bed
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/vDRjHOUYWK8" title="Playing With Toys In Living Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[./sleeping-in-daddys-arms.jpg]]
+
+[[./sleeping-on-daddy-3.jpg]]
+
+[[./laying-on-daddy.jpg]]
+
+[[./laying-on-daddy-2.jpg]]

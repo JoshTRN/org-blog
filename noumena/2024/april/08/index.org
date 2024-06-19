@@ -1,4 +1,4 @@
-#+TITLE: April 8, 2024
+#+TITLE: Solar Eclipse Day! April 8, 2024
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
@@ -6,3 +6,146 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April 8, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/april/8/" />
+
+
+
+* Morning
+
+[[./sleeping-in-hotel.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/EnZY8ojjg1g" title="Playing With Toys In Hotel Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="712" src="https://www.youtube.com/embed/Gtvoo6arV3w" title="Missing Noumena Crab Walk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Breakfast
+
+[[./breakfast-1.jpg]]
+
+[[./breakfast-2.jpg]]
+
+[[./breakfast-3.jpg]]
+
+[[./breakfast-4.jpg]]
+
+* Morning
+
+[[./chilling-on-hotel-room-floor.jpg]]
+
+[[./chilling-on-hotel-room-floor-with-daddy.jpg]]
+
+[[./looking-at-daddys-hairy-legs.jpg]]
+
+* Solar Eclipse Event
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/pAYPP8qesl0" title="Walking Around Solar Eclipse Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/4lwR7xLpKYM" title="Playing In Plants Solar Eclipse Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[./next-to-sun-1.jpg]]
+
+[[./next-to-sun-2.jpg]]
+
+[[./next-to-sun-3.jpg]]
+
+[[./next-to-sun-4.jpg]]
+
+[[./next-to-sun-5.jpg]]
+
+[[./next-to-sun-6.jpg]]
+
+[[./bear-balloon-1.jpg]]
+
+[[./bear-balloon-2.jpg]]
+
+[[./bear-balloon-3.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/CXrj0waOoCg" title="Chewing On Popcorn Bag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./with-mommy-and-daddy-1.jpg]]
+
+[[./with-mommy-and-daddy-2.jpg]]
+
+[[./with-mommy-and-daddy-3.jpg]]
+
+[[./with-mommy-and-daddy-4.jpg]]
+
+[[./with-mommy-and-daddy-5.jpg]]
+
+[[./holding-other-babys-doll.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/9lPNBU7hit4" title="Playing With Other Babys Doll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Mall After Event
+
+[[./passed-out-on-way-to-mall-1.jpg]]
+
+[[./passed-out-on-way-to-mall-2.jpg]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/_7YZmW3lXr8" title="Driving Carts In Mall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./playing-in-mall-carts-1.jpg]]
+
+[[./playing-in-mall-carts-2.jpg]]
+
+[[./playing-in-mall-carts-3.jpg]]
+
+* Rain Forest Cafe
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/6dVcaG2lcBo" title="Rainforest Cafe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/R0PR_8Q9Trs" title="Eating Dirt Themed Desert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Back At The Hotel
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="712" src="https://www.youtube.com/embed/LkS8UZsfx4E" title="Chasing Mommy Around Hotel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/LWQBm4RJ7Dk" title="More Chasing Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

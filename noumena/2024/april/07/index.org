@@ -6,3 +6,132 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April 7, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/april/7/" />
+
+
+* First Plane Ride
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="769" src="https://www.youtube.com/embed/pKW16pXYyTM" title="Noumenas First Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:first-plane-ride-1.jpg]]
+
+[[file:first-plane-ride-2.jpg]]
+
+[[file:first-plane-ride-3.jpg]]
+
+[[file:sleeping-on-daddy-3.jpg]]
+
+[[file:waking-up-on-plane.jpg]]
+
+[[file:plane-bathroom-1.jpg]]
+
+[[file:plane-bathroom-2.jpg]]
+
+[[file:plane-bathroom-3.jpg]]
+
+* Arriving At Hotel
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/N9fO4zzYUZI" title="Arriving At Hotel In Texas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/FIH1GRIRwZI" title="Playing In Hotel Sliding Doors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/n4GJTcRVAb4" title="Playing With Daddy In Hotel Bathroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Breakfast
+
+[[file:breakfast-at-hotel-1.jpg]]
+
+[[file:breakfast-at-hotel-11.jpg]]
+
+[[file:breakfast-at-hotel-10.jpg]]
+
+[[file:breakfast-at-hotel-9.jpg]]
+
+[[file:breakfast-at-hotel-8.jpg]]
+
+[[file:breakfast-at-hotel-7.jpg]]
+
+[[file:breakfast-at-hotel-6.jpg]]
+
+[[file:breakfast-at-hotel-5.jpg]]
+
+[[file:breakfast-at-hotel-4.jpg]]
+
+[[file:breakfast-at-hotel-3.jpg]]
+
+[[file:breakfast-at-hotel-2.jpg]]
+
+[[file:relaxing-in-hotel-with-daddy-4.jpg]]
+
+[[file:relaxing-in-hotel-with-daddy-3.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/Rjrfc2Shneg" title="Playing With Mommy In Hotel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Relaxing Before Aquarium
+
+[[file:playing-in-carseat-hotel-3.jpg]]
+
+[[file:playing-in-carseat-hotel-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/28WAtICKyT8" title="Hiding Under Towels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* First Aquarium
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/gyqXuNoLDYE" title="Noumenas First Aquarium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:first-aquarium-1.jpg]]
+
+[[file:first-aquarium-2.jpg]]
+
+[[file:first-aquarium-3.jpg]]
+
+[[file:first-aquarium-4.jpg]]
+
+[[file:first-aquarium-5.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/-lyxOknfWSM" title="More Aquarium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back At Hotel
+
+[[file:eating-icecream-with-mommy-1.jpg]]
+
+[[file:eating-icecream-with-mommy-2.jpg]]
+
+[[file:eating-icecream-with-mommy-3.jpg]]
+
+[[file:eating-icecream-with-mommy-4.jpg]]
+
+* Bed Time
+[[file:falling-asleep.jpg]]
