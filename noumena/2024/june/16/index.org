@@ -1,0 +1,71 @@
+#+TITLE: June 16, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/16/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 16, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/16/" />
+
+* Good Morning, Noumena! Happy Father's Day, Daddy!
+
+[[./nap-in-the-morning.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/scfJeu4ePdE" title="Being Cute With Her Witch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="712" src="https://www.youtube.com/embed/7qfpfJM81jA" title="Giving Daddy His Fathers Day Present" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/ZORBt6uTV8k" title="Being Sick Resting With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./sick-laying-on-daddy.jpg]]
+
+* Afternoon
+
+
+[[./afternoon-nap-2.jpg]]
+
+[[./afternoon-nap-1.jpg]]
+
+[[./sick-sleeping-with-daddy.jpg]]
+
+* Evening
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/UqqLa-S992c" title="Feeding Her Witch Applesauce And Playing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/2arQrG9v0bM" title="Feeding Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/aj70YMZ1KJ4" title="Giving Chalmers Love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/7eB7Q4-88GA" title="Putting Necklaces On Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[./falling-asleep-with-daddy.jpg]]

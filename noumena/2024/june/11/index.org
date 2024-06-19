@@ -1,0 +1,48 @@
+#+TITLE: June 11, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/11/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 11, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/11/" />
+
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/c7lgVmpIsTA" title="Eating Vegan Hot Dogs With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[file:eating-hotdogs-in-daddys-lap.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/Y3IhZaERDEI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Evening
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/MUZmSaM2N08" title="Drinking Water On Stove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Walking Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/jrDFVvFywok" title="Dealing With Booboos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/WWbw7a66YPk" title="Those Bastards Cut Down The Trees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

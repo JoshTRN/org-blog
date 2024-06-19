@@ -1,0 +1,53 @@
+#+TITLE: June  8, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/08/laying-with-daddy-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June  8, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/08/laying-with-daddy-preview.jpg" />
+
+[[./laying-with-daddy.jpg]]
+
+* Good Morning, Noumena!
+
+[[./cuddle-with-daddy-1.jpg]]
+
+[[./cuddle-with-daddy-2.jpg]]
+
+[[./cuddle-with-daddy-3.jpg]]
+
+[[./playing-with-mouth.jpg]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="769" src="https://www.youtube.com/embed/vC1EnlG02UY" title="Spreading Out Her Mouth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Riverside Arts Market
+
+* Haning Around At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="712" src="https://www.youtube.com/embed/sHX26AdWqCg" title="Playing Around At Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bath Time
+
+[[./cloaked-in-towel-1.jpg]]
+
+[[./cloaked-in-towel-2.jpg]]
+
+[[./cloaked-in-towel-3.jpg]]
+
+[[./cloaked-in-towel-4.jpg]]
+
+[[./cloaked-in-towel-5.jpg]]
+
+[[./cloaked-in-towel-6.jpg]]
+
+[[./cloaked-in-towel-7.jpg]]

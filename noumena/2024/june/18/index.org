@@ -1,0 +1,32 @@
+#+TITLE: June 18, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/18/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 18, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/18/" />
+
+
+* Arriving Home
+
+* Dinner
+
+* Hanging Out At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/YLwvPK7moFA" title="fNoumena Performing Song She Learned At Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./pullup-on-head-1.jpg]]
+
+[[./pullup-on-head-2.jpg]]
+
+[[./pullup-on-head-3.jpg]]
+
+* Front Yard
+
+
+* Bed Time

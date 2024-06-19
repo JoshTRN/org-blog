@@ -1,0 +1,112 @@
+#+TITLE: June 15, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/15/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 15, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/15/" />
+
+* Good Morning, Noumena!
+
+
+[[./going-down-slide-in-morning-1.jpg]]
+
+[[./going-down-slide-in-morning-2.jpg]]
+
+[[./going-down-slide-in-morning-4.jpg]]
+
+[[./going-down-slide-in-morning-6.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/WxlVMnrT2E4" title="Saying Hi To Grasshopper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./looking-at-big-grasshopper.jpg]]
+
+[[./saying-hi-to-grasshopper.jpg]]
+
+[[./sitting-in-fairy-garden.jpg]]
+
+[[./smiling-at-grasshopper.jpg]]
+
+[[./standing-tall.jpg]]
+
+[[./front-yard.jpg]]
+
+[[./playing-out-front-1.jpg]]
+
+* Breakfast At Cracker Barrel
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/Vu0HaBQPVkA" title="Riding Unicorn In Cracker Barrel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./breakfast-with-mommy-1.jpg]]
+
+[[./breakfast-with-mommy-2.jpg]]
+
+[[./breakfast-with-mommy-3.jpg]]
+
+[[./breakfast-with-mommy-4.jpg]]
+
+[[./playing-with-toys-cracker-barrel-3.jpg]]
+
+[[./playing-with-toys-cracker-barrel-4.jpg]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/LOHMG3NDulk" title="Playing With Bubbles In Cracker Barrel Bathroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Pool Time With Daddy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/hcYzukTXKsM" title="Going Down Slide Into Pool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/rtX45rPUOBk" title="Sliding Into Daddy In Pool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Afternoon
+
+[[./falling-asleep-in-funny-position.jpg]]
+
+[[./laying-with-daddy-2.jpg]]
+
+[[./laying-with-daddy-3.jpg]]
+
+[[./sleeping-hard-2.jpg]]
+
+
+* Riverside Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/U02Wd7U8bd8" title="Playing At Riverside Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/smK24kCBVtI" title="Grass Dance At Riverside Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Dinner
+
+[[./dinner-with-daddy-1.jpg]]
+
+[[./dinner-with-daddy-2.jpg]]

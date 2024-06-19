@@ -1,0 +1,36 @@
+#+TITLE: June 9, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/9/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 9, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/9/" />
+
+
+
+* Video
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/Sm2LYYX7XT4" title="She Needs Her Knife Back" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="712" src="https://www.youtube.com/embed/qz6wb3ZSfHA" title="Going Down Slide Into Pool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="712" src="https://www.youtube.com/embed/-_kJiCfkb8c" title="Chasing Mommy With Lion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Photo
+
+[[./going-down-slide-1.jpg]]
+
+[[./going-down-slide-2.jpg]]

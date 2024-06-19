@@ -1,0 +1,43 @@
+#+TITLE: June 14, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/14/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 14, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/14/" />
+
+* Good Morning, Noumena
+
+[[./kix-in-the-morning-6.jpg]]
+
+[[./kix-in-the-morning-5.jpg]]
+
+[[./kix-in-the-morning-4.jpg]]
+
+[[./kix-in-the-morning-3.jpg]]
+
+[[./kix-in-the-morning-2.jpg]]
+
+[[./kix-in-the-morning-1.jpg]]
+
+* Tidewater Acres Park
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="728" src="https://www.youtube.com/embed/AnF9IwURDWg" title="Swinging With Leaves At Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="712" src="https://www.youtube.com/embed/JyWtXksd7-k" title="Holding Her Body Weight With Hands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Walking Home From Park
+
+
+[[./dirty-with-daddy.jpg]]
+
+[[./dirty-face.jpg]]
