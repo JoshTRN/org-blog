@@ -1,0 +1,87 @@
+#+TITLE: June 30, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/june/30/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 30, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/30/" />
+
+* Good Morning, Noumena!
+
+[[./chillin-with-chalmers-1.jpg]]
+
+[[./chillin-with-chalmers-3.jpg]]
+
+* Tidewater Acres Park
+
+[[./daddy-noumena-silhouette.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/IbnjTOZTFD4" title="Swinging With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/wAt6vgAhWCo" title="Swinging On Daddys Lap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Hanging Out At Home
+
+[[./falling-asleep-on-daddy.jpg]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/hZUREl6Er-o" title="Screaming Dont Eat Me While Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/S8_2ig5hJyk" title="Watching Clown Core" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Playing Outside After Nap
+
+[[./laying-in-grass-6.jpg]]
+
+[[./laying-in-grass-10.jpg]]
+
+[[./laying-in-grass-15.jpg]]
+
+[[./laying-in-grass-17.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/ktISf39j4kc" title="Playing In Tall Grass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./laying-with-daddy-in-grass-3.jpg]]
+
+[[./sitting-in-grass-3.jpg]]
+
+[[./sitting-in-grass-4.jpg]]
+
+[[./sitting-in-grass-5.jpg]]
+
+[[./sitting-in-grass-6.jpg]]
+
+[[./sitting-in-grass-9.jpg]]
+
+[[./sitting-with-daddy-in-grass-1.jpg]]
+
+* Playing At Home With Mommy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/-cKNQijehvA" title="Mommy Wears Witch Mask" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./hand-dimples-2.jpg]]

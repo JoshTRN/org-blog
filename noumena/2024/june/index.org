@@ -20,6 +20,6 @@
   <a href="/noumena/2024/june/08/">8</a>   <a href="/noumena/2024/june/09">9</a>   <a>10</a>   <a href="/noumena/2024/june/11">11</a>   <a href="/noumena/2024/june/12">12</a>   <a href="/noumena/2024/june/13">13</a>   <a href="/noumena/2024/june/14">14</a>
   <a href="/noumena/2024/june/15">15</a>   <a href="/noumena/2024/june/16/">16</a>   <a href="/noumena/2024/june/17/">17</a>   <a href="/noumena/2024/june/18">18</a>   <a>19</a>   <a>20</a>   <a>21</a>
   <a>22</a>   <a>23</a>   <a>24</a>   <a>25</a>   <a>26</a>   <a>27</a>   <a>28</a>
-  <a>29</a>   <a>30</a>
+  <a>29</a>   <a href="/noumena/2024/june/30">30</a>
   </div>
 #+end_export

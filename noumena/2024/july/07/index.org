@@ -1,0 +1,98 @@
+#+TITLE: July  7, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/july/07/sitting-at-pond-1-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July  7, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/july/07/sitting-at-pond-1-preview.jpg" />
+
+[[./sitting-at-pond-1.jpg]]
+
+* Good Morning, Noumena!
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="769" src="https://www.youtube.com/embed/OEoQB4bXxG4" title="Wearing Witch Hat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./witch-hat-2.jpg]]
+
+[[./witch-hat-1.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/hy8oC_1nIUM" title="Playing Piano With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Lunch
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/qlOGwh4gYhw" title="Eating Vegan Pizza With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="433" height="769" src="https://www.youtube.com/embed/oQNkjFxbJog" title="Saying Go Bucko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./falling-asleep-on-daddy.jpg]]
+
+* Dinner
+
+[[./eating-bacn-and-nutritional-yeast-2.jpg]]
+
+[[./eating-bacn-and-nutritional-yeast-1.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/xCVOVPVXt7E" title="Being A Goofy Toddler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Touchton Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/SXbcL6GyUU0" title="Running To The Pond At Touchton Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./sitting-at-pond-3.jpg]]
+
+[[./sitting-at-pond-2.jpg]]
+
+[[./standing-near-pond-1.jpg]]
+
+[[./standing-near-pond-2.jpg]]
+
+[[./standing-near-pond-3.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/kuocVhM0aaY" title="Climbing And Going Down Slide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./going-down-slide-1.jpg]]
+
+[[./going-down-slide-2.jpg]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/mocuY0iVgUo" title="Walking With Kensley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/DMaMT0eYmM0" title="Kensley Pushes Noumena And Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bed Time
