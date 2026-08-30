@@ -1,0 +1,55 @@
+#+TITLE: November  6, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/november/06/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="November  6, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/november/06/" />
+
+
+* Good Morning, Noumena!
+
+[[./daycare-outfit-1.webp]]
+
+[[./daycare-outfit-2.webp]]
+
+[[./daycare-outfit-3.webp]]
+
+* Daycare
+
+[[./arts-with-miss-tina.webp]]
+
+* Dinner
+[[./matching-dress-with-lilly-1.webp]]
+
+[[./matching-dress-with-lilly-2.webp]]
+
+[[./outside-olive-garden-with-lily-3.webp]]
+
+[[./with-lily-outside-olive-garden-1.webp]]
+
+[[./with-lily-outside-olive-garden-2.webp]]
+
+[[./dinner-with-lily-and-mom-1.webp]]
+
+[[./dinner-with-lily-and-mom-2.webp]]
+
+* Evening Walk
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/9QOxvO_Bjnc" title="Trying To Catch Noumena Being Cute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/qEooq5P6qnk" title="Cleaning Daddys Butt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Bath & Bed Time

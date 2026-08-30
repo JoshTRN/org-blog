@@ -17,13 +17,13 @@
 
 * Daycare
 
-[[file:crafts-at-daycare.jpg]]
+[[file:crafts-at-daycare.webp]]
 
-[[file:crafts-at-daycare-2.jpg]]
+[[file:crafts-at-daycare-2.webp]]
 
-[[file:playground-1.jpg]]
+[[file:playground-1.webp]]
 
-[[file:playground-2.jpg]]
+[[file:playground-2.webp]]
 
 * Back At Home
 
@@ -47,9 +47,9 @@
 </div>
 #+end_export
 
-[[file:sitting-at-cvs.jpg]]
+[[file:sitting-at-cvs.webp]]
 
-[[file:sitting-at-cvs-2.jpg]]
+[[file:sitting-at-cvs-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -57,7 +57,7 @@
 </div>
 #+end_export
 
-[[file:sitting-at-cvs-3.jpg]]
+[[file:sitting-at-cvs-3.webp]]
 
 
 #+begin_export html
@@ -76,4 +76,4 @@
 
 * Bath Time
 
-[[file:naked-drinking-soymilk-cropped.jpg]]
+[[file:naked-drinking-soymilk-cropped.webp]]

@@ -1,7 +1,7 @@
 #+TITLE: October 25, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:crouching-on-the-chair.jpg]]
+[[file:crouching-on-the-chair.webp]]
 
 * Morning
 
@@ -11,7 +11,7 @@ I remember before Noumena could walk when I would enter her room in the morning,
 
 Noumena outstretches rolls over onto her back and outstretches her arms expectantly---non-verbally saying, "You know the drill, Daddy." I pick her up, give her several of the usual morning kisses and we sit down to eat breakfast together before getting her dressed and leaving for the day. Noumena is in a pleasant mood the entire to daycare and when we arrive, I set her on the sidewalk and she walks with me all the way into the building and to her class room.
 
-[[file:sitting-on-the-chair.jpg]]
+[[file:sitting-on-the-chair.webp]]
 
 
 * Evening
@@ -39,9 +39,9 @@ I carry in the groceries with me and set them down on the stove top ready for pr
 
 I try very carefully to get Noumena good and clean directly after meals to prevent a messy toddler from spreading the mess to the other corners of the house, but unfortunately today I was less than successful in my endeavors... and I happened to wearing white. Noumena left a big, tomato-sauce hand-print on my white shirt just before I got her to the sink to wash her hands. Worrying about it staining, I decided to change and wash my shirt immediately, I moved some of my dirty clothes into the laundry basket and brought it into Noumena's room because she had a bunch of laundry that needed doing anyway. I set the basket down, starting putting in the clothes, prompted Noumena to follow suit and then while she was putting her dirty clothes into her laundry basket in her room, I changed my shirt in the other room. When I came back in, I helped her finish putting the clothes in the basket, then I put her in the basket and carried her to the washing machines.
 
-[[file:inside-laundry-basket.jpg]]
+[[file:inside-laundry-basket.webp]]
 
-[[file:sitting-in-laundry-basket.jpg]]
+[[file:sitting-in-laundry-basket.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -57,9 +57,9 @@ It gets dark so early these days and the days are only going to get shorter. It 
 
 * Pumpkin Patch
 
-[[file:playing-with-gourd.jpg]]
+[[file:playing-with-gourd.webp]]
 
-[[file:holding-gourd-2.jpg]]
+[[file:holding-gourd-2.webp]]
 
 
 
@@ -71,9 +71,9 @@ On our way to the park, I noticed a pumpkin patch just outside a church. Of cour
 </div>
 #+end_export
 
-[[file:holding-gourd.jpg]]
+[[file:holding-gourd.webp]]
 
-[[file:looking-at-gourds.jpg]]
+[[file:looking-at-gourds.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -81,7 +81,7 @@ On our way to the park, I noticed a pumpkin patch just outside a church. Of cour
 </div>
 #+end_export
 
-[[file:holding-gourd-in-front-of-face.jpg]]
+[[file:holding-gourd-in-front-of-face.webp]]
 
 I was unfamiliar with gourds, so we stopped by the booth where they were selling the pumpkins and, introduced myself and Noumena to a woman named Paula and a man named Lee, I asked about them. They gave Noumena a sticker which she removed almost instantly after I put it on her shirt and handed it back to Lee. They gave us another sticker for the road and we left for the park.
 

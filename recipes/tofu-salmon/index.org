@@ -1,0 +1,55 @@
+#+title: Tofu Salmon
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~12 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$1.50/
++ *Total Cost*: /~$5.50/
+
+* Ingredients
+** Tofu
+- [ ] 1 block extra-firm tofu (pressed, sliced; see notes)
+
+** Marinade
+- [ ] 1 cup vegetable broth
+- [ ] 1 sheet nori (torn)
+- [ ] 3 tbsp apple cider vinegar
+- [ ] 1 small raw beet (peeled, chunked)
+- [ ] 2 tbsp white miso paste
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp salt
+- [ ] 1/2 tsp turmeric
+
+** To Cook
+- [ ] 1 sheet nori (as skin; optional, cut to fit)
+- [ ] 1/2 cup cornstarch
+- [ ] 2 tbsp light oil (for frying)
+- [ ] Lemon wedges (to serve)
+
+* Method
+** Marinate
+1. [ ] Blend broth, nori, vinegar, beet, miso, garlic powder, salt, and turmeric until smooth.
+2. [ ] Submerge prepped tofu in marinade 30 minutes or overnight.
+
+** Fry
+1. [ ] Press a nori strip onto the back of each tofu piece (optional).
+2. [ ] Dredge tofu in cornstarch. Pan-fry in hot oil 2–4 minutes per side until golden.
+3. [ ] Serve hot with lemon wedges.
+
+* Notes
+- [ ] Slice tofu with shallow crosswise cuts to create a flaky texture before marinating.
+- [ ] Air fry at 400°F (200°C) 12–15 minutes for a lighter option.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~280   | 14%           |
+| Protein       | ~15 g  | 30%           |
+| Carbohydrates | ~22 g  | 7%            |
+| Fat           | ~16 g  | 21%           |
+| Fiber         | ~2 g   | 7%            |
+| Sugars        | ~2 g   | 4%            |
+| Sodium        | ~900 mg| 39%           |
+| Calcium       | ~150 mg| 12%           |
+| Iron          | ~3 mg  | 17%           |
+| Vitamin C     | ~2 mg  | 2%            |

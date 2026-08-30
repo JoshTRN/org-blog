@@ -15,7 +15,7 @@
 </div>
 #+end_export
 
-[[file:looking-under-car.jpg]]
+[[file:looking-under-car.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -25,19 +25,19 @@
 
 * Story Time
 
-[[file:programming.jpg]]
+[[file:programming.webp]]
 
-[[file:programming-2.jpg]]
+[[file:programming-2.webp]]
 
-[[file:laying-on-stage.jpg]]
+[[file:laying-on-stage.webp]]
 
-[[file:laying-on-board.jpg]]
+[[file:laying-on-board.webp]]
 
-[[file:laying-on-board-2.jpg]]
+[[file:laying-on-board-2.webp]]
 
-[[file:laying-on-board-3.jpg]]
+[[file:laying-on-board-3.webp]]
 
-[[file:laying-on-board-4.jpg]]
+[[file:laying-on-board-4.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -45,11 +45,11 @@
 </div>
 #+end_export
 
-[[file:playing-at-library.jpg]]
+[[file:playing-at-library.webp]]
 
-[[file:playing-at-library-2.jpg]]
+[[file:playing-at-library-2.webp]]
 
-[[file:playing-with-board.jpg]]
+[[file:playing-with-board.webp]]
 
 * Lunch
 
@@ -67,9 +67,9 @@
 </div>
 #+end_export
 
-[[file:sleeping-on-floor.jpg]]
+[[file:sleeping-on-floor.webp]]
 
-[[file:sleeping-on-floor-3.jpg]]
+[[file:sleeping-on-floor-3.webp]]
 
 * Dinner
 
@@ -81,4 +81,4 @@
 
 * Mommy Visits
 
-[[file:with-momm-and-daddy-on-porch-5.jpg]]
+[[file:with-momm-and-daddy-on-porch-5.webp]]

@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/july/07/sitting-at-pond-1-preview.jpg" />
 
-[[./sitting-at-pond-1.jpg]]
+[[./sitting-at-pond-1.webp]]
 
 * Good Morning, Noumena!
 #+begin_export html
@@ -16,9 +16,9 @@
 </div>
 #+end_export
 
-[[./witch-hat-2.jpg]]
+[[./witch-hat-2.webp]]
 
-[[./witch-hat-1.jpg]]
+[[./witch-hat-1.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -40,13 +40,13 @@
 </div>
 #+end_export
 
-[[./falling-asleep-on-daddy.jpg]]
+[[./falling-asleep-on-daddy.webp]]
 
 * Dinner
 
-[[./eating-bacn-and-nutritional-yeast-2.jpg]]
+[[./eating-bacn-and-nutritional-yeast-2.webp]]
 
-[[./eating-bacn-and-nutritional-yeast-1.jpg]]
+[[./eating-bacn-and-nutritional-yeast-1.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -62,15 +62,15 @@
 </div>
 #+end_export
 
-[[./sitting-at-pond-3.jpg]]
+[[./sitting-at-pond-3.webp]]
 
-[[./sitting-at-pond-2.jpg]]
+[[./sitting-at-pond-2.webp]]
 
-[[./standing-near-pond-1.jpg]]
+[[./standing-near-pond-1.webp]]
 
-[[./standing-near-pond-2.jpg]]
+[[./standing-near-pond-2.webp]]
 
-[[./standing-near-pond-3.jpg]]
+[[./standing-near-pond-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -78,9 +78,9 @@
 </div>
 #+end_export
 
-[[./going-down-slide-1.jpg]]
+[[./going-down-slide-1.webp]]
 
-[[./going-down-slide-2.jpg]]
+[[./going-down-slide-2.webp]]
 
 #+begin_export html
 <div class="video-container">

@@ -1,6 +1,6 @@
 #+TITLE: November  7, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
-[[file:pediatricians-office.jpg]]
+[[file:pediatricians-office.webp]]
 
 For the last week, Noumena's been experiencing what's commonly referred to as an 18 month sleep regression. Don't ask me why I thought it wouldn't happen to her. I guess I thought that since her sleep has been so close to perfect for the last 6 months that she'd be immune. I guess the reason it's called a regression is toddlers and infants do wonderfully for a time and then their sleep gets markedly worse.
 
@@ -28,9 +28,9 @@ And I'll be damned if I let Noumena experience distress at my hands when I know 
 :END:
 
 
-[[file:growth-chart.jpg]]
-[[file:weight-for-age-and-head-circumference-charts.jpg]]
-[[file:weight-for-length-and-bmi-charts.jpg]]
+[[file:growth-chart.webp]]
+[[file:weight-for-age-and-head-circumference-charts.webp]]
+[[file:weight-for-length-and-bmi-charts.webp]]
 
 * Playing With Dogs and Tidewater Acres Park
 
@@ -79,4 +79,4 @@ And I'll be damned if I let Noumena experience distress at my hands when I know 
 
 * Bed Time
 
-[[file:sleeping-with-blanky.jpg]]
+[[file:sleeping-with-blanky.webp]]

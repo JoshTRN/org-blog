@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="Merry Christmas, Noumena!!!">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/25/laying-in-crib-set-preview.jpg" />
 
-[[file:laying-in-crib-set.jpg]]
+[[file:laying-in-crib-set.webp]]
 
 * Merry Christmas, Noumena!!!
 

@@ -1,7 +1,7 @@
 #+TITLE: November  5, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:behaving-badly.jpg]]
+[[file:behaving-badly.webp]]
 
 * Morning
 
@@ -51,7 +51,7 @@
 </div>
 #+end_export
 
-[[file:passed-out-napping.jpg]]
+[[file:passed-out-napping.webp]]
 
 * Lunch
 
@@ -63,9 +63,9 @@
 
 * Lovelace Park
 
-[[file:riding-dinosaur-with-royce.jpg]]
+[[file:riding-dinosaur-with-royce.webp]]
 
-[[file:riding-dino-with-royce.jpg]]
+[[file:riding-dino-with-royce.webp]]
 
 #+begin_export html
 <div class="video-container">

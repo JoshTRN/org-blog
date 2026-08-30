@@ -39,13 +39,6 @@ h2{
     text-shadow: 2px 2px #000;
 }
 
-h2:before{
-    font-size: 90%;
-    padding: 0px 5px 0px 0px;
-    position: relative; bottom: 1px;
-    color: #c678dd;
-    content: "⦿ ";
-}
 
 h3{
     font-size:125%;
@@ -1542,8 +1535,12 @@ ul.nav li.active ul li.active a {
   grid-template-columns: repeat(7, 1fr);
   grid-gap: 5px;
   text-align: center;
-  grid-auto-rows: minmax(0, 1fr);
-  aspect-ratio: 1/1
+}
+
+.calendar a, .calendar span {
+  aspect-ratio: 1 / 1;
+  display: flex;
+  justify-content: center;
 }
 
 
@@ -1569,4 +1566,26 @@ ul.nav li.active ul li.active a {
   mjx-math {
     white-space: normal !important;
   }
+}
+
+.org-ul, .org-ol {
+  padding-left: 20px; /* Maintain proper list indentation */
+}
+.org-ul {
+  list-style-type: disc; /* Bullets for unordered lists */
+}
+.org-ol {
+  list-style-type: decimal; /* Numbers for ordered lists */
+}
+.org-ul li, .org-ol li {
+  cursor: pointer;
+  position: relative;
+}
+.org-ul li input[type="checkbox"],
+.org-ol li input[type="checkbox"] {
+  display: none; /* Invisible checkboxes */
+}
+.org-ul li.checked, .org-ol li.checked {
+  text-decoration: line-through;
+  color: #888;
 }

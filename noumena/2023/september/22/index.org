@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:looking-out-from-the-fence.jpg]]
+[[file:looking-out-from-the-fence.webp]]
 
 * Morning
 
@@ -16,7 +16,7 @@
 
 * Warrington Park
 
-[[file:looking-out-from-the-fence-2.jpg]]
+[[file:looking-out-from-the-fence-2.webp]]
 
 #+begin_export html
 <div class="video-container">

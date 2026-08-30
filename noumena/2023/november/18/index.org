@@ -1,7 +1,7 @@
 #+TITLE: November 18, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:posing-with-caleb-2.jpg]]
+[[file:posing-with-caleb-2.webp]]
 
 * Home
 
@@ -14,9 +14,9 @@
 * Tidewater Acres Park
 
 
-[[file:looking-up-at-caleb.jpg]]
+[[file:looking-up-at-caleb.webp]]
 
-[[file:watching-caleb-at-park.jpg]]
+[[file:watching-caleb-at-park.webp]]
 
 #+begin_export html
 <div class="video-container">

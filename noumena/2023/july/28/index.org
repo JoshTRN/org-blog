@@ -1,7 +1,7 @@
 #+TITLE: July 28, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sleeping.jpg]]
+[[file:sleeping.webp]]
 
 * Morning
 
@@ -24,19 +24,19 @@ Noumena and I hang out playing with the kiddos at the daycare when we arrive for
 
 It's Nations of the World day and they're celebrating America today and they send me photos of them doing it.
 
-[[file:daycare.jpg]]
+[[file:daycare.webp]]
 
-[[file:daycare-2.jpg]]
+[[file:daycare-2.webp]]
 
-[[file:daycare-3.jpg]]
+[[file:daycare-3.webp]]
 
-[[file:daycare-4.jpg]]
+[[file:daycare-4.webp]]
 
 * Dinner
 
 * Evening
 
-[[file:sitting-on-daddys-pillow.jpg]]
+[[file:sitting-on-daddys-pillow.webp]]
 
 #+begin_export html
 <div class="video-container">

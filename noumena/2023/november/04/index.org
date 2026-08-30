@@ -1,7 +1,7 @@
 #+TITLE: November  4, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sitting-exceptionally-cute-on-bench.jpg]]
+[[file:sitting-exceptionally-cute-on-bench.webp]]
 
 * Jacksonville Fair
 
@@ -47,18 +47,18 @@
 </div>
 #+end_export
 
-[[file:eating-junkfood-at-jacksonville-fair.jpg]]
+[[file:eating-junkfood-at-jacksonville-fair.webp]]
 
-[[file:bee-face-jacksonville-fair.jpg]]
+[[file:bee-face-jacksonville-fair.webp]]
 
-[[file:bee-face-jacksonville-fair-2.jpg]]
+[[file:bee-face-jacksonville-fair-2.webp]]
 
-[[file:bee-face-jacksonville-fair-3.jpg]]
+[[file:bee-face-jacksonville-fair-3.webp]]
 
 
 * Home
 
-[[file:passed-out-after-fair.jpg]]
+[[file:passed-out-after-fair.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -68,7 +68,7 @@
 
 * Arlingwood Park
 
-[[file:daring-to-look-into-the-creek.jpg]]
+[[file:daring-to-look-into-the-creek.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -88,7 +88,7 @@
 </div>
 #+end_export
 
-[[file:sitting-cute-on-bench.jpg]]
+[[file:sitting-cute-on-bench.webp]]
 
 * Home
 
@@ -100,6 +100,6 @@
 
 * Bed Time
 
-[[file:holding-daddys-hand-to-sleep.jpg]]
+[[file:holding-daddys-hand-to-sleep.webp]]
 
-[[file:daddy-comforting-noumena-18mo-sleep-regression.jpg]]
+[[file:daddy-comforting-noumena-18mo-sleep-regression.webp]]

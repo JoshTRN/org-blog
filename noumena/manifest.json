@@ -1,9 +1,30 @@
 {
+  "id": "/noumena/",
   "short_name": "Noumena",
   "name": "Noumena By Year",
   "start_url": "/noumena/",
-  "background_color": "#3367D6",
+  "scope": "/noumena/",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#01060f"
+  "background_color": "#3367D6",
+  "theme_color": "#01060f",
+  "icons": [
+    {
+      "src": "/noumena/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noumena/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noumena/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }

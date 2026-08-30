@@ -9,19 +9,19 @@
 
 * Good Morning, Noumena!
 
-[[./wanting-to-go-back-to-bed-1.jpg]]
+[[./wanting-to-go-back-to-bed-1.webp]]
 
-[[./wanting-to-go-back-to-bed-2.jpg]]
+[[./wanting-to-go-back-to-bed-2.webp]]
 
 * Daycare
 
-[[./hanging-with-korina.jpg]]
+[[./hanging-with-korina.webp]]
 
 * Dinner
 
 * Riverside Park
 
-[[./at-riverside-park-bench.jpg]]
+[[./at-riverside-park-bench.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -29,7 +29,7 @@
 </div>
 #+end_export
 
-[[./watching-the-mama-black-crowned-night-heron.jpg]]
+[[./watching-the-mama-black-crowned-night-heron.webp]]
 
 #+begin_export html
 <div class="video-container">

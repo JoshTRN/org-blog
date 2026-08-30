@@ -1,7 +1,7 @@
 #+TITLE: November 29, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:riding-chalmers.jpg]]
+[[file:riding-chalmers.webp]]
 
 * Good Morning, Noumena!
 

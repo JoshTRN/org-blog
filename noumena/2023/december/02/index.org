@@ -2,15 +2,15 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 * Photos
-[[file:bear-on-bed-2.jpg]]
+[[file:bear-on-bed-2.webp]]
 
-[[file:bear-on-bed.jpg]]
+[[file:bear-on-bed.webp]]
 
-[[file:wearing-daddys-glasses-1.jpg]]
+[[file:wearing-daddys-glasses-1.webp]]
 
-[[file:wearing-daddys-glasses-2.jpg]]
+[[file:wearing-daddys-glasses-2.webp]]
 
-[[file:wearing-daddys-glasses-3.jpg]]
+[[file:wearing-daddys-glasses-3.webp]]
 
 
 * Videos

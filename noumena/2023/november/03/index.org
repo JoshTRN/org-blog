@@ -1,9 +1,9 @@
 #+TITLE: November  3, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sleeping-all-cozy.jpg]]
+[[file:sleeping-all-cozy.webp]]
 
-[[file:sleeping-all-cozy-2.jpg]]
+[[file:sleeping-all-cozy-2.webp]]
 
 * Watching Miss Rachel
 #+begin_export html
@@ -23,13 +23,13 @@
 
 * Riverside Park
 
-[[file:looking-in-pond.jpg]]
+[[file:looking-in-pond.webp]]
 
-[[file:looking-in-pond-2.jpg]]
+[[file:looking-in-pond-2.webp]]
 
-[[file:looking-in-pond-3.jpg]]
+[[file:looking-in-pond-3.webp]]
 
-[[file:looking-in-pond-4.jpg]]
+[[file:looking-in-pond-4.webp]]
 
 * Home
 

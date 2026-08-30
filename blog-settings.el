@@ -1,54 +1,65 @@
-  (defun noumena-journal-today ()
-    "Create an org mode journal entry or jump to existing index.org."
-    (interactive)
-    (let* ((current-date (format-time-string "%B %e, %Y"))
-           (year (format-time-string "%Y"))
-           (month-name (downcase (format-time-string "%B")))
-           (day-number (format-time-string "%d"))
-           (year-directory (expand-file-name year "~/org/blog/noumena"))
-           (month-directory (expand-file-name month-name year-directory))
-           (day-directory (expand-file-name day-number month-directory))
-           (file-path (expand-file-name "index.org" day-directory))
-           (header-line (format "#+INCLUDE: %s\n" "~/org/blog/noumena/header.org"))
-           (image-preview-line (format "#+INCLUDE: %s\n" "~/org/blog/image-preview-header.org"))
-           (image-path (format "https://joshua-wood.dev/noumena/%s/%s/%s/"
-                               year month-name day-number))
-           )
+(defun noumena-journal-today ()
+  "Create an org mode journal entry or jump to existing index.org."
+  (interactive)
+  (let* ((current-date (format-time-string "%B %e, %Y"))
+         (year (format-time-string "%Y"))
+         (month-name (downcase (format-time-string "%B")))
+         (day-number (format-time-string "%d"))
+         (year-directory (expand-file-name year "~/org/blog/noumena"))
+         (month-directory (expand-file-name month-name year-directory))
+         (day-directory (expand-file-name day-number month-directory))
+         (file-path (expand-file-name "index.org" day-directory))
+         (header-line (format "#+INCLUDE: %s\n" "~/org/blog/noumena/header.org"))
+         (image-preview-line (format "#+INCLUDE: %s\n" "~/org/blog/image-preview-header.org"))
+         (image-path (format "https://joshua-wood.dev/noumena/%s/%s/%s/"
+                             year month-name day-number))
+         )
 
-      ;; Create the year directory if it doesn't exist
-      (unless (file-directory-p year-directory)
-        (make-directory year-directory t))
+    ;; Create the year directory if it doesn't exist
+    (unless (file-directory-p year-directory)
+      (make-directory year-directory t))
 
-      ;; Create the month directory if it doesn't exist
-      (unless (file-directory-p month-directory)
-        (make-directory month-directory t))
+    ;; Create the month directory if it doesn't exist
+    (unless (file-directory-p month-directory)
+      (make-directory month-directory t))
 
-      ;; Create the day directory if it doesn't exist
-      (unless (file-directory-p day-directory)
-        (make-directory day-directory t))
+    ;; Create the day directory if it doesn't exist
+    (unless (file-directory-p day-directory)
+      (make-directory day-directory t))
 
-      ;; Check if index.org file exists
-      (if (file-exists-p file-path)
-          ;; If it exists, open the file
-          (find-file file-path)
-        ;; If it doesn't exist, create the index.org file
-        (with-temp-file file-path
-          ;; Write the #+TITLE header
-          (insert (format "#+TITLE: %s\n" current-date))
-          ;; Write the #+INCLUDE lines
-          (insert header-line)
-          (insert image-preview-line)
-          ;; Insert a blank line
-          (insert "\n")
-          ;; Write the additional lines
-          (insert (format "#+HTML_HEAD_EXTRA:<meta property=\"og:image\" content=\"%s\">\n" image-path))
-          (insert (format "#+HTML_HEAD_EXTRA:<meta property=\"og:image:alt\" content=\"%s alt\"/>\n" current-date))
-          (insert "#+HTML_HEAD_EXTRA:<meta property=\"og:description\" content=\"\">\n")
-          (insert (format "#+HTML_HEAD_EXTRA:<meta name=\"twitter:image\" content=\"%s\" />\n" image-path))
-          )
+    ;; Check if index.org file exists
+    (if (file-exists-p file-path)
+        ;; If it exists, open the file
         (find-file file-path)
-        )))
+      ;; If it doesn't exist, create the index.org file
+      (with-temp-file file-path
+        ;; Write the #+TITLE header
+        (insert (format "#+TITLE: %s\n" current-date))
+        ;; Write the #+INCLUDE lines
+        (insert header-line)
+        (insert image-preview-line)
+        ;; Insert a blank line
+        (insert "\n")
+        ;; Write the additional lines
+        (insert (format "#+HTML_HEAD_EXTRA:<meta property=\"og:image\" content=\"%s\"/>\n" image-path))
+        (insert (format "#+HTML_HEAD_EXTRA:<meta property=\"og:image:alt\" content=\"%s alt\"/>\n" current-date))
+        (insert "#+HTML_HEAD_EXTRA:<meta property=\"og:description\" content=\"\">\n")
+        (insert (format "#+HTML_HEAD_EXTRA:<meta name=\"twitter:image\" content=\"%s\" />\n" image-path))
+        )
+      (find-file file-path)
+      )))
 
+
+(defun open-journal-server-dir ()
+  "Open the remote journal directory. No frills."
+  (interactive)
+  (let ((path (buffer-file-name)))
+    (unless (string-match "/noumena/\\([0-9]\\{4\\}\\)/\\([^/]+\\)/\\([0-9]+\\)/" path)
+      (error "Not in a journal file!"))
+    (dired (format "/ssh:vultr:/home/joshua/joshua-wood.dev/noumena/%s/%s/%s/"
+                   (match-string 1 path)  ; year
+                   (match-string 2 path)  ; month
+                   (match-string 3 path)))))  ; day
 
 (defun open-journal-entry ()
   "Open the default browser to the current journal entry path."
@@ -130,3 +141,53 @@
 (spacemacs/declare-prefix "jt" "Jump to")
 (spacemacs/set-leader-keys "jtn" 'noumena-journal-today)
 (spacemacs/declare-prefix "jtn" "Noumena Journal Entry Today")
+
+(spacemacs/set-leader-keys "jtn" 'noumena-journal-today)
+(spacemacs/declare-prefix "jtn" "Noumena Journal Entry Today")
+
+
+(defun convert-to-org-links (start end)
+  "
+For each line in the region:
+  1) Insert [[./ at the start,
+  2) Insert ]] at the end,
+  3) Insert a blank line below it."
+  (interactive "r")
+  (let ((lines (split-string (buffer-substring-no-properties start end) "\n")))
+    ;; Remove the original region.
+    (delete-region start end)
+    (dolist (line lines)
+      (insert (format "[[./%s]]\n\n" line)))))
+
+(spacemacs/set-leader-keys-for-major-mode 'org-mode "lc" 'convert-to-org-links)
+
+(defun rsync-blog-images-test (&rest _args)
+  "Sync only image files in the test photo directory to the remote test server directory using rsync."
+  (let ((local-dir "~/org/blog/noumena/2025/january/10/") ;; Local test directory
+        (remote-dir "joshua@joshua-wood.dev:/home/joshua/joshua-wood.dev/test/")) ;; Remote test directory
+    (let ((rsync-command (format "rsync -avz --delete \
+--include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.gif' --include='*.webp' \
+--exclude='*' %s %s" local-dir remote-dir)))
+      (message "Executing: %s" rsync-command)
+      (shell-command rsync-command "*rsync-output-test*" "*rsync-error-test*"))))
+
+(defun blog-html-lazy-media (output backend _info)
+  "Add loading=\"lazy\" to every img and iframe in exported HTML OUTPUT.
+Images and YouTube embeds are parser-inserted with a src, so the browser
+starts fetching them before any JavaScript runs.  The lazy loader in
+script.js therefore could not prevent that first fetch, only add a second
+one.  Native lazy loading defers the fetch until the reader scrolls near
+it, which on a day with thirty photos is most of the page."
+  (if (not (org-export-derived-backend-p backend 'html))
+      output
+    (with-temp-buffer
+      (insert output)
+      (goto-char (point-min))
+      (while (re-search-forward "<\\(?:img\\|iframe\\)\\b" nil t)
+        (let ((tag-end (save-excursion (search-forward ">" nil t))))
+          (unless (and tag-end
+                       (save-excursion (re-search-forward "loading=" tag-end t)))
+            (insert " loading=\"lazy\""))))
+      (buffer-string))))
+
+;; (add-to-list 'org-export-filter-final-output-functions #'blog-html-lazy-media)

@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="Ikea Trip Day">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/21/eating-dinner-making-funny-faces-preview.jpg" />
 
-[[file:eating-dinner-making-funny-faces.jpg]]
+[[file:eating-dinner-making-funny-faces.webp]]
 
 Increasingly, fostering Noumena's independence has drawn nearer into focus. The next step of which is turning her crib into a toddler bed that she can crawl into and out of at will. Now, my internal monologue worries,
 
@@ -49,7 +49,7 @@ The children's section is right near the cafe, so after we let Noumena play brie
 
 * Back At Home
 
-[[file:playing-at-her-table.jpg]]
+[[file:playing-at-her-table.webp]]
 
 It was late when we arrived home---already approximately 8:00pm. Mommy reads /Go Dog, Go/ to Noumena as daddy sets up her table. Once it's set up, Mommy sets her books onto the table for Noumena to play with while I continue to put together the chairs.
 

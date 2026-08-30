@@ -1,7 +1,7 @@
 #+TITLE: July 8, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sleeping-with-butt-in-air.jpg]]
+[[file:sleeping-with-butt-in-air.webp]]
 
 * Morning
 
@@ -31,7 +31,7 @@ We go right into story time when we. There was no letter of the day today for st
 
 * Children's Hands-On Museum
 
-[[file:with-mommy-in-museum.jpg]]
+[[file:with-mommy-in-museum.webp]]
 
 After we meet mom at the children's museum and it was so much fun. We're going to have a lot of great memories there as she grows. We go all over that place and Noumena plays with everything. One of the first thing we head towards is the trains and I get a video of mommy playing with her.
 
@@ -43,18 +43,18 @@ After we meet mom at the children's museum and it was so much fun. We're going t
 
 After, we head towards the baby room and spend most of our time there. She meets lots of friends and I get a photo of this face she makes I've been trying to get forever. It's so beautiful.
 
-[[file:crinkle-face-with-friend.jpg]]
+[[file:crinkle-face-with-friend.webp]]
 
 * Back Home
 
 I tell Oksana to heat up soup as we head back home so Noumena can eat right away. I know she's going to want to go to sleep because she's had such a busy morning, but I want to make sure she gets well fed before taking a nap so I can nap at the same time. She sleeps for about an hour and a half, and we get close to the cutest pose ever after she wakes up. We tried to get the cuter picture, but we were just not fast enough.
 
-[[file:waking-up-from-nap.jpg]]
+[[file:waking-up-from-nap.webp]]
 
 * Beach
 
 #+ATTR_HTML: :style height:100vh;
-[[file:walking-closeup.jpg]]
+[[file:walking-closeup.webp]]
 
 When we get to the beach, she's apparently forgotten what it's like since the last time we were here.
 She starts off afraid and whines a lot at the start. But I spend time close to her making sure she's safe and eventually after wandering back onto the sand where it's safe, she starts to venture off on her own. She become so independent that while she's playing in the sand, she ends up sticking a whole wad of wet sand into her mouth. I tried to wipe away as much as I could, but the damage was done and she seemed to enjoy it as she crunched down on the sand with a huge smile on her face and sand in between her teeth. She must have swallowed a good amount... I hope she's okay.
@@ -125,15 +125,15 @@ She starts off afraid and whines a lot at the start. But I spend time close to h
 
 We leave at the perfect time---just before it starts to rain. When we get leave, we find a patch of grass and I change her into clothes that we're going to dinner in. She's so easy to deal with while she's laying on the grass. Super easy to change. She's been really easy with changing in general these days. It's so great.
 
-[[file:chilling-after-the-beach.jpg]]
+[[file:chilling-after-the-beach.webp]]
 
 * Dinner
 
 At dinner, we go to a nice place called True Food Kitchen that has a lot of vegan options. Oksana gets a vegan pizza and I get a bunch of veggies in a bowl. Noumena shares both of our dishes and she loves both the pizza and the mixed veggie bowl. We also share pink lime tart dessert with her. There's a little courtyard right there, so we hang out and I snap a totally manufactured pic of her relaxing on these chairs that are there.
 
-[[file:relaxing-on-chair.jpg]]
+[[file:relaxing-on-chair.webp]]
 
-[[file:relaxing-on-chair-2.jpg]]
+[[file:relaxing-on-chair-2.webp]]
 
 * Park
 
@@ -151,8 +151,19 @@ Once we're home, I get Noumena some soymilk, we read her book and hang out on th
 </div>
 #+end_export
 
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/TO12lGvAgOg" title="talking on the phone on the bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
 
-[[file:laying-on-pillow.jpg]]
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/cxyI-7OHUnI" title="talking on the phone on the bed 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[file:laying-on-pillow.webp]]
 
 * Bed Time
 

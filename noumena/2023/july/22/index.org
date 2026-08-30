@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 #+ATTR_ORG: :width 100%
-[[file:beautiful-closeup.jpg]]
+[[file:beautiful-closeup.webp]]
 
 * Morning
 
@@ -25,13 +25,13 @@ Noumena's growing up and she no longer wants to be carried around on Daddy's sho
  I felt hungry when we get to CVS so I buy some barbeque chips and we eat them together
 
 #+ATTR_ORG: :width 100%
-[[file:sitting-on-the-ground-eating-chips.jpg]]
+[[file:sitting-on-the-ground-eating-chips.webp]]
 
 #+ATTR_ORG: :width 100%
-[[file:eating-chips-with-daddy.jpg]]
+[[file:eating-chips-with-daddy.webp]]
 
 #+ATTR_ORG: :width 100%
-[[file:hanging-out-with-kisa.jpg]]
+[[file:hanging-out-with-kisa.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -54,7 +54,7 @@ We get to the library just in time for story time and I get a few moments of Nou
 #+end_export
 
 #+ATTR_ORG: :width 100%
-[[file:looking-backwards-on-chair.jpg]]
+[[file:looking-backwards-on-chair.webp]]
 
 
 #+begin_export html
@@ -99,7 +99,7 @@ Noumena had a lot of independence today while I prepared dinner. It's been a lon
 It rains a lot after dinner so we just hangout around the house, end up wrestling on the bed a lot.
 
 #+ATTR_ORG: :width 100%
-[[file:extreme-profile-closeup.jpg]]
+[[file:extreme-profile-closeup.webp]]
 
 #+begin_export html
 <div class="video-container">

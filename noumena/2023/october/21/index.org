@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:chair-at-urgent-care.jpg]]
+[[file:chair-at-urgent-care.webp]]
 
 * Hanging Out At Home
 #+begin_export html

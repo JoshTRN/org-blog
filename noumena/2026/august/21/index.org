@@ -1,0 +1,26 @@
+#+TITLE: August 21, 2026
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2026/august/21/photo/taking-a-picture-with-daddy-at-ice-cream-preview.jpg"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="August 21, 2026 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2026/august/21/photo/taking-a-picture-with-daddy-at-ice-cream-preview.jpg" />
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/vmFMvYnIABU" title="Begging For Daddy To Build Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photos
+
+[[./photo/playing-blocks-with-dad-1.webp]]
+
+[[./photo/playing-blocks-with-dad-2.webp]]
+
+[[./photo/playing-blocks-with-dad-3.webp]]
+
+[[./photo/taking-a-picture-with-daddy-at-ice-cream.webp]]

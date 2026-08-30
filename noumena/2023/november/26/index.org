@@ -3,7 +3,7 @@
 
 
 * Morning
-[[file:with-chalmers-on-bed.jpg]]
+[[file:with-chalmers-on-bed.webp]]
 #+begin_export html
 <div class="video-container">
 <iframe width="1870" height="729" src="https://www.youtube.com/embed/cBvdkTsjyNI" title="Giving Chalmers Kisses On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -24,7 +24,7 @@
 #+end_export
 
 * Lunch
-[[file:messy-tomato-soup.jpg]]
+[[file:messy-tomato-soup.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -47,7 +47,7 @@
 </div>
 #+end_export
 
-[[file:nap-time.jpg]]
+[[file:nap-time.webp]]
 
 * Waking Up From Nap
 #+begin_export html
@@ -84,7 +84,7 @@
 </div>
 #+end_export
 
-[[file:playing-in-pillows-2.jpg]]
+[[file:playing-in-pillows-2.webp]]
 
 
 #+begin_export html

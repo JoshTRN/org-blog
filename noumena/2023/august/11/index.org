@@ -1,7 +1,7 @@
 #+TITLE: August 11, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:looking-at-ball.jpg]]
+[[file:looking-at-ball.webp]]
 
 * Morning
 
@@ -44,7 +44,7 @@ I don't want her to always play with the same toys, so I let her in the garage t
 #+end_export
 
 
-[[file:crawling-in-caterpiller-head-on.jpg]]
+[[file:crawling-in-caterpiller-head-on.webp]]
 
 
 * Lunch
@@ -90,13 +90,13 @@ Once we get back home, we hang out a little bit, but Noumena starts getting fuss
 
 While Noumena is eating, she's in a wonderful mood. I wish I could swing stuff like this all the time. It was just great moods all day today.
 
-[[file:smile-while-eating.jpg]]
+[[file:smile-while-eating.webp]]
 
-[[file:smile-eating-dinner.jpg]]
+[[file:smile-eating-dinner.webp]]
 
-[[file:big-smile-eating-dinner.jpg]]
+[[file:big-smile-eating-dinner.webp]]
 
-[[file:huge-body-smile-eating-dinner.jpg]]
+[[file:huge-body-smile-eating-dinner.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -120,7 +120,7 @@ It started raining really hard during dinner, so I didn't think I'd get the oppo
 
 When we get to the park, the only thing she's really interested in is playing in the puddles!
 
-[[file:playing-in-puddle.jpg]]
+[[file:playing-in-puddle.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -128,7 +128,7 @@ When we get to the park, the only thing she's really interested in is playing in
 </div>
 #+end_export
 
-[[file:playing-in-puddle-smile.jpg]]
+[[file:playing-in-puddle-smile.webp]]
 
 
 We spend the majority of the time in the puddles, but we do eventually go on the play ground equipment. I even get Noumena to go down the wet slide. I thought the water would act more like an adhesive, but it was the opposite. Noumena bolted down that slide! I think it's the fastest she's ever gone!
@@ -141,7 +141,7 @@ I still want her to be worn out for bed, so I start running around the park prom
 </div>
 #+end_export
 
-[[file:standing-in-puddle.jpg]]
+[[file:standing-in-puddle.webp]]
 
 
 We leave the park at about 8:10pm. As we're walking home, I'm still a little worried that Noumena didn't exert herself enough, so I set her down on the ground and turn a game into running home. I grab her by the hand and run a couple blocks with her. I tried to slow to a walk, but if she wasn't running, she wanted to walk independently without holding Daddy's hand, so I had to keep a very light jog to keep her interested. We ran for quite a little bit, so I think that will contribute to her being tired.

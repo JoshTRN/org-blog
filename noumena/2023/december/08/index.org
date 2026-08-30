@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 #+ATTR_ORG: :width 100%
-[[file:chilling-on-the-bed-with-daddy-1.jpg]]
+[[file:chilling-on-the-bed-with-daddy-1.webp]]
 
 It's been so long since I've written a proper journal entry. I think I was sick all of November save the final week. Unfortunately, it looks like I'm getting sick again. Two days ago, Noumena's nose started running again. It almost always spells trouble when that starts happening. Since then, she's developed a cough as well. Nevertheless, she doesn't seem to be any worse for wear. She's just as active as ever if not even more active and she hasn't developed a fever or any other symptoms, so hopefully she'll be okay.
 
@@ -65,16 +65,16 @@ I'm not interested in her making a mess in the bathroom, so I wrangle her onto t
 Having exhausted her entire library, Noumena became a little bit fussy. I wasn't sure what else to do, so I took her into the bedroom to lay with me and Chalmers on the bed. We hung out there until bath time.
 
 #+ATTR_ORG: :width 100%
-[[file:chilling-on-the-bed-with-daddy-2.jpg]]
+[[file:chilling-on-the-bed-with-daddy-2.webp]]
 
 #+ATTR_ORG: :width 100%
-[[file:chilling-on-the-bed-with-daddy-3.jpg]]
+[[file:chilling-on-the-bed-with-daddy-3.webp]]
 
 #+ATTR_ORG: :width 100%
-[[file:chilling-on-the-bed-with-daddy-4.jpg]]
+[[file:chilling-on-the-bed-with-daddy-4.webp]]
 
 #+ATTR_ORG: :width 100%
-[[file:chilling-on-the-bed-with-daddy-5.jpg]]
+[[file:chilling-on-the-bed-with-daddy-5.webp]]
 
 #+begin_export html
 <div class="video-container">

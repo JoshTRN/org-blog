@@ -1,0 +1,41 @@
+#+TITLE: August 27, 2026
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2026/august/27/photo/reading-the-king-the-mice-and-the-cheese-with-mommy-3-preview.jpg"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="August 27, 2026 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2026/august/27/photo/reading-the-king-the-mice-and-the-cheese-with-mommy-3-preview.jpg" />
+
+* Photos
+[[./photo/playing-house-with-daddy-1.webp]]
+
+[[./photo/playing-house-with-daddy-2.webp]]
+
+[[./photo/eating-chocolates.webp]]
+
+[[./photo/toe-injury-1.webp]]
+
+[[./photo/toe-injury-2.webp]]
+
+[[./photo/toe-injury-3.webp]]
+
+[[./photo/reading-the-king-the-mice-and-the-cheese-with-mommy-1.webp]]
+
+[[./photo/reading-the-king-the-mice-and-the-cheese-with-mommy-2.webp]]
+
+[[./photo/reading-the-king-the-mice-and-the-cheese-with-mommy-3.webp]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/VgjH_DGrASc" title="Playing House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/E1jPCBf7AaY" title="Eating Chocolates With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

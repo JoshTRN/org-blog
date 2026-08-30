@@ -8,7 +8,7 @@
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/14/" />
 
 
-[[file:making-face-in-car.jpg]]
+[[file:making-face-in-car.webp]]
 
 
 * Video

@@ -16,21 +16,21 @@
 </div>
 #+end_export
 
-[[file:first-plane-ride-1.jpg]]
+[[file:first-plane-ride-1.webp]]
 
-[[file:first-plane-ride-2.jpg]]
+[[file:first-plane-ride-2.webp]]
 
-[[file:first-plane-ride-3.jpg]]
+[[file:first-plane-ride-3.webp]]
 
-[[file:sleeping-on-daddy-3.jpg]]
+[[file:sleeping-on-daddy-3.webp]]
 
-[[file:waking-up-on-plane.jpg]]
+[[file:waking-up-on-plane.webp]]
 
-[[file:plane-bathroom-1.jpg]]
+[[file:plane-bathroom-1.webp]]
 
-[[file:plane-bathroom-2.jpg]]
+[[file:plane-bathroom-2.webp]]
 
-[[file:plane-bathroom-3.jpg]]
+[[file:plane-bathroom-3.webp]]
 
 * Arriving At Hotel
 
@@ -54,31 +54,31 @@
 
 * Breakfast
 
-[[file:breakfast-at-hotel-1.jpg]]
+[[file:breakfast-at-hotel-1.webp]]
 
-[[file:breakfast-at-hotel-11.jpg]]
+[[file:breakfast-at-hotel-11.webp]]
 
-[[file:breakfast-at-hotel-10.jpg]]
+[[file:breakfast-at-hotel-10.webp]]
 
-[[file:breakfast-at-hotel-9.jpg]]
+[[file:breakfast-at-hotel-9.webp]]
 
-[[file:breakfast-at-hotel-8.jpg]]
+[[file:breakfast-at-hotel-8.webp]]
 
-[[file:breakfast-at-hotel-7.jpg]]
+[[file:breakfast-at-hotel-7.webp]]
 
-[[file:breakfast-at-hotel-6.jpg]]
+[[file:breakfast-at-hotel-6.webp]]
 
-[[file:breakfast-at-hotel-5.jpg]]
+[[file:breakfast-at-hotel-5.webp]]
 
-[[file:breakfast-at-hotel-4.jpg]]
+[[file:breakfast-at-hotel-4.webp]]
 
-[[file:breakfast-at-hotel-3.jpg]]
+[[file:breakfast-at-hotel-3.webp]]
 
-[[file:breakfast-at-hotel-2.jpg]]
+[[file:breakfast-at-hotel-2.webp]]
 
-[[file:relaxing-in-hotel-with-daddy-4.jpg]]
+[[file:relaxing-in-hotel-with-daddy-4.webp]]
 
-[[file:relaxing-in-hotel-with-daddy-3.jpg]]
+[[file:relaxing-in-hotel-with-daddy-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -88,9 +88,9 @@
 
 * Relaxing Before Aquarium
 
-[[file:playing-in-carseat-hotel-3.jpg]]
+[[file:playing-in-carseat-hotel-3.webp]]
 
-[[file:playing-in-carseat-hotel-2.jpg]]
+[[file:playing-in-carseat-hotel-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -107,15 +107,15 @@
 </div>
 #+end_export
 
-[[file:first-aquarium-1.jpg]]
+[[file:first-aquarium-1.webp]]
 
-[[file:first-aquarium-2.jpg]]
+[[file:first-aquarium-2.webp]]
 
-[[file:first-aquarium-3.jpg]]
+[[file:first-aquarium-3.webp]]
 
-[[file:first-aquarium-4.jpg]]
+[[file:first-aquarium-4.webp]]
 
-[[file:first-aquarium-5.jpg]]
+[[file:first-aquarium-5.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -125,13 +125,13 @@
 
 * Back At Hotel
 
-[[file:eating-icecream-with-mommy-1.jpg]]
+[[file:eating-icecream-with-mommy-1.webp]]
 
-[[file:eating-icecream-with-mommy-2.jpg]]
+[[file:eating-icecream-with-mommy-2.webp]]
 
-[[file:eating-icecream-with-mommy-3.jpg]]
+[[file:eating-icecream-with-mommy-3.webp]]
 
-[[file:eating-icecream-with-mommy-4.jpg]]
+[[file:eating-icecream-with-mommy-4.webp]]
 
 * Bed Time
-[[file:falling-asleep.jpg]]
+[[file:falling-asleep.webp]]

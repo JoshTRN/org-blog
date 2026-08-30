@@ -1,0 +1,40 @@
+#+TITLE: Leftist Taxonomy With Rinzler
+#+INCLUDE: ~/org/blog/politics/header.org
+
+A brief discussion with Rinzler led to a high level taxonomy of leftist positions. These are the summary notes of that discussion. Subject to revision and correction.
+
+* Anarchism
+
+Anarchists are primarily concerned with abolishing unjust hierarchies, including capitalist relations, but above all the state, which is their primary target. Anarchists thus attempt to abolish both capitalism and the state simultaneously, which is suicidal when other bourgeois states still exist. These bourgeois states, as states (centralised, disciplined, coordinated, etc., entities), have an inherent military advantage over cooperatives, communes, free associations, etc., and will thus predictably defeat them. Moreover, the bourgeoisie of these states will be impelled to make their given states destroy such anarchist polities out of self-preservation (fear of anti-capitalist ideas spreading, etc.). Consequently, anarchist revolutions and polities are inevitably defeated (/e.g./, Catalonia), or else are only successful on a very small scale in highly defensible environments (/e.g./, Rojava, but even this is post-anarchist now).
+
+* Social Democracy
+
+Social Democrats accept that the state must be used to facilitate and defend the elimination of capitalism, but believe that the taking of state power can and ought to be achieved via standard bourgeois elections. However, by confining themselves to bourgeois procedures and not arming themselves for a revolutionary fight all along, social democrats are vulnerable to the bourgeois extra-legal violence (coups, paramilitaries, fascism) that will inevitably arise in reaction to, and in proportion to, their growing popularity and electoral successes. Consequently, social democrats have never come close to carrying out an anti-capitalist social revolution: they either succumb to non-violent bourgeois pressures and moderate (/e.g./, SDP in Germany; Syriza in Greece), or else they are violently suppressed (/e.g./, Allende in Chile). The same fate befalls even liberal and bourgeois-nationalist parties who win power with mild land-reform and nationalisation aims (/e.g./, Mosaddeq in Iran), let alone actual socialists.
+
+* Stalinism (Marxism-Leninism)
+
+Stalinists accept that a political revolution is necessary to attain state power, but their revolutionary, socio-economic, and international policies are ineffective or suicidal in relation to the aim of permanently abolishing capitalism locally and universally. /E.g./:
+
+ * Forced Collectivisation - the policy of violently forcing most peasants to give up their property and join collective farms. This predictably results in famine and loss of productivity (/e.g./, USSR).
+ * Socialism in One Country - the policy of suspending attempts to achieve kindred revolutions in other countries in favour of focusing on achieving socialism in one country. This only ends up isolating and weakening the initial revolution.
+ * Popular Front - the policy of subordinating socialist revolutionary movements to liberal or bourgeois-nationalist governments or movements in an effort to defeat reactionary or imperialist forces. The bourgeois forces will betray and destroy socialist revolutionaries at the first opportunity out of self-preservation (/e.g./, China 1927), and the precondition for their agreeing to work with socialist revolutionaries in the first place is that the latter suspend all moved towards property redistribution, which in turn loses them popular (worker and peasant) support, which in turn dooms them (/e.g./, Spanish Civil War).
+
+Despite their constant and catastrophic failures, Stalinists have attained the greatest overall success in abolishing capitalism for extended time periods, but this was primarily due to their single initial success in taking over the Soviet Union: the sheer size and brutality of the primary Stalinist polity compensated for its massive incompetence. That being said, many ostensibly Stalinist victories were achieved precisely because they defied Stalinist theory – /e.g./, Vietnam, Cuba, Yugoslavia, where local revolutionaries took matters into their own hands, rather than putting up with local bourgeois rule so that the USSR could maintain an international truce with the imperialist powers and gradually achieve socialism in isolation, deferring the spread of revolution indefinitely.
+
+* Maoists
+
+Maoists are just a variant of Stalinists, with two key alterations: they posit that revolutions should follow the Chinese pattern of fleeing to a hinterland, building a base there, and then conquering the rest of the country therefrom; and they posit that socialist revolution is futile in the First World (USA, UK, etc.) due to the relatively privileged status of workers there. The first view erroneously assumes that mountain and jungle guerrilla tactics are universally applicable; and the second view seems inconsistent with the increasing suffering of workers in the First World, not to mention the massive advantages (for defending and spreading the revolution and developing socialism) inherent in taking over an advanced industrial country.
+
+* Trotskyists
+
+Trotskyists, according to Rinzler, are subdivided into two groups. He notes that, apparently,  ideologically aligned but historically unaligned. The points of alignment are as follows:
+ * Revolution
+ * No collaboration with bourgeois interests
+
+** Unorthodox Trotskyists
+
+Unorthodox Trotskyists, who primarily consist of "Cliffites", avoid all of the preceding errors, and in the short term, their differences from Orthodox Trotskyists will probably not make much of a difference. In the long run, however, these differences are a liability: Cliffites mistakenly believe that countries like the USSR in the past, and Cuba in the present, are capitalist (cf. Mandel, Marxist Economic Theory, II, ch. 15.). In a situation in which bourgeois imperialists threaten a country in which capitalism has been abolished (even one ruled by Stalinists), and in which the defence of these social gains is imperative, the Cliffite misanalysis could prove lethal.
+
+** Orthodox Trotskyists
+
+Orthodox Trotskyists, such as the Revolutionary Communist International, avoid all of the preceding errors: they accept the necessity of using the state, revolutionism, international revolution, not subordinating revolutionary movements to bourgeois forces, etc.; and they also recognise that countries like the USSR abolished capitalism. Thus, whilst OrthoTrots supported a political revolution in such countries to overthrow parasitic and conservatising Stalinist bureaucracies, they nonetheless supported these countries (/i.e/., their social gains) against imperialism. OrthoTrots are heavily divided over numerous ancillary tactical questions and debates. Despite their clear theoretical superiority compared to Stalinists and Maoists, OrthoTrots have never carried out a successful revolution.

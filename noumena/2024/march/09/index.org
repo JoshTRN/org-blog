@@ -10,9 +10,9 @@
 
 * Good Morning, Noumena!
 
-[[file:chocolate-oatmeal-with-daddy.jpg]]
+[[file:chocolate-oatmeal-with-daddy.webp]]
 
-[[file:pretending-to-sleep.jpg]]
+[[file:pretending-to-sleep.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -23,11 +23,11 @@
 
 * Arlingwood Park
 
-[[file:sitting-with-daddy-on-ledge-3.jpg]]
+[[file:sitting-with-daddy-on-ledge-3.webp]]
 
 [[file:sitting-with-daddy-on-ledge-3-previewjpg.jpg]]
 
-[[file:sittting-with-daddy-legs-over-ledge.jpg]]
+[[file:sittting-with-daddy-legs-over-ledge.webp]]
 
 #+begin_export html
 <div class="video-container">

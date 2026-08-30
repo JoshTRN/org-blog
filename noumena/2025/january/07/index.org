@@ -1,0 +1,26 @@
+#+TITLE: January  7, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/january/07/cuddling-with-chalmers-1-preview.webp">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January  7, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/january/07/cuddling-with-chalmers-1-preview.webp" />
+
+* Good Morning, Noumena
+
+* Dinner
+
+[[./static-hair.webp]]
+
+* Back At Home
+
+[[./cuddling-with-chalmers-1.webp]]
+
+[[./cuddling-with-chalmers-2.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/7GoK8pmWESk" title="Cuddling With Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

@@ -1,4 +1,5 @@
 #+TITLE: July, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
 
 * Calendar
 
@@ -15,10 +16,56 @@
 <br>
 <div class="calendar">
   <span></span>
-  <span></span>
-  <a>1</a>   <a>2</a>   <a>3</a>   <a>4</a>   <a>5</a>
-  <a>6</a>   <a>7</a>   <a>8</a>   <a>9</a>   <a>10</a>   <a>11</a>   <a>12</a>
-  <a>13</a>   <a>14</a>   <a>15</a>   <a>16</a>   <a>17</a>   <a>18</a>   <a>19</a>
-  <a>20</a>   <a>21</a>   <a>22</a>   <a>23</a>   <a>24</a>   <a>25</a>   <a>26</a>
-  <a>27</a>   <a>28</a>   <a>29</a>   <a>30</a>   <a>31</a> </div>
+  <a href="/noumena/2024/july/01">1</a>
+  <a>2</a>
+  <a>3</a>
+  <a>4</a>
+  <a>5</a>
+  <a>6</a>
+  <a href="/noumena/2024/july/07">7</a>
+  <a href="/noumena/2024/july/08">8</a>
+  <a href="/noumena/2024/july/09">9</a>
+  <a href="/noumena/2024/july/10">10</a>
+  <a href="/noumena/2024/july/11">11</a>
+  <a>12</a>
+  <a>13</a>
+  <a>14</a>
+  <a>15</a>
+  <a>16</a>
+  <a>17</a>
+  <a href="/noumena/2024/july/18">18</a>
+  <a href="/noumena/2024/july/19">19</a>
+  <a>20</a>
+  <a>21</a>
+  <a href="/noumena/2024/july/22">22</a>
+  <a href="/noumena/2024/july/23">23</a>
+  <a>24</a>
+  <a>25</a>
+  <a>26</a>
+  <a>27</a>
+  <a>28</a>
+  <a>29</a>
+  <a>30</a>
+  <a>31</a>
+</div>
 #+end_export
+
+[[./alhagie-holding-noumena-1.jpg]]
+
+[[./chuck-e-cheese-with-mommy-3.jpg]]
+
+[[./chuck-e-cheese-with-mommy-8.jpg]]
+
+[[./daddy-alhagi-noumena-4.jpg]]
+
+[[./daddy-noumena-chucky-3.jpg]]
+
+[[./daddy-noumena-chucky-5.jpg]]
+
+[[./riding-bus-in-chuck-e-cheese.jpg]]
+
+[[./riding-to-airport-in-daddys-lap-1.jpg]]
+
+[[./riding-to-airport-in-daddys-lap-2.jpg]]
+
+[[./riding-to-airport-in-daddys-lap-3.jpg]]

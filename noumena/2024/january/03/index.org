@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/03/laying-in-dog-bed-in-CVS-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/03/laying-in-dog-bed-in-CVS-preview.webp">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January  3, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/03/laying-in-dog-bed-in-CVS-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/03/laying-in-dog-bed-in-CVS-preview.webp" />
 
-[[file:laying-in-dog-bed-in-CVS.jpg]]
+[[file:laying-in-dog-bed-in-CVS.webp]]
 
 * Good Morning, Noumena!
 
@@ -43,7 +43,7 @@ She pulls her favorite book, /Goodnight Little Noumena/ from the bookshelf and b
 
 * Nighttime Walk
 
-[[file:daddy-and-noumenas-shadow.jpg]]
+[[file:daddy-and-noumenas-shadow.webp]]
 
 It's drizzling as we exit the house, but I barely notice with my hoddie on, and I have to dissipate the insane toddler energy somehow, so since Noumena's wearing a jacket anyway, I decide it's not going to hurt much if we get a little wet. I set her down and she walks down the driveway herself, but once she reaches the street, she wants to be carried. Her fascination with the moon and sky causes her to look towards it while she's in my arms, but the rain is falling and she doesn't expect the droplets to hit her face, so every one causes a mild startle that's just too funny.
 

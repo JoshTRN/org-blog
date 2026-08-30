@@ -1,7 +1,7 @@
 #+TITLE: October 18, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:drumming-with-daddy.jpg]]
+[[file:drumming-with-daddy.webp]]
 
 * Hanging Out At Home
 #+begin_export html

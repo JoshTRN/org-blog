@@ -1,7 +1,7 @@
 #+TITLE: December  1, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:chilling-with-daddy.jpg]]
+[[file:chilling-with-daddy.webp]]
 
 * Morning
 

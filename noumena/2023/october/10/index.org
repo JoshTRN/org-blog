@@ -1,7 +1,7 @@
 #+TITLE: October 10, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:looking-back-at-park.jpg]]
+[[file:looking-back-at-park.webp]]
 
 * Dinner With Mommy
 

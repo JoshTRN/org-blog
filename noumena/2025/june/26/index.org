@@ -1,0 +1,32 @@
+#+TITLE: June 26, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/26/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 26, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/26/" />
+
+* Pancakes!
+
+* Dinner
+
+
+[[./coins-covering-eyes-1.webp]]
+
+[[./coins-covering-eyes-2.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/JWgNkyuUYjY" title="First Time Vacuuming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Trampoline Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="358" height="637" src="https://www.youtube.com/embed/i0VT9GYtdTU" title="Lets Listen To Meshuggah!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+* Bath & Bed Time

@@ -7,17 +7,17 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/june/08/laying-with-daddy-preview.jpg" />
 
-[[./laying-with-daddy.jpg]]
+[[./laying-with-daddy.webp]]
 
 * Good Morning, Noumena!
 
-[[./cuddle-with-daddy-1.jpg]]
+[[./cuddle-with-daddy-1.webp]]
 
-[[./cuddle-with-daddy-2.jpg]]
+[[./cuddle-with-daddy-2.webp]]
 
-[[./cuddle-with-daddy-3.jpg]]
+[[./cuddle-with-daddy-3.webp]]
 
-[[./playing-with-mouth.jpg]]
+[[./playing-with-mouth.webp]]
 
 
 #+begin_export html
@@ -38,16 +38,16 @@
 
 * Bath Time
 
-[[./cloaked-in-towel-1.jpg]]
+[[./cloaked-in-towel-1.webp]]
 
-[[./cloaked-in-towel-2.jpg]]
+[[./cloaked-in-towel-2.webp]]
 
-[[./cloaked-in-towel-3.jpg]]
+[[./cloaked-in-towel-3.webp]]
 
-[[./cloaked-in-towel-4.jpg]]
+[[./cloaked-in-towel-4.webp]]
 
-[[./cloaked-in-towel-5.jpg]]
+[[./cloaked-in-towel-5.webp]]
 
-[[./cloaked-in-towel-6.jpg]]
+[[./cloaked-in-towel-6.webp]]
 
-[[./cloaked-in-towel-7.jpg]]
+[[./cloaked-in-towel-7.webp]]

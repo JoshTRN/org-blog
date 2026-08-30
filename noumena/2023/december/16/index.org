@@ -2,12 +2,13 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/16/christmas-tree-at-james-weldon-park-5_1_4000_sized_2.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/16/photo/christmas-tree-at-james-weldon-park-5-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 16th Header Photo"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="December 16, 2023">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/16/christmas-tree-at-james-weldon-park-5_1_4000_sized_2.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/16/photo/christmas-tree-at-james-weldon-park-5-preview.jpg" />
 
-[[file:christmas-tree-at-james-weldon-park-5.jpeg]]
+#+ATTR_ORG: :width 50%
+[[./photo/christmas-tree-at-james-weldon-park-5.webp]]
 
 * Morning
 
@@ -23,25 +24,25 @@ Across the street from the main library, there's a park. Since we'd arrived earl
   #+begin_export html
 <div id="orgfaf00d5" class="figure">
 <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-1.jpg" alt="toddling-3.jpg" width="50%">
-<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-2.jpg" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-1.webp" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-2.webp" alt="toddling-3.jpg" width="50%">
 </p>
 <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-3.jpg" alt="toddling-3.jpg" width="50%">
-<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-4.jpg" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-3.webp" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./christmas-tree-at-james-weldon-park-4.webp" alt="toddling-3.jpg" width="50%">
 </p>
 </div>
 #+end_export
 
 Noumena seems to be paying attention really for the first 10 minutes of story time but soon becomes restless. She gets up from her chair and runs out to the main room of the children's library to see the manatee seat they have as well as the small boat seat. Mommy walks outside to the courtyard and we follow her there before checking out some books an heading to the playroom. Mommy has stuff to do, so she leaves and we hang out a little longer reading some books and playing with some puppets.
 
-[[file:fountain-downtown-library.jpg]]
+[[file:fountain-downtown-library.webp]]
 
 As we're leaving the library, Noumena is fascinated with the stairs in the atrium so much so that when we reach the bottom, she turns around and begins climbing right back up. Once we've reached the top, she turns and goes right back down again. We repeat this loop probably five times before I decide it's finally time to go. Noumena, of course, wishing we'd continued our Sisyphean task, begins to protest as I carry her out of the library. We head back to the park across the street and hang out a little bit before I decide to walk with Noumena to a place very close by for lunch.
 
-[[file:deck-the-chairs-1.jpg]]
+[[file:deck-the-chairs-1.webp]]
 
-[[file:deck-the-chairs-2.jpg]]
+[[file:deck-the-chairs-2.webp]]
 
 * Lunch
 
@@ -64,13 +65,13 @@ Mommy comes back around just before Noumena's nap ends to wake Noumena up and wa
 #+end_export
 
 #+ATTR_ORG: :width 50%
-[[file:ugly-dress.jpg]]
+[[file:ugly-dress.webp]]
 
 #+ATTR_ORG: :width 50%
-[[file:ugly-dress-make-a-mess.jpg]]
+[[file:ugly-dress-make-a-mess.webp]]
 
 #+ATTR_ORG: :width 50%
-[[file:walking-to-mommy.jpg]]
+[[file:walking-to-mommy.webp]]
 
 We decided to go to target and while we were there, we let Noumena pick out a stocking and got an extension chord so our tree topper will light up now and then we head home.
 
@@ -81,6 +82,13 @@ Noumena and I had a very relaxed evening. We had macaroni and cheese for dinner 
 #+begin_export html
 <div class="video-container">
 <iframe width="1885" height="713" src="https://www.youtube.com/embed/Zu0NBU7SFWw" title="Helping Daddy Do Laundry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/nresf9REoNU" title="Fighting Herself In The Mirror" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -95,5 +103,6 @@ When it's finally time for Noumena's bath, we follow our usual routine where she
 #+end_export
 
 I get Noumena dressed as we follow our usual bed time routine of brushing her teeth and listening to our bedtime playlist. It's so sad that my growing baby just does not want to be rocked to sleep anymore. I'm coping with it, but I do miss it so when I could hold her in my arms and let her fall asleep there before transferring her to her crib.
+
 
 Noumena, I miss you already and I'm excited for what tomorrow has in store for us. Sleep well, my precious baby. See you in the morning!

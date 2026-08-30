@@ -1,0 +1,88 @@
+#+title: Vegan Tuscan-Style Cutlets
+#+include: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~35 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$2.25/
++ *Total Cost*: /~$9.00/
+
+* Ingredients
+** Wet Mix
++ [ ] 1 can butter beans (drained and rinsed)
++ [ ] 300 g tofu (soft or firm)
++ [ ] 1 tsp vegan chicken seasoning
++ [ ] 1 tsp garlic powder
++ [ ] 1 tsp dried thyme
++ [ ] 1 tsp onion powder
++ [ ] 2 tsp white miso paste
+
+** Dry Mix
++ [ ] 300 g rice flour (sieved)
++ [ ] 1 tsp baking powder
+
+** Dressing
++ [ ] 2 tbsp olive oil
++ [ ] 1 tsp vegan chicken seasoning
++ [ ] 1 tsp smoked paprika
++ [ ] 1 tsp garlic powder
++ [ ] 1 tsp onion powder
++ [ ] 1 tsp hot sauce
++ [ ] salt (to taste)
++ [ ] black pepper (to taste)
+
+** Sauce
++ [ ] 350 ml soy milk
++ [ ] 250 ml coconut cream
++ [ ] 1 tsp garlic powder
++ [ ] 1 tsp Italian seasoning
++ [ ] 1 tsp onion powder
++ [ ] 1 tsp hot sauce
++ [ ] 1 garlic clove (minced)
++ [ ] fresh sage (chopped)
++ [ ] fresh parsley (chopped)
++ [ ] salt (to taste)
++ [ ] black pepper (to taste)
+
+** Slurry
++ [ ] 150 ml soy milk
++ [ ] 1 tbsp potato flour
+
+* Method
+** Cutlets
+1. Blend the butter beans, tofu, vegan chicken seasoning, garlic powder, thyme, onion powder, and miso paste until smooth.
+2. Combine the blended mixture with the sieved rice flour and baking powder to form a dough.
+3. Shape the dough into cutlets.
+4. Place cutlets on oiled foil, wrap lightly, and bake at 180°C for about 25 minutes.
+
+** Pan Finish
+5. Mix olive oil, vegan chicken seasoning, smoked paprika, garlic powder, onion powder, hot sauce, salt, and pepper.
+6. Heat a pan over medium-high heat and add the dressing.
+7. Cook the cutlets in the pan, coating evenly, until golden and lightly charred on both sides.
+8. Remove the cutlets from the pan.
+
+** Sauce
+9. In the same pan, add soy milk and coconut cream.
+10. Stir in garlic powder, Italian seasoning, onion powder, hot sauce, minced garlic, sage, parsley, salt, and pepper.
+11. Mix the soy milk and potato flour, then add to the pan.
+12. Simmer on low heat for 5–7 minutes until thickened.
+13. Return cutlets to the pan and coat with sauce.
+
+* Notes
++ Coconut cream works well as a substitute for soy cream and adds richness.
++ Medium-high heat helps achieve a slight char on the cutlets.
++ Garnish with fresh parsley, chives, or green onions before serving.
++ Serve with pasta, rice, or crusty bread.
+
+* Nutrition
+| Nutrient | Amount | % Daily Value |
+|----------+--------+---------------|
+| Calories | 415 kcal | 21% |
+| Protein | 17 g | 34% |
+| Carbohydrates | 44 g | 16% |
+| Fat | 18 g | 23% |
+| Fiber | 6 g | 21% |
+| Sugars | 5 g | 10% |
+| Sodium | 530 mg | 23% |
+| Calcium | 190 mg | 15% |
+| Iron | 4 mg | 22% |
+| Vitamin C | 7 mg | 8% |

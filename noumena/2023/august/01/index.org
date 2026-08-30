@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 #+ATTR_ORG: :width 100%
-[[file:holding-chalmers.jpg]]
+[[file:holding-chalmers.webp]]
 
 * Morning
 
@@ -12,9 +12,9 @@ When approaching Noumena crib, she stays laying down, which is different than he
 
 I had already let Kisa outside, but not Chalmers, so with Noumena in hand, I open the front door and attach Chalmers to his leash before sitting down with Noumena to eat. Once we finish the porridge, we let Chalmers in and I sit with Noumena a bit to play with her on my lap again so as to avoid her throwing a fit. Shortly thereafter, when she's already spent some time calm, I take her to get dressed and she gives me no problems. We leave for daycare at about 8:30am, so I got to spend a good amount of time with Noumena this morning---more than usual.
 
-[[file:hugging-chalmers.jpg]]
+[[file:hugging-chalmers.webp]]
 
-[[file:touching-chalmers.jpg]]
+[[file:touching-chalmers.webp]]
 
 * 15 Month Pediatrician Appointment
 :PROPERTIES:
@@ -25,9 +25,9 @@ Yesterday, I scheduled a pediatrician appointment for 1pm today so I leave home 
 
 I told Mom about it last night and asked her if she wanted to meet us there for the appointment and she agreed, so when we arrive Mom is already there and greets Noumena with open arms carrying her into the pediatric facility. Noumena is weighed first and for the first time on the big kids scale. She's 20.2lbs! And when we get back to the room, her height is measured and she's 30" tall! That's 2½ foot tall! Noumena's pediatrician, Ms. Ashley, asks a few questions about her diet and habits, checks her out and gives her standard advice about rear-facing car seats, choking hazards etc. We're told she's perfectly normal and there are no health concerns. I always wanted to save her height and weight metrics but I never knew how I'd do it. Now that I have this blog, I can do it here.
 
-[[file:height-weight-metrics-1.jpg]]
-[[file:heigh-weight-metrics-2.jpg]]
-[[file:height-weight-metrics-3.jpg]]
+[[file:height-weight-metrics-1.webp]]
+[[file:heigh-weight-metrics-2.webp]]
+[[file:height-weight-metrics-3.webp]]
 
 Unfortunately we're informed that Noumena has to get vaccines this time! I thought that she was going to need them at 18 months, but once again I was mistaken. She needs to get 2 now. She gets 2 vaccines: DTaP (Diptheria, Tetnus, Pertussis) and Pneumococcal Conjugate vaccines. We opt to get them both in the same leg. There are 2 reasons we want the same leg. Firstly, it will be faster, so she well be in less pain, and secondly, I feel like I'd rather have one slightly bigger spot of pain on one limb than 2 slightly smaller spots of pain on 2 limbs.
 
@@ -68,9 +68,9 @@ When traveling to the park, I decide that I'm going to leave my headset behind s
 
 When we arrive, there are three sisters there with their dad. Initially, he's sitting down at the benches, but I think after he sees our daughters playing together and me playing with them, it motivates him to get up and start playing with his daughters more closely. This isn't the first time I've noticed this phenomenon. I think it really speaks to our sociability. I think when parents see other parents do well, it helps them model good behavior.
 
-[[file:meeting-new-friends.jpg]]
+[[file:meeting-new-friends.webp]]
 
-[[file:meeting-new-friends-2.jpg]]
+[[file:meeting-new-friends-2.webp]]
 
 
 #+begin_export html

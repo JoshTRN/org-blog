@@ -1,7 +1,7 @@
 #+TITLE: September 30, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:on-mommys-lap-bay-window-2.jpg]]
+[[file:on-mommys-lap-bay-window-2.webp]]
 
 * Morning
 
@@ -33,15 +33,15 @@ Noumena's mom found where the toys that are typically in the toy room upstairs, 
 </div>
 #+end_export
 
-[[file:sitting-at-bay-window.jpg]]
+[[file:sitting-at-bay-window.webp]]
 
-[[file:sitting-at-bay-window-2.jpg]]
+[[file:sitting-at-bay-window-2.webp]]
 
-[[file:on-mommys-lap-bay-window.jpg]]
+[[file:on-mommys-lap-bay-window.webp]]
 
-[[file:chilling-in-adirondack-chair.jpg]]
+[[file:chilling-in-adirondack-chair.webp]]
 
-[[file:chilling-in-adirondack-chair-2.jpg]]
+[[file:chilling-in-adirondack-chair-2.webp]]
 
 
 * Back At Home
@@ -101,13 +101,13 @@ Noumena's mom found where the toys that are typically in the toy room upstairs, 
 </div>
 #+end_export
 
-[[file:boys-helps-noumena-climb-into-rocker.jpg]]
+[[file:boys-helps-noumena-climb-into-rocker.webp]]
 
-[[file:rocking-with-little-boy.jpg]]
+[[file:rocking-with-little-boy.webp]]
 
-[[file:rocking-with-little-boy-2.jpg]]
+[[file:rocking-with-little-boy-2.webp]]
 
-[[file:rocking-with-little-boy-3.jpg]]
+[[file:rocking-with-little-boy-3.webp]]
 
 * Back At Home
 

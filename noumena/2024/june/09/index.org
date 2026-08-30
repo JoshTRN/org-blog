@@ -31,6 +31,6 @@
 
 * Photo
 
-[[./going-down-slide-1.jpg]]
+[[./going-down-slide-1.webp]]
 
-[[./going-down-slide-2.jpg]]
+[[./going-down-slide-2.webp]]

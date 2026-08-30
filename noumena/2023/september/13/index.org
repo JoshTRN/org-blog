@@ -3,10 +3,10 @@
 
 
 * Daycare
-[[file:coloring-at-daycare.jpg]]
-[[file:playing-with-blocks-daycare.jpg]]
-[[file:playing-with-rings-daycare.jpg]]
-[[file:playing-with-popcorn.jpg]]
+[[file:coloring-at-daycare.webp]]
+[[file:playing-with-blocks-daycare.webp]]
+[[file:playing-with-rings-daycare.webp]]
+[[file:playing-with-popcorn.webp]]
 
 * Park
 #+begin_export html

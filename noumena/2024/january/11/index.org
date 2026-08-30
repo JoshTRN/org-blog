@@ -7,14 +7,14 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/11/by-light-up-deer-preview.jpg" />
 
-[[file:by-light-up-deer.jpg]]
+[[file:by-light-up-deer.webp]]
 
 * Good Morning, Noumena!
 
 
 * Playing At Home
 
-[[file:laying-in-funny-position.jpg]]
+[[file:laying-in-funny-position.webp]]
 
 #+begin_export html
 <div class="video-container">

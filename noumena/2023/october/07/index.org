@@ -19,7 +19,7 @@ I went to bed Super early last night. The last few days I've been sick so it's b
 </div>
 #+end_export
 
-[[file:playing-with-papers.jpg]]
+[[file:playing-with-papers.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -59,9 +59,9 @@ I went to bed Super early last night. The last few days I've been sick so it's b
 </div>
 #+end_export
 
-[[file:chilling-with-daddy-2.jpg]]
-[[file:chilling-with-daddy.jpg]]
+[[file:chilling-with-daddy-2.webp]]
+[[file:chilling-with-daddy.webp]]
 
 * Bed Time
 
-[[file:petting-noumena-to-sleep.jpg]]
+[[file:petting-noumena-to-sleep.webp]]

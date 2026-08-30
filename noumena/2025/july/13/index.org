@@ -1,0 +1,63 @@
+#+TITLE: July 13, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/july/13/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July 13, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/july/13/" />
+
+* Photo
+
+#+ATTR_ORG: :width 0.7
+[[./rugae-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./rugae-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./rugae-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./rugae-4.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./rugae-5.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./falling-in-plants.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chillin-with-daddy.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./fallen-on-caterpiller-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./fallen-on-caterpiller-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./fallen-on-caterpiller-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./fallen-on-caterpiller-4.webp]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="415" height="737" src="https://www.youtube.com/embed/exV1MrE3VbY" title="Swinging In The Rain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="648" src="https://www.youtube.com/embed/iP3vGUR3Qxk" title="Drumming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="648" src="https://www.youtube.com/embed/K8KjInmjs9o" title="Chasing Geese And White Ibis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

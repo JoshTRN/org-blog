@@ -1,0 +1,148 @@
+#+TITLE: January 21, 2026
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2026/january/21/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 21, 2026 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2026/january/21/" />
+
+* Photos
+
+[[./photo/IMG20260121103312.webp]]
+
+[[./photo/IMG20260121103314.webp]]
+
+[[./photo/IMG20260121103316.webp]]
+
+[[./photo/IMG20260121103811.webp]]
+
+[[./photo/IMG20260121103814.webp]]
+
+[[./photo/IMG20260121103817.webp]]
+
+[[./photo/IMG20260121111722.webp]]
+
+[[./photo/IMG20260121111728.webp]]
+
+[[./photo/IMG20260121111731.webp]]
+
+[[./photo/IMG20260121111734.webp]]
+
+[[./photo/IMG20260121111737.webp]]
+
+[[./photo/IMG20260121111739.webp]]
+
+[[./photo/IMG20260121111742.webp]]
+
+[[./photo/IMG20260121111746.webp]]
+
+[[./photo/IMG20260121111747.webp]]
+
+[[./photo/IMG20260121111751.webp]]
+
+[[./photo/IMG20260121111752.webp]]
+
+[[./photo/IMG20260121111754.webp]]
+
+[[./photo/IMG20260121111757.webp]]
+
+[[./photo/IMG20260121111758.webp]]
+
+[[./photo/IMG20260121111802.webp]]
+
+[[./photo/IMG20260121111803.webp]]
+
+[[./photo/IMG20260121124645.webp]]
+
+[[./photo/IMG20260121124648.webp]]
+
+[[./photo/IMG20260121124649.webp]]
+
+[[./photo/IMG20260121124651.webp]]
+
+[[./photo/IMG20260121124652.webp]]
+
+[[./photo/IMG20260121124653.webp]]
+
+[[./photo/IMG20260121124654.webp]]
+
+[[./photo/IMG20260121124657.webp]]
+
+[[./photo/IMG20260121124658.webp]]
+
+[[./photo/IMG20260121124701.webp]]
+
+[[./photo/IMG20260121124704.webp]]
+
+[[./photo/IMG20260121124712.webp]]
+
+[[./photo/IMG20260121124713.webp]]
+
+[[./photo/IMG20260121163246.webp]]
+
+[[./photo/IMG20260121163249.webp]]
+
+[[./photo/IMG20260121163252.webp]]
+
+[[./photo/IMG20260121163255.webp]]
+
+[[./photo/IMG20260121163258.webp]]
+
+[[./photo/IMG20260121163302.webp]]
+
+[[./photo/IMG20260121163310.webp]]
+
+[[./photo/IMG20260121163318.webp]]
+
+[[./photo/IMG20260121163320.webp]]
+
+[[./photo/IMG20260121163322.webp]]
+
+[[./photo/IMG20260121163323.webp]]
+
+[[./photo/IMG20260121163324.webp]]
+
+[[./photo/IMG20260121163325.webp]]
+
+[[./photo/IMG20260121163326.webp]]
+
+[[./photo/IMG20260121163327.webp]]
+
+[[./photo/IMG20260121163328.webp]]
+
+[[./photo/IMG20260121163332.webp]]
+
+[[./photo/IMG20260121163333.webp]]
+
+[[./photo/IMG20260121163334.webp]]
+
+[[./photo/IMG20260121191853.webp]]
+
+[[./photo/IMG20260121191858.webp]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/M6_rE8qEREM" title="Riding Ariels Ride" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/2eG-PJ32g2Y" title="Watching Disney Night Parade 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/TqzyrUuIRME" title="Watching Disney Night Parade 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/gHrm3x_d3RA" title="Watching Disney Parade On Daddys Shoulders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

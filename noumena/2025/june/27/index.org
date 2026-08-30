@@ -1,0 +1,49 @@
+#+TITLE: June 27, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/27/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 27, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/27/" />
+
+* My Responsible Little Girl
+
+[[./laying-on-bed-frame-1.webp]]
+
+[[./laying-on-bed-frame-2.webp]]
+
+* Grasshoppers!
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/m5EAnrQsRts" title="Burying The Poor Grasshopper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./playing-with-grasshoppers-1.webp]]
+
+[[./playing-with-grasshoppers-2.webp]]
+
+[[./playing-with-grasshoppers-3.webp]]
+
+[[./playing-with-grasshoppers-4.webp]]
+
+[[./playing-with-grasshoppers-5.webp]]
+
+[[./playing-with-grasshoppers-6.webp]]
+
+[[./playing-with-grasshoppers-7.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="548" src="https://www.youtube.com/embed/fLyjyaiFd4g" title="Playing With Kowie Outside 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/-ezHcWCYMg8" title="Playing With Kowie Outside 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

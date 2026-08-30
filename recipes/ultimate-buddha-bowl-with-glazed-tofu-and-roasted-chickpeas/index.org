@@ -1,0 +1,70 @@
+#+title: Ultimate Buddha Bowl with Glazed Tofu & Roasted Chickpeas
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~25 min/
++ *Servings*: /~2/
++ *Cost per Serving*: /~$3.25/
++ *Total Cost*: /~$6.75/
+
+* Ingredients
+** Roasting (400°F / 200°C)
+- [ ] 1 medium sweet potato (1/2 inch dice)
+- [ ] 1/2 cup cooked chickpeas (patted dry)
+- [ ] 1/2 tbsp olive oil
+- [ ] 1/4 tsp each cumin, paprika, salt
+
+** Crispy Tofu & Glaze
+- [ ] 200 g firm tofu (pressed, torn)
+- [ ] 1 tbsp cornstarch
+- [ ] 1/2 tsp salt
+- [ ] 1/2 tbsp oil
+- [ ] 2 tbsp agave or maple syrup
+- [ ] 1/2 tbsp lemon juice
+- [ ] 1/2 tsp each paprika, cumin, coriander
+- [ ] 1/4 tsp chili powder
+- [ ] 1 tsp water
+
+** Base & Greens
+- [ ] 1/4 cup uncooked quinoa (rinsed)
+- [ ] 2 cups chopped kale
+- [ ] 1/2 tbsp olive oil
+- [ ] 1 clove garlic (minced)
+
+** Assembly
+- [ ] 1 cup shredded cabbage/carrots
+- [ ] 1/4 cup vegan yogurt-tahini dressing
+- [ ] 1 tbsp sesame seeds
+
+* Method
+** Roast
+1. [ ] Toss sweet potato and chickpeas with oil and spices; roast 25 minutes, flipping halfway.
+
+** Tofu
+1. [ ] Toss tofu with cornstarch and salt; pan-fry in oil until crispy (about 5 minutes per side).
+2. [ ] Whisk glaze; toss with tofu off heat.
+
+** Quinoa & Greens
+1. [ ] Simmer quinoa with 1/2 cup water 15 minutes; rest covered.
+2. [ ] Sauté garlic in oil; wilt kale 2–3 minutes.
+
+** Assemble
+1. [ ] Bowl quinoa, kale, roasted veg, glazed tofu, cabbage/carrots.
+2. [ ] Drizzle dressing; sprinkle sesame seeds.
+
+* Notes
+- [ ] Double the glaze for extra sauciness.
+- [ ] Reheat tofu in an air fryer to retain crispness.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~880   | 44%           |
+| Protein       | ~38 g  | 76%           |
+| Carbohydrates | ~120 g | 40%           |
+| Fat           | ~30 g  | 38%           |
+| Fiber         | ~20 g  | 71%           |
+| Sugars        | ~22 g  | 44%           |
+| Sodium        | ~620 mg| 27%           |
+| Calcium       | ~350 mg| 27%           |
+| Iron          | ~8 mg  | 44%           |
+| Vitamin C     | ~90 mg | 100%          |

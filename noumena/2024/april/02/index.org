@@ -29,10 +29,10 @@
 </div>
 #+end_export
 
-[[./trying-to-get-in-the-car-1.jpg]]
+[[./trying-to-get-in-the-car-1.webp]]
 
-[[./trying-to-get-in-the-car-2.jpg]]
+[[./trying-to-get-in-the-car-2.webp]]
 
 * Bed Time
 
-[[./falling-asleep-on-daddy.jpg]]
+[[./falling-asleep-on-daddy.webp]]

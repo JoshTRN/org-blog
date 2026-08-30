@@ -1,7 +1,7 @@
 #+TITLE: November 11, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:proclaiming-about-her-bear.jpg]]
+[[file:proclaiming-about-her-bear.webp]]
 
 * Morning
 
@@ -25,7 +25,7 @@
 </div>
 #+end_export
 
-[[file:sitting-on-porch-with-daddy.jpg]]
+[[file:sitting-on-porch-with-daddy.webp]]
 
 
 * Eating Dinner
@@ -65,9 +65,9 @@
 
 * Making An Obstacle Course
 
-[[file:obstacle-course-1.jpg]]
+[[file:obstacle-course-1.webp]]
 
-[[file:obstacle-course-2.jpg]]
+[[file:obstacle-course-2.webp]]
 
 #+begin_export html
 <div class="video-container">

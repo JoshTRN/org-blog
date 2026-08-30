@@ -1,0 +1,279 @@
+#+TITLE: Debate.org Are There Moral Facts?
+#+INCLUDE: ~/org/blog/philosophy/header.org
+
+* Meta
+The Instigator
+Pulchritudinous
+Con (against)
+Pulchritudinous
+Winning
+11 Points
+The Contender
+zmikecuber
+Pro (for)
+zmikecuber
+Losing
+6 Points
+Are there moral facts?
+Add to My FavoritesReport this DebateShare with My Friends
+Do you like this debate?NoYes+4
+Add this debate to GoogleAdd this debate to DeliciousAdd this debate to FaceBookAdd this debate to Digg
+Post Voting Period
+The voting period for this debate has ended.
+after 5 votes the winner is...
+Pulchritudinous
+Voting Style:	Open	Point System:	7 Point
+Started:	2/19/2014	Category:	Religion
+Updated:	6 years ago	Status:	Post Voting Period
+Viewed:	8,619 times	Debate No:	46289
+Email to FriendsTweet
+Debate Rounds (4)Comments (31)Votes (5)
+
+* Debate Round No. 1
+** Pulchritudinous Con
+
+'Moral facts' here, are defined as norms which you have a reason to act in accord with independently of your own wants, aims, and desires and you can make a mistake with respect to. Does anyone want to debate about whether or not there are such facts? If you do, I suggest you go first in round 1, then me in r2, then you in r2, me in r3 etc... And we'll stop the debate before the 2nd part of round 4.
+
+
+** zmikecuber Pro
+
+I would like to thank Pulchritudinous for the opportunity to debate him on this subject.
+
+I'd like to reiterate the definitions:
+
+Moral facts: "norms which you have a reason to act in accord with independently of your own wants, aims, and desires and you can make a mistake with respect to"
+
+Thus, I shall argue that there are such things.
+
+Intuitive and self-evident
+My first argument shall be that it is intuitive and self evident there are such things. It just seems obviously true that we ought not to murder people, or rape helpless women, or molest children, despite our own desires. It seems very obvious that we have obligations towards others. Thus, our starting point should be that there is objective morality.
+
+Denying it leads to the collapse of logic
+If my opponent is to deny that there are any sorts of moral obligations, he will inevitably shoot himself in the foot. Let me elaborate.
+
+Let's say I give you the premises: "All men are mortal" and "Socrates is a man." You say: Yes, that's true, I agree. Now I say: Thus, you ought to accept the conclusion: Socrates is mortal.
+
+Someone who does not believe in moral facts would say: No! I'm not obligated to accept the conclusion, even if it follows from the premises!
+
+But this is absurd. In fact, if my opponent is going to deny the existence of objective moral facts, then we have no objective reason to accept his arguments! He will inevitably say: Moral facts do not exist because of xyz. However, in saying this he is assuming a moral fact!
+
+Thus, if my opponent is going to argue against the existence of any moral facts, we do not have to accept his conclusion, even if his premises are true, and the conclusion follows.
+
+Conclusion
+In conclusion, I have given two arguments. First, that objective moral facts seem intuitive, obvious, and self-evident. Thus, they should be our starting point. Secondly, denying objective moral facts denies logic. Thus, any arguments my opponent presents are self-defeating, since they assume that we have an obligation to accept the conclusion of a sound argument.
+
+
+* Debate Round No. 2
+
+** Pulchritudinous Con
+
+I"ll begin my opening statement by expounding on the different categories of norms, partly following Richard Joyce"s analysis in "The Myth of Morality." Joyce distinguishes between categorical, hypothetical, and institutional reasons. Closely related to institutional reasons, I will add, are full-blooded norms.
+
+Firstly, there are the hypothetical norms which are relativized to aims and desires. Secondly, there are the institutional norms which are norms relativized to a given existing institution and reason-giving only to agents which have a commitment to act in accord with the given institutional norms. Closely related to the institutional norms, there are the full-blooded norms. These are norms which you can make a mistake with respect to, but aren"t reason-giving, nor is there an institution which instantiates them. Lastly, there are the categorical moral norms, which are supposed to be reason-giving to all agents completely irrespective of their internal normative reasons(such as their wants, beliefs, and desires).
+
+To unpack the hypothetical norm we might imagine the following conditional, "if I want to quench my thirst, then I should drink some water where drinking some water is a means to quenching my thirst." The "want" here function as a commitment to a particular end. I would thus have a reason, based on my commitment, to drink some water.
+
+Institutional norms are norms which aren"t reason-giving per se, but are mistake sensitive. For a commonly used example, let"s look at the game of chess which has certain rules one can fail to conform to. Now, we can imagine some possible world p where people are playing a game contrasted from chess, call it "schmess", where queens are able to move in an L-shape similar to knights. We would say that the agents in p are making a mistake with respect to the chess norm, but it wouldn"t make any sense to say that they have a reason independently of their desires to alter "schmess" such that it conforms to our rules of chess, nor would it make sense for them to tell us that we have a reason independently of our desires to alter the chess rules such that they conform to the "schmess" rules.
+
+Now the full-blooded norms are very closely related to the institutional norms; with only one minor distinction, these norms aren"t necessarily institutionalized and just describe any imaginable rule. We can think of a "paint-your-house-orange" norm, a "drive to work at exactly 25 mph" norm, and a "do 3 cartwheels every time you leave your house" norm. These, similar to the institutional norms, aren"t reason-giving so it"s nonsensical to tell someone they have reasons to conform to them independently of their aims and desires, but you can still make a mistake with respect to them by painting your house white, driving faster or slower than 25 mph, or not doing any cartwheel when you leave your house.
+
+Both institutional and full-blooded norms are only reason-giving to the extent that we take ourselves to be beholden to them - there is an institutional sense in which you might say that you have a chess-reason to move your bishop diagonally, even if your all-things-considered reason weighs against it.
+
+The categorical norm is supposed to be a norm which is completely independent of the aims and desires of agents, similar to the institutional norm, but is somehow also reason-giving. This notion of a categorical norm is more properly considered a non-institutional categorical norm - it is a norm that is truly desire-transcendent, standing above one's particular set of desires, aims, or institutional commitments. For simplicity's sake however, I will refer to such norms throughout the debate as simply "categorical norms", "categorical moral norms" or "external normative reasons."
+
+The first argument I"m going to present should not be misconstrued as an epistemological argument, since it"s in fact a metaphysical argument regarding the very nature of these supposed categorical moral norms.
+
+What the moral realist might say there is some special property in common among certain states of affairs. However, merely having some property in common doesn't suffice to generate categorical normativity. Consider states of affairs like "helping old ladies across the street", " giving candy to babies", "saving your neighbor"s life", and "being faithful to your wife" which all may be said to share a common property. For instance, the property which these states of affairs share might turn out to be a color property which can"t be perceived by human beings, but nonetheless happens to be a feature of all of these states of affairs. We can dub that property the "blue-prime" property. Nonetheless, nothing categorically reason-giving would follow from the mere fact that there exists this "blue-prime" property which the states of affairs all share. Suppose we"re to say that the property, as opposed to being a color property, is some sort of abstract object which we might intuit a priori - perhaps these states of affairs share a structural isomorphism with a given mathematical model. But this wouldn"t solve the issue either, since the fact that the property is an abstractum, as opposed to a color property, doesn"t make it categorically reason-giving to conform to. So what exactly is the nature of this reason-giving property which the states of affairs all share such that it is in fact categorically reason-giving?
+
+When the moral realist is saying that these states of affairs are reason-giving, they also want to say that it isn"t reason-giving in the same way which hypothetical norms are reason-giving " those are always relativized to an agent"s aims. Given that they aren't reason-giving in that sense, well in what sense are they reason-giving? So we"re to believe that there"s something reason-giving about hypothetical norms and something reason-giving about these states of affairs " but what can be understood to be in common between the two of them that provides reason-givingness? Well, the hypothetical norm is defined in terms of an agent"s desires and commitments. So the desires and commitments of an agent are what constitute the reason-giving attribute of the hypothetical norm. But categorical moral norms are taken to not be relativized to an agent"s wants, beliefs, and desires. Consequently, the question seems to be either left unanswered, or answered question-beggingly, i.e., the moral realist might say, "what makes these states of affairs reason-giving is in virtue of you having a reason to act in accord with them." But the coherent and non-vacuous notion of "reason" which we"re acquainted with is relativized to our aims and desires, and presumably, these properties are not. Now if one drops the question-begging language, it turns out that all the moral realist is saying is that there exists such a property, but now it seems that we"re just talking in terms of a blue-prime type property. Perhaps some agents might lack the cognitive structure needed to recognize the blue-prime property that others could recognize. That however, would be irrelevant - we could grant that there exists a blue-prime property, but what difference does this make? It isn"t normative in any way.
+
+The moral realist might say that this property in common is normative in virtue of the fact that we can mistake with respect to it, but this turns out to be an empty claim. There are an infinity of properties you can make a mistake with respect - these are merely a species of institutional or full-blooded norms. These provide no robust categorical foundation for robust moral realism at all. Take, for example, the property(norm) M of painting your house green. If you paint your house purple, you"re making a mistake with respect to M. This property(norm), however, lacks the genuine reason-giving force which moral realists are after, making the appeal empty.
+
+Here is a proposal of what might be meant by a "reason." Following Street (2009), we can understand robust normative realism to involve the claim that "there are at least some normative facts or truths that hold independently of all our evaluative attitudes, such that there can be normative reason for an agent to X even though the conclusion that he has this reason in no way follows, as a logical or instrumental matter, from that agent's own set of values in combination with the non-normative facts" (Street 214). As such, we can take it that there can be agents that will fail to be appropriately motivated to act in accord with the property. Consequently, we might consider some property X such that if you have (i) the right kind of cognitive structure that one is able to intuit X and (ii) has the right kind of motivational structure, they would be so prompted to act in accord with X. But, what can the "right" cognitive / motivational structure consist in? For instance, consider a property Y that is diametrically opposed to X such that Y is characterized by (i) and (ii) mutatis mutandis - (i) the right kind of cognitive structure that one is able to intuit Y and (ii) has the right kind of motivational structure, they would be so prompted to act in order with Y. But then, how can we distinguish the X-norm from the Y-norm? The X-agents are "right" to the extent that they follow the X-norm and the Y-agents are "right" to the extent that the follow the Y-norm. It is useless to attempt to distinguish the X-norm from the Y-norm in virtue of the fact that X is not Y - that is precisely the difference to explained. Repeating the fact to be explained is not an explanation - it's a mere appeal to a dormitive principle. Suppose however we can distinguish X and Y in virtue of some other(putatively normative) property Z. Then, for Z, there will exist a Z* diametrically opposed to Z for which the same objection can be raised. Consequently, the very notion of a categorical norm seems completely incoherent or vacuous.
+
+I've run outside of space, and will respond to my opponent's argument next round.
+
+
+** zmikecuber Pro
+
+Opening remarks
+Thanks to my opponent for his well thought out (albeit a bit lengthy) opening arguments! Unfortunately, he has not replied to the arguments I originally gave, but I assume he will do so in the next round. That being said, I shall rebut his arguments, and re-bolster my own. (I may present other arguments in the next round.)
+
+Why should we be convinced by my opponent's arguments?
+My opponent has argued that there is no such thing as moral facts. However, why should we accept his conclusion? Recall, my second argument above was that Con will inevitably give arguments for why there are no moral facts. However, in doing so, he is assuming a moral fact that we ought to accept his conclusion regardless of whether or not we want to. In other words, my opponent's argument rests upon the moral fact that truth should be pursued, and error avoided. He is then providing arguments in favor of the truth he is proposing, and thus, his arguments are self-defeating.
+
+A mutually exclusive quad-rilemma? (1)
+My opponent uses Richard Joyce's four categories to explain what different "norms" are. However, why should we accept they are mutually exclusive? Take for example "You should not murder." This may fit into the hypothetical norm: If you don't want to have the guilt of killing a person, don't kill them. It also fits into the institutional norm and full-blooded norm. However, it also seems to intuitively fit into the categorical norm.
+
+So it seems very plausible to accept that certain things may fit into more than one of the categories my opponent has presented. Which asks the question: Why should accept these categories in the first place? My opponent must demonstrate that these are real categories. Otherwise, there is just no reason to accept them as realistic ways to view morality. Why not accept virtue ethics? Why not accept utilitarianism? Why not accept natural law ethics?
+
+
+Argument from ignorance
+My opponent also seems to make an argument from ignorance. He argues that if there is such a thing as categorical norms (which you will recall, just means "moral facts") then it is very confusing as to what would make certain things fit into this category, and what wouldn't. In other words, everything in this category must share a certain property to be predicated of this property.
+
+Now my opponent seems to think it is very doubtful what a property might be. But this is irrelevant; even if it is confusing to see what the common property is, it does not follow that there is none. (2)
+
+
+Regressing questions
+My opponent makes an interesting statement "So what exactly is the nature of this reason-giving property which the states of affairs all share such that it is in fact categorically reason-giving?"
+
+Now I am admittedly a bit confused as to what my opponent means here, but I shall try to interpret as best I can. It seems to me that my opponent is saying that, if there is a common property which moral facts have, then what is it about that property that makes the moral facts obligatory? This once again seems to qualify as an argument from ignorance. (2)
+
+This also seems to be a regressing question. Why should I do what I ought to do? Why should I believe what I believe? Why is the truth true? We can ask the same question ad infinitum, but this does not necessarily mean it is a defeater to the concept at hand.
+
+
+My opponent also states, "But categorical moral norms are taken to not be relativized to an agent"s wants, beliefs, and desires. Consequently, the question seems to be either left unanswered, or answered question-beggingly, i.e., the moral realist might say, "what makes these states of affairs reason-giving is in virtue of you having a reason to act in accord with them.""
+
+
+However, this is once again fallacious! Simply because moral realists may answer the question question-beggingly, it doesn't follow from this that there is no moral realism. This is a fallacy fallacy. (8)
+
+Self-evident truths
+Morality seems, by its very nature, to be self-evident. Regardless of emotions, there seems to be a sort of moral sense that all people have, which directs them to act in a certain way, despite their wants or desires. Now I think my opponent would agree that most people think there are objective moral facts, which are true regardless of their desires or personal aims. However, if most people have this moral compass, shouldn't our starting point be that objective morality exists? We can parallel this to any sort of senses we have. If my opponent wants us to doubt our moral senses, the same type of reasoning could be used against our memory, or our thinking abilities.
+
+In fact, only 23.2% of philosophers with a PHD in Normative Ethics are moral anti-realists. (6) 21.4% of philosophers with a PHD AOS in applied ethics are moral anti-realists. (9) Only 19.8% of people with a graduate degree in Normative Ethics are moral anti-realists. (7) In addition to being self-evident, and just plain obvious that "Rape is wrong" the majority of trained philosophers with expertise in this area would even agree.
+
+Of course this doesn't show moral realism is absolutely true, but it should cause the readers and my opponent to pause; if his position is a minority in experts he ought to have a very good amount of proof.
+
+A real dilemma
+I would also like to present a real dilemma.
+
+Either: There are no moral facts at all. Or: There are some moral facts.
+
+These are logically contradictory statements. (10) If one is true, the other is false.
+
+Which of these options seems more probable? Well obviously the first statement, which my opponent wants us to believe, is a very grand statement indeed. It requires a tremendous amount of argument to demonstrate that there are no moral facts whatsoever. However, it seems very possible for there to be some moral facts. We can easily conceive of such a thing, and conceivability entails metaphysical possibility. (3) (This can also be easily demonstrated by showing that metaphysical impossibility implies inconceivability, and applying modus tollens). In other words, it seems very very possible for there to be such moral facts. In addition to our intuitive beliefs, the second option becomes much more probable. Objective morality seems very possible, and nearly everyone experiences a sort of moral-sensory that indicates objective morality really is the case!
+
+So my opponent must demonstrate that objective morality is utterly impossible in principle. Otherwise, this seems to be the best explanation for the moral compass which is present in man, and which has been clung to even to death.
+
+Conclusion
+In conclusion, I have presented several arguments for moral facts. My opponent's arguments rest upon an unfounded and non-mutually exclusive way to categorize morality. Furthermore, my opponent's arguments all seem to be arguing from ignorance or fallacy fallacies. Just because objective morality might be confusing, it doesn't follow that it isn't there! In fact, this is simply irrelevant, and is a red-herring of sorts. (4)
+
+On the other hand, I have given arguments for why objective morality exists: It is self-evident and intuitively true, my opponent's case rests upon the statement "truth should be pursued, and error avoided" (5), most trained philosophers with a PHD and AOS in various forms of ethics are ethical realists, and objective morality is very possible, and is the best explanation for the presence of morality in the world.
+
+Finally, I'd like to quote Professor Edward Feser from his book Aquinas:
+
+"When we consider that human beings have intellect, and the natural end or function of the intellect is to grasp the truth about things, it follows that it is good for us - it fulfills out nature - to pursue truth and avoid error. Consequently, a rational person apprised of the facts of human nature will see that this is what is good for us and thus strive to attain truth and avoid error." (5)
+
+Over to my opponent!
+
+
+* Debate Round No. 3
+** Pulchritudinous Con
+
+Re self-defeat: PRO charges that moral antirealism is self-defeating as one would be appealing to a "moral" fact--that one categorically ought to accept cogent arguments. However, that an argument is valid and sound is distinct from the claim that one SHOULD accept it in virtue of its cogency. It's a norm of instrumental rationality that if one accepts the premises of a valid argument, one has reason to accept the conclusion--PRO hasn't shown that this norm is a categorical moral norm--if anything, one would think it to be a categorical epistemic norm, not a moral one. In fact, robust moral realism itself speaks against taking epistemic norms as categorical, let alone moral, facts. Suppose you're the single mother of four children. You're afflicted by a disease which, your doctor informs you, only 15% of those who have it survive past three months. You're also told that there's a statistically significant increase in the survival rate of patients who had strong convictions that they would survive, although it only increased the chance of survival to 30%. You have positive epistemic reason to believe that you'll most likely die in three months but there seems to be a strong moral reason to believe that you will not die, to maximize your chances of survival. A moral realist will tend to agree, then, that moral reasons may trump epistemic reasons--but then it follows that epistemic reasons are not, in fact, categorical--let alone, moral--facts. Thus, epistemic norms are to be distinguished from categorical moral norms and if one views epistemic norms as categorical, then they can conflict with categorical moral norms, such that the latter trumps the former, contradicting the categoricity of epistemic norms.
+
+Antirealists can also reject categorical epistemic norms. This isn't self-defeating because they aren't attempting to give a categorical epistemic reason to accept the argument. We must distinguish whether or not some fact is true from whether or not we have a categorical epistemic reason to believe it. Antirealists can say that they're offering arguments to the effect that antirealism is true, not that it should categorically be believed. However, there being no categorical reasons isn't the same as there being no good reasons at all. Jonas Olson distinguishes desire-transcendent norms from immanent norms--"those whose reason-giving force depends on agents' desires or ends, their engagement in certain rule-governed activities, or their occupation of certain roles; the reason-giving force of immanent norms does not transcend desires or ends, or rule-governed activities or roles, which is why immanent norms imply only non-categorical reasons"(Olson 80). We can understand having immanent reasons to accept antirealism e.g. it's part of the institution of debate to aim at true beliefs, giving one reason to accept valid arguments with true premises. As PRO agreed to a debate, he has reasons to accept sound arguments, even if they aren't categorical reasons. Olson diagnoses the source of this confusion between "evidence conducing to truth" vs. "evidence providing reasons to believe" in the fact that evidence is typically brought up in contexts where we're already interested in the truth. But that evidence has normative significance isn't the same as evidence itself being normative(Olson 86).
+
+We've seen that we can take epistemic norms as institutional--reason-giving in the context of aiming at truth, even though they aren't categorical. However, we can also understand them universally binding, necessarily reason-giving hypothetical norms in virtue of the constitution of agency. Consider normative conceptions of belief--on Sharon Street's "constitutive-takings account" it's part of the constitution of beliefs that an attitude P is a belief to the extent that considerations that make P likely count-in-favor of P and considerations that make P less likely count-against P. Consequently, belief is fundamentally truth-aimed and moreover, agents are necessarily in the business of forming beliefs, committing agents to epistemic norms(Street 244-246). Alternatively, Hilary Kornblith notes that agents have desires and it's constitutive of desires to strive to fulfill them e.g. can we really say that someone has the desire to drink water if they have access to water and adamantly refuse to take measures to attain it? But, there are objectively better and worse ways of fulfilling one's desires, requiring one to seek mastery of the non-normative facts in order to successfully bring about one's desires. To the extent that one has desires at all, one is committed to epistemic norms(Kornblith 137-161). Hence we're all committed to epistemic norms, but non-categorically so.
+
+Re quadrilemmas: I never said that the four categories of norms that I identified were mutually exclusive--merely that robust moral realism requires that moral facts consist of categorical norms over and above the other three kinds. This is a strawman. The same goes for PRO's discussion of regress--the question isn't "why ought I do what I ought to do?" but, rather, "what makes it such that I ought to do it all?" Furthermore, the distinction between hypothetical and categorical norms is exhaustive (i.e. desire-grounded vs. not) and institutional norms aren't reason-giving unless one takes oneself to be beholden to them. (Full-blooded norms, as seen earlier, are essentially a sort of institutional norms.)
+
+Re ignorance: this is also a strawman--I sketched the logical space of options to characterize a property of categorical normativity. First, it's insufficient to say there is a property in common across cases and it's also insufficient to say that the property in question is one that one could make a mistake with respect to--such would be mere institutional / full-blooded norms. Second, in order for the property to be genuinely reason-giving, it would have to be connected with action in some way--it is vacuous to say that one has a reason to A if in no possible situation one intuits and is moved to A. And, when satisfying this constraint and posing the X/Y argument, I didn't merely claim that we couldn't, at present, determine a property to individuate categorical norms, but that it was in principle impossible for them to be so distinguished.
+
+Re intuition: moral realism isn't intuitive in the sense that it's a clear conceptual truth like "I have experiences" or "Bachelors are unmarried"--there's no contradiction in denying moral realism. Since it's not a conceptual truth, moral realism may at best be a pretheoretical intuition that can be, and I argue, has been defeated--it's insufficient to support a controversial metaphysical/semantic thesis purely on the basis of a mere intuition. PRO says antirealists are a minority amongst ethicists, but there's no such thing as an appeal to authority in philosophy and if moral realism were as obviously true as PRO paints it, not even 20+% of philosophers in the relevant field would be anti-realists. Also, the survey cited includes ALL types of moral realism (such as Kantian constructivism) not just robust moral realism. Finally, robust moral realism may not even be pretheoretically intuitive--in a study of folk moral intuitions, Sarkissian et al. found that "[participants] offered increasingly relativist intuitions as they were confronted with questions about individuals from increasingly different cultures or ways of life" and they hypothesized that "people do not have a fixed commitment to moral objectivism but instead tend to adopt different views depending on the degree to which they consider radically different perspectives on moral questions"(Sarkissian et al. 482).
+
+Re real dilemmas: my argument was aimed at the incoherence and, thus, inconceivability of moral facts. PRO cites Chalmers for saying that conceivability entails possibility, but this is false. Chalmers places specific conditions on conceivability and ultimately endorses "(1) Ideal primary positive conceivability entails primary possibility" (2) Ideal primary negative conceivability entails primary possibility"(Chalmers 171). PRO hasn't defended Chalmers' theses nor shown that moral facts are conceivable in the sense of (1) or (2). At best, PRO has hinted at prima facie negative conceivability, which doesn't entail metaphysical possibility. Consider: it is prima facie negatively conceivable that Fermat's Last Theorem is false, but it's not metaphysically possible. In fact, it's even prima facie conceivable that robust moral realism is false, which using PRO's argument and S5, should mean that moral realism is false. Finally, Chalmers explicitly disagrees with PRO--Chalmers discusses robust moral realist theses comprising a class of inscrutable truths, creating a gap from the conceivability to possibility that PRO appealed to. Chalmers then endorses moral anti-realism as a consequence!(Chalmers 182)
+
+Contra PRO, it's robust moral realism that's epistemically self-defeating, not antirealism. Realists come to various moral beliefs in virtue of "rational" intuition. However, the metaphysics of realism precludes intuition from tracking moral truth. Moral facts aren't conceptually necessary--there's no contradiction in denying them. They aren't pragmatically justified--the usefulness of believing that X is categorical doesn't conduce to X's being categorical. Even supposing categorical moral norms were coherent, there's no empirical methodology to establish whether the X-norm, the Y-norm, or whatever norm is the genuine categorical norm. But, those are the only means of tracking truth--consequently, robust moral realism entails radical normative skepticism, where one's moral intuitions are in all likelihood vastly at variance from the real categorical norms. Moral realism is self-defeating since it's posited to account for the seeming bindingness of certain normative practices but it undermines the very practices it sought to explain in the first place.
+
+
+** zmikecuber Pro
+
+Thanks to my opponent for his reply. I'll jump right in.
+
+Epistemic normativity and self-defeat
+As you will notice, my opponent is once again giving us certain premises, and drawing conclusions from them. As I have shown above, this assumes that if A and B are true, then C must be true as well. And if we accept A and B, then we ought to accept C as true as well, since it is true. My opponent also seems to confuse cogency with validity and soundness. I'm not entirely sure what he means here unfortunately. Cogency is in reference to inductive arguments, while validity and soundness are in reference to deductive arguments. My opponent also tries to show that if there are epistemic norms and moral norms, then these could be in conflict with one another. But it's really not clear how this affects the argument at all. In fact, this could be said of any moral norms which conflict with one another. But it simply is a non-sequitur to say that because of this moral norms cannot exist. (1)
+
+Now my opponent claims "We must distinguish whether or not some fact is true from whether or not we have a categorical epistemic reason to believe it." In other words, just because something is shown to be true, you don't have to believe it to be true.
+
+But, as I have argued, we have good reason to believe this is self-defeating. We have two options: The truth is demonstrated to you, and you are obliged to accept it. Or... The truth is demonstrated to you, and you aren't obliged to accept it. Which option is more preferrable from an epistemic sense? Why the first of course. If there is no obligation to seek truth, then the whole of epistemology is relativized according to our own wants and desires.
+
+"Quad-rilemma" ...a four sided square-dance.
+My opponent claims that I am straw-manning him when I say the quad-rilamma is not mutually exclusive. But, of course, I never did such a thing. I merely pointed out that these options are not mutually exclusive, and that they overlap a good deal, and thus are not particularly helpful. Furthermore, if they are not mutually exclusive, as my opponent admits, then using them to disprove categorical norms would be fallacious reasoning! If I were to say "Well, murder fits into this category over here, so it can't fit into the categorical norm category" this would be blatantly invalid. This is called affirming a disjunct. (2)
+
+My opponent also kindly clarifies "the question isn't "why ought I do what I ought to do?" but, rather, "what makes it such that I ought to do it all?"" I thank my opponent for this clarification, but ask that he be more clear in the future.
+
+Arguing from ignorance
+My opponent also states that I've straw-manned him in this area. I don't think that's the case though.
+
+He states "First, it's insufficient to say there is a property in common across cases and it's also insufficient to say that the property in question is one that one could make a mistake with respect to--such would be mere institutional / full-blooded norms."
+
+However, it may very well be possible for there to be a shared property! My opponent has argued from ignorance in this regard, trying to show that it's confusing as to what this common property could possibly be, thus there must be none. This is arguing from ignorance. (3)
+
+"Second, in order for the property to be genuinely reason-giving, it would have to be connected with action in some way--it is vacuous to say that one has a reason to A if in no possible situation one intuits and is moved to A. And, when satisfying this constraint and posing the X/Y argument, I didn't merely claim that we couldn't, at present, determine a property to individuate categorical norms, but that it was in principle impossible for them to be so distinguished." -Con
+
+Unfortunately, Con's X/Y argument wasn't very clear at all. Nonetheless, a possible solution to my opponent's X/Y argument is to draw a distinction between culpability and moral facts. It may very well be the case that some people act contrary to a moral fact without their knowing it, however, this doesn't mean they are culpable or "guilty of" acting against it. In fact, if we just claimed it was a moral fact to "act in accord with your conscience" then this would solve the problem entirely!
+
+Self-evident truths
+My opponent claims that moral realism isn't intuitive and self-evident, since there are no contradictions in denying them. He hasn't defended this position. Rather, he has simply asserted that there seems to be no contradictions. A better analogy would be to compare our memory with our moral intuitions. Why do we trust our memory? Well it just seems obviously to be reliable... Likewise, we can draw a comparison to moral intuitions. But of course our memory and senses are reliable. Thus, our moral intuitions ought to be considered reliable as well.
+
+Experts ethicists
+My opponent insists that moral anti-realists aren't a minority. This really comes down to what you mean by "minority," but as I've shown, moral anti-realists are definitely a smaller group than moral realists. If my opponent's arguments are so obvious and clear cut, and completely defeat moral realism, wouldn't the experts in this area be largely moral anti-realists?
+
+A true dilemma.
+Recall, I have presented a dilemma, which states:
+
+Either: There are no moral facts at all. Or: There are some moral facts.
+
+This is essentially what the debate is about. Recall, the burden of proof is shared. I have argued that the second horn is more likely true than false, and my opponent has argued the first horn is more likely true than false. That being said, I don't think my opponent has offered good arguments for his position, while I think we do have good reasons to accept the second horn.
+
+My opponent has argued that moral realism is absolutely impossible. I beg to differ. If it were absolutely impossible, then we would not be able to form any clear conception of moral realism. However, it seems very possible for there to be moral realism. In fact, it seems so possible that the majority of ethicists are moral realists. So until we accept that moral realism is utterly impossible, it seems reasonable to accept the possibility of moral realism. And if there is the possibility of moral realism, then it is the best explanation for the morality in our world.
+
+Pursue good and avoid evil
+We can sum up a very simple moral code as Thomas Aquinas did, stating "good is to be done and pursued, and evil is to be avoided." (4) This is also evident from the idea that everyone acts in a way which they view as "good." Now this just seems so obvious it is a tauntology. However, my opponent denies this simple prescription.
+
+So what would be "good"? Well, according to Aquinas, "the good" is what fulfills our human nature. Thus, since it is just in our human nature to pursue truth and avoid error, it follows that such things are good for us, regardless of whether or not we think they are. Clearly, this seems very obvious: Do what is good, and avoid what is evil; what is good is what fulfills human nature, and what is evil is detrimental to it.
+
+Conclusion
+In conclusion, we've seen many good reasons to believe in moral realism.
+
+1. It is intuitively and obviously true.
+2. It seems more likely possible than impossible, and thus would best explain morality.
+3. Most ethicists are moral realists.
+4. It can be paralleled to our senses and memory. Since we accept them, we should accept our moral judgment as well.
+5. It better explains epistemic normativity, and thus aids rational discourse.
+6. "Pursue good and avoid evil" is self-evident, and every agent acts for what they perceive to be good.
+
+On the other hand, I believe I have mounted sufficient objections to my opponent's arguments.
+
+Remember, the burden of proof is shared. I have offered reasons to believe "There are some moral facts" is probably true. My opponent must show "There are no moral facts at all." This is a tremendous burden indeed, which flies in the face of intuition, experience, deeply held beliefs and even most ethicists.
+
+I'd like to thank Contradiction, who has inspired me, particularly in the area of epistemic normativity and its relation to ethics.
+
+Also thanks to my opponent for the chance to debate him on this subject! I don't usually do debates about morality, but I've really enjoyed this one. :)
+
+Please vote fairly!
+
+
+* Debate Round No. 4
+** Pulchritudinous Con
+
+Re ignorance / affirming the disjunct: The argument is aimed to show that categorical moral norms are incoherent; to do this, I made the exhaustive distinction between hypothetical (desire-grounded) norms and categorical (desire-independent) norms. The robust moral realist is committed to the existence of a categorical reason-giving property in common to certain states of affairs. The argument then tries to lay out all of the possible options that property could consist in, as given by three dilemmas.
+
+1st, either there is a property in common that unites all cases we understand to be morally good or there is not. If the latter, there is no categorical reason-giving property, contradicting robust realism. Even taking the first horn, as the "blue-prime" example shows, mere existence of a common property fails to secure categorical reasons. This stage of the argument is only taken to show that there merely being a common property fails to SUFFICE for categorical normativity and generates the next dilemma, so it isn't an argument from ignorance.
+
+2nd, either this common property is one which one can make a mistake with respect to or not. However, one can make a mistake with respect to any property whatsoever (see full-blooded/institutional norms) and, also, if it wasn't a property one could make a mistake with respect to, it wouldn't be normative. However, taking the first horn fails once more to specify a reason as that merely picks out the property's being full-blooded/institutional. Such norms aren't reason-giving except to the extent that one takes themselves to be beholden to them. I'm not saying that since it's an institutional/full-blooded norm that therefore it can't be categorical, but that merely picking out the property's being a full-blooded/institutional norm fails to SUFFICE for categorical normativity. More than the fact that one can make a mistake with respect to a property is needed to get categorical reasons. Consequently, this stage of the argument isn't an argument from ignorance or from affirming the disjunct.
+
+3rd, either the property is linked to action or it is not. Consider the latter: it's vacuous to say that one has a reason to X when there's no possible scenario in which one intuits and is prompted to X. One reply that it's a property one can make a mistake with respect to, but that collapses into the second dilemma. Suppose instead we take the first horn such that the property is linked to action; consider a property X such that if one has the "right" cognitive and "right" motivational structure, one is able to intuit X and when doing so be prompted to act in accord with X. However, for any such property X, there exists a property Y diametrically opposed to X such that mutatis mutandis if one has the "right" cognitive and "right" motivational structure, one is able to intuit Y and when doing so be prompted to act in accord with Y. Also note that the reason-giving force of the X-norm stems from the fact that upon intuiting X, the X-agent is prompted to act in virtue of its motivational structure, which is a species of hypothetical norm. Robust realism requires that there's a fact of the matter as to which property is the "right" one, but none exists. What accounts for X rather Y being "truly" reason-giving? It can't be in virtue of the content, that X is not Y, as that merely indicates that X is reason-giving to X-agents and Y is reason-giving to Y-agents. That's merely a species of hypothetical, rather than categorical, norm. Alternatively, suppose one tries to distinguish X and Y in virtue of some further property Z. But then what sort of property is Z? One would go through all the dilemmas again with respect to specifying Z and the same X/Y objection can be extended to a Z/Z* objection for a diametrically opposed Z*. No matter how one tries to specify in virtue of what the property is "truly" reason-giving, the same problems reassert themselves, creating an intolerable infinite regress. Robust realism requires that there's a fact of the matter distinguishing the "truly" reason-giving property from the diametrically opposed one, but no such distinction exists in principle. Therefore, robust realism is incoherent.
+
+PRO tries to defuse the argument by talking about culpability, but that's irrelevant since the argument concerns itself with categorical reasons to X, even if one's never aware of them. PRO claims that to "act in accord with your conscience" could be a moral fact, but to act in accord with your conscience is to act according to what you think you should do, an attitude-dependent fact. But, "moral facts" here concern putatively categorical norms that hold attitude-independently. PRO is saying that "One should act in accord with one's desires regardless of one's desires," a contradiction in terms.
+
+Re epistemic norms: Inexplicably, PRO ignored: 1) my comments on Olson's discussion of epistemic norms as immanent norms as well as the confusion of thinking of them as categorical; 2) my discussion of Street's account of taking beliefs to be constitutively committed to epistemic norms; and 3) Kornblith's account of grounding epistemic norms in universalized hypothetical norms. These accounts show that it's perfectly compatible with antirealism to have reasons to accept arguments, just not categorical reasons, and PRO didn't reply to my comments on this. PRO says that denying categoricity is self-defeating because it's "preferable from an epistemic sense" that we're categorically obliged to accept the truth; but PRO conditionalizes what one ought to do to the context of a given aim, i.e. the aim of conducing to truth. Given that conditionalization, it's a hypothetical, and not a categorical, reason to begin with! Of course insofar as conducing to truth is concerned, one's obliged to accept sound arguments, but nothing I said challenged such a claim (which is a species of immanent norm) and neither does such a claim support PRO's contentions.
+
+PRO challenges my argument against categorical epistemic norms, but confuses pro tanto reasons with categorical reasons. No one denies that one can have conflicting pro tanto reasons; for instance, that setting things on fire is fun is a pro tanto reason to set cats on fire. But that's not identical to a categorical reason, since moral realists typically suppose one categorically ought not set cats on fire for fun. What one ought to do period, that is, what's categorically normative, is precisely what constitutes the set of moral reasons. But, clearly there can be no conflict in the categorical domain; it can't be that ought to, FULL STOP, do X and at the same time one ought to, FULL STOP, not do X. This would make categorical norms inherently contradictory. Thus, my example shows that epistemic norms aren't categorical as "what conduces to truth" doesn't necessarily coincide with what one ought to do, whereas what one morally ought to do, does.
+
+Re self-evidence: I stated that moral realism isn't self-evident in the sense that denying it leads to contradictions or absurdities e.g. "I exist" or "Bachelors are unmarried" and PRO hasn't defended moral realism to be this sort of belief. PRO also ignored my discussion of Sarkissian et al. Moral realism isn't like the belief that one has reliable cognitive faculties; those can't be denied as any attempt to deny them presupposes them. In denying that one has memory, one would have to remember the premises of the argument to the denial of one's memory! But, PRO hasn't shown any such result with moral realism. PRO also ignored my epistemic argument against moral realism in which it's self-defeating.
+
+Re ethicists: I never said that antirealists aren't the minority; I questioned its implications. PRO ignored that there's no appeal to authority in philosophy and that the survey included more than just robust realism in the realism category, the former being the topic at hand. PRO thinks I said moral antirealism is prima facie self-evident, but I never claimed this. I was addressing PRO's citation of the survey as evidence of the self-evident nature of moral realism; if it's self-evident, it wouldn't be the case that 20+% of ethicists would be antirealists. Given the self-evidence of 2 + 2 = 4, one wouldn't expect 20+% of mathematicians to deny that 2 + 2 = 4. Since 20+% of ethicists are antirealists, PRO has given evidence that moral realism isn't self-evident, not the other way around.
+
+Re true dilemma: PRO ignored my discussion of Chalmers and the strictures he places on conceivability and that he specifically denies conceivability-to-possibility in the moral case, leading to his moral antirealism. PRO is mistaken that if something is prima facie conceivable that it's metaphysically possible. We can form a prima facie conception that 164637 is prime, but that doesn't track metaphysical possibility. PRO also ignores that on such an unrestricted notion of conceivability, the conceivability of moral antirealism will conduce to its truth by the same reasoning.
+
+Re pursuit of the good: PRO states one ought to pursue the good and ought to avoid evil. But, "good" is synonymous with "what one ought to do" and "evil" with "what one ought not do." So, one ought to do what ought to be done and ought to avoid what ought to be avoided. How is a redundant restatement of moral realism providing some positive moral code? PRO then seeks to identify the good with "what fulfills human nature," but has provided no explanation of what is meant by "human nature." If "human nature" is construed non-normatively as how humans are disposed to act, then the claim is trivial: "you should do what you do" and it is a naturalistic fallacy. If on the other hand, "human nature" is normatively construed in a particular sense in which humans should act, the claim is still trivial as it becomes "you should do what you should do" and any attempt to add content to what one ought to do will run into the X/Y argument.
+
+** zmikecuber Pro
+
+As requested by my opponent, I won't be posting arguments here. I'd encourage voters to look over the arguments my opponent has presented, as well as the arguments I have presented. I believe my opponent has misunderstood some of my arguments, and I've probably done the same. Please vote accordingly.
+
+Thanks to Pulchritudinous for the chance to debate him on this subject! I wish him luck with his future debates!
+
+With that, let the voting begin!

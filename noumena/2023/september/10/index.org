@@ -3,7 +3,7 @@
 
 * Zoo
 
-[[file:sitting-on-car.jpg]]
+[[file:sitting-on-car.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -23,15 +23,15 @@
 </div>
 #+end_export
 
-[[file:sitting-on-elephant-trunk.jpg]]
+[[file:sitting-on-elephant-trunk.webp]]
 
-[[file:watching-birds.jpg]]
+[[file:watching-birds.webp]]
 
-[[file:with-mommy-by-birds.jpg]]
+[[file:with-mommy-by-birds.webp]]
 
-[[file:with-mommy-on-elephants.jpg]]
+[[file:with-mommy-on-elephants.webp]]
 
-[[file:with-mommy-on-elephants-2.jpg]]
+[[file:with-mommy-on-elephants-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -45,19 +45,19 @@
 </div>
 #+end_export
 
-[[file:with-the-elephants.jpg]]
+[[file:with-the-elephants.webp]]
 
-[[file:looking-at-elephants.jpg]]
+[[file:looking-at-elephants.webp]]
 
-[[file:looking-at-elephants-2.jpg]]
+[[file:looking-at-elephants-2.webp]]
 
 * Home
 
-[[file:next-to-kisa.jpg]]
+[[file:next-to-kisa.webp]]
 
-[[file:chasing-kisa.jpg]]
+[[file:chasing-kisa.webp]]
 
-[[file:kisa-on-fence.jpg]]
+[[file:kisa-on-fence.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -73,15 +73,15 @@
 
 * Park
 
-[[file:daddy-and-noumena-with-kitten.jpg]]
+[[file:daddy-and-noumena-with-kitten.webp]]
 
-[[file:kitten-on-daddys-shoulder.jpg]]
+[[file:kitten-on-daddys-shoulder.webp]]
 
-[[file:kitten-on-daddys-shoulder-with-noumena.jpg]]
+[[file:kitten-on-daddys-shoulder-with-noumena.webp]]
 
-[[file:little-girl-walks-with-noumena.jpg]]
+[[file:little-girl-walks-with-noumena.webp]]
 
-[[file:little-girl-walks-with-noumena-2.jpg]]
+[[file:little-girl-walks-with-noumena-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -97,6 +97,6 @@
 
 * Bath Time
 
-[[file:crazy-hair-in-bathroom-mirror.jpg]]
+[[file:crazy-hair-in-bathroom-mirror.webp]]
 
-[[file:crazy-hair-in-bathroom-mirror-2.jpg]]
+[[file:crazy-hair-in-bathroom-mirror-2.webp]]

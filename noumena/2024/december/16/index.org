@@ -1,0 +1,38 @@
+#+TITLE: December 16, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/december/16/cuddling-kisa-3-preview.webp">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 16, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/december/16/cuddling-kisa-3-preview.webp" />
+
+[[./cuddling-kisa-3.webp]]
+
+* Daycare
+
+[[./daycare-slide.webp]]
+
+* Playing At Home
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/temWj98_InM" title="Rolling Around On The Kitchen Floor Cuddling Her Mouse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Trampoline Park
+
+* Returning Home
+
+[[./cuddling-kisa-2.webp]]
+
+
+[[./cuddling-kisa-4.webp]]
+
+[[./cuddling-kisa-5.webp]]
+
+[[./cuddling-kisa-6.webp]]
+
+[[./cuddling-kisa-7.webp]]
+
+[[./cuddling-kisa-8.webp]]

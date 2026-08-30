@@ -1,7 +1,7 @@
 #+TITLE: August  8, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sunglasses-closeup.jpg]]
+[[file:sunglasses-closeup.webp]]
 
 * Good Morning, Noumena!
 
@@ -52,7 +52,7 @@ We hung out at home for a long time. We don't leave for the park until about 7:3
 
 When we get to the park, Brian is playing there with his older brothers. His older brothers are playing soccer and eventually they start kicking it over to Noumena. For about 5 minutes, Noumena tosses the ball back and forth with the boy and it's so cute. First, she starts of trying to carry it. She never gets around to trying to kick it, but she does realize that we're rolling it, so she rolls it with her hands.
 
-[[file:Holding-Daddys-Hand.jpg]]
+[[file:Holding-Daddys-Hand.webp]]
 
 
 #+begin_export html
@@ -62,7 +62,7 @@ When we get to the park, Brian is playing there with his older brothers. His old
 #+end_export
 
 
-[[file:shoe-stealing-fairy-closeup.jpg]]
+[[file:shoe-stealing-fairy-closeup.webp]]
 
 There's a philosophy reference that got popularized with some of the people I talk to occasionally about evidence. The idea is that evidence is a weak notion in the sense that it's sort of easy to come up with hypotheses to explain some datum. One illustration we use for this is called the "shoe stealing fairy" hypothesis. If you wake up and find your she's disappeared, that's expected on the hypothesis that there exist shoe stealing fairies. Anyway, I think I found one!
 
@@ -93,11 +93,11 @@ When we get home, there's time to spare, so we chill in the living room and I no
 #+end_export
 
 * Bath Time
-[[file:baby-butt.jpg]]
+[[file:baby-butt.webp]]
 
 I usually start the faucet in the bath tub before getting her undressed, but I had a brain fart today and got her naked before taking her to the bath. Today, I wet her hair a new way. The toys she has (the ones that she uses as cups to drink the bathwater... maybe how she got sick. yuck!) are like little cups with holes in the bottom. I scoop water into the cups and as she plays with the faucet filling the tub, I hold the cup over her head as the water leaks out the bottom. I'm surprised she's not that bothered at all. I try to do the same technique when rinsing her hair, but this turns out to be a bad idea. I think maybe she got a little soap in her eye because she started crying. It didn't last but a few seconds, though, and I resolved not to do that again even though it is a really efficient way of rinsing out her hair. Maybe I'll try the baptism method next 😂. I prompt her to put the foam letters on the wall so I can wash her body down and when she does, I can't help but snap a picture of her cute little baby butt.
 
-[[file:selfie.jpg]]
+[[file:selfie.webp]]
 
 I don't know what got into her, but when I go to change her into her pajamas, she's making this straining face she makes from time to time. It's so cute and I have no idea why she does it, but she's done it ever since she was sitting up straight so probably since she was about 4 months old. Anyway, she's going ham on that face tonight, so I have to get a video.
 
@@ -117,9 +117,9 @@ I pull Noumena off of the changing table and she immediately points to the owls-
 
 When I go to brush he teeth, she's trying to get out of my arms and pointing at stuff on the counter. She had a pair of sunglasses there, so I assumed that she wanted them, so I picked them up and put them on her face. This was a whole lot of fun.
 
-[[file:sunglasses-closeup-from-below.jpg]]
+[[file:sunglasses-closeup-from-below.webp]]
 
-[[file:sunglasses-mirror-good.jpg]]
+[[file:sunglasses-mirror-good.webp]]
 
 #+begin_export html
 <div class="video-container">

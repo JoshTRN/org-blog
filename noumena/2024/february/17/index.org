@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/17/sitting-with-chalmers-on-couch-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/17/photo/sitting-with-chalmers-on-couch-3-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 17, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/17/sitting-with-chalmers-on-couch-3-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/17/photo/sitting-with-chalmers-on-couch-3-preview.jpg" />
 
-[[file:sitting-with-chalmers-on-couch-3.jpg]]
+[[file:sitting-with-chalmers-on-couch-3.webp]]
 
 * Good Morning, Noumena
 
@@ -23,9 +23,9 @@
 </div>
 #+end_export
 
-[[file:laying-in-bed.jpg]]
+[[file:laying-in-bed.webp]]
 
-[[file:sitting-in-bed-2.jpg]]
+[[file:sitting-in-bed-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -33,7 +33,7 @@
 </div>
 #+end_export
 
-[[file:lying-with-daddy-in-bed.jpg]]
+[[file:lying-with-daddy-in-bed.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -46,6 +46,10 @@
 <iframe width="904" height="678" src="https://www.youtube.com/embed/kSpNsxXnNSY" title="More Laying In Bed Wtih Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
+
+
+#+ATTR_ORG: :width 50%
+[[./photo/laying-under-wrapping-paper.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -86,16 +90,16 @@
 </div>
 #+end_export
 
-[[file:looking-at-grass-in-library.jpg]]
+[[file:looking-at-grass-in-library.webp]]
 
-[[file:walking-under-grass-library.jpg]]
+[[file:walking-under-grass-library.webp]]
 
-[[file:mild-fit-at-library.jpg]]
+[[file:mild-fit-at-library.webp]]
 
-[[file:getting-up-from-fit-at-library.jpg]]
+[[file:getting-up-from-fit-at-library.webp]]
 
 * Nap Time
-[[file:sleeping-in-toddler-bed.jpg]]
+[[file:sleeping-in-toddler-bed.webp]]
 
 
 * Getting Up From Nap

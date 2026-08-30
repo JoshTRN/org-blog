@@ -1,7 +1,7 @@
 #+TITLE: December 15, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:noumena-with-all-her-bears-5.jpg]]
+[[file:noumena-with-all-her-bears-5.webp]]
 * Morning
 
 #+begin_export html
@@ -30,12 +30,12 @@
 #+begin_export html
 <div id="orgfaf00d5" class="figure">
 <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img style="padding: 5px" src="./noumena-with-all-her-bears-1.jpg" alt="toddling-3.jpg" width="50%">
-<img style="padding: 5px" src="./noumena-with-all-her-bears-2.jpg" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./noumena-with-all-her-bears-1.webp" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./noumena-with-all-her-bears-2.webp" alt="toddling-3.jpg" width="50%">
 </p>
 <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img style="padding: 5px" src="./noumena-with-all-her-bears-3.jpg" alt="toddling-3.jpg" width="50%">
-<img style="padding: 5px" src="./noumena-with-all-her-bears-4.jpg" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./noumena-with-all-her-bears-3.webp" alt="toddling-3.jpg" width="50%">
+<img style="padding: 5px" src="./noumena-with-all-her-bears-4.webp" alt="toddling-3.jpg" width="50%">
 </p>
 </div
 #+end_export

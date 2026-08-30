@@ -1,16 +1,16 @@
 #+TITLE: November 22, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:laying-on-daddy-2.jpg]]
+[[file:laying-on-daddy-2.webp]]
 
 * Photo
-[[file:laying-on-daddy.jpg]]
+[[file:laying-on-daddy.webp]]
 
-[[file:looking-cute.jpg]]
+[[file:looking-cute.webp]]
 
-[[file:looking-cute-2.jpg]]
+[[file:looking-cute-2.webp]]
 
-[[file:sitting-with-mommy-2.jpg]]
+[[file:sitting-with-mommy-2.webp]]
 
 * Video
 

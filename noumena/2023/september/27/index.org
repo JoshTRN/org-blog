@@ -29,8 +29,8 @@
 </div>
 #+end_export
 
-[[file:holding-daddys-hand.jpg]]
-[[file:holding-daddys-hand-2.jpg]]
+[[file:holding-daddys-hand.webp]]
+[[file:holding-daddys-hand-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -47,12 +47,12 @@
 </div>
 #+end_export
 
-[[file:loving-on-her-baby.jpg]]
+[[file:loving-on-her-baby.webp]]
 
-[[file:sitting-with-baby-on-couch.jpg]]
+[[file:sitting-with-baby-on-couch.webp]]
 
 * Bath Time
-[[file:wearing-towel-like-hood.jpg]]
-[[file:wearing-towel-on-head-2.jpg]]
+[[file:wearing-towel-like-hood.webp]]
+[[file:wearing-towel-on-head-2.webp]]
 
 * Bed Time

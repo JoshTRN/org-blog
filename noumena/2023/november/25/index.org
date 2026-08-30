@@ -2,11 +2,11 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:hugging-chalmers-with-blanky.jpg]]
+[[file:hugging-chalmers-with-blanky.webp]]
 
 * Morning
 
-[[file:snot-face.jpg]]
+[[file:snot-face.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -21,10 +21,10 @@
 </div>
 #+end_export
 
-[[file:hugging-chalmers.jpg]]
+[[file:hugging-chalmers.webp]]
 
 
-[[file:playing-with-container.jpg]]
+[[file:playing-with-container.webp]]
 
 * Evening
 
@@ -43,6 +43,6 @@
 
 * Emergency Room
 
-[[file:with-daddy-at-emergency-room.jpg]]
+[[file:with-daddy-at-emergency-room.webp]]
 
-[[file:with-mommy-at-emergency-room-2.jpg]]
+[[file:with-mommy-at-emergency-room-2.webp]]

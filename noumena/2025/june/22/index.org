@@ -1,0 +1,65 @@
+#+TITLE: June 22, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/22/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 22, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/22/" />
+
+* At Home
+
+[[./sitting-with-daddy-on-couch-1.webp]]
+
+[[./sitting-with-daddy-on-couch-2.webp]]
+
+[[./sitting-with-daddy-on-couch-3.webp]]
+
+[[./sitting-with-daddy-on-couch-4.webp]]
+
+[[./smile-for-cam-1.webp]]
+
+[[./smile-for-cam-2.webp]]
+
+[[./smile-for-cam-3.webp]]
+
+[[./smile-for-cam-4.webp]]
+
+* Kid's Empire
+
+[[./metal-face.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/7q1meeHmocU" title="Refusing To Go Down Slides Even Though She Already Had" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/-LhuL_pI8So" title="Playing Kids Empire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./holding-cricket-1.webp]]
+
+[[./holding-cricket-2.webp]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/kxsnl7hDKKA" title="Hugging Dragon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/Kh-PVFqUMVc" title="Dancing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="358" height="637" src="https://www.youtube.com/embed/9LG0EUtvfGI" title="Twirling With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

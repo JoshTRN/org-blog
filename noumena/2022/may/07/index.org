@@ -1,0 +1,44 @@
+#+TITLE: May  7, 2022
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/may/07/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="May  7, 2022 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2022/may/07/" />
+
+* Photo
+
+[[./laying-on-daddys-lap-1.webp]]
+
+[[./laying-on-daddys-lap-2.webp]]
+
+[[./laying-on-daddys-lap-3.webp]]
+
+[[./laying-on-daddys-lap-4.webp]]
+
+[[./laying-on-daddys-lap-5.webp]]
+
+[[./laying-on-daddys-lap-6.webp]]
+
+[[./laying-on-daddys-lap-7.webp]]
+
+[[./laying-on-daddys-lap-8.webp]]
+
+[[./laying-on-daddys-lap-9.webp]]
+
+[[./laying-on-daddys-lap-10.webp]]
+
+[[./laying-on-daddys-lap-11.webp]]
+
+[[./laying-on-daddys-lap-12.webp]]
+
+[[./laying-on-daddys-lap-13.webp]]
+
+[[./laying-on-daddys-lap-14.webp]]
+
+[[./laying-on-daddys-legs.webp]]
+
+[[./laying-with-daddy-and-mommy-1.webp]]
+
+[[./laying-with-daddy-and-mommy-2.webp]]

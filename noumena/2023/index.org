@@ -2,6 +2,55 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 * [[file:june][June]]
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <a>1</a>
+  <a>2</a>
+  <a>3</a>
+  <a>4</a>
+  <a>5</a>
+  <a>6</a>
+  <a>7</a>
+  <a>8</a>
+  <a>9</a>
+  <a>10</a>
+  <a>11</a>
+  <a>12</a>
+  <a>13</a>
+  <a>14</a>
+  <a href="/noumena/2023/june/15">15</a>
+  <a href="/noumena/2023/june/16">16</a>
+  <a href="/noumena/2023/june/17">17</a>
+  <a href="/noumena/2023/june/18">18</a>
+  <a href="/noumena/2023/june/19">19</a>
+  <a href="/noumena/2023/june/20">20</a>
+  <a href="/noumena/2023/june/21">21</a>
+  <a href="/noumena/2023/june/22">22</a>
+  <a href="/noumena/2023/june/23">23</a>
+  <a href="/noumena/2023/june/24">24</a>
+  <a href="/noumena/2023/june/25">25</a>
+  <a href="/noumena/2023/june/26">26</a>
+  <a href="/noumena/2023/june/27">27</a>
+  <a href="/noumena/2023/june/28">28</a>
+  <a href="/noumena/2023/june/29">29</a>
+  <a href="/noumena/2023/june/30">30</a>
+</div>
+#+end_export
+
 
   #+begin_export html
   <div class="calendar-container">
@@ -29,6 +78,58 @@
   #+end_export
 
 * [[file:july/][July]]
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <a href="/noumena/2023/july/01">1</a>
+  <a href="/noumena/2023/july/02">2</a>
+  <a href="/noumena/2023/july/03">3</a>
+  <a href="/noumena/2023/july/04">4</a>
+  <a href="/noumena/2023/july/05">5</a>
+  <a href="/noumena/2023/july/06">6</a>
+  <a href="/noumena/2023/july/07">7</a>
+  <a href="/noumena/2023/july/08">8</a>
+  <a href="/noumena/2023/july/09">9</a>
+  <a href="/noumena/2023/july/10">10</a>
+  <a href="/noumena/2023/july/11">11</a>
+  <a href="/noumena/2023/july/12">12</a>
+  <a href="/noumena/2023/july/13">13</a>
+  <a href="/noumena/2023/july/14">14</a>
+  <a href="/noumena/2023/july/15">15</a>
+  <a href="/noumena/2023/july/16">16</a>
+  <a href="/noumena/2023/july/17">17</a>
+  <a href="/noumena/2023/july/18">18</a>
+  <a href="/noumena/2023/july/19">19</a>
+  <a href="/noumena/2023/july/20">20</a>
+  <a href="/noumena/2023/july/21">21</a>
+  <a href="/noumena/2023/july/22">22</a>
+  <a href="/noumena/2023/july/23">23</a>
+  <a href="/noumena/2023/july/24">24</a>
+  <a href="/noumena/2023/july/25">25</a>
+  <a href="/noumena/2023/july/26">26</a>
+  <a href="/noumena/2023/july/27">27</a>
+  <a href="/noumena/2023/july/28">28</a>
+  <a href="/noumena/2023/july/29">29</a>
+  <a href="/noumena/2023/july/30">30</a>
+  <a href="/noumena/2023/july/31">31</a>
+</div>
+#+end_export
+
 
   #+begin_export html
   <div class="calendar-container">
@@ -61,6 +162,54 @@
   #+end_export
 
 * [[file:august/][August]]
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <span></span>
+  <span></span>
+  <a href="/noumena/2023/august/01">1</a>
+  <a href="/noumena/2023/august/02">2</a>
+  <a href="/noumena/2023/august/03">3</a>
+  <a href="/noumena/2023/august/04">4</a>
+  <a href="/noumena/2023/august/05">5</a>
+  <a href="/noumena/2023/august/06">6</a>
+  <a href="/noumena/2023/august/07">7</a>
+  <a href="/noumena/2023/august/08">8</a>
+  <a href="/noumena/2023/august/09">9</a>
+  <a href="/noumena/2023/august/10">10</a>
+  <a href="/noumena/2023/august/11">11</a>
+  <a href="/noumena/2023/august/12">12</a>
+  <a href="/noumena/2023/august/13">13</a>
+  <a href="/noumena/2023/august/14">14</a>
+  <a href="/noumena/2023/august/15">15</a>
+  <a href="/noumena/2023/august/16">16</a>
+  <a href="/noumena/2023/august/17">17</a>
+  <a href="/noumena/2023/august/18">18</a>
+  <a href="/noumena/2023/august/19">19</a>
+  <a href="/noumena/2023/august/20">20</a>
+  <a href="/noumena/2023/august/21">21</a>
+  <a href="/noumena/2023/august/22">22</a>
+  <a href="/noumena/2023/august/23">23</a>
+  <a href="/noumena/2023/august/24">24</a>
+  <a href="/noumena/2023/august/25">25</a>
+  <a href="/noumena/2023/august/26">26</a>
+  <a href="/noumena/2023/august/27">27</a>
+  <a href="/noumena/2023/august/28">28</a>
+  <a href="/noumena/2023/august/29">29</a>
+  <a href="/noumena/2023/august/30">30</a>
+  <a href="/noumena/2023/august/31">31</a>
+</div>
+#+end_export
+
 
   #+begin_export html
  <div class="weekdays">
@@ -104,11 +253,36 @@
   <span></span>
   <span></span>
   <a href="/noumena/2023/september/01">1</a>
-  <a href="/noumena/2023/september/02">2</a>   <a href="/noumena/2023/september/03">3</a>   <a href="/noumena/2023/september/04">4</a>   <a href="/noumena/2023/september/05">5</a>   <a href="/noumena/2023/september/06">6</a>   <a href="/noumena/2023/september/07">7</a>   <a href="/noumena/2023/september/08">8</a>
-  <a href="/noumena/2023/september/09">9</a>   <a href="/noumena/2023/september/10">10</a>   <a href="/noumena/2023/september/11">11</a>   <a href="/noumena/2023/september/12">12</a>   <a href="/noumena/2023/september/13">13</a>   <a href="/noumena/2023/september/14">14</a>   <a href="/noumena/2023/september/15">15</a>
-  <a>16</a>   <a href="/noumena/2023/september/17/">17</a>   <a href="/noumena/2023/september/18/">18</a>   <a href="/noumena/2023/september/19/">19</a>   <a href="/noumena/2023/september/20/">20</a>   <a href="/noumena/2023/september/21/">21</a>   <a href="/noumena/2023/september/22/">22</a>
-  <a href="/noumena/2023/september/23/">23</a>   <a href="/noumena/2023/september/24/">24</a>   <a href="/noumena/2023/september/25/">25</a>   <a href="/noumena/2023/september/26/">26</a>   <a href="/noumena/2023/september/27/">27</a>   <a href="/noumena/2023/september/28/">28</a>   <a href="/noumena/2023/september/29/">29</a>
-  <a href="/noumena/2023/september/30/">30</a> </div>
+  <a href="/noumena/2023/september/02">2</a>
+  <a href="/noumena/2023/september/03">3</a>
+  <a href="/noumena/2023/september/04">4</a>
+  <a href="/noumena/2023/september/05">5</a>
+  <a href="/noumena/2023/september/06">6</a>
+  <a href="/noumena/2023/september/07">7</a>
+  <a href="/noumena/2023/september/08">8</a>
+  <a href="/noumena/2023/september/09">9</a>
+  <a href="/noumena/2023/september/10">10</a>
+  <a href="/noumena/2023/september/11">11</a>
+  <a href="/noumena/2023/september/12">12</a>
+  <a href="/noumena/2023/september/13">13</a>
+  <a href="/noumena/2023/september/14">14</a>
+  <a href="/noumena/2023/september/15">15</a>
+  <a>16</a>
+  <a href="/noumena/2023/september/17">17</a>
+  <a href="/noumena/2023/september/18">18</a>
+  <a href="/noumena/2023/september/19">19</a>
+  <a href="/noumena/2023/september/20">20</a>
+  <a href="/noumena/2023/september/21">21</a>
+  <a href="/noumena/2023/september/22">22</a>
+  <a href="/noumena/2023/september/23">23</a>
+  <a href="/noumena/2023/september/24">24</a>
+  <a href="/noumena/2023/september/25">25</a>
+  <a href="/noumena/2023/september/26">26</a>
+  <a href="/noumena/2023/september/27">27</a>
+  <a href="/noumena/2023/september/28">28</a>
+  <a href="/noumena/2023/september/29">29</a>
+  <a href="/noumena/2023/september/30">30</a>
+</div>
 #+end_export
 
 * [[file:october/][October]]
@@ -125,11 +299,37 @@
 </div>
 <br>
 <div class="calendar">
-  <a href="/noumena/2023/october/01">1</a>   <a href="/noumena/2023/october/02/">2</a>   <a href="/noumena/2023/october/03/">3</a>   <a>4</a>   <a href="/noumena/2023/october/05/">5</a>   <a>6</a>
-  <a href="/noumena/2023/october/07/">7</a>   <a>8</a>   <a>9</a>   <a href="/noumena/2023/october/10/">10</a>   <a href="/noumena/2023/october/11/">11</a>   <a href="/noumena/2023/october/12/">12</a>   <a href="/noumena/2023/october/13/">13</a>
-  <a href="/noumena/2023/october/14/">14</a>   <a href="/noumena/2023/october/15/">15</a>   <a href="/noumena/2023/october/16/">16</a>   <a href="/noumena/2023/october/17/">17</a>   <a href="/noumena/2023/october/18/">18</a>   <a href="/noumena/2023/october/19/">19</a>   <a href="/noumena/2023/october/20/">20</a>
-  <a href="/noumena/2023/october/21/">21</a>   <a href="/noumena/2023/october/22/">22</a>   <a href="/noumena/2023/october/23/">23</a>   <a href="/noumena/2023/october/24/">24</a>   <a href="/noumena/2023/october/25/">25</a>   <a href="/noumena/2023/october/26/">26</a>   <a href="/noumena/2023/october/27/">27</a>
-  <a href="/noumena/2023/october/28/">28</a>   <a href="/noumena/2023/october/29/">29</a>   <a href="/noumena/2023/october/30/">30</a>   <a href="/noumena/2023/october/31/">31</a>
+  <a href="/noumena/2023/october/01">1</a>
+  <a href="/noumena/2023/october/02">2</a>
+  <a href="/noumena/2023/october/03">3</a>
+  <a href="/noumena/2023/october/04">4</a>
+  <a href="/noumena/2023/october/05">5</a>
+  <a>6</a>
+  <a href="/noumena/2023/october/07">7</a>
+  <a>8</a>
+  <a href="/noumena/2023/october/09">9</a>
+  <a href="/noumena/2023/october/10">10</a>
+  <a href="/noumena/2023/october/11">11</a>
+  <a href="/noumena/2023/october/12">12</a>
+  <a href="/noumena/2023/october/13">13</a>
+  <a href="/noumena/2023/october/14">14</a>
+  <a href="/noumena/2023/october/15">15</a>
+  <a href="/noumena/2023/october/16">16</a>
+  <a href="/noumena/2023/october/17">17</a>
+  <a href="/noumena/2023/october/18">18</a>
+  <a href="/noumena/2023/october/19">19</a>
+  <a href="/noumena/2023/october/20">20</a>
+  <a href="/noumena/2023/october/21">21</a>
+  <a href="/noumena/2023/october/22">22</a>
+  <a href="/noumena/2023/october/23">23</a>
+  <a href="/noumena/2023/october/24">24</a>
+  <a href="/noumena/2023/october/25">25</a>
+  <a href="/noumena/2023/october/26">26</a>
+  <a href="/noumena/2023/october/27">27</a>
+  <a href="/noumena/2023/october/28">28</a>
+  <a href="/noumena/2023/october/29">29</a>
+  <a href="/noumena/2023/october/30">30</a>
+  <a href="/noumena/2023/october/31">31</a>
 </div>
 #+end_export
 
@@ -150,11 +350,37 @@
   <span></span>
   <span></span>
   <span></span>
-  <a href="/noumena/2023/november/01">1</a>   <a href="/noumena/2023/november/02">2</a>   <a href="/noumena/2023/november/03">3</a>
-  <a href="/noumena/2023/november/04">4</a>   <a href="/noumena/2023/november/05">5</a>   <a href="/noumena/2023/november/06">6</a>   <a href="/noumena/2023/november/07">7</a>   <a href="/noumena/2023/november/08">8</a>   <a href="/noumena/2023/november/09">9</a>   <a href="/noumena/2023/november/10">10</a>
-  <a href="/noumena/2023/november/11">11</a>   <a href="/noumena/2023/november/12">12</a>   <a href="/noumena/2023/november/13">13</a>   <a href="/noumena/2023/november/14">14</a>   <a>15</a>   <a href="/noumena/2023/november/16">16</a>   <a href="/noumena/2023/november/17">17</a>
-  <a href="/noumena/2023/november/18">18</a>   <a href="/noumena/2023/november/19">19</a>   <a href="/noumena/2023/november/20">20</a>   <a href="/noumena/2023/november/21">21</a>   <a href="/noumena/2023/november/22">22</a>   <a href="/noumena/2023/november/23">23</a>   <a href="/noumena/2023/november/24">24</a>
-  <a href="/noumena/2023/november/25">25</a>   <a href="/noumena/2023/november/26">26</a>   <a href="/noumena/2023/november/27">27</a>   <a href="/noumena/2023/november/28">28</a>   <a href="/noumena/2023/november/29">29</a>   <a href="/noumena/2023/november/30">30</a> </div>
+  <a href="/noumena/2023/november/01">1</a>
+  <a href="/noumena/2023/november/02">2</a>
+  <a href="/noumena/2023/november/03">3</a>
+  <a href="/noumena/2023/november/04">4</a>
+  <a href="/noumena/2023/november/05">5</a>
+  <a href="/noumena/2023/november/06">6</a>
+  <a href="/noumena/2023/november/07">7</a>
+  <a href="/noumena/2023/november/08">8</a>
+  <a href="/noumena/2023/november/09">9</a>
+  <a href="/noumena/2023/november/10">10</a>
+  <a href="/noumena/2023/november/11">11</a>
+  <a href="/noumena/2023/november/12">12</a>
+  <a href="/noumena/2023/november/13">13</a>
+  <a href="/noumena/2023/november/14">14</a>
+  <a>15</a>
+  <a href="/noumena/2023/november/16">16</a>
+  <a href="/noumena/2023/november/17">17</a>
+  <a href="/noumena/2023/november/18">18</a>
+  <a href="/noumena/2023/november/19">19</a>
+  <a href="/noumena/2023/november/20">20</a>
+  <a href="/noumena/2023/november/21">21</a>
+  <a href="/noumena/2023/november/22">22</a>
+  <a href="/noumena/2023/november/23">23</a>
+  <a href="/noumena/2023/november/24">24</a>
+  <a href="/noumena/2023/november/25">25</a>
+  <a href="/noumena/2023/november/26">26</a>
+  <a href="/noumena/2023/november/27">27</a>
+  <a href="/noumena/2023/november/28">28</a>
+  <a href="/noumena/2023/november/29">29</a>
+  <a href="/noumena/2023/november/30">30</a>
+</div>
 #+end_export
 
 * December
@@ -177,9 +403,35 @@
   <span></span>
   <span></span>
   <a href="/noumena/2023/december/01">1</a>
-  <a href="/noumena/2023/december/02">2</a>   <a href="/noumena/2023/december/03">3</a>   <a href="/noumena/2023/december/04">4</a>   <a>5</a>   <a href="/noumena/2023/december/06">6</a>   <a href="/noumena/2023/december/07">7</a>   <a href="/noumena/2023/december/08">8</a>
-  <a href="/noumena/2023/december/09">9</a>   <a>10</a>   <a>11</a>   <a>12</a>   <a href="/noumena/2023/december/13">13</a>   <a>14</a>   <a href="/noumena/2023/december/15">15</a>
-  <a href="/noumena/2023/december/16">16</a>   <a href="/noumena/2023/december/17">17</a>   <a href="/noumena/2023/december/18">18</a>   <a href="/noumena/2023/december/19">19</a>   <a href="/noumena/2023/december/20">20</a>   <a href="/noumena/2023/december/21">21</a>   <a href="/noumena/2023/december/22">22</a>
-  <a href="/noumena/2023/december/23">23</a>   <a href="/noumena/2023/december/24">24</a>   <a href="/noumena/2023/december/25">25</a>   <a href="/noumena/2023/december/26">26</a>   <a href="/noumena/2023/december/27">27</a>   <a href="/noumena/2023/december/28">28</a>   <a href="/noumena/2023/december/29">29</a>
-  <a href="/noumena/2023/december/30">30</a>   <a href="/noumena/2023/december/31">31</a> </div>
+  <a href="/noumena/2023/december/02">2</a>
+  <a href="/noumena/2023/december/03">3</a>
+  <a href="/noumena/2023/december/04">4</a>
+  <a>5</a>
+  <a href="/noumena/2023/december/06">6</a>
+  <a href="/noumena/2023/december/07">7</a>
+  <a href="/noumena/2023/december/08">8</a>
+  <a href="/noumena/2023/december/09">9</a>
+  <a>10</a>
+  <a>11</a>
+  <a>12</a>
+  <a href="/noumena/2023/december/13">13</a>
+  <a href="/noumena/2023/december/14">14</a>
+  <a href="/noumena/2023/december/15">15</a>
+  <a href="/noumena/2023/december/16">16</a>
+  <a href="/noumena/2023/december/17">17</a>
+  <a href="/noumena/2023/december/18">18</a>
+  <a href="/noumena/2023/december/19">19</a>
+  <a href="/noumena/2023/december/20">20</a>
+  <a href="/noumena/2023/december/21">21</a>
+  <a href="/noumena/2023/december/22">22</a>
+  <a href="/noumena/2023/december/23">23</a>
+  <a>24</a>
+  <a href="/noumena/2023/december/25">25</a>
+  <a href="/noumena/2023/december/26">26</a>
+  <a href="/noumena/2023/december/27">27</a>
+  <a href="/noumena/2023/december/28">28</a>
+  <a href="/noumena/2023/december/29">29</a>
+  <a href="/noumena/2023/december/30">30</a>
+  <a href="/noumena/2023/december/31">31</a>
+</div>
 #+end_export

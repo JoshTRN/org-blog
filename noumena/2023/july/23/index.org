@@ -1,13 +1,13 @@
 #+TITLE: July 23, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:laying-on-chalmers.jpg]]
+[[file:laying-on-chalmers.webp]]
 
 * Morning
 
 It's another 7am awakening for Noumena, which means it was a 7am awakening for me. I have to be honest, I went to bed early last night and even still 7am feels very early to me. There's no way I'm getting through today without going to get red bull, so Noumena and I warm some porridge up together, I feed her and we hang out for a little while before  I take her to CVS with me.
 
-[[file:laying-on-bed-next-to-chalmers.jpg]]
+[[file:laying-on-bed-next-to-chalmers.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -134,4 +134,4 @@ We listen to music in her bedroom and as usual she falls asleep on my chest. Sin
 
 Good night, Noumena! See you in the morning.
 
-[[file:noumena-going-to-bed.jpg]]
+[[file:noumena-going-to-bed.webp]]

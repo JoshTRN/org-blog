@@ -1,7 +1,7 @@
 #+TITLE: August 25, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sleeping-in-crib.jpg]]
+[[file:sleeping-in-crib.webp]]
 
 * Morning
 
@@ -31,7 +31,7 @@ Thinking the sausage was relatively mild, I thought it would be fine for Noumena
 #+end_export
 
 * Play time at home
-[[file:bucket-on-head.jpg]]
+[[file:bucket-on-head.webp]]
 
 For a very short time after dinner, maybe 30 minutes, we play with her toys in the living room, and for some reason Noumena was goofing around in the kitchen.
 

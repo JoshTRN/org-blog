@@ -1,7 +1,7 @@
 #+TITLE: November 21, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:such-a-mess-2.jpg]]
+[[file:such-a-mess-2.webp]]
 
 * Video
 

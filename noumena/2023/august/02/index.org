@@ -1,5 +1,7 @@
 #+TITLE: August  2, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/august/02/photo/the-pose-2-preview.jpg"/>
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/august/02/photo/the-pose-2-preview.jpg" />
 
 * Morning
 
@@ -8,8 +10,8 @@ On my phone, I have set a daily alarm for 7:55am. Usually, I wake up or Noumena 
 
 * Daycare
 
-[[file:playing-at-daycare.jpg]]
-[[file:slide-at-daycare.jpg]]
+[[file:playing-at-daycare.webp]]
+[[file:slide-at-daycare.webp]]
 
 * Home
 
@@ -23,9 +25,9 @@ Mom hangs out and plays with Noumena until her laundry is done drying. Noumena h
 </div>
 #+end_export
 
-[[file:riding-chalmers-2.jpg]]
-[[file:riding-chalmers-3.jpg]]
-[[file:riding-chalmers.jpg]]
+[[file:riding-chalmers-2.webp]]
+[[file:riding-chalmers-3.webp]]
+[[file:riding-chalmers.webp]]
 
 
 We hang out at home for a little while longer before heading to the park.
@@ -39,7 +41,7 @@ We hang out at home for a little while longer before heading to the park.
 
 * Park Far Away
 
-[[file:rocking-at-the-playground.jpg]]
+[[file:rocking-at-the-playground.webp]]
 
 I wanted to go to a different park today, so I strapped Noumena in and we went for a ride. The daycare app reported that she basically only napped for an hour which is definitely not enough and she didn't nap at all on the drive home. Admittedly, even if she had napped on the way home, it wouldn't have been long enough to be significant. She would have probably at most slept 5 minutes. And, it's about 7pm when we leave for the park so she's definitely tired. As I predicted, she falls asleep on the way, but she only got to sleep for about 3 minutes because we arrived at the park so soon after she started to sleep and I wasn't going to let her sleep this late because that would make bed time more difficult.
 
@@ -77,7 +79,7 @@ When it's approaching 7:30pm, there's a corner store near by and I didn't bring 
 
 
 
-[[file:sitting-on-daddys-car.jpg]]
+[[file:sitting-on-daddys-car.webp]]
 
 * Home Again
 
@@ -91,9 +93,8 @@ Noumena didn't fall asleep on the way home, thankfully. I was worried she might 
 
 We make our way around the house, and finally.... FINALLY I catch Noumena in "the pose." I'm been trying to get this picture for months, and the stars finally aligned and I got it.
 
-[[file:the-pose.jpg]]
+[[file:the-pose.webp]]
 
-[[file:the-pose-2.jpg]]
 
 After that, we hangout on the bed with Chalmers until it's Noumena's bath time. Although I like hanging out on the bed with her, she always worries me. She's totally ready to take a tumble off the side of the bed because she's such a daredevil, but it is absolutely one of the cutest things every to watch her face-plant over and over into the pillows or onto the bed.
 
@@ -101,9 +102,14 @@ After that, we hangout on the bed with Chalmers until it's Noumena's bath time. 
 
 As is typical, Noumena falls asleep right away. Even though she's asleep, I can't help but hold her longer. I hold her until 9:05pm before laying her into her crib.
 
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]
 
-[[file:kissing-noumena-goodnight.jpg]]
+[[file:kissing-noumena-goodnight.webp]]
 
 
 We had fun today, Noumena. I can't wait to see what tomorrow has in store for us.
+
+* Photos
+
+#+ATTR_ORG: :width 50%
+[[./photo/the-pose-2.webp]]

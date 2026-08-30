@@ -1,0 +1,27 @@
+
+#+TITLE: April  29, 2022
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/april/29">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April  29, 2022"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="" />
+
+* Photos
+
+[[./slouching-in-her-pillow.webp]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="438" height="778" src="https://www.youtube.com/embed/hutsZUtE3EI" title="Rocking In Her Rocker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="438" height="778" src="https://www.youtube.com/embed/Dm3nW9s4Jmk" title="More Rocking In Her Rocker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

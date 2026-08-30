@@ -1,0 +1,26 @@
+#+TITLE: July  3, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/july/03/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July  5, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/july/03/" />
+
+* Photo
+
+[[./sitting-on-daddys-face.webp]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/ht7YctF5Szw" title="Picnic With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/jsAujfIYNuk" title="Attitude!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

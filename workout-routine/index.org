@@ -1,31 +1,6 @@
 #+HTML_HEAD_EXTRA:     <link rel="manifest" href="/manifest.json">
 
-# -*- org-html-checkbox-type: html -*-
-
-* Monday & Thursday
-
-- [ ] pushups | 2 x 8-12
-- [ ] squats | 2 x 15-20
-- [ ] tricep extensions | 2 x 8-12
-- [ ] leg raises | 2 x 15-20
-- [ ] pike pushups | 2 x 8-12
-- [ ] pullups | 2 x 8-12
-
-
-* Tuesday & Friday
-
-- [ ] chinups | 2 x 8-12
-- [ ] lunges | 2 x 15-20
-- [ ] lat slides | 2 x 8-12
-- [ ] diamond pushups | 2 x 8-12
-- [ ] bicep dip | 2 x 8-12
-- [ ] crunches | to failure
-
-* Wednesday & Saturday
-
-- [ ] pistol squats | 2 x 15-20
-- [ ] windshield wipers | 2 x 15-20
-- [ ] pike pushups | 2 x 8-12
-- [ ] side lunges | 2 x 15-20
-- [ ] hollow body hold | 2 x 40-60 sec
-- [ ] pullups | 2 x 8-12
+* Days
+- [[./monday-thursday/][Monday & Thursday]]
+- [[./tuesday-friday/][Tuesday & Friday]]
+- [[./wednesday-saturday/][Wednesday & Saturday]]

@@ -1,7 +1,7 @@
 #+TITLE: October 29, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:dinosaur-3.jpg]]
+[[file:dinosaur-3.webp]]
 
 I will never let the fact that I did the best I could do be an excuse when raising Noumena. Sometimes the best you can do is not good enough. It wasn't good enough from my parents and it won't be good enough from me. As far as I'm concerned, Noumena, you have the right to tell Daddy when, where and how I wronged you even if it turns out to be impossible that I didn't. I will fuck things up, Noumena. I will do the wrong things and maybe I will continue to think they were the right things even after you've told me, but I will always welcome you telling me. I will always be here to listen to you---to hear you---even if I can't fix it.
 
@@ -24,7 +24,7 @@ Even if it's not good enough, Noumena, I will do my best.
 </div>
 #+end_export
 
-[[file:bringing-daddy-shoes.jpg]]
+[[file:bringing-daddy-shoes.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -75,7 +75,7 @@ Even if it's not good enough, Noumena, I will do my best.
 </div>
 #+end_export
 
-[[file:nap-time.jpg]]
+[[file:nap-time.webp]]
 
 * Trunk Or Treat
 
@@ -93,10 +93,10 @@ Even if it's not good enough, Noumena, I will do my best.
 </div>
 #+end_export
 
-[[file:sitting-on-stump-3.jpg]]
+[[file:sitting-on-stump-3.webp]]
 
 
-[[file:walking-with-mommy-4.jpg]]
+[[file:walking-with-mommy-4.webp]]
 
 * Dinner
 

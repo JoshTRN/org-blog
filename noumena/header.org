@@ -1,8 +1,9 @@
+#+HTML_HEAD_EXTRA:<link rel="manifest" href="/noumena/manifest.json">
 #+OPTIONS: num:nil ^:{}
 
 #+begin_export html
   <div class="topbar-menu-container">
-    <span class="topbar-menu"><a href="../">Back</a></span>
-    <span class="topbar-menu"><a href="/noumena">Home</a></span>
+      <span class="topbar-menu"><a href="../">Back</a></span>
+      <span class="topbar-menu"><a href="/noumena">Home</a></span>
   </div>
 #+end_export

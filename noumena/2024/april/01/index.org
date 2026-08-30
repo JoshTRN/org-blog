@@ -18,16 +18,22 @@
 
 * Photo
 
-[[./playing-with-toy-truck.jpg]]
+[[./playing-with-toy-truck.webp]]
 
-[[./sleeping-on-daddy-1.jpg]]
+[[./sleeping-on-daddy-1.webp]]
 
-[[./sleeping-on-daddy-2.jpg]]
+[[./sleeping-on-daddy-2.webp]]
 
-[[./trying-to-calm-noumena-down-outside-1.jpg]]
+[[./trying-to-calm-noumena-down-outside-1.webp]]
 
-[[./trying-to-calm-noumena-down-outside-2.jpg]]
+[[./trying-to-calm-noumena-down-outside-2.webp]]
 
-[[./back-asleep-on-daddy.jpg]]
+[[./back-asleep-on-daddy.webp]]
 
-[[./sleeping-in-weird-position.jpg]]
+[[./sleeping-in-weird-position.webp]]
+
+#+begin_export html
+<div class="share-icon" id="shareBtn">
+    &#x1F4E7; <!-- Share Icon -->
+</div>
+#+end_export

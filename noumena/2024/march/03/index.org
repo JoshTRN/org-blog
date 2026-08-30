@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/03/giving-daddy-love-3.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/03/photo/giving-daddy-love-2-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March  3, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/03/giving-daddy-love-3.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/03/photo/giving-daddy-love-2-preview.jpg" />
 
-[[file:giving-daddy-love-3.jpg]]
+[[file:giving-daddy-love-3.webp]]
 
 * Daddy's Sick Day
 
@@ -21,5 +21,33 @@
 #+begin_export html
 <div class="video-container">
 <iframe width="1870" height="761" src="https://www.youtube.com/embed/tKzkuRPEwTM" title="Reading The Bible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photos
+
+#+ATTR_ORG: :width 50%
+[[./photo/giving-daddy-love-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/giving-daddy-love-1.webp]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/PDUYTmD93HY" title="Eating With Mommy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/XfwpcjxuT9o" title="Driving At Chuck E Cheese 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/VqgKcPXG7qY" title="Driving At Chuck E Cheese 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 #+end_export

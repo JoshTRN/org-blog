@@ -1,0 +1,32 @@
+#+TITLE:  Notes With Joshua Blais
+#+INCLUDE: ~/org/blog/philosophy/header.org
+
+
+* My Take On Joshua's General Philosophy Of Religion Views
+
++ Likely influenced by Thomistic Arguments and metaphysics (/e.g./ First Cause)
++ Cosmological arguments more generally (PSR, Kalam)
++ Propensity to entertain transcendental arguments
+
+*  My General Philosophy Of Religion Views
+
++ Arguments from incompatible properties
+  - Agency and Omniscience
+  - Agency and Omnipotence
++ Logical problem of evil
+  - Omnipotence, Omnibenevolence, Omniscience and the existence of evil
++ Empirical Support
+  - What is expected on common religious accounts
+
+** Criticism's of Typical Philosophy Of Religion Views
+
++ Empirical Arguments are ad hoc (Fine Tuning, etc)
++ PSR is incoherent → No contingent facts
++ TAG arguments presuppose metalogical evaluation which is incoherent
+
+** Things I believe
+
++ Moral Realism is False
++ Materialism/Physicalism is false or unintelligible
++ Pragmatic theory of truth
++ Skeptical of metaphysics

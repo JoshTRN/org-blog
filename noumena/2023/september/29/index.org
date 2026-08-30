@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:eating-pasta.jpg]]
+[[file:eating-pasta.webp]]
 
 #+begin_export html
 <div class="video-container">

@@ -1,15 +1,15 @@
 #+TITLE: December  6, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:reading-daddys-book-2.jpg]]
+[[file:reading-daddys-book-2.webp]]
 
 
 
 * Morning
 
-[[file:playing-with-her-big-bear.jpg]]
+[[file:playing-with-her-big-bear.webp]]
 
-[[file:reading-daddys-book.jpg]]
+[[file:reading-daddys-book.webp]]
 
 #+begin_export html
 <div class="video-container">

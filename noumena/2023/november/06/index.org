@@ -1,7 +1,7 @@
 #+TITLE: November  6, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:watching-dinosaurs.jpg]]
+[[file:watching-dinosaurs.webp]]
 
 * Morning
 
@@ -15,7 +15,7 @@
 
 * Dinner
 
-[[file:messy-tofu-scramble.jpg]]
+[[file:messy-tofu-scramble.webp]]
 
 * Playing at Home
 
@@ -55,9 +55,9 @@
 </div>
 #+end_export
 
-[[file:my-family.jpg]]
+[[file:my-family.webp]]
 
-[[file:books-we-read.jpg]]
+[[file:books-we-read.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -65,7 +65,7 @@
 </div>
 #+end_export
 
-[[file:drinking-bottle-on-floor-in-bedroom.jpg]]
+[[file:drinking-bottle-on-floor-in-bedroom.webp]]
 
 #+begin_export html
 <div class="video-container">

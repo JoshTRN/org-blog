@@ -1,0 +1,58 @@
+#+TITLE: January 10, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/january/10/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 10, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/january/10/" />
+
+[[./sleeping-with-daddy.webp]]
+
+* Good Morning, Noumena!
+
+* Flight Adventure Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/visCT216o48" title="Bouncing Around" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./donut-1.webp]]
+
+[[./donut-2.webp]]
+
+[[./donut-3.webp]]
+
+[[./donut-4.webp]]
+
+[[./donut-5.webp]]
+
+[[./donut-6.webp]]
+
+[[./donut-7.webp]]
+
+[[./donut-8.webp]]
+
+* Dinner At Mellow Mushroom
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="689" src="https://www.youtube.com/embed/ozVXQv7dNPc" title="Grooving At Mellow Mushroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/J1pm_Xa1EH0" title="Being Goofy With Daddy While Eathing Pizza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Bed Time
+
+[[./holding-kisa-1.webp]]
+
+[[./holding-kisa-2.webp]]
+
+[[./kisa-getting-away.webp]]

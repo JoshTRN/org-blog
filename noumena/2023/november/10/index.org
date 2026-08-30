@@ -21,7 +21,7 @@
 </div>
 #+end_export
 
-[[file:messy-room-from-playing.jpg]]
+[[file:messy-room-from-playing.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -39,21 +39,21 @@
 
 * Setting Up Tent
 
-[[file:helping-with-tent.jpg]]
+[[file:helping-with-tent.webp]]
 
-[[file:tent-to-setup.jpg]]
+[[file:tent-to-setup.webp]]
 
-[[file:helping-with-tent-base.jpg]]
+[[file:helping-with-tent-base.webp]]
 
-[[file:tent-base-messed-up.jpg]]
+[[file:tent-base-messed-up.webp]]
 
 
-[[file:sitting-on-porch-with-daddy.jpg]]
+[[file:sitting-on-porch-with-daddy.webp]]
 
 * Lovelace Park
 
 
-[[file:going-down-tube-slide.jpg]]
+[[file:going-down-tube-slide.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -67,11 +67,11 @@
 </div>
 #+end_export
 
-[[file:hanging-over-bridge-2.jpg]]
+[[file:hanging-over-bridge-2.webp]]
 
-[[file:hanging-over-bridge-3.jpg]]
+[[file:hanging-over-bridge-3.webp]]
 
-[[file:walking-in-woods.jpg]]
+[[file:walking-in-woods.webp]]
 
 * Nap Time
 
@@ -93,7 +93,7 @@
 
 * Hanging Out At Home
 
-[[file:helping-daddy-with-laundry.jpg]]
+[[file:helping-daddy-with-laundry.webp]]
 
 #+begin_export html
 <div class="video-container">

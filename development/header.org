@@ -4,6 +4,5 @@
   <div class="topbar-menu-container">
     <span class="topbar-menu"><a href="/">Home</a></span>
     <span class="topbar-menu"><a class="current" href="/development">Development</a></span>
-    <span class="topbar-menu"><a href="/philosophy">Philosophy</a></span>
   </div>
 #+end_export

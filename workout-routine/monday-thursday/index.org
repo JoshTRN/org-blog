@@ -1,0 +1,18 @@
+#+title: Monday & Thursday
+#+OPTIONS: num:nil ^:{}
+
+* Set 1
+- [ ] pushups          | 8-12x
+- [ ] squats           | 15-20x
+- [ ] tricep extensions| 8-12x
+- [ ] leg raises       | 15-20x
+- [ ] pike pushups     | 8-12x
+- [ ] pullups          | 8-12x
+
+* Set 2
+- [ ] pushups          | 8-12x
+- [ ] squats           | 15-20x
+- [ ] tricep extensions| 8-12x
+- [ ] leg raises       | 15-20x
+- [ ] pike pushups     | 8-12x
+- [ ] pullups          | 8-12x

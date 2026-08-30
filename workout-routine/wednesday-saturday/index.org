@@ -1,0 +1,18 @@
+#+title: Wednesday & Saturday
+#+OPTIONS: num:nil ^:{}
+
+* Set 1
+- [ ] pistol squats    | 15-20x
+- [ ] windshield wipers| 15-20x
+- [ ] pike pushups     | 8-12x
+- [ ] side lunges      | 15-20x
+- [ ] hollow body hold | 40-60 sec
+- [ ] pullups          | 8-12x
+
+* Set 2
+- [ ] pistol squats    | 15-20x
+- [ ] windshield wipers| 15-20x
+- [ ] pike pushups     | 8-12x
+- [ ] side lunges      | 15-20x
+- [ ] hollow body hold | 40-60 sec
+- [ ] pullups          | 8-12x

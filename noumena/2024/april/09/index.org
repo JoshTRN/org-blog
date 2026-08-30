@@ -6,3 +6,61 @@
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April 9, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/april/9/" />
+
+* Good Morning, Noumena
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/89vJlCsByXE" title="Messing With Deoderant In Hotel Bathroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/iZXBCFnX7gk" title="Playing Hide And Go Seek With Daddy In Hotel Hallway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Daddy's Friend Comes To Visit
+
+[[./alhagie-holding-noumena-1.webp]]
+
+[[./daddy-alhagi-noumena-4.webp]]
+
+* Chuck E Cheese
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/rEhzIX-JkQw" title="Chuck E Cheese Texas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+[[./chuck-e-cheese-with-mommy-3.webp]]
+
+[[./chuck-e-cheese-with-mommy-8.webp]]
+
+[[./daddy-noumena-chucky-3.webp]]
+
+[[./daddy-noumena-chucky-5.webp]]
+
+[[./riding-bus-in-chuck-e-cheese.webp]]
+* PeekNPlay Grapevine
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/cHTiryTUnNg" title="Ballpit In Texas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/9UGSaji8-mY" title="Texas Play Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./riding-to-airport-in-daddys-lap-1.webp]]
+
+[[./riding-to-airport-in-daddys-lap-2.webp]]
+
+[[./riding-to-airport-in-daddys-lap-3.webp]]

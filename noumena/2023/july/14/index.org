@@ -1,7 +1,7 @@
 #+TITLE: July 14, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:teeder-todder-with-chris.jpg]]
+[[file:teeder-todder-with-chris.webp]]
 
 * Morning
 
@@ -31,24 +31,24 @@ Arriving at daycare, there are these little pillow rings one of the little girls
 #+begin_export html
 <div class="figure">
 <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img src="./water-day-1.jpg" width="50%">
-<img src="./water-day-2.jpg" width="50%">
+<img src="./water-day-1.webp" width="50%">
+<img src="./water-day-2.webp" width="50%">
 </p>
 </div>
 #+end_export
 
 
-[[file:water-day-3.jpg]]
+[[file:water-day-3.webp]]
 
-[[file:water-day-4.jpg]]
+[[file:water-day-4.webp]]
 
 
 
 #+begin_export html
 <div class="figure">
 <p style="display: flex; margin-bottom: 0; padding-bottom: 0;">
-<img src="./water-day-5.jpg" width="50%">
-<img src="./water-day-6.jpg" width="50%">
+<img src="./water-day-5.webp" width="50%">
+<img src="./water-day-6.webp" width="50%">
 </p>
 </div>
 #+end_export

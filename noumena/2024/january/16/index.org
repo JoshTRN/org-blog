@@ -12,13 +12,13 @@
 
 * Daycare
 
-[[file:IMG_20240116_125106605.jpg]]
+[[file:IMG_20240116_125106605.webp]]
 
-[[file:stacking-blocks-1.jpg]]
+[[file:stacking-blocks-1.webp]]
 
-[[file:stacking-blocks-2.jpg]]
+[[file:stacking-blocks-2.webp]]
 
-[[file:stacking-blocks-3.jpg]]
+[[file:stacking-blocks-3.webp]]
 
 * Arriving Home
 
@@ -43,9 +43,9 @@
 </div>
 #+end_export
 
-[[file:sitting-at-cvs.jpg]]
+[[file:sitting-at-cvs.webp]]
 
-[[file:sitting-at-cvs-2.jpg]]
+[[file:sitting-at-cvs-2.webp]]
 
 * Evening
 

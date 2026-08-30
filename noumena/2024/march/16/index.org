@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/16/with-daddy-at-fountain-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/16/photo/with-daddy-at-fountain-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 16, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/16/with-daddy-at-fountain-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/16/photo/with-daddy-at-fountain-preview.jpg" />
 
-[[file:with-daddy-at-fountain.jpg]]
+[[file:with-daddy-at-fountain.webp]]
 
 * Good Morning, Noumena!
 
@@ -23,7 +23,7 @@
 </div>
 #+end_export
 
-[[file:flowers-in-front-yard.jpg]]
+[[file:flowers-in-front-yard.webp]]
 
 * Tidewater Acres Park
 
@@ -39,11 +39,11 @@
 </div>
 #+end_export
 
-[[file:holding-sticks-while-swinging-3.jpg]]
+[[file:holding-sticks-while-swinging-3.webp]]
 
-[[file:holding-sticks-while-swinging-7.jpg]]
+[[file:holding-sticks-while-swinging-7.webp]]
 
-[[file:swinging-3.jpg]]
+[[file:swinging-3.webp]]
 
 * CVS
 
@@ -84,19 +84,19 @@
 *  Friendship Fountain
 
 
-[[file:with-mommy-at-fountain-10.jpg]]
+[[file:with-mommy-at-fountain-10.webp]]
 
-[[file:with-mommy-at-fountain-11.jpg]]
+[[file:with-mommy-at-fountain-11.webp]]
 
-[[file:with-mommy-at-fountain-12.jpg]]
+[[file:with-mommy-at-fountain-12.webp]]
 
-[[file:with-mommy-at-fountain-13.jpg]]
+[[file:with-mommy-at-fountain-13.webp]]
 
-[[file:with-mommy-at-fountain-6.jpg]]
+[[file:with-mommy-at-fountain-6.webp]]
 
-[[file:with-mommy-at-fountain-7.jpg]]
+[[file:with-mommy-at-fountain-7.webp]]
 
-[[file:with-mommy-at-fountain-8.jpg]]
+[[file:with-mommy-at-fountain-8.webp]]
 
 #+begin_export html
 <div class="video-container">

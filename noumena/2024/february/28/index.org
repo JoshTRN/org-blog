@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/28/sleeping-with-daddy-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/28/photo/sleeping-with-daddy-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 28, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/28/sleeping-with-daddy-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/28/photo/sleeping-with-daddy-preview.jpg" />
 
-[[file:sleeping-with-daddy.jpg]]
+[[file:sleeping-with-daddy.webp]]
 
 * Good Morning, Noumena!
 
@@ -17,11 +17,11 @@
 </div>
 #+end_export
 
-[[file:standing-on-chair-1.jpg]]
+[[file:standing-on-chair-1.webp]]
 
-[[file:standing-on-chair-2.jpg]]
+[[file:standing-on-chair-2.webp]]
 
-[[file:standing-on-chair-3.jpg]]
+[[file:standing-on-chair-3.webp]]
 
 #+begin_export html
 <div class="video-container">

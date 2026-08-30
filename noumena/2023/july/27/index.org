@@ -1,8 +1,11 @@
 #+TITLE: July 27, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:swinging-with-mommy-closeup.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/swinging-with-mommy-2.webp]]
 
+#+ATTR_ORG: :width 50%
+[[./photo/swinging-with-mommy-closeup.webp]]
 * Morning
 
 I woke up again at 7am and hear nothing from Noumena's room, so I go back to sleep. My alarm sounds at 7:30am; I silence it and go back to sleep. Finally, I awake at 7:55am and Noumena still hasn't so much as made a sound. I brush my teeth and get ready and make Noumena's porridge. Sometimes Noumena is completely uninterpretable. While eating porridge, occasionally, she'll jut her legs and begin to whine for no obvious reason as if she got some bad food or something. I'm excited for when she gets language if only so these little bouts are easier to assess. It must be frustrating not knowing why things aren't working out the way you expect. Oh, the toddler's plight.
@@ -21,9 +24,9 @@ I get her dressed and we head off to daycare.
 
 Noumena's mother needed her car dropped off at the mechanic, and she asked me to help so I took her to the mechanic just before I have to pick Noumena up from daycare. Noumena is excited to see her mother and I take them both to dinner at a Thai restaurant. I order fried tofu for Noumena and share my mixed vegetables with her.
 
-[[file:eating-dinner.jpg]]
+[[file:eating-dinner.webp]]
 
-[[file:eating-dinner-2.jpg]]
+[[file:eating-dinner-2.webp]]
 
 * Park
 
@@ -37,11 +40,9 @@ There is a park nearby with geese, so we go to watch them. This doesn't turn out
 
 Since she can't reasonably spend a whole lot of time at this part of the park, we head across the street to the playground area. The playground is for much larger children, but that doesn't stop us from trying to get Noumena to play around with all the equipment.
 
-[[file:swinging-with-mommy-2.jpg]]
+[[file:swinging-with-mommy-3.webp]]
 
-[[file:swinging-with-mommy-3.jpg]]
-
-[[file:swinging-with-mommy.jpg]]
+[[file:swinging-with-mommy.webp]]
 
 #+begin_export html
 <div class="video-container">

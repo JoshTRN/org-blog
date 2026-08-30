@@ -2,13 +2,13 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 * Watching TV With Daddy
-[[file:sick-on-daddys-lap.jpg]]
+[[file:sick-on-daddys-lap.webp]]
 
-[[file:watching-miss-rachel.jpg]]
+[[file:watching-miss-rachel.webp]]
 
-[[file:watching-miss-rachel-2.jpg]]
+[[file:watching-miss-rachel-2.webp]]
 
-[[file:watching-tv-with-daddy.jpg]]
+[[file:watching-tv-with-daddy.webp]]
 
 #+begin_export html
 <div class="video-container">

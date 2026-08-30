@@ -17,21 +17,21 @@
 #+end_export
 
 
-[[file:sleeping-with-daddy.jpg]]
+[[file:sleeping-with-daddy.webp]]
 
-[[file:sleeping-with-daddy-2.jpg]]
+[[file:sleeping-with-daddy-2.webp]]
 
 * Pediatrician
 
-[[file:at-the-pediatrician.jpg]]
+[[file:at-the-pediatrician.webp]]
 
-[[file:at-the-pediatrician-2.jpg]]
+[[file:at-the-pediatrician-2.webp]]
 
 * Back At Home
 
-[[file:back-at-home.jpg]]
+[[file:back-at-home.webp]]
 
-[[file:resting-with-daddy-at-home.jpg]]
+[[file:resting-with-daddy-at-home.webp]]
 
 * Nap Time
 
@@ -41,7 +41,7 @@
 </div>
 #+end_export
 
-[[file:passed-out-nap-time.jpg]]
+[[file:passed-out-nap-time.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -71,11 +71,11 @@
 </div>
 #+end_export
 
-[[file:swinging.jpg]]
+[[file:swinging.webp]]
 
-[[file:swinging-2.jpg]]
+[[file:swinging-2.webp]]
 
-[[file:being-insane.jpg]]
+[[file:being-insane.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -103,4 +103,4 @@
 </div>
 #+end_export
 
-[[file:falling-aslee-literally-on-daddy.jpg]]
+[[file:falling-aslee-literally-on-daddy.webp]]

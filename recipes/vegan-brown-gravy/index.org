@@ -1,0 +1,53 @@
+#+title: Vegan Brown Gravy
+#+include: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~5 min/
++ *Cook Time*: /~10 min/
++ *Servings*: /~8/
++ *Cost per Serving*: /~$0.25/
++ *Total Cost*: /~$2.00/
+
+* Ingredients
+
+** Dry Mix
++ [ ] 1/4 cup whole wheat flour
++ [ ] 1 tbsp whole wheat flour (additional)
++ [ ] 1/4 cup nutritional yeast
++ [ ] 1 1/2 tsp onion powder
++ [ ] 1 tsp garlic powder
++ [ ] 1/4 tsp rosemary (crushed)
++ [ ] 1/8 tsp thyme (crushed)
++ [ ] Salt to taste
+
+** Liquid
++ [ ] 2 cups low-sodium vegetable broth
++ [ ] 2 tbsp low-sodium tamari
+
+* Method
+
+1. [ ] Heat a medium saucepan over medium-high heat.
+2. [ ] Add the dry ingredients and whisk for 30 seconds to lightly toast them.
+3. [ ] Slowly pour in the vegetable broth and tamari while whisking until smooth.
+4. [ ] Reduce heat to medium and bring to a gentle boil, whisking continuously.
+5. [ ] Lower heat to a simmer and cook until the gravy thickens to your desired consistency.
+6. [ ] Remove from heat and adjust seasoning with salt as needed.
+
+* Notes
++ For a thicker gravy, whisk together 1 tbsp cornstarch with 2 tbsp water and add while simmering.
++ Add freshly ground black pepper for extra depth.
++ If gravy becomes too thick while sitting, whisk in additional broth or plant milk.
+
+* Nutrition
+
+|---------------+---------+---------------|
+| Nutrient      | Amount  | % Daily Value |
+|---------------+---------+---------------|
+| Calories      | ~29     | ~1%           |
+| Protein       | ~2 g    | ~4%           |
+| Carbohydrates | ~5 g    | ~2%           |
+| Fat           | ~0.1 g  | ~0%           |
+| Fiber         | ~1.2 g  | ~5%           |
+| Sugars        | ~0.3 g  | ~1%           |
+| Sodium        | ~164 mg | ~7%           |
+| Calcium       | ~15 mg  | ~1%           |
+| Iron          | ~0.7 mg | ~4%           |
+| Vitamin C     | ~1 mg   | ~1%           |

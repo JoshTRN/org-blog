@@ -1,0 +1,55 @@
+#+title: One Pot Creamy Pesto Pasta
+#+include: /home/joshua/org/blog/recipes/header.org
+
++ *Prep Time*: /~5 min/
++ *Cook Time*: /~19 min/
++ *Servings*: /~2/
++ *Cost per Serving*: /~$4.00/
++ *Total Cost*: /~$8.00/
+
+* Ingredients
+** Pasta & Vegetables
++ [ ] 250 g tagliatelle or fettuccine (dry)
++ [ ] 1 cup cherry tomatoes (halved)
++ [ ] 2 cups fresh spinach (roughly chopped)
++ [ ] A handful of fresh basil leaves (torn)
++ [ ] 3–4 garlic cloves (thinly sliced)
+
+** Sauce
++ [ ] 4 tbsp green pesto (vegan)
++ [ ] 1 tsp Italian seasoning
++ [ ] 1 cup oat cream
++ [ ] 1 cup vegetable stock
++ [ ] Salt and black pepper to taste
++ [ ] Optional: chili flakes or vegan parmesan (for topping)
+
+* Method
+** One-Pot Cooking
+1. Place pasta nests in the center of a wide pan. Arrange cherry tomatoes on one side and spinach with basil on the other. Scatter sliced garlic on top.
+2. Spoon pesto over the pasta. Sprinkle with Italian seasoning, salt, pepper, and optional chili flakes.
+3. Pour in oat cream and vegetable stock until pasta is mostly submerged.
+4. Cover with a lid and cook over medium heat for 10–12 minutes, stirring occasionally to prevent sticking.
+5. Once pasta is al dente and liquid has thickened, stir well to combine into a creamy sauce.
+6. Taste and adjust seasoning. Serve hot with vegan parmesan or chili flakes.
+
+* Notes
++ Add more stock as needed if pasta dries out before fully cooking.
++ Substitute spinach with kale or arugula.
++ A squeeze of lemon brightens the final dish.
++ For extra protein, top with roasted chickpeas or baked tofu.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | 700    | 35%           |
+| Protein       | 23 g   | 46%           |
+| Carbohydrates | 111 g  | 37%           |
+| Fat           | 18 g   | 28%           |
+| Fiber         | 7 g    | 28%           |
+| Sugars        | 16 g   | 32%           |
+| Sodium        | 860 mg | 37%           |
+| Calcium       | 330 mg | 25%           |
+| Iron          | 5 mg   | 28%           |
+| Vitamin C     | 27 mg  | 30%           |
+
+

@@ -1,0 +1,24 @@
+#+TITLE: June 30, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/30/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 30, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/30/" />
+
+* Good Morning, Sweetpea!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/s2j47TTbzWo" title="Acting Like A Cat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Shower Time
+
+[[./toilet-turtle-1.webp]]
+
+[[./toilet-turtle-2.webp]]
+
+[[./toilet-turtle-3.webp]]

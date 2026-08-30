@@ -1,7 +1,7 @@
 #+TITLE: October 17, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:dressed-in-warm-clothes.jpg]]
+[[file:dressed-in-warm-clothes.webp]]
 
 * Hanging Out With Daddy
 #+begin_export html
@@ -18,13 +18,13 @@
 
 * Walking To The Store
 
-[[file:dressed-in-warm-clothes-2.jpg]]
+[[file:dressed-in-warm-clothes-2.webp]]
 
-[[file:dressed-in-warm-clothes-3.jpg]]
+[[file:dressed-in-warm-clothes-3.webp]]
 
-[[file:dressed-in-warm-clothes-4.jpg]]
+[[file:dressed-in-warm-clothes-4.webp]]
 
-[[file:putting-toys-away.jpg]]
+[[file:putting-toys-away.webp]]
 
 #+begin_export html
 <div class="video-container">

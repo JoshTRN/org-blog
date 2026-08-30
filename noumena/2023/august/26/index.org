@@ -1,7 +1,7 @@
 #+TITLE: August 26, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sitting-next-to-bromeliads-at-arboretum.jpg]]
+[[file:sitting-next-to-bromeliads-at-arboretum.webp]]
 
 * Morning
 
@@ -35,7 +35,7 @@ We exit to pass through the courtyard on the second floor where the fountain is 
 </div>
 #+end_export
 
-[[file:sitting-on-friends-lap-at-story-time.jpg]]
+[[file:sitting-on-friends-lap-at-story-time.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -49,7 +49,7 @@ We exit to pass through the courtyard on the second floor where the fountain is 
 </div>
 #+end_export
 
-[[file:sitting-on-mommys-lap-at-storytime.jpg]]
+[[file:sitting-on-mommys-lap-at-storytime.webp]]
 
 * Lunch
 
@@ -83,7 +83,7 @@ I decided to take Noumena to the arboretum today. Before leaving, I filled up he
 </div>
 #+end_export
 
-[[file:watching-noumena-walk-through-the-tree-roots.jpg]]
+[[file:watching-noumena-walk-through-the-tree-roots.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -98,10 +98,10 @@ I decided to take Noumena to the arboretum today. Before leaving, I filled up he
 </div>
 #+end_export
 
-[[file:drinking-water-on-car.jpg]]
+[[file:drinking-water-on-car.webp]]
 
 
-[[file:path-at-arboretum-3.jpg]]
+[[file:path-at-arboretum-3.webp]]
 
 * Dinner
 

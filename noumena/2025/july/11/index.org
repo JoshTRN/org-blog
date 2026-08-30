@@ -1,0 +1,75 @@
+#+TITLE: July 11, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/july/11/holding-white-lined-sphinx-preview.webp"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July 11, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/july/11/holding-white-lined-sphinx-preview.webp" />
+
+* Looking For Hoppers Right Away!
+
+#+ATTR_ORG: :width 0.7
+[[./holding-white-lined-sphinx.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-4.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-5.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-6.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-7.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-8.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-9.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-10.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-11.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chilling-with-hoppers-12.webp]]
+
+* Back At Home
+
+#+ATTR_ORG: :width 0.7
+[[./using-lamp-as-flashlight-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./using-lamp-as-flashlight-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./using-lamp-as-flashlight-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./using-lamp-as-flashlight-4.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="340" height="604" src="https://www.youtube.com/embed/o-8gfInpA5k" title="Singing Into Her Mallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="531" src="https://www.youtube.com/embed/6Avpvybk2Bw" title="Pushing Daddy Over" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

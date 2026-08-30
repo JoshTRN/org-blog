@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/02/laying-down-under-chair-preview.jpg" />
 
-[[file:laying-down-under-chair.jpg]]
+[[file:laying-down-under-chair.webp]]
 
 * Good Morning, Noumena
 
@@ -37,7 +37,7 @@ I had already warmed dinner before I left and it was waiting on the stove for us
 
 Noumena, growing hungry, goes to sit down at the table and her mother says that she's hungry. I had intended to wait on feeding her since her mother wanted to make "pigs in a blanket" in the oven with her, but her mom says that she can have both the dinner I made as well as the hot dogs they were going to make and eat together, so I prepare her rice and tofu green curry restaurant style before presenting it to her to sit down to eat. As she's eating, the hotdogs finish cooking and her mother sits across from Noumena at her table and eats with her.
 
-[[file:crawling-under-chair.jpg]]
+[[file:crawling-under-chair.webp]]
 
 * Nighttime Walk
 

@@ -1,0 +1,53 @@
+#+TITLE: June 24, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/24/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 24, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/24/" />
+
+
+* Noumena's Home!
+
+* Indian Food Dinner
+
+[[./climbing-over-to-daddy.webp]]
+
+[[./funny-faces-with-daddy-1.webp]]
+
+[[./funny-faces-with-daddy-2.webp]]
+
+[[./funny-faces-with-daddy-3.webp]]
+
+[[./funny-faces-with-daddy-4.webp]]
+
+[[./funny-faces-with-daddy-5.webp]]
+
+[[./funny-faces-with-daddy-6.webp]]
+
+[[./funny-faces-with-daddy-7.webp]]
+
+[[./funny-faces-with-daddy-8.webp]]
+
+[[./funny-faces-with-daddy-9.webp]]
+
+[[./funny-faces-with-daddy-10.webp]]
+
+[[./funny-faces-with-daddy-11.webp]]
+
+* Arlingwood Park
+
+[[./static-hair-1.webp]]
+
+[[./static-hair-2.webp]]
+
+[[./static-hair-3.webp]]
+
+[[./static-hair-4.webp]]
+
+[[./static-hair-5.webp]]
+
+* Home
+
+* Bed Time

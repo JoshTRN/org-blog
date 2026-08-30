@@ -1,0 +1,35 @@
+#+TITLE: May  5, 2022
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/may/05/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="May  5, 2022 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2022/may/05/" />
+
+
+* Photo
+
+[[./looking-at-daddy-1.webp]]
+
+[[./looking-at-daddy-2.webp]]
+
+[[./looking-at-daddy-3.webp]]
+
+[[./sleeping-in-pillow-1.webp]]
+
+[[./sleeping-in-pillow-2.webp]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="438" height="778" src="https://www.youtube.com/embed/FqerJAWWf_g" title="Ankle Flexibility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="438" height="778" src="https://www.youtube.com/embed/TqBBlZkjLKI" title="Sleeping In Pillow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

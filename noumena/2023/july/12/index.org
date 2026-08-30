@@ -1,7 +1,7 @@
 #+TITLE: July 12, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:being-cute.jpg]]
+[[file:being-cute.webp]]
 
 
 * Morning

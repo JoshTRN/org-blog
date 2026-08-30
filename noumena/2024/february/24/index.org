@@ -2,17 +2,17 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/24/wearing-daddys-glasses-at-cava-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/24/photo/wearing-daddys-glasses-at-cava-3-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February 24, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/24/wearing-daddys-glasses-at-cava-3-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/24/photo/wearing-daddys-glasses-at-cava-3-preview.jpg" />
 
 
 * Story Time!
 
-[[file:playing-with-friends-at-table-1.jpg]]
+[[file:playing-with-friends-at-table-1.webp]]
 
-[[file:playing-with-friends-at-table-2.jpg]]
+[[file:playing-with-friends-at-table-2.webp]]
 
 
 #+begin_export html
@@ -23,17 +23,17 @@
 
 * Lunch
 
-[[file:wearing-daddys-glasses-at-cava-1.jpg]]
+[[file:wearing-daddys-glasses-at-cava-1.webp]]
 
-[[file:wearing-daddys-glasses-at-cava-2.jpg]]
+[[file:wearing-daddys-glasses-at-cava-2.webp]]
 
-[[file:wearing-daddys-glasses-at-cava-3.jpg]]
+[[file:wearing-daddys-glasses-at-cava-3.webp]]
 
-[[file:wearing-daddys-glasses-at-cava-4.jpg]]
+[[file:wearing-daddys-glasses-at-cava-4.webp]]
 
-[[file:wearing-chris-sunglasses.jpg]]
+[[file:wearing-chris-sunglasses.webp]]
 
-[[file:making-chris-clap.jpg]]
+[[file:making-chris-clap.webp]]
 
 #+begin_export html
 <div class="video-container">

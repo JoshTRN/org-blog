@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/27/face-through-gate-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/27/photo/face-through-gate-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 27, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/27/face-through-gate-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/27/photo/face-through-gate-preview.jpg" />
 
-[[file:face-through-gate.jpg]]
+[[file:face-through-gate.webp]]
 
 
 * Dinner
@@ -45,15 +45,15 @@
 
 * After Dinner
 
-[[file:messing-with-daddys-glasses.jpg]]
+[[file:messing-with-daddys-glasses.webp]]
 
-[[file:with-chalmers-and-daddy-9.jpg]]
+[[file:with-chalmers-and-daddy-9.webp]]
 
 * Tidewater Acres Park
 
-[[file:at-drainage-ditch.jpg]]
+[[file:at-drainage-ditch.webp]]
 
-[[file:cutie.jpg]]
+[[file:cutie.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -64,4 +64,4 @@
 * Bed Time
 
 
-[[file:sleeping-on-daddy.jpg]]
+[[file:sleeping-on-daddy.webp]]

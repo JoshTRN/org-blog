@@ -2,15 +2,15 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:dirty-face.jpg]]
+[[file:dirty-face.webp]]
 
 * Lunch
 
-[[file:tofu-scramble.jpg]]
+[[file:tofu-scramble.webp]]
 
 * Tidewater Acres Park
 
-[[file:dirty-profile.jpg]]
+[[file:dirty-profile.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -18,7 +18,7 @@
 </div>
 #+end_export
 
-[[file:sitting-at-park.jpg]]
+[[file:sitting-at-park.webp]]
 
 #+begin_export html
 <div class="video-container">

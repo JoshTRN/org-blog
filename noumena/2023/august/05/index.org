@@ -1,7 +1,7 @@
 #+TITLE: August  5, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
- [[file:funny-smile.jpg]]
+ [[file:funny-smile.webp]]
 
 * Waking Up
 
@@ -29,7 +29,7 @@ When we go to meet her mom for story time, she's fallen asleep in the car. She h
 
 * Hanging at Home
 
-[[file:eating-apples-2.jpg]]
+[[file:eating-apples-2.webp]]
 
 
 #+begin_export html
@@ -50,9 +50,9 @@ It's past 1pm which is her usual nap time, but since she slept in the car for ab
 
 * Park
 
-[[file:reaching-for-the-leaves.jpg]]
+[[file:reaching-for-the-leaves.webp]]
 
-[[file:reaching-for-the-leaves-5.jpg]]
+[[file:reaching-for-the-leaves-5.webp]]
 
 
 On our way to the park, Noumena has become fascinated with the leaves on the trees, so I stop semi frequently to let her investigate them.
@@ -87,13 +87,13 @@ After a while, she does appear to be getting tired, so I try rocking her to slee
 
 I let her sleep until 5pm. When I wake her up, she's fussy as I'm carrying her around. I try to give her soymilk and she doesn't care for it. I tried to feed her and she didn't care for it.  When I take her to the living room and start playing with her, she grabs her blanket and lies right back down. I decide to take her to her crib and let her go back to sleep.
 
-[[file:sick-on-the-floor-2.jpg]]
+[[file:sick-on-the-floor-2.webp]]
 
-[[file:trying-to-comfort-noumena.jpg]]
+[[file:trying-to-comfort-noumena.webp]]
 
 I come back in at 6pm and she's out cold. I say her name and she wakes up enough for her to open her eyes and acknowledge me, but she immediately closes her eyes again. Even as I caress her head and back, she remains sleeping. I just don't have the heart to wake her up so I allow her to sleep even longer.
 
-[[file:sleeping-sick.jpg]]
+[[file:sleeping-sick.webp]]
 
 * Different Park
 

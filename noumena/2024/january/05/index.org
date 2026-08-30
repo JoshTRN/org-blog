@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/05/stickign-tongue-out-lookig-at-raindeer-lights-preview.jpg" />
 
-[[file:stickign-tongue-out-lookig-at-raindeer-lights.jpg]]
+[[file:stickign-tongue-out-lookig-at-raindeer-lights.webp]]
 
 * Good Morning, Noumena!
 
@@ -27,7 +27,7 @@ We walk to the car and only stop for the briefest of moments to gaze at the sky 
 
 * Arriving Home
 
-[[file:crawling-under-christmas-tree-2.jpg]]
+[[file:crawling-under-christmas-tree-2.webp]]
 
 When we arrive home and I get Noumena out of her car seat, I immediately set her down on the ground where she takes me by the hand guiding me into the house. Approaching the front door, as we're standing on the porch, she seemingly can't wait to get inside. Stepping onto the door sill---the narrowness of it preventing her from being able to fully stand upon it---as I attempt to unlock the door with one hand, she dangles by one of her hands clasping the other of mine until I finally get it open. Noumena rushes in to greet Chalmers. Immediately, she heads to her favorite book /Goodnight Little Noumena/. I read it to her a couple times and along the way she names all the animals in the book as well as the house and the moon.
 
@@ -42,7 +42,7 @@ Dinner still needs to be made, so in an effort to get her to play independently,
 
 * Dinner
 
-[[file:helping-daddy-clean.jpg]]
+[[file:helping-daddy-clean.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -79,7 +79,7 @@ Dinner still needs to be made, so in an effort to get her to play independently,
 
 * Nighttime Walk
 
-[[file:crazy-eyes.jpg]]
+[[file:crazy-eyes.webp]]
 
 I take a bit of a different route tonight. Along our way, Noumena is trying every multiple syllable word I throw at her. It was just 2 days ago I told her mother that the only 2 syllable word she says consistently is driveway. Her progress seems exponential. She must have tried to say at least 10 2 syllable words!
 
@@ -96,7 +96,7 @@ I take a bit of a different route tonight. Along our way, Noumena is trying ever
 #+end_export
 
 
-[[file:stickign-tongue-out-lookig-at-raindeer-lights-3.jpg]]
+[[file:stickign-tongue-out-lookig-at-raindeer-lights-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -127,9 +127,9 @@ I take a bit of a different route tonight. Along our way, Noumena is trying ever
 
 * Back At Home
 
-[[file:laying-with-kisa.jpg]]
+[[file:laying-with-kisa.webp]]
 
-[[file:laying-with-kisa-2.jpg]]
+[[file:laying-with-kisa-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -143,7 +143,7 @@ I take a bit of a different route tonight. Along our way, Noumena is trying ever
 </div>
 #+end_export
 
-[[file:hugging-chalmers.jpg]]
+[[file:hugging-chalmers.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -151,7 +151,7 @@ I take a bit of a different route tonight. Along our way, Noumena is trying ever
 </div>
 #+end_export
 
-[[file:trying-to-pet-kisa-on-bed.jpg]]
+[[file:trying-to-pet-kisa-on-bed.webp]]
 
 * Bath & Bed Time
 

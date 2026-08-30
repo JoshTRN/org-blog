@@ -1,0 +1,57 @@
+#+TITLE: August 28, 2026
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2026/august/28/photo/marshmallow-experiment-3-preview.jpg"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="August 28, 2026 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2026/august/28/photo/marshmallow-experiment-3-preview.jpg" />
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/Yx0zR89DciM" title="Sneaking Up On Daddy Jail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/41aAtDK0jpk" title="Playing In Fort" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photos
+
+#+ATTR_ORG: :width 50%
+[[./photo/marshmallow-experiment-1.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/marshmallow-experiment-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/marshmallow-experiment-3.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/skeleton-in-cvs-1.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/skeleton-in-cvs-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/skeleton-in-cvs-3.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/walking-with-mommy.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/fort-1.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/fort-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/fort-3.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/fort-4.webp]]

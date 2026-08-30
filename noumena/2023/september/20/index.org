@@ -1,7 +1,7 @@
 #+TITLE: September 20, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:with-mommy-in-tunnel.jpg]]
+[[file:with-mommy-in-tunnel.webp]]
 
 I was thinking about impermanence a lot this evening. I was thinking about what it means and how I can instill knowledge of it into Noumena. I was thinking about my own impermanence and how she's going to handle it. Some day, I will be gone when she's an adult. Will these journal entries persist when I go? I think I might be able to set it up so they do. Still, she will no longer have her daddy. The only remnants will be her memories and what I leave her behind.
 
@@ -21,9 +21,9 @@ Surprisingly, I woke up before Noumena today. Usually she's making noises as I w
 
 I'm not sure what prompted me to take a photo this morning, but as I'm dropping her off at her daycare, I just have to snap a pic. She's too cute!
 
-[[file:dropping-off-at-daycare.jpg]]
+[[file:dropping-off-at-daycare.webp]]
 
-[[file:playing-with-kids-at-daycare.jpg]]
+[[file:playing-with-kids-at-daycare.webp]]
 
 * Southside Park
 
@@ -37,7 +37,7 @@ I think the playground is a little advanced for her, but I can't wait to take he
 </div>
 #+end_export
 
-[[file:with-mommy-in-tunnel-1.jpg]]
+[[file:with-mommy-in-tunnel-1.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -45,7 +45,7 @@ I think the playground is a little advanced for her, but I can't wait to take he
 </div>
 #+end_export
 
-[[file:with-mommy-in-tunnel-2.jpg]]
+[[file:with-mommy-in-tunnel-2.webp]]
 
 
 After some swinging in the toddler swings and crawling through tubes, we head back to the big kids playground. For a little while she swings on the big kid swings. I love her growing and learning.

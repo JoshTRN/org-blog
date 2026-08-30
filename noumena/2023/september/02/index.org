@@ -1,7 +1,7 @@
 #+TITLE: September  2, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:with-mommy-at-fountain-at-river-walk-7.jpg]]
+[[file:with-mommy-at-fountain-at-river-walk-7.webp]]
 
 * Morning
 
@@ -38,9 +38,9 @@
 
 
 * River Walk
-[[file:with-mommy-at-fountain-at-river-walk-5.jpg]]
+[[file:with-mommy-at-fountain-at-river-walk-5.webp]]
 
-[[file:with-mommy-at-fountain-in-river-walk.jpg]]
+[[file:with-mommy-at-fountain-in-river-walk.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -58,7 +58,7 @@
 
 
 * Arboretum
-[[file:sitting-with-daddy-at-arboretum-2.jpg]]
+[[file:sitting-with-daddy-at-arboretum-2.webp]]
 
 
 #+begin_export html
@@ -88,7 +88,7 @@
 * Store
 
 * Dinner
-[[file:eating-mac-and-cheese-3.jpg]]
+[[file:eating-mac-and-cheese-3.webp]]
 
 #+begin_export html
 <div class="video-container">

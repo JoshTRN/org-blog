@@ -1,0 +1,70 @@
+#+TITLE: September 7, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/september/07/photo/on-theresas-lap-2-preview.jpg"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="September 7, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/september/07/photo/on-theresas-lap-2-preview.jpg" />
+
+
+* Photos
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-1.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-3.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-4.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-5.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/hand-under-door.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/laying-on-floor.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-6.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sunshine-park-in-car.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/holding-kowie-1.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/holding-kowie-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/playing-with-cups.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/on-theresas-lap-1.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/on-theresas-lap-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/pure-noumena.webp]]
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/qIQbXj96Wsg" title="Why Is There A Kitchen Foot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/ZUoEY4OTFvc" title="Theres A Hand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

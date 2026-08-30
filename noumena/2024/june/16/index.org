@@ -9,7 +9,7 @@
 
 * Good Morning, Noumena! Happy Father's Day, Daddy!
 
-[[./nap-in-the-morning.jpg]]
+[[./nap-in-the-morning.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -29,16 +29,16 @@
 </div>
 #+end_export
 
-[[./sick-laying-on-daddy.jpg]]
+[[./sick-laying-on-daddy.webp]]
 
 * Afternoon
 
 
-[[./afternoon-nap-2.jpg]]
+[[./afternoon-nap-2.webp]]
 
-[[./afternoon-nap-1.jpg]]
+[[./afternoon-nap-1.webp]]
 
-[[./sick-sleeping-with-daddy.jpg]]
+[[./sick-sleeping-with-daddy.webp]]
 
 * Evening
 
@@ -68,4 +68,4 @@
 
 * Bed Time
 
-[[./falling-asleep-with-daddy.jpg]]
+[[./falling-asleep-with-daddy.webp]]

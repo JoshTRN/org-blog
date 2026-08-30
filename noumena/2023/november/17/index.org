@@ -1,14 +1,14 @@
 #+TITLE: November 17, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:passed-out.jpg]]
+[[file:passed-out.webp]]
 
 
 * Photos
 
-[[file:naked-on-the-floor-2.jpg]]
+[[file:naked-on-the-floor-2.webp]]
 
-[[file:stickers-on-my-baby-2.jpg]]
+[[file:stickers-on-my-baby-2.webp]]
 
 * Videos
 #+begin_export html

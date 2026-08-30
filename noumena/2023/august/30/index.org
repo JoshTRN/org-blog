@@ -1,7 +1,7 @@
 #+TITLE: August 30, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:in-the-hurricane.jpg]]
+[[file:in-the-hurricane.webp]]
 
 * Morning
 
@@ -11,9 +11,9 @@ This morning, I didn't even get out of bed until well after Noumena's mother arr
 
 Noumena and her mother had so much fun today! A few times when I came out they were doing different activities. When I first came out, they had made a fort with blankets and chairs!
 
-[[file:fort-with-mommy-2.jpg]]
+[[file:fort-with-mommy-2.webp]]
 
-[[file:fort-with-mommy.jpg]]
+[[file:fort-with-mommy.webp]]
 
 It was pretty windy and I wanted Noumena to get a feeling of strong winds, so I took her outside for a little while just to see what it was like.
 
@@ -23,7 +23,7 @@ It was pretty windy and I wanted Noumena to get a feeling of strong winds, so I 
 </div>
 #+end_export
 
-[[file:blowing-in-the-wind.jpg]]
+[[file:blowing-in-the-wind.webp]]
 
 
 #+begin_export html

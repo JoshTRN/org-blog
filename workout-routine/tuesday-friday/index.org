@@ -1,0 +1,18 @@
+#+title: Tuesday & Friday
+#+OPTIONS: num:nil ^:{}
+
+* Set 1
+- [ ] chinups        | 8-12x
+- [ ] lunges         | 15-20x
+- [ ] lat slides     | 8-12x
+- [ ] diamond pushups| 8-12x
+- [ ] bicep dip      | 8-12x
+- [ ] crunches       | to failure
+
+* Set 2
+- [ ] chinups        | 8-12x
+- [ ] lunges         | 15-20x
+- [ ] lat slides     | 8-12x
+- [ ] diamond pushups| 8-12x
+- [ ] bicep dip      | 8-12x
+- [ ] crunches       | to failure

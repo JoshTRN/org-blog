@@ -1,8 +1,148 @@
-#+TITLE: April  25, 2022
+#+TITLE: April  25, 2022: The First Day Of the Rest Of My Life
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/april/25/">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/april/25/noumenas-first-photo-preview.webp">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  8, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2022/april/25/" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2022/april/25/noumenas-first-photo-preview.webp" />
+
+[[./noumenas-first-photo.webp]]
+
+* An Angel Is Born
+
+[[./the-very-fist-photo-of-noumena.webp]]
+
+[[./cleaning-noumena-2.webp]]
+
+[[./cleaning-noumena-3.webp]]
+
+[[./cleaning-noumena-up.webp]]
+
+
+* Cutting Umbilical Chord
+[[./daddy-cuts-umbilical-cord-1.webp]]
+
+[[./daddy-cuts-umbilical-cord-2.webp]]
+
+[[./daddy-cuts-umbilical-cord-3.webp]]
+
+[[./daddy-cuts-umbilical-cord-4.webp]]
+
+* Metrics
+
+[[./noumena-all-clean.webp]]
+
+[[./rolling-over.webp]]
+
+[[./laying-on-table.webp]]
+
+[[./laying-out-on-table.webp]]
+
+
+** Weight
+
+[[./showing-noumenas-weight.webp]]
+
+[[./displaying-noumenas-weight-2.webp]]
+
+[[./stretching-out-for-the-first-time.webp]]
+
+** Feet
+
+[[./left-foot-ink.webp]]
+
+[[./right-foot-print.webp]]
+
+[[./finishing-footpritns.webp]]
+
+[[./first-left-footprint.webp]]
+
+[[./first-left-footprint-2.webp]]
+
+[[./first-right-foot-print.webp]]
+
+[[./second-left-foot-print.webp]]
+
+[[./second-right-footprint.webp]]
+
+
+* Daddy Shows Mommy
+
+[[./daddy-first-holds-noumena.webp]]
+
+[[./daddy-holding-noumena-1.webp]]
+
+[[./daddy-holding-noumena-2.webp]]
+
+[[./daddy-holding-noumena-3.webp]]
+
+[[./daddy-holding-noumena-4.webp]]
+
+[[./daddy-holding-noumena-5.webp]]
+
+[[./daddy-holding-noumena-6.webp]]
+
+[[./daddy-holding-noumena-7.webp]]
+
+[[./daddy-holding-noumena-8.webp]]
+
+[[./daddy-holding-noumena-9.webp]]
+
+[[./daddy-holding-noumena-10.webp]]
+
+[[./daddy-holding-noumena-11.webp]]
+
+[[./daddy-holding-noumena-12.webp]]
+
+[[./daddy-holding-noumena-13.webp]]
+
+[[./daddy-holding-noumena-14.webp]]
+
+[[./daddy-holding-noumena-15.webp]]
+
+[[./daddy-holding-noumena-16.webp]]
+
+[[./daddy-holding-noumena-17.webp]]
+
+[[./daddy-holding-noumena-18.webp]]
+
+[[./daddy-holding-noumena-19.webp]]
+
+[[./daddy-holding-noumena-20.webp]]
+
+[[./daddy-holding-noumena-21.webp]]
+
+[[./daddy-holding-noumena-22.webp]]
+
+* Mommy Resting
+[[./daddy-loving-noumena-1.webp]]
+
+[[./daddy-loving-noumena-2.webp]]
+
+[[./daddy-loving-noumena-3.webp]]
+
+[[./daddy-loving-noumena-4.webp]]
+
+[[./daddy-loving-noumena-5.webp]]
+
+
+* Mommy Holding Noumena
+
+[[./mommy-first-holds-noumena.webp]]
+
+[[./mommy-holding-noumena.webp]]
+
+[[./mommy-holding-noumena-2.webp]]
+
+[[./mommy-holding-noumena-on-chest.webp]]
+
+[[./noumena-closed-eyes.webp]]
+
+* Resting
+
+[[./noumena-laying-in-bed.webp]]
+
+[[./noumena-laying-in-bed-2.webp]]
+
+[[./daddy-noumena-selfie.webp]]

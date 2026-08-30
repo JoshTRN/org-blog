@@ -11,7 +11,7 @@
 
 * Morning
 
-[[./sleeping-in-hotel.jpg]]
+[[./sleeping-in-hotel.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -27,21 +27,21 @@
 
 * Breakfast
 
-[[./breakfast-1.jpg]]
+[[./breakfast-1.webp]]
 
-[[./breakfast-2.jpg]]
+[[./breakfast-2.webp]]
 
-[[./breakfast-3.jpg]]
+[[./breakfast-3.webp]]
 
-[[./breakfast-4.jpg]]
+[[./breakfast-4.webp]]
 
 * Morning
 
-[[./chilling-on-hotel-room-floor.jpg]]
+[[./chilling-on-hotel-room-floor.webp]]
 
-[[./chilling-on-hotel-room-floor-with-daddy.jpg]]
+[[./chilling-on-hotel-room-floor-with-daddy.webp]]
 
-[[./looking-at-daddys-hairy-legs.jpg]]
+[[./looking-at-daddys-hairy-legs.webp]]
 
 * Solar Eclipse Event
 
@@ -58,23 +58,23 @@
 #+end_export
 
 
-[[./next-to-sun-1.jpg]]
+[[./next-to-sun-1.webp]]
 
-[[./next-to-sun-2.jpg]]
+[[./next-to-sun-2.webp]]
 
-[[./next-to-sun-3.jpg]]
+[[./next-to-sun-3.webp]]
 
-[[./next-to-sun-4.jpg]]
+[[./next-to-sun-4.webp]]
 
-[[./next-to-sun-5.jpg]]
+[[./next-to-sun-5.webp]]
 
-[[./next-to-sun-6.jpg]]
+[[./next-to-sun-6.webp]]
 
-[[./bear-balloon-1.jpg]]
+[[./bear-balloon-1.webp]]
 
-[[./bear-balloon-2.jpg]]
+[[./bear-balloon-2.webp]]
 
-[[./bear-balloon-3.jpg]]
+[[./bear-balloon-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -82,17 +82,17 @@
 </div>
 #+end_export
 
-[[./with-mommy-and-daddy-1.jpg]]
+[[./with-mommy-and-daddy-1.webp]]
 
-[[./with-mommy-and-daddy-2.jpg]]
+[[./with-mommy-and-daddy-2.webp]]
 
-[[./with-mommy-and-daddy-3.jpg]]
+[[./with-mommy-and-daddy-3.webp]]
 
-[[./with-mommy-and-daddy-4.jpg]]
+[[./with-mommy-and-daddy-4.webp]]
 
-[[./with-mommy-and-daddy-5.jpg]]
+[[./with-mommy-and-daddy-5.webp]]
 
-[[./holding-other-babys-doll.jpg]]
+[[./holding-other-babys-doll.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -103,9 +103,9 @@
 
 * Mall After Event
 
-[[./passed-out-on-way-to-mall-1.jpg]]
+[[./passed-out-on-way-to-mall-1.webp]]
 
-[[./passed-out-on-way-to-mall-2.jpg]]
+[[./passed-out-on-way-to-mall-2.webp]]
 
 
 #+begin_export html
@@ -114,11 +114,11 @@
 </div>
 #+end_export
 
-[[./playing-in-mall-carts-1.jpg]]
+[[./playing-in-mall-carts-1.webp]]
 
-[[./playing-in-mall-carts-2.jpg]]
+[[./playing-in-mall-carts-2.webp]]
 
-[[./playing-in-mall-carts-3.jpg]]
+[[./playing-in-mall-carts-3.webp]]
 
 * Rain Forest Cafe
 

@@ -16,11 +16,11 @@
 </div>
 #+end_export
 
-[[file:drawing.jpg]]
+[[file:drawing.webp]]
 
-[[file:get-in-the-car-no-time-to-explain.jpg]]
+[[file:get-in-the-car-no-time-to-explain.webp]]
 
-[[file:listening.jpg]]
+[[file:listening.webp]]
 
 
 * Arriving Home

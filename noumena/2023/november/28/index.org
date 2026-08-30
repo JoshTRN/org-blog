@@ -2,17 +2,17 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:pics-with-chalmers-1.jpg]]
+[[file:pics-with-chalmers-1.webp]]
 
-[[file:pics-with-chalmers-2.jpg]]
+[[file:pics-with-chalmers-2.webp]]
 
-[[file:pics-with-chalmers-3.jpg]]
+[[file:pics-with-chalmers-3.webp]]
 
-[[file:pics-with-chalmers-4.jpg]]
+[[file:pics-with-chalmers-4.webp]]
 
-[[file:pics-with-chalmers-5.jpg]]
+[[file:pics-with-chalmers-5.webp]]
 
-[[file:pics-with-chalmers-6.jpg]]
+[[file:pics-with-chalmers-6.webp]]
 
 * Daycare Pickup
 

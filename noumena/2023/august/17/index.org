@@ -1,7 +1,7 @@
 #+TITLE: August 17, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:picking-noumena-up-from-daycare.jpg]]
+[[file:picking-noumena-up-from-daycare.webp]]
 
 * Morning
 
@@ -19,7 +19,7 @@ Initially, I intended on playing for a little while before preparing dinner. Nou
 
 Scooping her into my arms, I open the refrigerator door, take out the remaining soup and begin heating it in the microwave in the same meal prep container in which it was stored. With the knowledge that she's going to want buttered bread with our soup, I grab a plate, plop her butt onto the stove, deftly untangle the bread bag, pull out a couple slices, placing them on the plate. Noticing the bread on the plate, Noumena reaches down and grabs one taking a bite as I lather butter on the other slice. The soup is done when the bread is buttered, so I place Noumena in her high chair and we begin dinner.
 
-[[file:baby-eating.jpg]]
+[[file:baby-eating.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -101,10 +101,10 @@ When the game finishes, we pick up the book her mother gave her today, reading t
 </div>
 #+end_export
 
-[[file:playing-with-sketchpad.jpg]]
+[[file:playing-with-sketchpad.webp]]
 
 
-[[file:looking-cute.jpg]]
+[[file:looking-cute.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -132,4 +132,4 @@ Tomorrow's Friday, Noumena! That means one more day until the weekend and we're 
 
 You are my everything, Noumena and I will try every single day to make sure you know that. Good night, precious baby. Sweet dreams.
 
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]

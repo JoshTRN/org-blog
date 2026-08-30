@@ -1,7 +1,7 @@
 #+TITLE: September 21, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:Sleeping-In-This-Morning.jpg]]
+[[file:Sleeping-In-This-Morning.webp]]
 
 * Morning
 

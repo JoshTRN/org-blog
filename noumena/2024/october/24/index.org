@@ -1,0 +1,73 @@
+#+TITLE: October 24, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/october/24/feather-in-hair-3-preview.webp">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="October 24, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/october/24/feather-in-hair-3-preview.webp" />
+
+[[./feather-in-hair-3.webp]]
+
+* Good Morning, Noumena!
+
+* Daycare
+
+[[./blocks-at-daycare.webp]]
+
+* Home Early From Daycare
+
+#+begin_export html
+<div class="video-container">
+<iframe width="451" height="801" src="https://www.youtube.com/embed/aTcmqPmiPnk" title="Not Scared Of Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Walmart
+
+
+* Arlingwood Park
+
+[[./arlingwood-park-slide.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/1_DM3Dk9TSU" title="Going Down Slide When Were Not Allowed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1870" height="728" src="https://www.youtube.com/embed/XVAgjWog4Q0" title="Playing With First Soccer Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./feather-in-hair-1.webp]]
+
+[[./feather-in-hair-2.webp]]
+
+[[./holding-soccer-ball.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/S-4VGfxc5dk" title="More Playing Soccer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./playing-with-soccer-ball-1.webp]]
+
+[[./playing-with-soccer-ball-2.webp]]
+
+[[./slide-2.webp]]
+
+[[./slide-3.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1885" height="712" src="https://www.youtube.com/embed/qXHYNkJdzcE" title="Climbing At Playground" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Back At Home
+
+* Bed Time

@@ -3,11 +3,11 @@
 
 * Morning
 
-[[file:sitting-with-bear-smiling.jpg]]
+[[file:sitting-with-bear-smiling.webp]]
 
-[[file:sitting-with-bear-smiling-2.jpg]]
+[[file:sitting-with-bear-smiling-2.webp]]
 
-[[file:sitting-with-her-bear.jpg]]
+[[file:sitting-with-her-bear.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -16,17 +16,17 @@
 #+end_export
 
 * Daycare
-[[file:coloring-with-friends-1.jpg]]
-[[file:coloring-with-friends-2.jpg]]
+[[file:coloring-with-friends-1.webp]]
+[[file:coloring-with-friends-2.webp]]
 
 * Dinner
 
-[[file:using-chopsticks.jpg]]
+[[file:using-chopsticks.webp]]
 
-[[file:using-chopsticks-2.jpg]]
+[[file:using-chopsticks-2.webp]]
 
-[[file:eating-dinner.jpg]]
+[[file:eating-dinner.webp]]
 
 * Evening
 
-[[file:relaxing-in-the-house.jpg]]
+[[file:relaxing-in-the-house.webp]]

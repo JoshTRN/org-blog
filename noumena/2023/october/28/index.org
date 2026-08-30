@@ -1,9 +1,9 @@
 #+TITLE: October 28, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sitting-with-mommy.jpg]]
+[[file:sitting-with-mommy.webp]]
 
-[[file:sitting-with-mommy-2.jpg]]
+[[file:sitting-with-mommy-2.webp]]
 
 * Arlingwood Park
 

@@ -1,24 +1,14 @@
 #+TITLE: Kube Demo
 #+INCLUDE: ~/org/blog/development/header.org
-* Table of Contents                                       :TOC_5_gh:noexport:
-- [[#prerequisites][Prerequisites]]
-- [[#overview][Overview]]
-- [[#namespaces][Namespaces]]
-- [[#pods][Pods]]
-- [[#services][Services]]
-- [[#configmaps][ConfigMaps]]
-- [[#secrets][Secrets]]
-- [[#deployments][Deployments]]
-- [[#mongodb-setup][MongoDB Setup]]
-  - [[#configmap][ConfigMap]]
-  - [[#service][Service]]
-  - [[#secret][Secret]]
-- [[#create-secret-via-bash][Create Secret Via Bash]]
-- [[#use-secret-in-kubectl][Use Secret In kubectl]]
-  - [[#deployment][Deployment]]
-- [[#node-application-setup][Node Application Setup]]
-  - [[#service-1][Service]]
-  - [[#deployment-1][Deployment]]
+
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image" />
+#+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+#+HTML_HEAD_EXTRA: <meta property="og:image:type" content="image/jpeg" />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://joshua-wood.dev/development/kubernetes/container.jpeg"/>
+#+HTML_HEAD_EXTRA: <meta property="og:image:width" content="1280"/>
+#+HTML_HEAD_EXTRA: <meta property="og:image:height" content="720"/>
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/">
+
 
 * Prerequisites
 

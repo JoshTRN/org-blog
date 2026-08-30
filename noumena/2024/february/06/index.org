@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/06/so-cute-standing-closeup-previewc.jpg" />
 
-[[file:so-cute-standing.jpg]]
+[[file:so-cute-standing.webp]]
 
 * Good Morning, Noumena!
 
@@ -25,9 +25,9 @@ Noumena is quite fond of her pink blanket and she needs it for nap time at dayca
 
 * Daycare
 
-[[file:nap-time.jpg]]
+[[file:nap-time.webp]]
 
-[[file:nap-time-2.jpg]]
+[[file:nap-time-2.webp]]
 
 * Picking Up Noumena
 
@@ -75,9 +75,9 @@ At some point, her mother distracts her from what she's doing and she leaves to 
 
 Just before Noumena's bath, her mother made her a strawberry milkshake. Having finished it all, of course she wanted more but neither her mother nor I would allow her any more. She's reluctant to get into the bath and stands at the entrance to the bathroom as the tub feels looking somber but nevertheless calm as she mentally prepares for not getting what she wants.
 
-[[file:so-cute-standing-2.jpg]]
+[[file:so-cute-standing-2.webp]]
 
-[[file:so-cute-standing-closeup.jpg]]
+[[file:so-cute-standing-closeup.webp]]
 
 My latest bath time trick to get Noumena to cooperate is to stack her toys on the edge of the tub and act devastated as she knocks them in. After a few rounds of that, bath time usually becomes a breeze so it's my go to option for the time being. I start listening to Nuryl while we're bathing but she'll have none of it. Instead, all she wants to listen to is Animals As Leaders, so I put on a few songs and we listen to them up until she's put on her pajamas, brushed her teeth, and it's time to go to bed.
 

@@ -2,17 +2,20 @@
 #+INCLUDE: ~/org/blog/development/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-  #+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image" />
-  #+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
-  #+HTML_HEAD_EXTRA: <meta property="og:image:type" content="image/jpeg" />
-  #+HTML_HEAD_EXTRA: <meta property="og:image" content="https://joshua-wood.dev/development/link-previews/meme.jpg"/>
-  #+HTML_HEAD_EXTRA: <meta property="og:image:width" content="750"/>
-  #+HTML_HEAD_EXTRA: <meta property="og:image:height" content="459"/>
-  #+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/">
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image" />
+#+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+#+HTML_HEAD_EXTRA: <meta property="og:image:type" content="image/jpeg" />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://joshua-wood.dev/development/link-previews/meme.jpg"/>
+#+HTML_HEAD_EXTRA: <meta property="og:image:width" content="1280"/>
+#+HTML_HEAD_EXTRA: <meta property="og:image:height" content="720"/>
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/">
 
-Every programmer understands the following meme. Though this isn't /exactly/ what I experienced, the same feeling experienced there is a similar experience I went through when trying to generate link previews for images with signal and telegram.
+Every programmer understands the following meme:
+
 
 [[file:meme.jpg]]
+
+Though this isn't /exactly/ what I experienced, the /feeling/ referenced by the meme the same feeling experienced when  I was trying to generate link previews for images with signal and telegram.
 
 Initially, when you start looking into link previews, it seems as simple as just adding the following image tag:
 
@@ -22,11 +25,9 @@ Initially, when you start looking into link previews, it seems as simple as just
 
 Deceptively, for websites such as twitter, Facebook, and LinkedIn, that is all you need. Things get a little more complicated for Signal and Telegram.
 
-* Signal
+* Signal & Telegram
 
-
-* Telegram
-
+For both Signal and Telegram, after playing with many different ratios, I ended up realizing that a 16:9 aspect ratio works. Unfortunately, the aspect ratios supported are not well documented for either application as far as I can tell. Adding the following code to the head of your application will allow both signal and telegram to fetch the image content for link preview displays.
 
 #+begin_src html
   <meta name="twitter:card" content="summary_large_image" />
@@ -36,3 +37,5 @@ Deceptively, for websites such as twitter, Facebook, and LinkedIn, that is all y
   <meta property="og:image:height" content="720"/>
   <meta property="og:url" content="https://joshua-wood.dev/">
 #+end_src
+
+Don't believe me? Copy and paste the URL to [[https://joshua-wood.dev/development/link-previews][this page]] in either application!

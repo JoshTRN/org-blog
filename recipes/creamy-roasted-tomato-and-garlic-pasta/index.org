@@ -1,0 +1,53 @@
+#+title: Creamy Roasted Tomato And Garlic Pasta
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~10 min/
++ *Cook Time*: /~30 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$3.00/
++ *Total Cost*: /~$12.25/
+
+* Ingredients
+- [ ] 3 tbsp extra virgin olive oil
+- [ ] 4 cups cherry tomatoes (whole)
+- [ ] 6–10 cloves garlic (peeled, whole)
+- [ ] 1 tbsp Italian seasoning
+- [ ] 1 tsp kosher salt
+- [ ] 1/2 tsp black pepper (freshly ground)
+- [ ] 1/2 cup vegan cream cheese (softened)
+- [ ] 1 lb pasta of choice (cook al dente)
+- [ ] 1/2 cup fresh basil (chopped)
+- [ ] 1/2 cup vegan parmesan (grated)
+
+* Method
+** Roast Tomatoes & Garlic
+1. [ ] Preheat oven to 425°F (220°C).
+2. [ ] Toss cherry tomatoes, garlic, olive oil, Italian seasoning, salt, and pepper on a sheet pan.
+3. [ ] Roast 20–30 minutes until tomatoes burst and garlic is tender.
+
+** Sauce
+1. [ ] Blend 3/4 of the roasted tomatoes with all roasted garlic, vegan cream cheese, and half the basil until smooth; adjust salt and pepper.
+
+** Pasta & Combine
+1. [ ] Boil pasta in salted water until al dente; reserve 1 cup pasta water and drain.
+2. [ ] Warm sauce in a large pan; fold in remaining roasted tomatoes.
+3. [ ] Add pasta and toss; splash in reserved water as needed for a silky sauce.
+4. [ ] Serve topped with vegan parmesan and remaining basil.
+
+* Notes
+- [ ] Add a pinch of red pepper flakes for gentle heat.
+- [ ] For extra richness, whisk 1 tbsp olive oil into the sauce off heat.
+- [ ] Use gluten-free pasta if desired.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~640   | 32%           |
+| Protein       | ~20 g  | 40%           |
+| Carbohydrates | ~95 g  | 32%           |
+| Fat           | ~20 g  | 26%           |
+| Fiber         | ~7 g   | 25%           |
+| Sugars        | ~10 g  | 20%           |
+| Sodium        | ~520 mg| 23%           |
+| Calcium       | ~200 mg| 15%           |
+| Iron          | ~5 mg  | 28%           |
+| Vitamin C     | ~30 mg | 33%           |

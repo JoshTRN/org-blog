@@ -7,15 +7,15 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/10/balloon-head-1-preview.jpg" />
 
-[[file:balloon-head-1.jpg]]
+[[file:balloon-head-1.webp]]
 
 * Morning
 
 * Daycare Pickup
 
-[[file:balloon-head-2.jpg]]
+[[file:balloon-head-2.webp]]
 
-[[file:balloon-head-3.jpg]]
+[[file:balloon-head-3.webp]]
 
 * Playing At Home
 

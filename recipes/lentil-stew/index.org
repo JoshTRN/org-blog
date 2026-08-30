@@ -1,0 +1,50 @@
+#+title: Lentil Stew
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~30 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$1.25/
++ *Total Cost*: /~$7.75/
+
+* Ingredients
+** Base
+- [ ] 1 tbsp olive oil
+- [ ] 3 large carrots (diced)
+- [ ] 1/2 onion (diced)
+- [ ] 2 large russet potatoes (peeled, diced)
+- [ ] 1 1/2 cups dry lentils (rinsed)
+- [ ] 7 cups water (or vegetable broth)
+- [ ] 5 1/2 tbsp tomato paste
+- [ ] 1 1/2 tbsp vegetable broth powder (if using water)
+- [ ] 1 cup fresh spinach (roughly chopped)
+- [ ] 1/3 cup vegan parmesan or nutritional yeast
+
+** Spices
+- [ ] 1/2 tbsp salt
+- [ ] 1 tsp black pepper
+- [ ] 1 tsp onion powder
+- [ ] 1 tsp Italian seasoning
+
+* Method
+1. [ ] Sauté carrots and onion in oil 3 minutes.
+2. [ ] Stir in lentils, water, tomato paste, broth powder, salt, pepper, onion powder, and Italian seasoning.
+3. [ ] Add potatoes; simmer ~25 minutes until lentils and potatoes are tender.
+4. [ ] Fold in spinach and vegan parmesan; heat to wilt.
+
+* Notes
+- [ ] Add a splash of red wine vinegar to brighten before serving.
+- [ ] Great for freezing.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~360   | 18%           |
+| Protein       | ~19 g  | 38%           |
+| Carbohydrates | ~61 g  | 20%           |
+| Fat           | ~6 g   | 8%            |
+| Fiber         | ~18 g  | 64%           |
+| Sugars        | ~7 g   | 14%           |
+| Sodium        | ~700 mg| 30%           |
+| Calcium       | ~140 mg| 11%           |
+| Iron          | ~7 mg  | 39%           |
+| Vitamin C     | ~22 mg | 24%           |

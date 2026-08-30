@@ -1,0 +1,106 @@
+#+TITLE: July  6, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/july/06/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July  6, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/july/06/" />
+
+* Grasshoppers
+
+#+ATTR_ORG: :width 0.7
+[[./handling-grasshoppers-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./grasshopper-handling-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./grasshopper-handling-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./grasshopper-handling-4.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./grasshopper-on-hair.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./grasshopper-on-neck.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chillin-with-hoppers-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chillin-with-hoppers-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./chillin-with-hoppers-3.webp]]
+
+* Relaxing At Home
+
+#+ATTR_ORG: :width 0.7
+[[./pouring-soymilk.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cuddling-with-daddy-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cuddling-with-daddy-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cuddling-with-daddy-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cuddling-with-daddy-4.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/mfM8caU4IbU" title="Laying In Bed With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/P66IHsW02Tg" title="Working Like Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* More Grasshoppers
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/E2xIk_AmzyU" title="Playing With Grasshoppers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+ATTR_ORG: :width 0.7
+[[./grasshopper-handling-6.webp]]
+
+* Dinner
+
+#+ATTR_ORG: :width 0.7
+[[./cooking-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cooking-2.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cooking-3.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./cooking-4.webp]]
+
+
+* Bath Time
+
+#+ATTR_ORG: :width 0.7
+[[./bath-time.webp]]
+
+* Bed Time
+
+#+ATTR_ORG: :width 0.7
+[[./checking-hair-1.webp]]
+
+#+ATTR_ORG: :width 0.7
+[[./checking-hair-2.webp]]

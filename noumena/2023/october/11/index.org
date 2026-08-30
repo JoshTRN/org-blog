@@ -1,7 +1,7 @@
 #+TITLE: October 11, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:hugging-daddys-head.jpg]]
+[[file:hugging-daddys-head.webp]]
 
 * Morning
 

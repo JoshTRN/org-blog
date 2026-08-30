@@ -10,11 +10,11 @@
 
 * Good Morning, Noumena!
 
-[[./laying-on-sidewalk-1.jpg]]
+[[./laying-on-sidewalk-1.webp]]
 
-[[./laying-on-sidewalk-2.jpg]]
+[[./laying-on-sidewalk-2.webp]]
 
-[[./chillin-on-the-couch.jpg]]
+[[./chillin-on-the-couch.webp]]
 
 * First Trip To Tidewater Acres Park
 
@@ -50,7 +50,7 @@
 
 * Lunch Time
 
-[[./lunch-with-daddy.jpg]]
+[[./lunch-with-daddy.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -61,11 +61,11 @@
 
 * Nap Time
 
-[[./nap-time.jpg]]
+[[./nap-time.webp]]
 
-[[./nap-time-2.jpg]]
+[[./nap-time-2.webp]]
 
-[[./daddy-kissing-noumena-at-nap-time.jpg]]
+[[./daddy-kissing-noumena-at-nap-time.webp]]
 
 
 * Dinner
@@ -90,9 +90,9 @@
 </div>
 #+end_export
 
-[[./afternoon-walk-picking-up-sticks-1.jpg]]
+[[./afternoon-walk-picking-up-sticks-1.webp]]
 
-[[./afternoon-walk-picking-up-sticks-2.jpg]]
+[[./afternoon-walk-picking-up-sticks-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -102,8 +102,8 @@
 
 *  Bed Time
 
-[[./bed-time-1.jpg]]
+[[./bed-time-1.webp]]
 
-[[./bed-time-2.jpg]]
+[[./bed-time-2.webp]]
 
-[[./bed-time-3.jpg]]
+[[./bed-time-3.webp]]

@@ -1,7 +1,7 @@
 #+TITLE: September 17, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
- [[file:naked-at-the-park.jpg]]
+ [[file:naked-at-the-park.webp]]
 
 Noumena, I'm so sorry I've been out of it for the last few days only uploading photos and videos. Daddy had a really rough time, but I will start bringing everything back to normal soon!
 
@@ -115,7 +115,7 @@ Surprisingly, Noumena spent most of her time at the park on or around the swings
 
 We get home at about 8:00pm which means we have around a half hour to just hangout before bath time. She plays independently in the living room and I just admire her until it's time for bath.
 
- [[file:playing-with-her-pillow.jpg]]
+ [[file:playing-with-her-pillow.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -123,7 +123,7 @@ We get home at about 8:00pm which means we have around a half hour to just hango
 </div>
 #+end_export
 
-[[file:laying-on-pillow-1.jpg]]
+[[file:laying-on-pillow-1.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -131,7 +131,7 @@ We get home at about 8:00pm which means we have around a half hour to just hango
 </div>
 #+end_export
 
-[[file:laying-on-pillow-2.jpg]]
+[[file:laying-on-pillow-2.webp]]
 
 
 * Bath Time

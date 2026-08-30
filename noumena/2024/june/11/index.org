@@ -17,7 +17,7 @@
 #+end_export
 
 
-[[file:eating-hotdogs-in-daddys-lap.jpg]]
+[[file:eating-hotdogs-in-daddys-lap.webp]]
 
 #+begin_export html
 <div class="video-container">

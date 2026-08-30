@@ -1,0 +1,47 @@
+#+title: Potato Lentil Wraps (Burritos)
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~30 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$1.25/
++ *Total Cost*: /~$7.00/
+
+* Ingredients
+- [ ] 1 tbsp olive oil
+- [ ] 1/2 onion (diced)
+- [ ] 1/2 lb dry lentils (rinsed)
+- [ ] 3 large russet potatoes (peeled, diced)
+- [ ] 3 1/2 cups water or vegetable broth
+- [ ] 1 tsp salt
+- [ ] 1 tsp black pepper
+- [ ] 1 tsp onion powder
+- [ ] 1 tsp garlic powder
+- [ ] 1 tsp oregano
+- [ ] 1 tsp chili powder
+- [ ] 1 tsp cumin
+- [ ] 1 tsp paprika
+- [ ] 6 large tortillas
+- [ ] Oil for crisping (optional)
+
+* Method
+1. [ ] Sauté onion in oil until tender. Add garlic powder and spices; toast 30 seconds.
+2. [ ] Add potatoes, water/broth, and lentils; simmer ~25 minutes until lentils are tender.
+3. [ ] Fill tortillas and roll tightly. Optional: pan-crisp with a little oil.
+
+* Notes
+- [ ] Add salsa or avocado for freshness.
+- [ ] Batch-freeze assembled wraps before crisping.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~460   | 23%           |
+| Protein       | ~17 g  | 34%           |
+| Carbohydrates | ~78 g  | 26%           |
+| Fat           | ~9 g   | 12%           |
+| Fiber         | ~12 g  | 43%           |
+| Sugars        | ~4 g   | 8%            |
+| Sodium        | ~640 mg| 28%           |
+| Calcium       | ~120 mg| 9%            |
+| Iron          | ~6 mg  | 33%           |
+| Vitamin C     | ~20 mg | 22%           |

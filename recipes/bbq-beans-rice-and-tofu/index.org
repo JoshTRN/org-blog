@@ -1,0 +1,93 @@
+#+title: BBQ Beans Rice and Tofu
+#+include: /home/joshua/org/blog/recipes/header.org
+
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~90 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$2.75/
++ *Total Cost*: /~$16.50/
+
+* Ingredients
+** Beans
++ [ ] 1 lb dried pinto beans (soaked overnight)
++ [ ] 1 stick plant-based butter
++ [ ] 1 bay leaf
++ [ ] 1 jalapeño (sliced)
++ [ ] 1 onion (diced)
++ [ ] 4–5 garlic cloves (minced)
++ [ ] 1–2 celery stalks (diced)
++ [ ] 2 tbsp tomato paste
++ [ ] 1 tbsp cumin seeds (pulverized)
++ [ ] 1 tbsp coriander seeds (pulverized)
++ [ ] 1 tbsp smoked paprika
++ [ ] 1 tsp garlic granules
++ [ ] 1 tsp onion granules
++ [ ] Salt and black pepper to taste
++ [ ] Extra water as needed
+
+** Rice
++ [ ] 1 lb long-grain brown rice (soaked and rinsed)
++ [ ] 1 tbsp olive oil
++ [ ] 1 onion (diced)
++ [ ] 4 garlic cloves (minced)
++ [ ] 2 carrots (diced)
++ [ ] 2 celery stalks (diced)
++ [ ] 2 tbsp tomato paste
++ [ ] 1 tbsp BBQ rub
++ [ ] 1 tbsp garlic granules
++ [ ] 1 tbsp onion granules
++ [ ] Salt and black pepper to taste
++ [ ] 4 cups water
+
+** Tofu
++ [ ] 1 block firm tofu (pressed and diced)
++ [ ] 1 tbsp oil (optional)
++ [ ] 1 tbsp BBQ or pork-style seasoning (vegan)
++ [ ] 1 tbsp garlic and onion granules
+
+** Garnish
++ [ ] Fresh cilantro (roughly chopped)
++ [ ] Sliced jalapeño
++ [ ] Nutritional yeast (to finish)
+
+* Method
+** Beans
+1. Add soaked beans to a large pot and cover with water about 2 inches above. Bring to a gentle boil, then reduce to a simmer and cook until tender.
+2. Melt plant-based butter in a skillet over medium heat, then add jalapeño, bay leaf, onion, and garlic. Sauté until fragrant.
+3. Stir in tomato paste, cumin, coriander, smoked paprika, garlic granules, and onion granules. Cook until aromatic.
+4. Add the sautéed mixture to the pot of beans along with diced celery. Simmer on low to deepen flavor.
+
+** Tofu
+5. Toss diced tofu with oil (optional), BBQ seasoning, garlic granules, and onion granules.
+6. Roast at 375°F (190°C) for about 35 minutes, or until dry, firm, and lightly browned.
+
+** Rice
+7. Heat olive oil in a large pan. Add onion, garlic, carrot, and celery and sauté until softened.
+8. Stir in tomato paste, BBQ rub, garlic granules, and onion granules.
+9. Add soaked rice and stir to coat. Pour in 4 cups water.
+10. Bring to a boil, cover, reduce heat to low, and cook for about 30 minutes until rice is tender.
+
+** Combine
+11. When beans are thick and rich, stir in roasted tofu.
+12. Season beans and rice with salt and pepper to taste.
+
+* Notes
++ Beans will continue to thicken as they sit; add broth or water as needed.
++ Adjust spice mix freely—oregano, chili powder, or curry powder work well.
++ For extra heat, keep the jalapeño seeds in.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | 540    | 27%           |
+| Protein       | 25 g   | 50%           |
+| Carbohydrates | 78 g   | 26%           |
+| Fat           | 16 g   | 25%           |
+| Fiber         | 15 g   | 60%           |
+| Sugars        | 6 g    | 12%           |
+| Sodium        | 520 mg | 23%           |
+| Calcium       | 160 mg | 12%           |
+| Iron          | 6 mg   | 33%           |
+| Vitamin C     | 18 mg  | 20%           |
+
+

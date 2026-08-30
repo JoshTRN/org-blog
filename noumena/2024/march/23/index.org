@@ -36,17 +36,17 @@
 
 * Car Show At Church
 
-[[file:smelling-flowers-2.jpg]]
+[[file:smelling-flowers-2.webp]]
 
-[[file:smelling-flowers-3.jpg]]
+[[file:smelling-flowers-3.webp]]
 
-[[file:smelling-flowers-6.jpg]]
+[[file:smelling-flowers-6.webp]]
 
-[[file:smelling-flowers-7.jpg]]
+[[file:smelling-flowers-7.webp]]
 
-[[file:car-show.jpg]]
+[[file:car-show.webp]]
 
-[[file:car-show-2.jpg]]
+[[file:car-show-2.webp]]
 
 * CVS
 
@@ -58,21 +58,21 @@
 
 * Tidewater Acres Park
 
-[[file:eating-stick-while-swinging-2.jpg]]
+[[file:eating-stick-while-swinging-2.webp]]
 
-[[file:eating-stick-while-swinging-3.jpg]]
+[[file:eating-stick-while-swinging-3.webp]]
 
-[[file:stick-collector-1.jpg]]
+[[file:stick-collector-1.webp]]
 
-[[file:stick-collector-2.jpg]]
+[[file:stick-collector-2.webp]]
 
-[[file:stick-collector-3.jpg]]
+[[file:stick-collector-3.webp]]
 
-[[file:stick-collector-4.jpg]]
+[[file:stick-collector-4.webp]]
 
-[[file:laying-in-grass-1.jpg]]
+[[file:laying-in-grass-1.webp]]
 
-[[file:sitting-in-grass-1.jpg]]
+[[file:sitting-in-grass-1.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -94,13 +94,13 @@
 
 * Playing At Home
 
-[[file:breaking-daddys-glasses.jpg]]
+[[file:breaking-daddys-glasses.webp]]
 
-[[file:family.jpg]]
+[[file:family.webp]]
 
 * Nap Time
 
-[[file:napping-on-daddy2.jpg]]
+[[file:napping-on-daddy2.webp]]
 
 * Mommy Comes To Visit Easter Bunny
 
@@ -110,7 +110,7 @@
 </div>
 #+end_export
 
-[[file:easter-bunny.jpg]]
+[[file:easter-bunny.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -132,14 +132,14 @@
 </div>
 #+end_export
 
-[[file:eating-ice-cream.jpg]]
+[[file:eating-ice-cream.webp]]
 
-[[file:eating-ice-cream-with-mommy-1.jpg]]
+[[file:eating-ice-cream-with-mommy-1.webp]]
 
-[[file:eating-ice-cream-with-mommy-2.jpg]]
+[[file:eating-ice-cream-with-mommy-2.webp]]
 
-[[file:eating-ice-cream-with-mommy-3.jpg]]
+[[file:eating-ice-cream-with-mommy-3.webp]]
 
-[[file:eating-ice-cream-with-mommy-4.jpg]]
+[[file:eating-ice-cream-with-mommy-4.webp]]
 
-[[file:eating-ice-cream-with-mommy-5.jpg]]
+[[file:eating-ice-cream-with-mommy-5.webp]]

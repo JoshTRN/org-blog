@@ -8,13 +8,13 @@
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/23/" />
 
 * Photos
-[[file:smothering-daddy-1.jpg]]
+[[file:smothering-daddy-1.webp]]
 
-[[file:smothering-daddy-2.jpg]]
+[[file:smothering-daddy-2.webp]]
 
-[[file:smothering-daddy-3.jpg]]
+[[file:smothering-daddy-3.webp]]
 
-[[file:smothering-daddy-4.jpg]]
+[[file:smothering-daddy-4.webp]]
 
 *  Videos
 #+begin_export html

@@ -1,0 +1,30 @@
+#+TITLE: July 30, 2026
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2026/july/30/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July 30, 2026 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2026/july/30/" />
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/kJiv7nV9bYE" title="Mirror Maze Ripleys Believe It Or Not" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photos
+
+[[./photo/all-tuckered-out.webp]]
+
+[[./photo/playing-on-the-beach-1.webp]]
+
+[[./photo/playing-on-the-beach-2.webp]]
+
+[[./photo/playing-on-the-beach-3.webp]]
+
+[[./photo/playing-on-the-beach-4.webp]]
+
+[[./photo/playing-on-the-beach-5.webp]]

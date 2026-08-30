@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/07/falling-asleep-on-floor-between-daddys-legs-2.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/07/photo/falling-asleep-on-floor-between-daddys-legs-2-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March  7, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/07/falling-asleep-on-floor-between-daddys-legs-2.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/07/photo/falling-asleep-on-floor-between-daddys-legs-2-preview.jpg" />
 
-[[file:falling-asleep-on-floor-between-daddys-legs-2.jpg]]
+[[file:falling-asleep-on-floor-between-daddys-legs-2.webp]]
 
 * Daycare
 
@@ -33,7 +33,7 @@
 
 * Bed Time
 
-[[file:falling-asleep-on-floor-between-daddys-legs-1.jpg]]
+[[file:falling-asleep-on-floor-between-daddys-legs-1.webp]]
 
 
-[[file:sleeping-with-daddy.jpg]]
+[[file:sleeping-with-daddy.webp]]

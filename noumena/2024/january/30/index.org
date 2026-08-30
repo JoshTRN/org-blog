@@ -2,18 +2,18 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/30/climbing-stairs.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/30/photo/climbing-stairs-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 30, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/30/climbing-stairs.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/30/photo/climbing-stairs-preview.jpg" />
 
-[[file:climbing-stairs.jpg]]
+[[file:climbing-stairs.webp]]
 
 * Daycare
 
-[[file:painting.jpg]]
+[[file:painting.webp]]
 
-[[file:painting-2.jpg]]
+[[file:painting-2.webp]]
 
 * Hanging Out At Home
 

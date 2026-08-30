@@ -1,0 +1,48 @@
+#+title: Creamy Cashew Mushroom Soup
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~10 min/
++ *Cook Time*: /~20 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$1.25/
++ *Total Cost*: /~$4.50/
+
+* Ingredients
+** Soup
+- [ ] 1/2 lb cremini mushrooms (stems reserved, half caps sliced)
+- [ ] 3 tbsp olive oil
+- [ ] 1 onion (roughly chopped)
+- [ ] 2–3 cloves garlic (crushed)
+- [ ] 1/2 potato (thinly sliced)
+- [ ] 4 1/2 cups vegetable stock
+- [ ] 1/2 tsp kosher salt
+- [ ] 1/4 tsp black pepper
+
+** Cashew Cream
+- [ ] 1/4 cup cashews (soaked if needed)
+- [ ] 1/4 cup water
+- [ ] Pinch salt
+
+* Method
+1. [ ] Sauté onion and garlic in oil until golden.
+2. [ ] Add potato and mushroom stems/whole caps; season and brown.
+3. [ ] Pour in stock; simmer 10 minutes.
+4. [ ] Pan-sauté sliced mushroom caps until browned; reserve.
+5. [ ] Blend cashews with water and salt to a smooth cream.
+6. [ ] Stir cashew cream into soup; blend soup until smooth. Return to pot and fold in sautéed caps.
+
+* Notes
+- [ ] Garnish with cracked pepper and a drizzle of olive oil.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~195   | 10%           |
+| Protein       | ~7 g   | 14%           |
+| Carbohydrates | ~18 g  | 6%            |
+| Fat           | ~12 g  | 15%           |
+| Fiber         | ~3 g   | 11%           |
+| Sugars        | ~4 g   | 8%            |
+| Sodium        | ~520 mg| 23%           |
+| Calcium       | ~60 mg | 5%            |
+| Iron          | ~2 mg  | 11%           |
+| Vitamin C     | ~8 mg  | 9%            |

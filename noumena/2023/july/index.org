@@ -2,6 +2,58 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 * Calendar
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <a href="/noumena/2023/july/01">1</a>
+  <a href="/noumena/2023/july/02">2</a>
+  <a href="/noumena/2023/july/03">3</a>
+  <a href="/noumena/2023/july/04">4</a>
+  <a href="/noumena/2023/july/05">5</a>
+  <a href="/noumena/2023/july/06">6</a>
+  <a href="/noumena/2023/july/07">7</a>
+  <a href="/noumena/2023/july/08">8</a>
+  <a href="/noumena/2023/july/09">9</a>
+  <a href="/noumena/2023/july/10">10</a>
+  <a href="/noumena/2023/july/11">11</a>
+  <a href="/noumena/2023/july/12">12</a>
+  <a href="/noumena/2023/july/13">13</a>
+  <a href="/noumena/2023/july/14">14</a>
+  <a href="/noumena/2023/july/15">15</a>
+  <a href="/noumena/2023/july/16">16</a>
+  <a href="/noumena/2023/july/17">17</a>
+  <a href="/noumena/2023/july/18">18</a>
+  <a href="/noumena/2023/july/19">19</a>
+  <a href="/noumena/2023/july/20">20</a>
+  <a href="/noumena/2023/july/21">21</a>
+  <a href="/noumena/2023/july/22">22</a>
+  <a href="/noumena/2023/july/23">23</a>
+  <a href="/noumena/2023/july/24">24</a>
+  <a href="/noumena/2023/july/25">25</a>
+  <a href="/noumena/2023/july/26">26</a>
+  <a href="/noumena/2023/july/27">27</a>
+  <a href="/noumena/2023/july/28">28</a>
+  <a href="/noumena/2023/july/29">29</a>
+  <a href="/noumena/2023/july/30">30</a>
+  <a href="/noumena/2023/july/31">31</a>
+</div>
+#+end_export
+
   #+begin_export html
   <div class="weekdays">
     <span>Sun</span>

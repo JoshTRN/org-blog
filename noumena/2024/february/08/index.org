@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/08/mik-mustache-preview.jpg" />
 
-[[file:mik-mustache.jpg]]
+[[file:mik-mustache.webp]]
 
 * Good Morning, Noumena!
 
@@ -19,15 +19,15 @@
 
 * Daycare
 
-[[file:crafting.jpg]]
+[[file:crafting.webp]]
 
-[[file:dance-party-1.jpg]]
+[[file:dance-party-1.webp]]
 
-[[file:dance-party-2.jpg]]
+[[file:dance-party-2.webp]]
 
-[[file:dance-party-3.jpg]]
+[[file:dance-party-3.webp]]
 
-[[file:dance-party-4.jpg]]
+[[file:dance-party-4.webp]]
 
 * Arriving Home
 

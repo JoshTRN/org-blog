@@ -1,0 +1,30 @@
+#+TITLE: January  9, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/january/09/laundry-basket-2-preview.webp">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January  9, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/january/09/laundry-basket-2-preview.webp" />
+
+[[./laundry-basket-2.webp]]
+
+* Daycare
+
+[[./daycare-1.webp]]
+
+[[./daycare-2.webp]]
+
+* Dinner
+
+*  Home
+
+[[./laundry-basket-1.webp]]
+
+[[./laundry-basket-3.webp]]
+
+* Flight Adventure Park
+
+[[./leaving-flight-adventure-park-1.webp]]
+
+[[./leaving-flight-adventure-park-2.webp]]

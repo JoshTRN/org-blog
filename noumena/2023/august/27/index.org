@@ -2,15 +2,15 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:looking-up-at-mommy.jpg]]
+[[file:looking-up-at-mommy.webp]]
 
 * Beach
 
 In the morning, after Noumena and I ate our breakfast, Noumena's mother came over for us to go to the beach. After she arrives, she changes Noumena into her bathing suit and we pack up our bags and head out.
 
-[[file:holding-sand.jpg]]
+[[file:holding-sand.webp]]
 
-[[file:standing-at-beach.jpg]]
+[[file:standing-at-beach.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -18,7 +18,7 @@ In the morning, after Noumena and I ate our breakfast, Noumena's mother came ove
 </div>
 #+end_export
 
-[[file:looking-out-at-the-beach-while-sitting-in-hole.jpg]]
+[[file:looking-out-at-the-beach-while-sitting-in-hole.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -112,7 +112,7 @@ We play on the playground for a while, until a man and two kids show up. Because
 
 * Bed Time
 
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]
 
 Noumena, Daddy is so tired tonight. I'm relying on the videos and photos to tell a lot of the story. I'm sorry, baby. Tomorrow it will be better.
 

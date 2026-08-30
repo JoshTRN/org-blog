@@ -1,0 +1,46 @@
+#+title: Lentil Curry Casserole
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~10 min/
++ *Cook Time*: /~90 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$1.25/
++ *Total Cost*: /~$6.75/
+
+* Ingredients
+- [ ] 2 tbsp olive oil
+- [ ] 1 tbsp minced garlic
+- [ ] 1/2 white onion (diced)
+- [ ] 1 bell pepper (diced)
+- [ ] 3/4 cup dry lentils (rinsed)
+- [ ] 1 can (14 oz) diced tomatoes
+- [ ] 1 can (14 oz) coconut milk
+- [ ] 2 1/2 cups vegetable broth
+- [ ] 1/2 tsp turmeric
+- [ ] 1/2 tsp cumin
+- [ ] 1 tsp curry powder
+- [ ] 1/2 tsp salt
+- [ ] 1/2 tsp black pepper
+- [ ] 1/8 tsp cinnamon
+
+* Method
+1. [ ] Heat oven to 400°F (205°C). In a baking dish, combine all ingredients; whisk to distribute coconut milk.
+2. [ ] Cover tightly with foil; bake 1 hour 20 minutes.
+3. [ ] Uncover and bake 10 minutes more until lentils are tender and sauce thickened.
+
+* Notes
+- [ ] Mash some lentils for a creamier texture.
+- [ ] Add peas or spinach in the last 10 minutes.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~380   | 19%           |
+| Protein       | ~13 g  | 26%           |
+| Carbohydrates | ~34 g  | 11%           |
+| Fat           | ~22 g  | 28%           |
+| Fiber         | ~9 g   | 32%           |
+| Sugars        | ~6 g   | 12%           |
+| Sodium        | ~520 mg| 23%           |
+| Calcium       | ~80 mg | 6%            |
+| Iron          | ~5 mg  | 28%           |
+| Vitamin C     | ~35 mg | 39%           |

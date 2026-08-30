@@ -2,12 +2,13 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/30/holding-bottles-with-towel-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/30/photo/holding-bottles-with-towel-preview-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 30, 2023 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/30/holding-bottles-with-towel-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/30/photo/holding-bottles-with-towel-preview-preview.jpg" />
 
-[[file:cute-outfit.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:cute-outfit.webp]]
 
 * Good Morning, Noumena!
 
@@ -26,7 +27,7 @@ Noumena makes her way all over the library and eventually wants to go outside wh
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3o8Msyq9-O4?si=cc9J3abKd4i3cQ5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3o8Msyq9-O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -42,19 +43,35 @@ Often when we leave the library we go to the park that's right across the street
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Na0SkQAD_dU?si=iPwa4rW0UjuaNsZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Na0SkQAD_dU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
-[[file:sitting-on-steps-in-front-of-christmas-tree.jpg]]
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/agbniUdrA5s" title="Playing Under Deer 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
 
-[[file:sitting-with-daddy-at-steps-of-james-weldon-johnson-park.jpg]]
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/8b3ey8l9Ylg" title="Playing Under Deer 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+#+ATTR_ORG: :width 50%
+[[file:sitting-on-steps-in-front-of-christmas-tree.webp]]
 
-[[file:under-the-deer-at-james-weldon-johnson-park.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:sitting-with-daddy-at-steps-of-james-weldon-johnson-park.webp]]
 
-[[file:with-daddy-by-christmas-tree-at-james-weldon-johnson-park.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:under-the-deer-at-james-weldon-johnson-park.webp]]
 
-[[file:taking-a-rest-in-the-grass.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:with-daddy-by-christmas-tree-at-james-weldon-johnson-park.webp]]
+
+#+ATTR_ORG: :width 50%
+[[file:taking-a-rest-in-the-grass.webp]]
 
 It's about 12:30pm when I start thinking about lunch. I have just been having massive cravings for tofu lately, so I start looking for restaurants nearby that serve tofu. Dissatisfied with all of the options, I quickly settle on a Thai food place that's close to our house before strapping Noumena into her car seat and handing her her drawing pad to play with and we listen to her favorite songs on the way there.
 
@@ -62,7 +79,7 @@ It's about 12:30pm when I start thinking about lunch. I have just been having ma
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-O8USOcf3pA?si=5M0T5mYAH6PyY8d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-O8USOcf3pA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -70,9 +87,11 @@ It's about 12:30pm when I start thinking about lunch. I have just been having ma
 
 I decided upon leaving lunch that even though it's later than usual that she'll be napping, I still want to take her out to the park while it's still warm and sunny out, so I decide to take her to Arlingwood park. I'm not sure if it's her favorite park, but I think so far it's definitely one of my favorites. Luckily for us, there's a lot of kids there. Noumena's always hesitant when she meets strangers, which is good, but once she acclimates to all the kids having such a good time she joins them in running around on the playground. My little risk taker is always trying to climb the most dangerous piece of the playground equipment. Of course, I help her the entire time.
 
-[[file:rocking-with-rowen-2.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:rocking-with-rowen-2.webp]]
 
-[[file:rocking-with-rowen.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:rocking-with-rowen.webp]]
 
 We don't stay too long, however, since it's passed Noumena's nap time. She doesn't give me too much fuss as we leave. I think giving her a lot of opportunities to have fun and participating in the fun and interacting with her so much makes her easier to handle. When we get home, I take off her shoes, change her diaper and lay her down for nap. Noumena is really good about nap time and she impresses me. Even if she's not tired straight away, she'll lay in her crib contentedly until she falls asleep... as long as Daddy is by her side, that is.
 
@@ -82,7 +101,7 @@ Noumena awakes after only an hour of sleep. I'm conflicted about it because whil
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tQZF7hf6O0g?si=bjovrINyKDpQBXCx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQZF7hf6O0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -92,7 +111,7 @@ On our way, Noumena finds a goose feather. For some reason, it bears more signif
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nATmyJJQ9lE?si=6URC7jTtB6F5_ezf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nATmyJJQ9lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -106,7 +125,7 @@ Of course, when we get back home, the first thing I do is change the smoke detec
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nbNoRAQQ8c4?si=X-QAHYD8k4dhyLVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nbNoRAQQ8c4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -118,7 +137,7 @@ Of course, tofu scramble is made with turmeric giving it that yellow color and s
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8BmCtCsMnvg?si=F27E-8vXTuYXSTYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8BmCtCsMnvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -130,20 +149,40 @@ Running out of ideas of what to play with, I take her into her room to see if th
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bRPbhckHc4E?si=szRy7m1qJz_tK1IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRPbhckHc4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
-[[file:sitting-with-daddy.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:sitting-with-daddy.webp]]
 
 * Bath & Bed Time
 
 We follow our typical bath time routine, but I get Noumena washed somewhat hastily today. When I go to remove her from the tub, she picks up her bottles of baby shampoo and I'm lucky enough to snap the cutest picture.
 
-[[file:holding-bottles-with-towel.jpg]]
+#+ATTR_ORG: :width 50%
+[[file:holding-bottles-with-towel.webp]]
 
 I'm lucky that I went through the bath so quickly tonight because it took about 20 minutes for her to fall asleep. I laid her down at about 8:50pm and I wasn't confident she was asleep until about 9:10pm. We got through her whole playlist with her just laying in bed listening to it holding my hand. I even replayed /Stand By Me/ of us because after /Just The Two Of Us/ had finished, I peered up from beside her crib to find her eyes still open. Thankfully after /Stand By Me/ finished, she was fast asleep.
 
 Noumena, I had a blast with you today! We did so much and I'm so looking forward to having a blast with you tomorrow as well.
 
 Good night, sweet baby. I miss you already. I'll see you in the morning. Hopefully we can do something special together tomorrow!
+
+#+ATTR_ORG: :width 50%
+[[./photo/holding-bottles-with-towel-preview.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./first-goose-feather.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sitting-on-chairs.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sitting-on-chairs-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sitting-on-chairs-3.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/sitting-with-daddy-2.webp]]

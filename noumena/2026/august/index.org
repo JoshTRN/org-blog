@@ -1,0 +1,55 @@
+#+TITLE:August 2026
+#+INCLUDE: /home/joshua/org/blog/noumena/header.org
+
+* Calendar
+#+begin_export html
+<div class="weekdays">
+  <span>Sun</span>
+  <span>Mon</span>
+  <span>Tue</span>
+  <span>Wed</span>
+  <span>Thu</span>
+  <span>Fri</span>
+  <span>Sat</span>
+</div>
+<br>
+<div class="calendar">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <a>1</a>
+  <a>2</a>
+  <a>3</a>
+  <a>4</a>
+  <a>5</a>
+  <a>6</a>
+  <a>7</a>
+  <a>8</a>
+  <a>9</a>
+  <a href="/noumena/2026/august/10">10</a>
+  <a>11</a>
+  <a href="/noumena/2026/august/12">12</a>
+  <a>13</a>
+  <a>14</a>
+  <a>15</a>
+  <a href="/noumena/2026/august/16">16</a>
+  <a>17</a>
+  <a>18</a>
+  <a href="/noumena/2026/august/19">19</a>
+  <a>20</a>
+  <a href="/noumena/2026/august/21">21</a>
+  <a>22</a>
+  <a href="/noumena/2026/august/23">23</a>
+  <a href="/noumena/2026/august/24">24</a>
+  <a href="/noumena/2026/august/25">25</a>
+  <a href="/noumena/2026/august/26">26</a>
+  <a href="/noumena/2026/august/27">27</a>
+  <a href="/noumena/2026/august/28">28</a>
+  <a href="/noumena/2026/august/29">29</a>
+  <a>30</a>
+  <a>31</a>
+</div>
+#+end_export

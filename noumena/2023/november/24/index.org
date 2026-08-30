@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:what-is-noumena-doing.jpg]]
+[[file:what-is-noumena-doing.webp]]
 
 * Mall With Mommy
 

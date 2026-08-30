@@ -1,7 +1,7 @@
 #+TITLE: August  7, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:Doing-Art-With-Friend.jpg]]
+[[file:Doing-Art-With-Friend.webp]]
 
 * Morning
 
@@ -39,9 +39,9 @@ I carried Noumena on my shoulders to the park. I realized a trick to getting her
 
 It's 7:30pm when we get back home, so Noumena and I just wander around the house with one another. I can't remember why I put Noumena up on the bed, maybe because she was trying to get up there herself or because I chased her into the room, but once she's up there, she's loving me running around the bed and she tries to avoid me in the cutest ways possible whenever I get close to her which involves smashing her face into the mattress repeatedly.
 
-[[file:cute-even-when-sick.jpg]]
+[[file:cute-even-when-sick.webp]]
 
-[[file:cute-when-sick-2.jpg]]
+[[file:cute-when-sick-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -57,11 +57,11 @@ I think Chalmers sees us messing around and gets hyped up. While Noumena is stil
 </div>
 #+end_export
 
-[[file:laying-on-chalmers.jpg]]
+[[file:laying-on-chalmers.webp]]
 
-[[file:looking-at-chalmers.jpg]]
+[[file:looking-at-chalmers.webp]]
 
-[[file:touching-chalmers.jpg]]
+[[file:touching-chalmers.webp]]
 
 
 Afterward, Chalmers is still amped and she totally loves it, so I make him chase us down the hall back and forth.

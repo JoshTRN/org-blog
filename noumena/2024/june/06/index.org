@@ -9,7 +9,7 @@
 
 * Dinner At CAVA
 
-[[./bench-at-cava.jpg]]
+[[./bench-at-cava.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -20,7 +20,7 @@
 * Riverside Park
 
 #+ATTR_HTML: :loading lazy
-[[./dick-pond-riverside-park.jpg]]
+[[./dick-pond-riverside-park.webp]]
 
 #+begin_export html
 <div class="video-container">

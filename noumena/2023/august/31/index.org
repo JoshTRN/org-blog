@@ -1,7 +1,7 @@
 #+TITLE: August 31, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sitting-at-the-park.jpg]]
+[[file:sitting-at-the-park.webp]]
 
 * Morning
 
@@ -19,9 +19,9 @@ I had bade a bean salad for lunch that had garbanzo beans, kidney beans, pinto b
 
 * Park
 
-[[file:smiling-on-playground.jpg]]
+[[file:smiling-on-playground.webp]]
 
-[[file:closeup-smiling.jpg]]
+[[file:closeup-smiling.webp]]
 
 
 Right when I set her down, the first thing she does is start picking up sticks, trying to eat leaves and throwing them around.

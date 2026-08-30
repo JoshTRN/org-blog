@@ -1,0 +1,94 @@
+#+title: Vegan Butter Tofu
+#+include: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~35 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$2.75/
++ *Total Cost*: /~$11.00/
+
+* Ingredients
+** Tofu
++ [ ] 1 lb super firm tofu (broken into bite sized chunks, patted dry)
+
+** Marinade
++ [ ] 1 Tbsp lemon juice
++ [ ] 2 Tbsp neutral oil (canola or vegetable)
++ [ ] 1 Tbsp soy sauce
++ [ ] 1 Tbsp vegan yogurt (or vegan mayonnaise)
++ [ ] 1 tsp garlic powder
++ [ ] 1/2 tsp turmeric
++ [ ] 1 tsp garam masala
++ [ ] 1 tsp Kashmiri chili powder (or 1/2 tsp cayenne pepper and 1/2 tsp smoked paprika)
++ [ ] 1 tsp ground cumin
++ [ ] 1 tsp ground coriander
++ [ ] 1 tsp ground ginger
++ [ ] 1 tsp dried fenugreek leaves (crushed)
++ [ ] 2 Tbsp nutritional yeast
++ [ ] 3 Tbsp water (mixed into marinade)
+
+** Gravy Base
++ [ ] 4 Tbsp vegan butter (divided)
++ [ ] 1/2 medium onion (diced)
++ [ ] 6 garlic cloves (minced)
+
+** Gravy Spices
++ [ ] 1 tsp Kashmiri chili powder (or 1/2 tsp cayenne pepper and 1/2 tsp smoked paprika)
++ [ ] 1 tsp ground ginger
++ [ ] 1 tsp turmeric
++ [ ] 2 tsp garam masala
++ [ ] 2 tsp ground coriander
++ [ ] 2 tsp ground cumin
++ [ ] 1 Tbsp dried fenugreek leaves (crushed)
+
+** Sauce
++ [ ] 28 oz crushed tomatoes or passata
++ [ ] 1/4 cup raw cashews
++ [ ] 1/4–1/2 cup unsweetened plant milk
++ [ ] 1/2–1 cup water (added as needed for consistency)
+
+** For Serving
++ [ ] 2 Tbsp fresh cilantro (chopped)
+
+* Method
+** Tofu
+1. Heat a large skillet over medium heat and lightly oil the pan.
+2. Add the marinated tofu pieces in a single layer without crowding the pan.
+3. Cook undisturbed for about 2–3 minutes until browned.
+4. Turn the pieces and brown at least one additional side.
+5. Remove the tofu from the skillet and reserve for later.
+
+** Gravy
+1. Melt 2 Tbsp vegan butter in the same pan over medium heat.
+2. Add the diced onion and cook until soft and translucent, about 8–10 minutes.
+3. Stir in the minced garlic and all gravy spices and cook for about 1 minute until fragrant.
+4. Add the crushed tomatoes and about 1/4 cup water and stir to combine.
+5. Add the raw cashews and simmer the sauce for about 10 minutes.
+
+** Blend and Finish
+1. Blend the sauce until smooth using an immersion blender or high speed blender.
+2. Return the sauce to the pan if blended separately.
+3. Stir in the plant milk and remaining 2 Tbsp vegan butter and cook until melted and incorporated.
+4. Add water gradually until the sauce reaches the desired creamy consistency.
+5. Return the browned tofu to the sauce and simmer for several minutes until heated through.
+6. Serve hot over rice or flatbread and garnish with chopped cilantro.
+
+* Notes
++ Breaking tofu instead of cutting creates rough edges that brown well and hold sauce.
++ Kashmiri chili powder provides color and mild heat. The cayenne and smoked paprika mixture is a good substitute.
++ Blending the sauce with cashews creates a rich and creamy texture without dairy.
++ Add more plant milk for a milder and creamier sauce.
++ This dish pairs well with basmati rice, naan, or flatbread.
+
+* Nutrition
+| Nutrient | Amount | % Daily Value |
+| Calories | 420 kcal | 21% |
+| Protein | 18 g | 36% |
+| Carbohydrates | 26 g | 9% |
+| Fat | 28 g | 36% |
+| Fiber | 6 g | 21% |
+| Sugars | 8 g | 16% |
+| Sodium | 720 mg | 31% |
+| Calcium | 260 mg | 20% |
+| Iron | 5 mg | 28% |
+| Vitamin C | 18 mg | 20% |
+

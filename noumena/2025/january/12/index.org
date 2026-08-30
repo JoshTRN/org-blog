@@ -1,0 +1,83 @@
+#+TITLE: January 12, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/january/12/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 12, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/january/12/" />
+
+* Making Food With Daddy
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/e-afcKujit0" title="Eating Chickpea Tuna Salad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Flight Adventure Park
+
+[[./messing-with-banner-at-flight-adventure-park.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/Vzu2-wcCJr4" title="Playing Connect 4 At Flight Adventure Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./motion-blur.webp]]
+
+[[./explaining-motion-blur.webp]]
+
+[[./explaining-motion-blur-2.webp]]
+
+* Back at Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/s6zc90b2Uko" title="Singing Happy Birthday To Chalmers And Putting Bows On Him" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Linner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/G-0-u0ghtyo" title="Reading Snow Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Quick Run To Publix
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/JkMLgOe71TI" title="Searching For Lemonade At Publix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Relaxing At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/hx8SOVMiSM8" title="Eating Bowl Of Chickpea Tuna Salad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/rtJWbAtEnJ8" title="Being Weird With Her Cup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./cuddling-daddy.webp]]
+
+[[./cuddling-kowie-1.webp]]
+
+[[./cuddling-kowie-2.webp]]
+
+[[./watching-tv-laying-on-daddys-legs.webp]]
+
+* Bath Time
+
+* Bed Time

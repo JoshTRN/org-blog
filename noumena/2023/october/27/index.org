@@ -1,7 +1,7 @@
 #+TITLE: October 27, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sleeping-in.jpg]]
+[[file:sleeping-in.webp]]
 
 * Good Morning, Noumena!
 
@@ -17,9 +17,9 @@ When we arrive, I set Noumena right on the ground and she walks with me holding 
 
 Mommy texted me telling me she wanted Noumena to see her Halloween costume, so after picking Noumena up, we went to pick up her mother. Mommy was wearing a wig and had pale makeup on and was dressed nothing like usual. I'm not quite sure Noumena recognized Mommy when Mommy got into the car, and Mommy was acting very strange. Noumena stared at her for about 30 seconds before I asked Mommy what she was doing and she told me she was trying to see if Noumena would recognize her. After a little while, it became clear to Noumena that it was her mother under all the strange garb. Mommy wanted to go to the park nearby, so we head there to play for a little while.
 
-[[file:with-mommy-at-park-2.jpg]]
+[[file:with-mommy-at-park-2.webp]]
 
-[[file:with-mommy-at-park.jpg]]
+[[file:with-mommy-at-park.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -35,19 +35,19 @@ I'm not sure why, but at some point I really wanted to go to this restaurant nam
 
 I chose to sit outside as I usually prefer outdoor dining. The host pulled a chair out for me and asked if I needed a high chair. I said yes and he left to retrieve it, but since the chair was already pulled out, I set Noumena down on it and then sat across from her.
 
-[[file:sitting-at-table-with-daddy.jpg]]
+[[file:sitting-at-table-with-daddy.webp]]
 
-[[file:looking-at-menu.jpg]]
+[[file:looking-at-menu.webp]]
 
-[[file:sitting-at-table-2.jpg]]
+[[file:sitting-at-table-2.webp]]
 
-[[file:chewing-on-table.jpg]]
+[[file:chewing-on-table.webp]]
 
 
 I left Noumena in the same sport even after they had brought a high chair since she seemed comfortable and we ordered while she was still sitting there. When they brought the water, I sat her in the high chair and gave her stuff to drink. Instead of sitting still and waiting for the food, since Noumena seemed like she wanted to wander around, so we walked outside and through the restaurant. We circled back outside, and then saw our food so sat down to eat.
 
 
-[[file:drinking-water-good.jpg]]
+[[file:drinking-water-good.webp]]
 
 The food was beautiful and amazing! Noumena and I shared a butternut squash pizza and an ancient grains bowl that had all sorts of healthy food in it. She ate a ton. I couldn't rightly let my date go without desert, so we ordered a chocolate chip cookie.
 
@@ -60,7 +60,7 @@ The food was beautiful and amazing! Noumena and I shared a butternut squash pizz
 
 * Courtyard After Dinner
 
-[[file:wandering-in-courtyard.jpg]]
+[[file:wandering-in-courtyard.webp]]
 
 Instead of going straight home after dinner, I took Noumena into the courtyard of the plaza we were in where they have fountains and chairs and all sorts of pretty, well manicured shrubbery. Noumena goes absolutely wild and the evening is truly magical.
 

@@ -1,6 +1,6 @@
 #+TITLE: November 12, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
-[[file:hanging-out-at-home.jpg]]
+[[file:hanging-out-at-home.webp]]
 
 
 
@@ -30,7 +30,7 @@
 </div>
 #+end_export
 
-[[file:loving-chalmers.jpg]]
+[[file:loving-chalmers.webp]]
 
 #+begin_export html
 <div class="video-container">

@@ -1,7 +1,7 @@
 #+TITLE: September 28, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:profile.jpeg]]
+[[file:profile.webp]]
 
 * Morning
 
@@ -15,9 +15,9 @@ After getting her dressed, which was pleasantly easy this morning, I set her up 
 
 * Daycare
 
-[[file:playing-at-daycare.jpg]]
+[[file:playing-at-daycare.webp]]
 
-[[file:playing-at-daycare-2.jpg]]
+[[file:playing-at-daycare-2.webp]]
 
 
 When I arrived to pick Noumena up from daycare, she was eating a 5pm snack. This is unusual. They typically last feed the children at about 2pm, but I have to say I'm grateful for the change up today. I'm always concerned with whether she's eating enough, so it was a bit relieving that she would have a snack in her belly as we drove home. When her eyes met mine, it was the most conflicted I'd ever seen her. She was still eating the chex mix in a bowl they'd given her and not about to stop, so she looked at me, stood up from her chair, looked back at her food and started pondering what to do. "I know," you could see the cogs spinning, "I'll just take the food with me!" she thought as stood from the chair, picked up the bowl and started carrying it towards Daddy.
@@ -27,9 +27,9 @@ I assured Noumena that she didn't have to do that and that I would wait patientl
 * Arriving Home
 
 
-[[file:touching-kisa.jpg]]
+[[file:touching-kisa.webp]]
 
-[[file:standing-next-to-kisa.jpg]]
+[[file:standing-next-to-kisa.webp]]
 
 When Noumena and I arrive home, Kisa is laying in the front lawn in the exact same position she was when I left to pick Noumena up 30 minutes ago. Noumena loves being outside so much and she also is enamored with Kisa, so I set her down to greet Kisa and play in the front yard. I had initially planned to just take Noumena to the park from the front yard not even entering the house, but when I started carrying her, I could smell that she had soiled her diaper, so I have to change it. We inside and begin the wrestling match that is changing her diaper. She's really taken to putting up a huge fight all while having fecal matter stuck to her butt so that's exciting, but eventually she succumbs and I get her back into a new diaper and clothes. I wasn't sure if she'd touched her dirty bottom while I was changing her, so I wash her hands.
 
@@ -69,11 +69,11 @@ I leave Noumena in the patch of grass even after she's done chasing the geese to
 </div>
 #+end_export
 
-[[file:holding-johns-racket.jpg]]
+[[file:holding-johns-racket.webp]]
 
-[[file:johns-racket.jpg]]
+[[file:johns-racket.webp]]
 
-[[file:playing-with-jons-racket.jpg]]
+[[file:playing-with-jons-racket.webp]]
 
 * Tidewater Acres Park
 
@@ -99,9 +99,9 @@ Eventually Noumena says "slide" indicating that she'd like to get down to go dow
 </div>
 #+end_export
 
-[[file:hitting-post.jpg]]
+[[file:hitting-post.webp]]
 
-[[file:hugging-post-at-park.jpg]]
+[[file:hugging-post-at-park.webp]]
 
 #+begin_export html
 <div class="video-container">

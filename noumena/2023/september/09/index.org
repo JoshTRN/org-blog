@@ -1,7 +1,7 @@
 #+TITLE: September  9, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:looking-outward-with-bubbles-in-the-backgound.jpg]]
+[[file:looking-outward-with-bubbles-in-the-backgound.webp]]
 
 * Morning
 
@@ -28,9 +28,9 @@ Noumena seems to pay extra special attention today. I'm not sure what's differen
 
 After story time, we play in the courtyard a bit. I let her wander and we play hide and seek.
 
-[[file:hanging-in-the-courtyard.jpg]]
+[[file:hanging-in-the-courtyard.webp]]
 
-[[file:hanging-in-the-courtyard-2.jpg]]
+[[file:hanging-in-the-courtyard-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -66,13 +66,13 @@ When we leave the library, there are some events going on at the park across the
 </div>
 #+end_export
 
-[[file:sidewalk-chalk.jpg]]
+[[file:sidewalk-chalk.webp]]
 
 Moving on from he petting zoo, there's more stuff going on. I'm not sure I really follow all of it, all I know is that I saw 2 big bubble making machines and I want Noumena to check them out so we head over there. Once we get there, there's also sidewalk chalk on the ground, so of course I show Noumena how to play with it and I got some good photos in the process!
 
-[[file:playing-with-bubbles.jpg]]
+[[file:playing-with-bubbles.webp]]
 
-[[file:playing-with-bubbles-2.jpg]]
+[[file:playing-with-bubbles-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -80,7 +80,7 @@ Moving on from he petting zoo, there's more stuff going on. I'm not sure I reall
 </div>
 #+end_export
 
-[[file:trying-to-grab-bubble-machine.jpg]]
+[[file:trying-to-grab-bubble-machine.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -89,15 +89,15 @@ Moving on from he petting zoo, there's more stuff going on. I'm not sure I reall
 #+end_export
 
 
-[[file:walking-away-with-the-bubbles.jpg]]
+[[file:walking-away-with-the-bubbles.webp]]
 
-[[file:walking-away.jpg]]
+[[file:walking-away.webp]]
 
 * Home And Lunch
 
 It's earlier than Noumena's normal nap time by the time we get home, but she seems cranky when we arrive. Because she's cranky, I don't want to try to cook and have to attend to her at the same time, so I lay her down for a nap. She falls asleep at about noon, which is earlier than I usually let her take her nap, but it's fine. If I don't let her sleep too long, she'll take another nap in the afternoon.
 
-[[file:waking-up-from-nap.jpg]]
+[[file:waking-up-from-nap.webp]]
 
 While she was napping, I cooked up some tofu scramble. I also prepared an avocado, but I'm really reluctant about eating avocados if they're not pristine. Call it paranoia, but they just seem to spoil so fast. Anyway, she eats none of the avocado and a ton of the tofu scramble. The parts of the avocado I had were good, so I guess it's fine.
 
@@ -110,9 +110,9 @@ Also while she was napping, Noumena's mother decided she was going to come back 
 
 Just before we exit the door, I set Noumena down since Kisa is laying on the Adirondack chairs on our porch. As Noumena approaches, Kisa removes herself from the chair. Noumena follows and ends up seated on the porch with Kisa in front of her.
 
-[[file:sitting-with-kisa.jpg]]
+[[file:sitting-with-kisa.webp]]
 
-[[file:sitting-with-kisa-2.jpg]]
+[[file:sitting-with-kisa-2.webp]]
 
 We head off to the nature center.
 
@@ -149,11 +149,11 @@ Upon arrival, we see the goats and the chickens all in the same pen together. We
 </div>
 #+end_export
 
-[[file:watching-goats.jpg]]
+[[file:watching-goats.webp]]
 
-[[file:watching-goats-2.jpg]]
+[[file:watching-goats-2.webp]]
 
-[[file:watching-goats-3.jpg]]
+[[file:watching-goats-3.webp]]
 
 
 * Home
@@ -166,7 +166,7 @@ I had to get some baby supplied and also a few household items so I packed Noume
 
 Once at Walmart, I make a quick effort to get the diapers and wipes I had come there for. We make quick work of getting all the other supplies so that we could hang out in the toy isle and play with all the stuff!
 
-[[file:in-mirror-at-walmart.jpg]]
+[[file:in-mirror-at-walmart.webp]]
 
 #+begin_export html
 <div class="video-container">

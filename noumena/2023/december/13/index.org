@@ -1,7 +1,7 @@
 #+TITLE: December 13, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:bed-head.jpg]]
+[[file:bed-head.webp]]
 
 
 * Morning
@@ -50,6 +50,6 @@
 
 * Bath & Bed Time
 
-[[file:messy-hair-1.jpg]]
+[[file:messy-hair-1.webp]]
 
-[[file:messy-hair-2.jpg]]
+[[file:messy-hair-2.webp]]

@@ -1,7 +1,7 @@
 #+TITLE: July 30, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:smiling-while-laying-on-daddy.jpg]]
+[[file:smiling-while-laying-on-daddy.webp]]
 
 
 I decided to try to keep the animals out of the bedroom last night because I was worried that I'm allergic to something they bring in with them. I also turned off the ceiling fan. I slept better than I've slept in a long time. I'm going to do it again tonight and see if things keep getting better. If they do, I'll start letting the pets back in to see if things change.
@@ -18,29 +18,32 @@ I feed her porridge and we end up listening to music all morning.
 </div>
 #+end_export
 
-[[file:huge-smile-on-pillow.jpg]]
+[[file:huge-smile-on-pillow.webp]]
 
-[[file:kneeling-over-chalmers-on-bed.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/standing-on-bed.webp]]
 
-[[file:mounting-chalmers-on-bed.jpg]]
+[[file:kneeling-over-chalmers-on-bed.webp]]
 
-[[file:playing-with-chalmers-peepee.jpg]]
+[[file:mounting-chalmers-on-bed.webp]]
 
-[[file:sitting-on-daddys-pillow.jpg]]
+[[file:playing-with-chalmers-peepee.webp]]
 
-[[file:sitting-on-daddys-pillow-2.jpg]]
+[[file:sitting-on-daddys-pillow.webp]]
 
-[[file:sitting-on-daddys-pillow-3.jpg]]
+[[file:sitting-on-daddys-pillow-2.webp]]
 
-[[file:sitting-on-daddys-pillow-4.jpg]]
+[[file:sitting-on-daddys-pillow-3.webp]]
 
-[[file:sitting-on-the-bed-loving-chalmers.jpg]]
+[[file:sitting-on-daddys-pillow-4.webp]]
 
-[[file:sitting-on-the-bed-loving-chalmers-2.jpg]]
+[[file:sitting-on-the-bed-loving-chalmers.webp]]
 
-[[file:sitting-on-the-bed-loving-chalmers-3.jpg]]
+[[file:sitting-on-the-bed-loving-chalmers-2.webp]]
+#+ATTR_ORG: :width 50%
+[[./photo/sitting-on-the-bed-loving-chalmers-3.webp]]
 
-[[file:sitting-on-the-bed-loving-chalmers-4.jpg]]
+[[file:sitting-on-the-bed-loving-chalmers-4.webp]]
 
 * Late Morning
 
@@ -114,7 +117,11 @@ Just as she takes the slide for the final time, it starts to rain. With perfect 
 
 * Back at Home
 
-[[file:sitting-on-the-dryer.jpg]]
+[[file:sitting-on-the-dryer.webp]]
+
+
+#+ATTR_ORG: :width 50%
+[[./photo/touching-daddys-cheek.webp]]
 
 It's about 7pm once we're back home, and luckily I remember right away that the laundry needs to go into the dryer. So, I enlist Noumena's help as a supervisor to watch over me from atop the drying machine to make sure I don't make any mistakes while loading it. She seemingly approves of my methods, so I take her off and we head inside the house.
 

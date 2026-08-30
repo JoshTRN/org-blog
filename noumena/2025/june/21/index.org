@@ -1,0 +1,143 @@
+#+TITLE: June 21, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/21/sitting-with-grasshopper-banner-preview.webp"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 21, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/21/sitting-with-grasshopper-banner-preview.webp" />
+
+[[./sitting-with-grasshopper-banner.webp]]
+
+* Pancakes!
+
+[[./after-hair.webp]]
+
+[[./before-hair.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/KvpeZxvzgSE" title="Playing Xylophone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/3i2JLHgCtfI" title="Playing With Bear Chair And Xylophone On Bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Grasshoppers
+
+[[./sitting-next-to-door-1.webp]]
+
+[[./sitting-next-to-door-3.webp]]
+
+[[./sitting-with-grasshopper-1.webp]]
+
+[[./sitting-with-grasshopper-4.webp]]
+
+[[./sitting-with-grasshopper-5.webp]]
+
+[[./sitting-with-grasshopper-6.webp]]
+
+[[./holding-grasshopper-2.webp]]
+
+[[./holding-grasshopper-3.webp]]
+
+[[./holding-grasshopper-7.webp]]
+
+[[./holding-grasshopper-8.webp]]
+
+[[./holding-grasshopper-9.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/KKPRo46afSU" title="Catching Grasshoppers 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/1DcFSx59slI" title="Catching Grasshoppers 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="548" src="https://www.youtube.com/embed/iKvEUmRmh1Q" title="Catching Grasshoppers 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* CVS & Church Hangout
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/X575PcWZbJY" title="Noumena Says She Loves Daddy So Much" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Back At Home
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/jsyZgOKgTLk" title="Biting Kowie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/zms2r5AB7eg" title="A Little More Xylophone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/Yupt4Srbigo" title="Playing Piano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/XKOrbsou5uQ" title="Playing Piano On Daddys Lap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/SmQUHtmeqn8" title="Busting In The Bathroom Mad Cropped" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./drawing-on-lips-with-dry-erase-1.webp]]
+
+[[./drawing-on-lips-with-dry-erase-2.webp]]
+
+[[./drawing-on-lips-with-dry-erase-4.webp]]
+
+[[./put-the-tops-back-on.webp]]
+
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/mJquK9UuE8k" title="Peeling Cheese Off Pizza" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/aXVeR8wb3oY" title="Unorthodox Pizza Eating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+
+* Bounce Park
+
+[[./daddy-take-a-pic-of-me-3.webp]]
+
+[[./daddy-take-a-pic-of-me-5.webp]]
+
+[[./daddy-take-a-pic-of-me-6.webp]]

@@ -1,12 +1,12 @@
 #+TITLE: March 14, 2024
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/14/with-daddy-on-slide-5-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/14/photo/with-daddy-on-slide-5-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 14, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/14/with-daddy-on-slide-5-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/14/photo/with-daddy-on-slide-5-preview.jpg" />
 
-[[file:with-daddy-on-slide-5.jpg]]
+[[file:with-daddy-on-slide-5.webp]]
 
 * Dinner
 
@@ -30,9 +30,9 @@
 </div>
 #+end_export
 
-[[file:swinging-2.jpg]]
+[[file:swinging-2.webp]]
 
-[[file:with-daddy-on-slide-3.jpg]]
+[[file:with-daddy-on-slide-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -54,6 +54,6 @@
 
 * Bed Time
 
-[[file:cuddling-up-with-daddy-1.jpg]]
+[[file:cuddling-up-with-daddy-1.webp]]
 
-[[file:cuddling-up-with-daddy-2.jpg]]
+[[file:cuddling-up-with-daddy-2.webp]]

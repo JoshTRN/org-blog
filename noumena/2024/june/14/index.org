@@ -9,17 +9,17 @@
 
 * Good Morning, Noumena
 
-[[./kix-in-the-morning-6.jpg]]
+[[./kix-in-the-morning-6.webp]]
 
-[[./kix-in-the-morning-5.jpg]]
+[[./kix-in-the-morning-5.webp]]
 
-[[./kix-in-the-morning-4.jpg]]
+[[./kix-in-the-morning-4.webp]]
 
-[[./kix-in-the-morning-3.jpg]]
+[[./kix-in-the-morning-3.webp]]
 
-[[./kix-in-the-morning-2.jpg]]
+[[./kix-in-the-morning-2.webp]]
 
-[[./kix-in-the-morning-1.jpg]]
+[[./kix-in-the-morning-1.webp]]
 
 * Tidewater Acres Park
 #+begin_export html
@@ -38,6 +38,6 @@
 * Walking Home From Park
 
 
-[[./dirty-with-daddy.jpg]]
+[[./dirty-with-daddy.webp]]
 
-[[./dirty-face.jpg]]
+[[./dirty-face.webp]]

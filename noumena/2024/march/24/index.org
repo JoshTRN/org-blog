@@ -17,9 +17,9 @@
 </div>
 #+end_export
 
-[[file:loving-on-giant-bear-4.jpg]]
+[[file:loving-on-giant-bear-4.webp]]
 
-[[file:loving-on-giant-bear-5.jpg]]
+[[file:loving-on-giant-bear-5.webp]]
 
 * Morning Walk
 
@@ -43,7 +43,7 @@
 
 * CVS
 
-[[file:getting-out-all-the-bunnies-at-cvs.jpg]]
+[[file:getting-out-all-the-bunnies-at-cvs.webp]]
 
 * Nap Time
 
@@ -53,9 +53,9 @@
 </div>
 #+end_export
 
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]
 
-[[file:sleeping-on-her-bear.jpg]]
+[[file:sleeping-on-her-bear.webp]]
 
 * Playing At Home
 
@@ -65,13 +65,13 @@
 </div>
 #+end_export
 
-[[file:looking-at-daddy-through-window-1.jpg]]
+[[file:looking-at-daddy-through-window-1.webp]]
 
-[[file:looking-at-daddy-through-window-4.jpg]]
+[[file:looking-at-daddy-through-window-4.webp]]
 
 * Evening Walk
 
-[[file:walking-by-drainage-ditch.jpg]]
+[[file:walking-by-drainage-ditch.webp]]
 
 #+begin_export html
 <div class="video-container">

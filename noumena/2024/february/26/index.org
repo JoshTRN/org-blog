@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/26/sleeping-with-daddy-preview.jpg" />
 
-[[file:sleeping-with-daddy.jpg]]
+[[file:sleeping-with-daddy.webp]]
 
 * Daycare
 
@@ -65,7 +65,7 @@
 
 * Bed Time
 
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]
 
 #+begin_export html
 <div class="video-container">

@@ -1,0 +1,107 @@
+#+TITLE: December 15, 2024
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/december/15/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 15, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/december/15/" />
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/Olk29-QJ1UI" title="Jumping On Daddy And Riding Like A Horse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+
+* Walmart
+
+[[./eating-mazano-1.webp]]
+
+[[./eating-mazano-2.webp]]
+
+* Arlingwood Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="689" src="https://www.youtube.com/embed/YPWBFPsXDyM" title="Capturing Noumenas Amazing Running" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./busted-tooth.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/RlMFweNQJbw" title="Noumenas Heatwarming Run And Fall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/BCmiko3NWXk" title="Running Up To Daddy For Hugs And Kisses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+* Back At Home
+
+[[./lime-squeezer-1.webp]]
+
+[[./lime-squeezer-2.webp]]
+
+[[./lime-squeezer-3.webp]]
+
+[[./lime-squeezer-4.webp]]
+
+[[./lime-squeezer-5.webp]]
+
+[[./putting-away-utensils-2.webp]]
+
+[[./putting-away-utensils.webp]]
+
+* Nap Time
+
+[[./sleeping-with-chalmers-1.webp]]
+
+[[./sleeping-with-chalmers-2.webp]]
+
+[[./sleeping-with-chalmers-3.webp]]
+
+[[./sleeping-with-chalmers-4.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/W9nkf6W5E7o" title="Eating Mashed Potatoes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Evening
+
+[[./playing-with-little-people-1.webp]]
+
+[[./playing-with-little-people-2.webp]]
+
+* Night Time Walk
+
+[[./moon.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/G_tjqwb01QI" title="Staying Safe On The Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/2Z4DwdKrll4" title="Chasing Daddy Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/cPx6MQEVRwc" title="Chasing And Pulling Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

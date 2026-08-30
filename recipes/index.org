@@ -1,0 +1,40 @@
+#+TITLE: Recipes
+#+INCLUDE: ~/org/blog/recipes/header.org
+
+* Mains
+ * [[./vegan-tuscan-style-cutlets/][Vegan Tuscan-Style Cutlets]] (Total Cost: /~$9.00/)
++ [[./vegan-butter-tofu/][Vegan Butter Tofu]] (Total Cost: /~$11.00/)
++ [[./one-pot-creamy-pesto-pasta/][One Pot Creamy Pesto Pasta]] (Total Cost: /~$8.00/)
++ [[./bbq-beans-rice-and-tofu/][BBQ Beans Rice and Tofu]] (Total Cost: /~$16.50/)
++ [[./one-pot-creamy-pesto-pasta/][One-Pot Creamy Pesto Pasta]] (Total Cost: /~$10.00/)
++ [[./one-pot-spiced-creamy-lentils-and-sweet-potatoes/][One Pot Spiced Creamy Lentils and Sweet Potatoes]] (Total Cost: /~$12.00/)
++ [[./quick-veggie-stir-fry-with-evoo/][Quick Veggie Stir-Fry with EVOO]] (Total Cost: /~$5.50/)
++ [[./ultimate-buddha-bowl-with-glazed-tofu-and-roasted-chickpeas/][Ultimate Buddha Bowl with Glazed Tofu & Roasted Chickpeas]] (/~$6.75/)
++ [[./lentil-curry-casserole/][Lentil Curry Casserole]] (/~$6.75/)
++ [[./mexican-lentil-skillet/][Mexican Lentil Skillet]] (/~$10.00/)
++ [[./tofu-salmon/][Tofu Salmon]] (/~$5.50/)
++ [[./creamy-roasted-tomato-and-garlic-pasta/][Creamy Roasted Tomato And Garlic Pasta]] (/~$12.25/)
++ [[./beans-and-orzo-situation/][Beans and Orzo Situation]] (/~$7.50/)
++ [[./creamy-tuscan-tofu/][Creamy Tuscan Tofu Recipe]] (/~$7.25/)
++ [[./savory-red-lentil-curry/][Savory Red Lentil Curry]] (/~$8.50/)
++ [[./lentil-bolognese/][Lentil Bolognese]] (/~$9.50/)
++ [[./potato-lentil-wraps/][Potato Lentil Wraps (Burritos)]] (/~$7.00/)
+
+* Soups
++ [[./lentil-stew/][Lentil Stew]] (/~$7.75/)
++ [[./pho/][Pho]] (/~$22.00/)
++ [[./red-lentil-soup/][Red Lentil Soup]] (/~$6.75/)
++ [[./creamy-cashew-mushroom-soup/][Creamy Cashew Mushroom Soup]] (/~$4.50/)
++ [[./italian-lentil-soup/][Italian Lentil Soup]] (/~$8.00/)
+
+* Sauces
++ [[./vegan-brown-gravy/][Vegan Brown Gravy]] (Total Cost: /~2.00/)
++ [[./tahini-yogurt-dressing/][Tahini Yogurt Dressing]] (/~$2.75/)
+
+* Salads
+
+* Sides
++ [[./chimichurri-smashed-potatoes-with-chickpea-dip/][Chimichurri Smashed Potatoes with Chickpea Dip]] (/~$6.75/)
++ [[./chewy-no-bake-peanut-butter-dark-chocolate-oat-bars/][Chewy No-Bake Peanut Butter Dark Chocolate Oat Bars]] (/~$5.00/)
+* Desserts
+ * [[./creamy-vegan-banana-pudding-tiramisu/][Creamy Vegan Banana Pudding Tiramisu]] (Total Cost: /~$18.00/)

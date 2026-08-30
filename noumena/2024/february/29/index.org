@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/29/feeding-chalmers-pie-preview.jpg" />
 
-[[file:feeding-chalmers-pie.jpg]]
+[[file:feeding-chalmers-pie.webp]]
 
 * Good Morning, Noumena!
 
@@ -33,7 +33,7 @@
 
 * Feeding Pets
 
-[[file:feeding-chalmers-treats.jpg]]
+[[file:feeding-chalmers-treats.webp]]
 
 #+begin_export html
 <div class="video-container">

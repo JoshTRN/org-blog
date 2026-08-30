@@ -1,7 +1,7 @@
 #+TITLE: August 12, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:noumena-hanging-with-goat.jpg]]
+[[file:noumena-hanging-with-goat.webp]]
 
 * Morning
 
@@ -28,7 +28,7 @@ We ended up in Noumena's room some time after breakfast and while we're playing 
 
 We drive to Unicorn World, wait in line after parking, and head into the convention center. The moment we can get out of line, we do and start looking for the Unicorns. The animatronic unicorns are really creepy. There are tons of kids there and Noumena absolutely loves it.
 
-[[file:touching-unicorn-with-mommy-closeup.jpg]]
+[[file:touching-unicorn-with-mommy-closeup.webp]]
 
 
 #+begin_export html
@@ -45,9 +45,9 @@ There's stuff for toddlers there too! We stop by the story time there, but Noume
 </div>
 #+end_export
 
-[[file:looking-through-bars-full-closeup.jpg]]
+[[file:looking-through-bars-full-closeup.webp]]
 
-[[file:noumena-with-fairy-and-daddy.jpg]]
+[[file:noumena-with-fairy-and-daddy.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -187,7 +187,7 @@ I wanted to pick up some stuff to make soup for us tomorrow, so we head to Publi
 
 * Park
 
-[[file:playing-with-leaves-on-slide.jpg]]
+[[file:playing-with-leaves-on-slide.webp]]
 
 The park is on the way back from Publix and we have some time since it's only about 7:40pm, so we stop there for a little while. I didn't know we'd have so much fun there but today at the park was really awesome. Of course, she has to pick up all the trash before she starts playing, though.
 
@@ -230,4 +230,4 @@ Noumena, I had so much fun with you today. We have a fun day planned tomorrow to
 
 I love you, baby. Please sleep well and I'll dream about you.
 
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]

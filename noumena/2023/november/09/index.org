@@ -16,7 +16,7 @@
 </div>
 #+end_export
 
-[[file:cookie.jpg]]
+[[file:cookie.webp]]
 
 * Back At Home
 
@@ -38,7 +38,7 @@
 </div>
 #+end_export
 
-[[file:laying-in-bed.jpg]]
-[[file:next-to-chalmers-3.jpg]]
-[[file:next-to-chalmers-4.jpg]]
-[[file:playing-with-dog-food-bag.jpg]]
+[[file:laying-in-bed.webp]]
+[[file:next-to-chalmers-3.webp]]
+[[file:next-to-chalmers-4.webp]]
+[[file:playing-with-dog-food-bag.webp]]

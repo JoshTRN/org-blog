@@ -2,9 +2,5 @@
 #+AUTHOR: Joshua Wood
 #+INCLUDE: header.org
 
-
-* Categories
-+ [[file:development][Development]]
-
-+ [[file:philosophy][Philosophy]]
-
+* [[file:development][Development]]
+* [[file:recipes][Recipes]]

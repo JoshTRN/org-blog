@@ -1,0 +1,50 @@
+#+title: Mexican Lentil Skillet
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~35 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$1.75/
++ *Total Cost*: /~$10.00/
+
+* Ingredients
+** Base
+- [ ] 1 tbsp olive oil
+- [ ] 1/2 white onion (diced)
+- [ ] 1 large sweet potato (peeled, 1/2 inch dice)
+- [ ] 1 tbsp minced garlic
+- [ ] 1 cup dry lentils (rinsed)
+- [ ] 1 tbsp tomato paste
+- [ ] 1 can (14 oz) diced tomatoes
+- [ ] 3 cups vegetable broth
+- [ ] 1 can (15 oz) black beans (drained, rinsed)
+- [ ] 1 can (15 oz) corn (drained)
+
+** Seasoning & Finish
+- [ ] 1 1/2 tbsp taco seasoning
+- [ ] Black pepper (to taste)
+- [ ] 1 cup vegan cheddar (shredded)
+- [ ] Cilantro (chopped, for topping)
+
+* Method
+1. [ ] Heat oil; sauté onion, sweet potato, and garlic until softened.
+2. [ ] Stir in tomato paste and taco seasoning; cook 1 minute.
+3. [ ] Add tomatoes, broth, lentils, black beans, and corn; simmer covered ~30 minutes, stirring.
+4. [ ] Top with vegan cheddar to melt. Finish with black pepper and cilantro.
+
+* Notes
+- [ ] Serve with lime wedges and avocado.
+- [ ] Use red lentils for faster cooking (reduce liquid slightly).
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~420   | 21%           |
+| Protein       | ~19 g  | 38%           |
+| Carbohydrates | ~64 g  | 21%           |
+| Fat           | ~10 g  | 13%           |
+| Fiber         | ~16 g  | 57%           |
+| Sugars        | ~9 g   | 18%           |
+| Sodium        | ~820 mg| 36%           |
+| Calcium       | ~150 mg| 12%           |
+| Iron          | ~6 mg  | 33%           |
+| Vitamin C     | ~20 mg | 22%           |

@@ -1,7 +1,7 @@
 #+TITLE: August 19, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sitting-by-the-city.jpg]]
+[[file:sitting-by-the-city.webp]]
 
 I took 20 videos today which is too much to include in the journal entry, so here is a link to a [[https://www.youtube.com/playlist?list=PLvsp2g973pZvd4Jk5JGgeT4JK0peTAQeW][playlist of all of today's videos]].
 
@@ -49,7 +49,7 @@ Noumena's mother suggested going to the museum after story time and I agreed so 
 </div>
 #+end_export
 
-[[file:watching-the-turtle-2.jpg]]
+[[file:watching-the-turtle-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -57,7 +57,7 @@ Noumena's mother suggested going to the museum after story time and I agreed so 
 </div>
 #+end_export
 
-[[file:touching-octopus-looking-at-camera.jpg]]
+[[file:touching-octopus-looking-at-camera.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -95,7 +95,7 @@ We hung out inside until about 6:30pm. I wanted it to cool down a little bit bef
 #+end_export
 
 
-[[file:looking-out-across-the-river.jpg]]
+[[file:looking-out-across-the-river.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -103,7 +103,7 @@ We hung out inside until about 6:30pm. I wanted it to cool down a little bit bef
 </div>
 #+end_export
 
-[[file:daddy-and-noumena-in-front-of-downtown.jpg]]
+[[file:daddy-and-noumena-in-front-of-downtown.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -111,7 +111,7 @@ We hung out inside until about 6:30pm. I wanted it to cool down a little bit bef
 </div>
 #+end_export
 
-[[file:noumena-running-into-the-park.jpg]]
+[[file:noumena-running-into-the-park.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -119,7 +119,7 @@ We hung out inside until about 6:30pm. I wanted it to cool down a little bit bef
 </div>
 #+end_export
 
-[[file:resting-on-daddy.jpg]]
+[[file:resting-on-daddy.webp]]
 
 
 * Bath and Bed time

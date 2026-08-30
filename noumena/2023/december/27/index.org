@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/27/playing-in-fort-1-preview.jpg"/>
 
-[[file:playing-in-fort-1.jpg]]
+[[file:playing-in-fort-1.webp]]
 
 * Good Morning, Noumena
 
@@ -59,7 +59,7 @@ Walking into the store, we see a worker there we've known for a long time named 
 
 * More Playing At Home
 
-[[file:playing-in-fort-2.jpg]]
+[[file:playing-in-fort-2.webp]]
 
 Right as we get home, I get Noumena to finish what we started and feed Kisa. She begins to play in her fort a little bit, so I think I'm going to have a good amount of time to cook dinner. Unfortunately I was wrong, so I use the electronic baby sitter to distract her while I cook. Thankfully, she's content to watch music videos on autoplay, which, out of all the television options, I have the least issue with.
 

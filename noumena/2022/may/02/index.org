@@ -1,0 +1,16 @@
+#+TITLE: May  2, 2022
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/may/02/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  8, 2024 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2022/may/02/" />
+
+* Photos
+
+[[./laying-in-bed-with-slippers-1.webp]]
+
+[[./laying-in-bed-with-slippers-2.webp]]
+
+[[./picking-her-nose.webp]]

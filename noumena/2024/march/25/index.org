@@ -9,7 +9,7 @@
 
 * Good Morning, Noumena!
 
-[[file:playing-with-bears-in-morning.jpg]]
+[[file:playing-with-bears-in-morning.webp]]
 
 * Tidewater Acres Park
 
@@ -19,13 +19,13 @@
 </div>
 #+end_export
 
-[[file:sitting-on-bridge-1.jpg]]
+[[file:sitting-on-bridge-1.webp]]
 
-[[file:sitting-on-bridge-2.jpg]]
+[[file:sitting-on-bridge-2.webp]]
 
-[[file:sitting-on-bridge-3.jpg]]
+[[file:sitting-on-bridge-3.webp]]
 
-[[file:sitting-on-bridge-4.jpg]]
+[[file:sitting-on-bridge-4.webp]]
 
 * Back At Home
 

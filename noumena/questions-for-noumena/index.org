@@ -1,0 +1,13 @@
+#+TITLE: 7 Questions to Ask Noumena Before It's Too Late
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+* Questions
+
+1. What do you think about a lot?
+2. What makes you happiest?
+3. How do you feel around me most of the time?
+4. Is there anything about the world or people you want to understand?
+5. What's your favorite memory with our family?
+6. Is there anything you're worried or stressed about?
+7. Is there anything you want to learn about together?

@@ -1,0 +1,34 @@
+#+TITLE: August 23, 2026
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2026/august/23/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="August 23, 2026 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2026/august/23/" />
+
+
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/7pm3V4H98xk" title="Wanting To Watch Vitaliy Sing Almost Again" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/_icllZKk-bU" title="Dancing With The Birds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Photos
+
+[[./photo/locked-into-the-matrix-with-daddy.webp]]
+
+[[./photo/daddy-hurt-poor-noumena.webp]]
+
+[[./photo/hanging-with-the-brown-anole.webp]]
+
+[[./photo/steering-the-ship-with-daddy.webp]]

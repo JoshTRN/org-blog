@@ -1,0 +1,48 @@
+#+title: Lentil Bolognese
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~35 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$1.50/
++ *Total Cost*: /~$9.50/
+
+* Ingredients
+** Sauce
+- [ ] 1 tbsp olive oil
+- [ ] 1/2 white onion (diced)
+- [ ] 8 oz mushrooms (diced)
+- [ ] 1 tbsp minced garlic
+- [ ] 1 can (14 oz) fire-roasted diced tomatoes
+- [ ] 24 oz pasta sauce (jarred)
+- [ ] 2 cups water
+- [ ] 1 cup dry lentils (rinsed)
+- [ ] 1 tsp Italian seasoning
+- [ ] 1/2 tsp salt
+- [ ] 1/4 tsp black pepper
+
+** Pasta & Topping
+- [ ] Spaghetti (cooked al dente)
+- [ ] Vegan parmesan (for serving)
+
+* Method
+1. [ ] Sauté onion and mushrooms in oil with salt and pepper until softened.
+2. [ ] Add garlic; cook 30 seconds.
+3. [ ] Stir in tomatoes, pasta sauce, water, lentils, and Italian seasoning; simmer covered ~25 minutes, stirring.
+4. [ ] Serve over spaghetti; top with vegan parmesan.
+
+* Notes
+- [ ] Swap mushrooms for carrots, peppers, or peas if preferred.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~520   | 26%           |
+| Protein       | ~22 g  | 44%           |
+| Carbohydrates | ~90 g  | 30%           |
+| Fat           | ~9 g   | 12%           |
+| Fiber         | ~16 g  | 57%           |
+| Sugars        | ~14 g  | 28%           |
+| Sodium        | ~780 mg| 34%           |
+| Calcium       | ~140 mg| 11%           |
+| Iron          | ~6 mg  | 33%           |
+| Vitamin C     | ~20 mg | 22%           |

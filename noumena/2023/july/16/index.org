@@ -1,7 +1,7 @@
 #+TITLE: July 16, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:with-mommy-on-pier.jpg]]
+[[file:with-mommy-on-pier.webp]]
 
 * Happy Morning!
 
@@ -9,6 +9,8 @@ Noumena wakes up a little earlier than usual at 7:15am, but she's not making a w
 
 We do some laundry to wash her sheets and some clothes and she plays independently while I tidy up the house a little all while listening to Nuryl. When the laundry is done drying, Noumena helps me fold it and put it away. Since she had destroyed her room yesterday, we spend some time tidying that up and organizing her clothes after we're done putting stuff away.
 
+#+ATTR_ORG: :width 50%
+[[./photo/trying-to-get-the-cup.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -34,7 +36,7 @@ At about 11, I take her to the park to wear her out. Since she woke up so late, 
 
 We get back to the house around 11:50ish. I heat up some soup and feed it to her then give her a date while I tidy up. When it reaches about 12:50pm, I take her in her room and rock her as she lays her head against my chest until she falls asleep. While she sleeps, this is the perfect opportunity to prepare food for the week. I make more porridge and soup adding mango to the porridge this time just to give it a little bit extra sweetness. She sleeps for 2 hours.
 
-[[file:porridge-soup.jpg]]
+[[file:porridge-soup.webp]]
 
 
 Just as we're leaving to go to the pier to visit with Mommy, my car starts stuttering and having issues. Oh brother, this again... We decide to take Mommy's car instead, but I forget the backpack in my car which has her change of clothes and diapers,, so we only get to hang out at the pier.
@@ -43,9 +45,9 @@ Just as we're leaving to go to the pier to visit with Mommy, my car starts stutt
 
 When walking on the pier, Noumena starts off really loving it. She's excited just to explore, but mommy wants her to take a look over the edge of the pier. Immediately this triggers some sort of anxiety. It could be a holdover from some of the vehicle issues, but I feel it in my chest. I'm so freaked out about her falling off the edge of the pier, I compulsively hold her.  Even now, just thinking back, my spine and legs are tingling. Sadly for me, Noumena */loves/* looking over the edge of the pier and whines when we let her down. She loves looking out at the ocean and over the beach and even tries doing insane daredevil stuff to jump in while we're holding her. I don't even like the way it makes me feel writing this out right now!
 
-[[file:with-mommy-on-pier-2.jpg]]
+[[file:with-mommy-on-pier-2.webp]]
 
-[[file:with-mommy-on-pier-3.jpg]]
+[[file:with-mommy-on-pier-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -65,13 +67,14 @@ When walking on the pier, Noumena starts off really loving it. She's excited jus
 </div>
 #+end_export
 
-[[file:on-the-pier.jpg]]
+[[file:on-the-pier.webp]]
 
-[[file:looking-over-the-edge-2.jpg]]
+[[file:looking-over-the-edge.webp]]
 
-[[file:looking-over-the-edge.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/looking-over-the-edge-2.webp]]
 
-[[file:smiling-on-the-pier.jpg]]
+[[file:smiling-on-the-pier.webp]]
 
 
 * Dinner
@@ -95,6 +98,9 @@ Returning home, I get her changed and want to go for a walk before it starts to 
 </div>
 #+end_export
 
+#+ATTR_ORG: :width 50%
+[[./photo/hanging-with-friends.webp]]
+
 * Returning home
 
 Getting home, I think she might be hungry, but when I try to get her to finish a puree we had started earlier, she won't do it. What I didn't understand is that when we got home she saw her cup full of soymilk and just wanted to drink. Once I give it to her, she drinks the whole cup and I go back to refill it. When she drinks, she loves dancing around and it's really funny to see.
@@ -111,3 +117,5 @@ Getting home, I think she might be hungry, but when I try to get her to finish a
 At about 8pm, I don't really want to do anything, so I put Noumena on the bed with me and we just hang out until bath time. After her bath, she's very worn out so while we listen to /Isn't She Lovely/ she falls asleep right away. I take her to her room and listen to /Stand By Me/ and she's totally out. I lay her down and she's sleeping like a log.
 
 See you tomorrow, Noumena. I love you.
+
+* Photos

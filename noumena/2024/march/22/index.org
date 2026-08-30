@@ -2,14 +2,14 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/22/hugging-korina-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/22/photo/hugging-korina-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 22, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/22/hugging-korina-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/22/photo/hugging-korina-preview.jpg" />
 
 * Good Morning, Noumena!
 
-[[file:toast-time.jpg]]
+[[file:toast-time.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -19,11 +19,11 @@
 
 * Daycare Pickup
 
-[[file:hugging-korina.jpg]]
+[[file:hugging-korina.webp]]
 
 * Dinner
 
-[[file:noumena-takes-daddys-photo.jpg]]
+[[file:noumena-takes-daddys-photo.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -102,12 +102,12 @@
 
 * Bath Time
 
-[[file:peeing-on-floor.jpg]]
+[[file:peeing-on-floor.webp]]
 
 
 * Bed Time
 
 
-[[file:sleeping-on-daddy.jpg]]
+[[file:sleeping-on-daddy.webp]]
 
-[[file:more-sleeping-on-daddy.jpg]]
+[[file:more-sleeping-on-daddy.webp]]

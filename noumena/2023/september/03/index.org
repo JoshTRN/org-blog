@@ -5,14 +5,15 @@
 #+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/noumena/2023/september/03/">
 #+HTML_HEAD_EXTRA: <meta name="og:type" content="article">
 #+HTML_HEAD_EXTRA: <meta name="og:title" content="September  3, 2023">
-#+HTML_HEAD_EXTRA: <meta name="og:image" content="https://joshua-wood.dev/noumena/2023/september/03/playing-in-balls-smiling.jpg">
+#+HTML_HEAD_EXTRA: <meta name="og:image" content="https://joshua-wood.dev/noumena/2023/september/03/photo/playing-in-balls-smiling-preview.jpg">
 #+HTML_HEAD_EXTRA: <meta property="og:image:width" content="4000">
 #+HTML_HEAD_EXTRA: <meta property="og:image:height" content="3000">
 #+HTML_HEAD_EXTRA: <meta property="og:image:alt" content>
-#+HTML_HEAD_EXTRA: <meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/september/03/playing-in-balls-smiling.jpg">
+#+HTML_HEAD_EXTRA: <meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/september/03/photo/playing-in-balls-smiling-preview.jpg">
 #+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image">
 
-[[file:playing-in-balls-smiling.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/playing-in-balls-smiling.webp]]
 
 * Morning
 
@@ -97,13 +98,17 @@ We really didn't do a lot around the house. We just played with toys and read bo
 
 * Walmart
 
-[[file:smoked-gouda-at-walmart.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/smoked-gouda-at-walmart.webp]]
 
 I needed to get some grocery shopping done, so we went to walmart so I could pick up stuff for the week. After our shopping was concluded, I packed all the grocery bags into the car. I couldn't just leave like that though, so we went back inside to let Noumena play in the toy isle. the first thing she was was a pit of balls and that's exactly what she wanted to play in!
 
-[[file:playing-in-balls.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/playing-in-balls-1.webp]]
 
-[[file:playing-in-balls-2.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/playing-in-balls-2.webp]]
+
 
 
 #+begin_export html
@@ -112,17 +117,28 @@ I needed to get some grocery shopping done, so we went to walmart so I could pic
 </div>
 #+end_export
 
-[[file:playing-in-balls-3.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/playing-in-balls-3.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/playing-in-balls-4.webp]]
+
 
 * Park
+#+ATTR_ORG: :width 50%
+[[./photo/mommy-and-noumena.webp]]
 
 I took Noumena to the park on the way back home. Today, she seemed more interested in the vegetation than the playground. We swing in the swings a little bit but it wasn't long before we needed to head back home.
 
-[[file:hiding-behind-tree.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/hiding-behind-tree.webp]]
 
-[[file:hiding-behind-tree-2.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/hiding-behind-tree-2.webp]]
 
-[[file:hiding-behind-tree-closup.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/hiding-behind-tree-closup.webp]]
+
 
 * Home
 
@@ -139,3 +155,35 @@ We wrestled on the bed until bath time. After her bath, today's teeth brushing s
 Noumena is didn't take a nap since she had woken up at 3pm so at this point she's been up six hours. That was plenty of time to make her tired. Before /Isn't She Lovely/ is over, Noumena is fast asleep. I continue to hold her and dance through /Stand By Me/ and even a little of /Just The Two Of Us/ before laying her down in her crib. When I lay her down, she doesn't move a muscle. She's fast asleep.
 
 Good night, Noumena! I was so excited that you said your first sentence today! It's just onward and upward from here, baby! I'm sure you'll continue to make progress and impress Daddy every day of your life! I love you! Please sleep soundly, my precious baby girl.
+
+* Videos
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/TnDMuU9VCGA" title="Trying Smoked Gouda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/yvROwMN_h0M" title="Looking At Doggies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/XncTspabmpw" title="Eating Mcdonalds 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/LXV_QvuvV1w" title="Eating Mcdonalds 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/KK074IcJNzk" title="Riding Daddys Shoulders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

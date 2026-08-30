@@ -1,7 +1,7 @@
 #+TITLE: October 19, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:playing-with-her-toys-on-her-chair.jpg]]
+[[file:playing-with-her-toys-on-her-chair.webp]]
 
 * Videos
 

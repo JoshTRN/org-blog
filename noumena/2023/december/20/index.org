@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/20/bundled-up-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/20/photo/bundled-up-cropped-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 20, 2023 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/20/bundled-up-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/20/photo/bundled-up-cropped-preview.jpg" />
 
-[[file:church-stairs-2.jpg]]
+[[file:church-stairs-2.webp]]
 
 * Good Morning, Noumena!
 
@@ -24,9 +24,9 @@ I've been watching a lot of Montessori videos on YouTube and they strongly empha
 #+end_export
 
 
-[[file:cute-outfit-2.jpg]]
+[[file:cute-outfit-2.webp]]
 
-[[file:cute-outfit-for-today.jpg]]
+[[file:cute-outfit-for-today.webp]]
 
 After eating and getting dressed for the day, following the theme of fostering independence, I allow her to get into the car and sit in her car seat all by herself.
 
@@ -52,7 +52,7 @@ Tonight's menu consists of leftover mashed potatoes, tofu scramble and a protein
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LsvZ1Aks-4k?si=JiAd-Pume8pB3lci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LsvZ1Aks-4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -68,15 +68,15 @@ I had Nevermore stuck in my head, so I turned that on and Noumena and I listened
 
 Afterward, I wanted to take Noumena on a walk through the neighborhood. Given that Noumena's jacket from earlier was soiled by the food she'd eaten and remembering that she had another jacket in the car, I go out to get it. Noticing a zip up hoodie in there, I bring that in as well. I first put on her hoodie, but fearing that it might not be warm enough, I overlay her leopard print jacket. She is so mismatched it's hilarious. Her long, red and black, plaid long sleeve shirt protrudes from the bottom of her bright pink hoodie which is wrapped by her leopard print jacket. it's truly a sight to behold!
 
-[[file:bundled-up.jpg]]
+[[file:bundled-up.webp]]
 
-[[file:bundled-up-2.jpg]]
+[[file:bundled-up-2.webp]]
 
 On our walk, the neighborhood dogs are out, compelling Noumena to stop and have a chat.
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cAq7_nMxeGQ?si=eUqXCjz7zWiXsCCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cAq7_nMxeGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -84,15 +84,15 @@ I'm not sure why, but the church parking lot seems like such a great place to wa
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h0ddbNtnGds?si=vexa6hUlNCHPKIpS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0ddbNtnGds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
 I saw this flight of stairs and knowing how much Noumena loves to climb stairs (can you imagine?) we spend a few minutes there. Knowing this, however, makes it all the more difficult for her when it's time to pull her away. It's almost 8pm, so we have to head back home and she lets her dissatisfaction with the situation be know through protest. Nevertheless, I stick to my guns and carry her back home eventually being able to distract her by point to the various objects like trees, mailboxes, driveways and houses on our way back bringing the fussiness to an end.
 
-[[file:chruch-stairs.jpg]]
+[[file:chruch-stairs.webp]]
 
-[[file:church-stairs-3.jpg]]
+[[file:church-stairs-3.webp]]
 
 Once home, I get Noumena to feed the pets after playing with her flashcards a bit that had been left out. I get Noumena to feed the pets and then we read a few books until bath time.
 
@@ -102,13 +102,13 @@ As usual, Noumena is so wonderfully helpful during bath time allowing me to clea
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seAv_KgMwSY?si=UAtmjMux13-reQeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seAv_KgMwSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M3wkt_YqFIA?si=47Qf0dUm55FJnuiB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3wkt_YqFIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 

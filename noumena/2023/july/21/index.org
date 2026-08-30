@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 #+ATTR_ORG: :width 100%
-[[file:noumena-with-boxers-and-blanket.jpg]]
+[[file:noumena-with-boxers-and-blanket.webp]]
 
 * Morning
 
@@ -18,9 +18,9 @@ I take a bit of time to use the restroom, and when I come out, Noumena has drape
 </div>
 #+end_export
 
-[[file:noumena-with-boxers-around-neck.jpg]]
+[[file:noumena-with-boxers-around-neck.webp]]
 
-[[file:noumena-with-boxers.jpg]]
+[[file:noumena-with-boxers.webp]]
 
 * Daycare
 
@@ -34,15 +34,15 @@ I've sometimes thought about what milestones she's going to reach and I'm no lon
 </div>
 #+end_export
 
-[[file:trike.jpg]]
+[[file:trike.webp]]
 
-[[file:trike-2.jpg]]
+[[file:trike-2.webp]]
 
-[[file:crafts.jpg]]
+[[file:crafts.webp]]
 
-[[file:crafts-zoomed-out.jpg]]
+[[file:crafts-zoomed-out.webp]]
 
-[[file:crafts-zoomed-out-2.jpg]]
+[[file:crafts-zoomed-out-2.webp]]
 
 * Back Home
 
@@ -77,11 +77,11 @@ Arriving at the park, there are 2 clearly malnourished kittens right where we pa
 </div>
 #+end_export
 
-[[file:through-the-looking-glass.jpg]]
+[[file:through-the-looking-glass.webp]]
 
-[[file:through-the-looking-glass-closer.jpg]]
+[[file:through-the-looking-glass-closer.webp]]
 
-[[file:trying-to-see-noumena-through-the-looking-glass.jpg]]
+[[file:trying-to-see-noumena-through-the-looking-glass.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -99,7 +99,7 @@ When leaving, I turn the car on to start the air conditioning, put Noumena in th
 
 Once we get home, I first give Noumena soymilk since she was hot at the park,put her into her crib, grab the cats, put them in the bathroom in my room, and close the doors to both my room and the bathroom so Chalmers can't bother them and give them food and water.
 
-[[file:stray-kittens.jpg]]
+[[file:stray-kittens.webp]]
 
 * Playing in the Living Room
 

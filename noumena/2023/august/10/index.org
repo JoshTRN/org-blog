@@ -1,7 +1,7 @@
 #+TITLE: August 10, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:net-over-head.jpg]]
+[[file:net-over-head.webp]]
 
 * Morning
 
@@ -20,9 +20,9 @@ Since she woke up earlier than usual, she actually fell asleep on the way to day
 
 * Daycare
 
-[[file:daycare-1.jpg]]
+[[file:daycare-1.webp]]
 
-[[file:daycare-2.jpg]]
+[[file:daycare-2.webp]]
 
 * Shopping
 

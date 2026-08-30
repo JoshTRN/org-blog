@@ -10,20 +10,20 @@
 * Water Day At Daycare
 
 
-[[file:water-day-1.jpg]]
+[[file:water-day-1.webp]]
 
-[[file:water-day-2.jpg]]
+[[file:water-day-2.webp]]
 
 
 * Walmart
 
-[[file:playing-in-plushies-1.jpg]]
+[[file:playing-in-plushies-1.webp]]
 
-[[file:playing-in-plushies-2.jpg]]
+[[file:playing-in-plushies-2.webp]]
 
-[[file:playing-in-plushies-3.jpg]]
+[[file:playing-in-plushies-3.webp]]
 
-[[file:playing-in-plushies-4.jpg]]
+[[file:playing-in-plushies-4.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -38,7 +38,7 @@
 #+end_export
 
 
-[[file:slide-acquired.jpg]]
+[[file:slide-acquired.webp]]
 
 * First Time With New Slide!
 
@@ -54,7 +54,7 @@
 </div>
 #+end_export
 
-[[file:playing-in-living-room.jpg]]
+[[file:playing-in-living-room.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -65,4 +65,4 @@
 
 * Bed Time
 
-[[file:going-to-bed-on-daddy.jpg]]
+[[file:going-to-bed-on-daddy.webp]]

@@ -1,9 +1,9 @@
 #+TITLE: November 27, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:reading-with-daddy-making-him-hot.jpg]]
+[[file:reading-with-daddy-making-him-hot.webp]]
 
-[[file:making-a-mess.jpg]]
+[[file:making-a-mess.webp]]
 
 
 
@@ -16,4 +16,4 @@
 
 * Bed Time
 
-[[file:sleeping-in-daddys-arms.jpg]]
+[[file:sleeping-in-daddys-arms.webp]]

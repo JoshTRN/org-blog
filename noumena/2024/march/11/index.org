@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/11/carried-by-chris-3-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/11/photo/carried-by-chris-3-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 11, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/11/carried-by-chris-3-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/11/photo/carried-by-chris-3-preview.jpg" />
 
-[[file:carried-by-chris-3.jpg]]
+[[file:carried-by-chris-3.webp]]
 
 * Good Morning, Noumena!
 
@@ -49,7 +49,7 @@ After all this fuss, we've finished eating and it's time to go. I prompt Noumena
 
 Of course Noumena's bursting with energy and Daylight Savings Time in conjunction with the lengthening days has provided us with adequate time to head down to the park that lines the river in front of the YMCA to let her burn off some steam. Chris and I play with her until it's time to go and we make a couple new friends along the way.
 
-[[file:inside-ball.jpg]]
+[[file:inside-ball.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -63,7 +63,7 @@ Of course Noumena's bursting with energy and Daylight Savings Time in conjunctio
 </div>
 #+end_export
 
-[[file:teeder-todder-with-friends.jpg]]
+[[file:teeder-todder-with-friends.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -73,9 +73,9 @@ Of course Noumena's bursting with energy and Daylight Savings Time in conjunctio
 
 When it's finally time to leave, Noumena insists that Chris carry her. I try to alleviate him given that I'm accustomed to carrying her such great distances, but she refuses to be out of his arms and he carries her all the way back to our respective vehicles.
 
-[[file:carried-by-chris-1.jpg]]
+[[file:carried-by-chris-1.webp]]
 
-[[file:carried-by-chris-2.jpg]]
+[[file:carried-by-chris-2.webp]]
 
 * Back At Home
 

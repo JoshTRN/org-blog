@@ -1,6 +1,14 @@
 #+TITLE: Why Emacs?
 #+INCLUDE: ~/org/blog/development/header.org
 
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image" />
+#+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+#+HTML_HEAD_EXTRA: <meta property="og:image:type" content="image/jpeg" />
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://joshua-wood.dev/development/why-emacs/vim.png"/>
+#+HTML_HEAD_EXTRA: <meta property="og:image:width" content="1280"/>
+#+HTML_HEAD_EXTRA: <meta property="og:image:height" content="720"/>
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://joshua-wood.dev/">
+
 * Introduction
 I use a configuration of emacs that comes with the vim keybinds called spacemacs. As such, I've never used the default emacs keybindings, so everything in this presentation is going to be seen through this lens.
 * Traditional Editors

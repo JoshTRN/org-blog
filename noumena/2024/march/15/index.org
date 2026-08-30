@@ -9,15 +9,15 @@
 
 * Good Morning, Noumena!
 
-[[file:running-at-camera.jpg]]
+[[file:running-at-camera.webp]]
 
-[[file:breakfast.jpg]]
+[[file:breakfast.webp]]
 
-[[file:cute-outfilt.jpg]]
+[[file:cute-outfilt.webp]]
 
 * Dinner
 
-[[file:playing-wtih-straw.jpg]]
+[[file:playing-wtih-straw.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -37,9 +37,9 @@
 </div>
 #+end_export
 
-[[file:dinner-wtih-daddy.jpg]]
+[[file:dinner-wtih-daddy.webp]]
 
-[[file:drinking-from-cup.jpg]]
+[[file:drinking-from-cup.webp]]
 
 * Touchton Park
 
@@ -67,6 +67,6 @@
 </div>
 #+end_export
 
-[[file:climbing.jpg]]
+[[file:climbing.webp]]
 
-[[file:swinging.jpg]]
+[[file:swinging.webp]]

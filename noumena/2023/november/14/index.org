@@ -1,7 +1,7 @@
 #+TITLE: November 14, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:watching-tv-with-daddy.jpg]]
+[[file:watching-tv-with-daddy.webp]]
 
 * Hanging Out At Home
 #+begin_export html

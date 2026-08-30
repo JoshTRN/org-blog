@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/09/at-bridge-preview.jpg" />
 
-[[file:sleeping.jpg]]
+[[file:sleeping.webp]]
 
 Childproofing has become a deeper concern as Noumena grows and becomes more curious and exploratory. Thinking about it prompts reflection on when it was less of a concern. Cabinets she may or may not get into remind me of her first attempts at such ventures. I'm reminded of when she just began walking and I had to bring her into the restroom with me to monitor her while I took care of my business.
 
@@ -33,7 +33,7 @@ Right as I enter through the doors of the daycare at about 9:30am, they inform m
 
 I took Noumena back home and we listened to music the entire way keeping her content. When we get home, since it's dreary outside, we spend most of the day in doors. The morning is filled with lots of reading and lots of playing with her flash cards. I did get a little work done with Noumena there with me. She joined me in a brief work call, but after that was done, I realized that since Noumena's been so clingy lately, I'm not going to be able to sustain a consistent work cadence, so I take the rest of the day off to attend to her.
 
-[[file:cuddling-with-daddy-4.jpg]]
+[[file:cuddling-with-daddy-4.webp]]
 
 After a while, Noumena begins to get fussy. It could be that she's bored or that she's tired. Usually, during the weekdays, she goes down for a nap at about 12pm at daycare. Thinking that's it, at about 12:30pm I lay her down for a nap, and she falls asleep almost immediately.
 
@@ -45,7 +45,7 @@ We engage in Noumena's favorite activity, reading, before she herself picks up h
 
 * Walking To Park
 
-[[file:at-bridge.jpg]]
+[[file:at-bridge.webp]]
 
 We take a different route than usual to the park across a bridge Noumena's sure to be interested in. I set her down and she wanders back and forth for a solid 20 minutes.
 
@@ -63,9 +63,9 @@ There's a fire hydrant just outside the park fence, so as we arrive, I set Noume
 
 Our primary activity at the park is swinging. Noumena loves kicking daddy as swings to and fro especially because I make a huge dramatic scene of it every time causing her to laugh the most beautiful laugh in all the world. We move onto to the playground equipment, but it's short lived as it begins to rain so we walk back home.
 
-[[file:laying-at-playground-1.jpg]]
+[[file:laying-at-playground-1.webp]]
 
-[[file:laying-at-playground-2.jpg]]
+[[file:laying-at-playground-2.webp]]
 
 * Dinner
 
@@ -90,7 +90,7 @@ Again as the night moves on, she begins to get antsy and goes to grab her jacket
 </div>
 #+end_export
 
-[[file:noumenas-butt.jpg]]
+[[file:noumenas-butt.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -98,15 +98,15 @@ Again as the night moves on, she begins to get antsy and goes to grab her jacket
 </div>
 #+end_export
 
-[[file:sitting-in-chair-in-cvs-1.jpg]]
+[[file:sitting-in-chair-in-cvs-1.webp]]
 
-[[file:sitting-in-chair-in-cvs-3.jpg]]
+[[file:sitting-in-chair-in-cvs-3.webp]]
 
 * Back At Home
 
 One benefit to Noumena being in a poor mood is that she definitely wants more affection. She wants to watch more TV, but I don't allow it. Instead I get her distracted with some of her toys and we play with them until somehow I got her interested in the clothes in her room.
 
-[[file:wearing-daddys-glasses-3.jpg]]
+[[file:wearing-daddys-glasses-3.webp]]
 
 * Playing In Crib
 

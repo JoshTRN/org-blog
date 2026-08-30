@@ -3,10 +3,10 @@
 
 * Morning
 
-[[file:Dirty-Face.jpg]]
-[[file:Dirty-Face-2.jpg]]
-[[file:Messy-Face.jpg]]
-[[file:Messy-Face-Next-To-High-Chair.jpg]]
+[[file:Dirty-Face.webp]]
+[[file:Dirty-Face-2.webp]]
+[[file:Messy-Face.webp]]
+[[file:Messy-Face-Next-To-High-Chair.webp]]
 
 * Drive To Daycare
 #+begin_export html
@@ -16,4 +16,4 @@
 #+end_export
 
 * Mommy Visits
-[[file:With-Mom-On-Bed.jpg]]
+[[file:With-Mom-On-Bed.webp]]

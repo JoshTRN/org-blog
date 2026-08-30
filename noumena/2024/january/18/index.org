@@ -9,9 +9,9 @@
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/18/" />
 
 * Photos
-[[file:falling-asleep-on-daddy.jpg]]
+[[file:falling-asleep-on-daddy.webp]]
 
-[[file:walking-at-night.jpg]]
+[[file:walking-at-night.webp]]
 
 
 * Videos

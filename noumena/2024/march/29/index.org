@@ -23,43 +23,43 @@
 </div>
 #+end_export
 
-[[file:sticker-on-belly.jpg]]
+[[file:sticker-on-belly.webp]]
 
-[[file:walking-down-hall.jpg]]
+[[file:walking-down-hall.webp]]
 
-[[file:heading-outside.jpg]]
+[[file:heading-outside.webp]]
 
-[[file:playing-with-daddys-drums-1.jpg]]
+[[file:playing-with-daddys-drums-1.webp]]
 
-[[file:playing-with-daddys-drums-3.jpg]]
+[[file:playing-with-daddys-drums-3.webp]]
 
 * Mommy's Sobriety Dinner
 
-[[file:by-pond-2.jpg]]
+[[file:by-pond-2.webp]]
 
-[[file:by-pond-4.jpg]]
+[[file:by-pond-4.webp]]
 
-[[file:watching-turtles-in-pond-2.jpg]]
+[[file:watching-turtles-in-pond-2.webp]]
 
-[[file:watching-turtles-in-pond-3.jpg]]
+[[file:watching-turtles-in-pond-3.webp]]
 
-[[file:watching-turtles-in-pond-8.jpg]]
+[[file:watching-turtles-in-pond-8.webp]]
 
-[[file:watching-turtles-in-pond-10.jpg]]
+[[file:watching-turtles-in-pond-10.webp]]
 
-[[file:watching-turtles-in-pond-11.jpg]]
+[[file:watching-turtles-in-pond-11.webp]]
 
-[[file:watching-turtles-in-pond-12.jpg]]
+[[file:watching-turtles-in-pond-12.webp]]
 
-[[file:watching-turtles-in-pond-13.jpg]]
+[[file:watching-turtles-in-pond-13.webp]]
 
-[[file:with-josie-and-mommy-1.jpg]]
+[[file:with-josie-and-mommy-1.webp]]
 
-[[file:with-josie-and-mommy-2.jpg]]
+[[file:with-josie-and-mommy-2.webp]]
 
-[[file:with-josie-and-mommy-3.jpg]]
+[[file:with-josie-and-mommy-3.webp]]
 
-[[file:with-josie-and-mommy-4.jpg]]
+[[file:with-josie-and-mommy-4.webp]]
 
 * Home Before Bed
 #+begin_export html

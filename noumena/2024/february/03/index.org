@@ -2,39 +2,40 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/03/rosy-cheeks-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/03/photo/rosy-cheeks-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  3, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/03/rosy-cheeks-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/03/photo/rosy-cheeks-preview.jpg" />
 
-[[file:rosy-cheeks.jpg]]
+[[file:rosy-cheeks.webp]]
 
 * Photo
 
 ** Nap Time
 
-[[file:sleeping-on-belly.jpg]]
+[[file:sleeping-on-belly.webp]]
 
 ** Arlingwood Park
 
-[[file:standing-by-noodles.jpg]]
+[[file:standing-by-noodles.webp]]
 
-[[file:carrying-noodles.jpg]]
+[[file:chilling-with-daddy.webp]]
 
-[[file:chilling-with-daddy.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/carrying-noodles.webp]]
 
-[[file:holding-noodles-while-swinging.jpg]]
+[[file:holding-noodles-while-swinging.webp]]
 
-[[file:laying-on-noodle.jpg]]
+[[file:laying-on-noodle.webp]]
 
 
 ** Dinner
 
-[[file:looking-at-menu-with-mommy.jpg]]
+[[file:looking-at-menu-with-mommy.webp]]
 
-[[file:looking-at-menu-with-mommy-2.jpg]]
+[[file:looking-at-menu-with-mommy-2.webp]]
 
-[[file:kissing-mommy.jpg]]
+[[file:kissing-mommy.webp]]
 
 * Video
 

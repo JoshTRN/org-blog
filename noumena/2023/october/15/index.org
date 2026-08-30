@@ -2,10 +2,10 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 
-[[file:standing-on-the-slide-at-the-park.jpg]]
-[[file:watching-tv-behind-chalmers.jpg]]
-[[file:watching-tv-behind-chalmers-closeup.jpg]]
-[[file:watching-tv-behind-chalmers-closeup-2.jpg]]
+[[file:standing-on-the-slide-at-the-park.webp]]
+[[file:watching-tv-behind-chalmers.webp]]
+[[file:watching-tv-behind-chalmers-closeup.webp]]
+[[file:watching-tv-behind-chalmers-closeup-2.webp]]
 
 
 * Playing At Home

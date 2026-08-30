@@ -1,7 +1,7 @@
 #+TITLE: October  1, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:resting-on-chalmers-before-bed.jpg]]
+[[file:resting-on-chalmers-before-bed.webp]]
 
 * Morning
 
@@ -27,11 +27,11 @@ I'm not quite sure how Noumena's mind works just yet. Her rationalizations are o
 </div>
 #+end_export
 
-[[file:playing-with-sand.jpg]]
+[[file:playing-with-sand.webp]]
 
-[[file:playing-with-sand-2.jpg]]
+[[file:playing-with-sand-2.webp]]
 
-[[file:walking-around-at-beach.jpg]]
+[[file:walking-around-at-beach.webp]]
 
 * Home
 
@@ -55,7 +55,7 @@ I laid Noumena down for a nap at about 10 minutes until 5pm and she slept until 
 
 * Home
 
-[[file:nap-time.jpg]]
+[[file:nap-time.webp]]
 
 I had initially planned on feeding her the protein oatmeal I had made last night for breakfast, but since her mother already fed her, it was left in the fridge, so I decided that would be her dinner. when she woke up, she ate almost the entire bowl herself! She was ravenous! Subsequently, we washed her hands together and sat to read, reading several books. I was a bit worried that she wouldn't be tired come bed time, so I took her back to the park after a little while playing with Chalmers.
 

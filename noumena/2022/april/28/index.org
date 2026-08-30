@@ -1,0 +1,81 @@
+#+TITLE: April  28, 2022
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2022/april/28">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="April  28, 2022"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="" />
+
+* Laying With Mommy
+
+[[./daddy-and-mommy-with-noumena-in-hospital-bed-1.webp]]
+
+[[./daddy-and-mommy-with-noumena-in-hospital-bed-2.webp]]
+
+[[./daddy-and-mommy-with-noumena-in-hospital-bed-3.webp]]
+
+[[./daddy-and-mommy-with-noumena-in-hospital-bed-4.webp]]
+
+[[./daddy-and-mommy-with-noumena-in-hospital-bed-5.webp]]
+
+[[./daddy-and-mommy-with-noumena-in-hospital-bed-6.webp]]
+
+[[./photo/last-day-at-the-hospital-1.webp]]
+
+[[./photo/last-day-at-the-hospital-2.webp]]
+
+[[./photo/last-day-at-the-hospital-3.webp]]
+
+[[./photo/last-day-at-the-hospital-4.webp]]
+
+[[./photo/last-day-at-the-hospital-5.webp]]
+
+[[./photo/last-day-at-the-hospital-6.webp]]
+
+[[./photo/last-day-at-the-hospital-7.webp]]
+
+[[./photo/last-day-at-the-hospital-8.webp]]
+
+* Just Before Coming Home
+
+[[./in-mommys-arms-1.webp]]
+
+[[./in-mommys-arms-2.webp]]
+
+[[./in-mommys-arms-3.webp]]
+
+[[./in-mommys-arms-4.webp]]
+
+[[./in-mommys-arms-5.webp]]
+
+* Meeting Chalmers and Kisa!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/H3d9EF772rU" title="Bringing Noumena Home From The Hospital Introducing Her To Kisa And Chalmers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1879" height="689" src="https://www.youtube.com/embed/bdKh6wd7U7E" title="Kisa Investigating Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Relaxing At Home For the First Time
+
+[[./relaxing-at-home-1.webp]]
+
+[[./relaxing-at-home-2.webp]]
+
+[[./relaxing-at-home-3.webp]]
+
+[[./relaxing-at-home-4.webp]]
+
+[[./relaxing-at-home-5.webp]]
+
+[[./relaxing-at-home-6.webp]]
+
+[[./relaxing-at-home-7.webp]]

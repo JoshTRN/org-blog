@@ -1,7 +1,7 @@
 #+TITLE: November 13, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:making-a-mess.jpg]]
+[[file:making-a-mess.webp]]
 
 * Videos
 #+begin_export html

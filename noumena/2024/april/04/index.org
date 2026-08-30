@@ -21,22 +21,22 @@
 </div>
 #+end_export
 
-[[./duck-pond-1.jpg]]
+[[./duck-pond-1.webp]]
 
-[[./duck-pond-2.jpg]]
+[[./duck-pond-2.webp]]
 
-[[./laying-in-grass-by-lamp-post-1.jpg]]
+[[./laying-in-grass-by-lamp-post-1.webp]]
 
-[[./laying-in-grass-by-lamp-post-2.jpg]]
+[[./laying-in-grass-by-lamp-post-2.webp]]
 
 * Bed Time
 
-[[./laying-on-daddy-3.jpg]]
+[[./laying-on-daddy-3.webp]]
 
-[[./sleeping-on-daddy-1.jpg]]
+[[./sleeping-on-daddy-1.webp]]
 
-[[./sleeping-on-daddy-2.jpg]]
+[[./sleeping-on-daddy-2.webp]]
 
-[[./sleeping-on-daddy-3.jpg]]
+[[./sleeping-on-daddy-3.webp]]
 
-[[./sleeping-with-daddy.jpg]]
+[[./sleeping-with-daddy.webp]]

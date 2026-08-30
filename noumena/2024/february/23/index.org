@@ -22,9 +22,9 @@
 #+end_export
 
 * Daycare
-[[file:eating.jpg]]
+[[file:eating.webp]]
 
-[[file:eating-2.jpg]]
+[[file:eating-2.webp]]
 
 * Dinner
 

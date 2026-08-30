@@ -1,0 +1,67 @@
+#+title: Quick Veggie Stir-Fry with EVOO
+#+include: /home/joshua/org/blog/recipes/header.org
+
++ *Prep Time*: /~10 min/
++ *Cook Time*: /~12 min/
++ *Servings*: /~2/
++ *Cost per Serving*: /~$2.75/
++ *Total Cost*: /~$5.50/
+
+* Ingredients
+** Vegetables
++ [ ] 1 red bell pepper (sliced)
++ [ ] 1 onion (sliced)
++ [ ] 2-3 cloves garlic (minced)
++ [ ] 2 cups broccoli florets
++ [ ] 2 cups cauliflower florets
+** Cooking Base
++ [ ] 2 tbsp extra virgin olive oil
++ [ ] Salt (to taste)
++ [ ] Black pepper (to taste)
++ [ ] Optional: red pepper flakes, sesame seeds
+** Sauce Options
+*** Garlic-Soy Finish
++ [ ] 2 tbsp soy sauce (or tamari)
++ [ ] 1 tbsp rice vinegar or lime juice
++ [ ] 1 tsp maple syrup
++ [ ] 1/2 tsp grated ginger
+*** Lemon-Herb Drizzle
++ [ ] 1 tbsp lemon juice
++ [ ] 1 tbsp extra virgin olive oil
++ [ ] 1/2 tsp dried oregano or thyme
++ [ ] Pinch of salt
+*** Spicy Tahini
++ [ ] 1 tbsp tahini
++ [ ] 1 tsp sriracha
++ [ ] 1 tsp soy sauce
++ [ ] Splash of water (to thin)
+
+* Method
+1. Heat a large pan or wok over medium-high heat and add olive oil.
+2. Add onion and garlic, sauté for 1-2 minutes until fragrant.
+3. Add broccoli and cauliflower first, stir-fry for 3-4 minutes.
+4. Add bell pepper and continue to stir-fry for 2-3 more minutes until vegetables are crisp-tender.
+5. Add your chosen sauce, stir well, and cook for another 1-2 minutes.
+6. Season with salt, pepper, and optional chili flakes or sesame seeds before serving.
+
+* Notes
++ Great served with rice, quinoa, or noodles.
++ For extra crunch, add toasted cashews or peanuts at the end.
++ For more protein, toss in cubed tofu or edamame while stir-frying.
++ Adjust sauces to taste—more soy for saltiness, more vinegar or lemon for brightness.
+
+* Nutrition
+| Nutrient      | Amount     | % Daily Value |
+|---------------+------------+----------------|
+| Calories      | ~260       | 13%            |
+| Protein       | ~8 g       | 16%            |
+| Carbohydrates | ~32 g      | 11%            |
+| Fat           | ~12 g      | 18%            |
+| Fiber         | ~9 g       | 32%            |
+| Sugars        | ~11 g      | 22%            |
+| Sodium        | ~720 mg    | 31%            |
+| Calcium       | ~90 mg     | 7%             |
+| Iron          | ~2.5 mg    | 14%            |
+| Vitamin C     | ~110 mg    | 122%           |
+
+

@@ -26,34 +26,34 @@
 #+end_export
 
 
-[[file:by-the-river-1.jpg]]
+[[file:by-the-river-1.webp]]
 
-[[file:by-the-river-2.jpg]]
+[[file:by-the-river-2.webp]]
 
-[[file:looking-into-river-1.jpg]]
+[[file:looking-into-river-1.webp]]
 
-[[file:looking-into-river-2.jpg]]
+[[file:looking-into-river-2.webp]]
 
-[[file:looking-into-river-3.jpg]]
+[[file:looking-into-river-3.webp]]
 
-[[file:looking-into-river-4.jpg]]
+[[file:looking-into-river-4.webp]]
 
-[[file:sitting-by-st-johns-river-1.jpg]]
+[[file:sitting-by-st-johns-river-1.webp]]
 
-[[file:sitting-by-st-johns-river-2.jpg]]
+[[file:sitting-by-st-johns-river-2.webp]]
 
-[[file:sitting-by-st-johns-river-3.jpg]]
+[[file:sitting-by-st-johns-river-3.webp]]
 
-[[file:sitting-by-st-johns-river-4.jpg]]
+[[file:sitting-by-st-johns-river-4.webp]]
 
-[[file:sitting-by-st-johns-river-5.jpg]]
+[[file:sitting-by-st-johns-river-5.webp]]
 
-[[file:standing-by-st-johns-river.jpg]]
+[[file:standing-by-st-johns-river.webp]]
 
-[[file:standing-by-st-johns-river-2.jpg]]
+[[file:standing-by-st-johns-river-2.webp]]
 
-[[file:running-in-the-rain.jpg]]
+[[file:running-in-the-rain.webp]]
 
 * Bed Time
 
-[[file:sleeping-on-daddy.jpg]]
+[[file:sleeping-on-daddy.webp]]

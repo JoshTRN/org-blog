@@ -1,0 +1,74 @@
+#+title: Pho
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~60 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$5.50/
++ *Total Cost*: /~$22.00/
+
+* Ingredients
+** Aromatics & Spices (Broth)
+- [ ] 2 tbsp neutral oil
+- [ ] 4 star anise pods
+- [ ] 2 cinnamon sticks
+- [ ] 8 whole cloves
+- [ ] 1 tsp coriander seeds
+- [ ] 1 tsp black peppercorns
+- [ ] 1 onion (quartered)
+- [ ] 1 carrot (chunked)
+- [ ] 1 celery stalk (chunked)
+- [ ] 3 garlic cloves (smashed)
+- [ ] 2 thumb-size pieces ginger (sliced)
+- [ ] 2 pieces kombu / seaweed (4–5 inch)
+- [ ] 5 oz dried mushrooms (shiitake or mix)
+- [ ] 1 tbsp miso paste
+- [ ] 1 tbsp soy sauce
+- [ ] 7 1/2 cups water
+- [ ] 1 vegetable bouillon cube
+- [ ] 1 tsp kosher salt
+- [ ] 1 tsp sugar
+
+** Toppings & Noodles
+- [ ] 4 servings flat rice noodles (cooked per package)
+- [ ] 1 block firm tofu (pressed, sliced)
+- [ ] 9 oz fresh shiitake mushrooms (sliced)
+- [ ] 7 oz bok choy (halved)
+- [ ] 1 bunch green onions (sliced)
+- [ ] 1/2 oz fresh mint (leaves picked)
+- [ ] 1/2 oz fresh cilantro (sprigs)
+- [ ] 1 red chili (thinly sliced)
+- [ ] 1 tbsp sesame seeds
+
+* Method
+** Broth
+1. [ ] Heat oil in a pot; toast star anise, cinnamon, cloves, coriander, and peppercorns 1 minute until fragrant.
+2. [ ] Add onion, carrot, celery; cook on high to char edges. Add garlic and ginger; cook 2 minutes.
+3. [ ] Add kombu, dried mushrooms, miso, bouillon, water, soy, salt, and sugar. Bring to a boil; simmer 45–60 minutes. Strain and keep hot.
+
+** Toppings
+1. [ ] Pan-fry tofu until golden; season with a splash of soy sauce.
+2. [ ] Sauté fresh shiitake until browned; season lightly.
+3. [ ] Steam bok choy with a splash of water until tender.
+4. [ ] Cook rice noodles per package; drain.
+
+** Serve
+1. [ ] Divide noodles among bowls. Ladle hot broth over.
+2. [ ] Top with tofu, mushrooms, bok choy, herbs, green onions, chili, and sesame seeds.
+
+* Notes
+- [ ] Add a squeeze of lime and a dash of chili oil at the table.
+- [ ] For deeper flavor, char onion and ginger under the broiler first.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~500   | 25%           |
+| Protein       | ~24 g  | 48%           |
+| Carbohydrates | ~75 g  | 25%           |
+| Fat           | ~14 g  | 18%           |
+| Fiber         | ~7 g   | 25%           |
+| Sugars        | ~6 g   | 12%           |
+| Sodium        | ~1000 mg | 43%         |
+| Calcium       | ~250 mg| 19%           |
+| Iron          | ~6 mg  | 33%           |
+| Vitamin C     | ~35 mg | 39%           |

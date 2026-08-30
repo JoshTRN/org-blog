@@ -1,0 +1,44 @@
+#+title: Italian Lentil Soup
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~10 min/
++ *Cook Time*: /~55 min/
++ *Servings*: /~8/
++ *Cost per Serving*: /~$1.00/
++ *Total Cost*: /~$8.00/
+
+* Ingredients
+- [ ] 1/4 cup extra virgin olive oil
+- [ ] 1 medium onion (diced)
+- [ ] 2 ribs celery (diced, leaves included if possible)
+- [ ] 2 medium carrots (diced)
+- [ ] 3 oz tomato paste
+- [ ] 1 cup crushed plum tomatoes
+- [ ] 1 tsp dried oregano
+- [ ] 1 lb brown or green lentils (rinsed)
+- [ ] 8 cups water (or vegetable stock)
+- [ ] 1/2 lb baby spinach (roughly chopped)
+- [ ] Salt and black pepper (to taste)
+
+* Method
+1. [ ] Warm oil over medium-low; cook onion, celery, and carrots until translucent, ~10 minutes.
+2. [ ] Stir in tomato paste; cook 5 minutes, stirring.
+3. [ ] Add tomatoes, oregano, lentils, and water; bring to a boil, then simmer 45–50 minutes.
+4. [ ] Stir in spinach to wilt; season to taste.
+
+* Notes
+- A splash of red wine vinegar at the end brightens flavor.
+- Use vegetable stock for a richer broth.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~290   | 15%           |
+| Protein       | ~16 g  | 32%           |
+| Carbohydrates | ~42 g  | 14%           |
+| Fat           | ~7 g   | 9%            |
+| Fiber         | ~18 g  | 64%           |
+| Sugars        | ~6 g   | 12%           |
+| Sodium        | ~480 mg| 21%           |
+| Calcium       | ~80 mg | 6%            |
+| Iron          | ~5 mg  | 28%           |
+| Vitamin C     | ~14 mg | 16%           |

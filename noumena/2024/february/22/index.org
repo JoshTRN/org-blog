@@ -7,15 +7,15 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/22/with-daddy-by-st-johns-river-1-preview.jpg" />
 
-[[file:with-daddy-by-st-johns-river-1.jpg]]
+[[file:with-daddy-by-st-johns-river-1.webp]]
 
 * Good Morning, Noumena!
 
 * Dinner With Chris
 
-[[file:drinking-1.jpg]]
+[[file:drinking-1.webp]]
 
-[[file:drinking-2.jpg]]
+[[file:drinking-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -23,9 +23,9 @@
 </div>
 #+end_export
 
-[[file:sitting-on-chris-1.jpg]]
+[[file:sitting-on-chris-1.webp]]
 
-[[file:sittin-on-chris-3.jpg]]
+[[file:sittin-on-chris-3.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -35,7 +35,7 @@
 
 * Riverside Walk
 
-[[file:with-daddy-by-st-johns-river-2.jpg]]
+[[file:with-daddy-by-st-johns-river-2.webp]]
 
 * Back At Home
 

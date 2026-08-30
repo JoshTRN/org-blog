@@ -1,9 +1,9 @@
 #+TITLE: October 26, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:wearing-mask.jpg]]
+[[file:wearing-mask.webp]]
 
-[[file:outside-olive-garden.jpg]]
+[[file:outside-olive-garden.webp]]
 
 
 * Home From Daycare

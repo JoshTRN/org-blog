@@ -20,11 +20,11 @@
 </div>
 #+end_export
 
-[[./pullup-on-head-1.jpg]]
+[[./pullup-on-head-1.webp]]
 
-[[./pullup-on-head-2.jpg]]
+[[./pullup-on-head-2.webp]]
 
-[[./pullup-on-head-3.jpg]]
+[[./pullup-on-head-3.webp]]
 
 * Front Yard
 

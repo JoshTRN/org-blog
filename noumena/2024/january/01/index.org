@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/01/leaning-over-step-tidewater-acres-park-preview.jpg" />
 
-[[file:leaning-over-step-tidewater-acres-park.jpg]]
+[[file:leaning-over-step-tidewater-acres-park.webp]]
 
 Humanity has a very peculiar quirk. As time moves on and we settle into routines, a lot of the magic in every moment is lost. That's often   why novelty is such a thrill. New experiences---new emotions. Some of us get addicted to it and make all sorts of decisions---good or bad--because of it.
 
@@ -25,7 +25,7 @@ In every moment... It's always there and it's /always/ just as warm.
 
 * Good Morning And Happy New Year, Noumena!
 
-[[file:laying-on-chalmers-3.jpg]]
+[[file:laying-on-chalmers-3.webp]]
 
 Again, my alarm wakes me at 8:30am which I promptly turn off and fall back asleep. In fact, it's 9:15am when I finally drag myself from bed having stayed up far too late last night. Thankfully, Noumena has yet to awaken, but I think the commotion of me preparing breakfast arouses her from sleep. I don't know if she had bad dreams or what, but this morning she was groaning. It's not her typical awakening where she simply talks to herself and rolls around in bed. She's clearly just a little more distressed than usual. What a way to begin the new year. Who knows, maybe it was from all the fireworks last night.
 
@@ -39,7 +39,7 @@ Nothing works except as we approach the TV she points to it. I turn it on immedi
 </div>
 #+end_export
 
-[[file:covering-herself-with-blanket-on-couch.jpg]]
+[[file:covering-herself-with-blanket-on-couch.webp]]
 
 I can't remember why I turned the TV back on after breakfast, but we kept watching music videos throughout the morning
 
@@ -49,7 +49,7 @@ I can't remember why I turned the TV back on after breakfast, but we kept watchi
 </div>
 #+end_export
 
-[[file:laying-on-chalmers.jpg]]
+[[file:laying-on-chalmers.webp]]
 
 Eventually, Noumena's attention drifts towards her books and we read /I'm Scared/ maybe five times before she goes to her book shelf and gets /Goodnight Little Noumena/---the book Oksana had gotten her for Christmas---which we read about three times and then we read /Go Dog. Go/ once. I've gotten her playing independently (removing her clothes from her drawers for better or worse) so I take the opportunity to clean up after breakfast. As the day moves on, I want to get out of the house, so we head to Tidewater Acres Park after getting her dressed.
 
@@ -67,9 +67,9 @@ While swinging, a mother and her daughter Zari, 5, arrive at the park. Noumena, 
 </div>
 #+end_export
 
-[[file:laying-on-platform-tidewater-acres-park.jpg]]
+[[file:laying-on-platform-tidewater-acres-park.webp]]
 
-[[file:hunched-over-slide.jpg]]
+[[file:hunched-over-slide.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -89,13 +89,13 @@ Mommy's busy today, so she doesn't stay long. Noumena came back for another help
 
 * Hanging Out At Home
 
-[[file:laying-with-daddy-in-tent.jpg]]
+[[file:laying-with-daddy-in-tent.webp]]
 
 I change Noumena's diaper again and get her dressed after dinner. She ate in only a diaper because I still didn't want her to get her white clothes stained. Once I change her, I set her down in her room and play with her there for a while before again deciding to go for a walk.
 
-[[file:laying-with-daddy-in-tent-2.jpg]]
+[[file:laying-with-daddy-in-tent-2.webp]]
 
-[[file:laying-with-daddy-in-tent-3.jpg]]
+[[file:laying-with-daddy-in-tent-3.webp]]
 
 * Nighttime Walk
 

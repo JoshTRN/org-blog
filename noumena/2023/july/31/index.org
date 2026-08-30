@@ -2,7 +2,7 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 #+ATTR_ORG: :width 100%
-[[file:reading-in-the-morning.jpg]]
+[[file:reading-in-the-morning.webp]]
 
 * Morning
 
@@ -23,7 +23,7 @@ I wake up at 8am and haven't heard anything from Noumena. I snooze the alarm and
 
 * Daycare
 
-[[file:lunch-at-daycare.jpg]]
+[[file:lunch-at-daycare.webp]]
 
 * The Drive Home
 
@@ -65,11 +65,11 @@ Once we get inside, it's already 8pm, so we just hangout and listen to music, wr
 
 
 #+ATTR_ORG: :width 100%
-[[file:laying-on-chalmers.jpg]]
+[[file:laying-on-chalmers.webp]]
 #+ATTR_ORG: :width 100%
-[[file:loving-chalmers.jpg]]
+[[file:loving-chalmers.webp]]
 #+ATTR_ORG: :width 100%
-[[file:loving-chalmers-2.jpg]]
+[[file:loving-chalmers-2.webp]]
 
 
 * Bath/Bed Time

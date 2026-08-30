@@ -1,7 +1,7 @@
 #+TITLE: August 13, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:drinking-her-own-bottle-on-car-smiling-big.jpg]]
+[[file:drinking-her-own-bottle-on-car-smiling-big.webp]]
 
 * Morning
 
@@ -13,17 +13,17 @@ I get out of bed at 8:30am and prepare Noumena's porridge as well as my coffee. 
 
 On the way to the beach, Noumena's mom applies sun screen so she's ready to go when we get there. It's early so we find parking fast. Noumena and Mommy walk to the water as we arrive and I finish putting sun screen on my self.
 
-[[file:walking-with-mommy-into-the-water.jpg]]
+[[file:walking-with-mommy-into-the-water.webp]]
 
-[[file:with-mommy-at-the-water.jpg]]
+[[file:with-mommy-at-the-water.webp]]
 
 Noumena is not at all nervous about the water. She's so confident she's running into it having the time of her life running back and forth. I love her so much it makes me so happy watching her enjoy herself.
 
-[[file:my-sandy-girl.jpg]]
+[[file:my-sandy-girl.webp]]
 
-[[file:playing-with-mommy-in-sand.jpg]]
+[[file:playing-with-mommy-in-sand.webp]]
 
-[[file:falling-into-puddle.jpg]]
+[[file:falling-into-puddle.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -41,7 +41,7 @@ We stay there for a little over an hour, and get Noumena dressed in the shade as
 
 It's about 12:30pm when we get home and Mom leaves as I get Noumena's lunch ready. I didn't have anything ready except leftover tofu scramble, so Noumena is going to have to settle for that for lunch.
 
-[[file:tofu-scramble.jpg]]
+[[file:tofu-scramble.webp]]
 
 We run around the living room a little bit, but I know that Noumena didn't sleep enough on the car ride back, so at 1:30pm, I lay her in her crib for a nap. Once again, I tried to rock her to sleep, but should wouldn't have it, so I just laid her in her crib and within a few minutes she passed out. While Noumena naps, I cook a vegetable soup and talk to a friend on the phone while I'm doing it.
 
@@ -148,7 +148,7 @@ During bath time, I do better with the new shampoo, but it's definitely a little
 
 We didn't start the bath until 8:35pm and we didn't end until 8:50pm, so when I get her in her pajamas and brush her teeth it's already 8:56pm, so right after brushing her teeth, I don't feed the pets with her and just take her right to bed.
 
-[[file:pointing-to-herself-in-mirror.jpg]]
+[[file:pointing-to-herself-in-mirror.webp]]
 
 
 * Bed Time

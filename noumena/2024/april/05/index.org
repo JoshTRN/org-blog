@@ -17,9 +17,9 @@
 </div>
 #+end_export
 
-[[./playing-with-bryan-and-catherine-1.jpg]]
+[[./playing-with-bryan-and-catherine-1.webp]]
 
-[[./playing-with-bryan-and-catherine-2.jpg]]
+[[./playing-with-bryan-and-catherine-2.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -35,11 +35,11 @@
 
 * Hanging Out With Miss Theresa
 
-[[./sitting-with-daddy-next-to-miss-theresa-1.jpg]]
+[[./sitting-with-daddy-next-to-miss-theresa-1.webp]]
 
-[[./sitting-with-daddy-next-to-miss-theresa-2.jpg]]
+[[./sitting-with-daddy-next-to-miss-theresa-2.webp]]
 
-[[./sitting-with-miss-theresa.jpg]]
+[[./sitting-with-miss-theresa.webp]]
 
 * Back at Home Before Bed
 
@@ -51,10 +51,10 @@
 
 * Bed Time
 
-[[./sleeping-in-daddys-arms.jpg]]
+[[./sleeping-in-daddys-arms.webp]]
 
-[[./sleeping-on-daddy-3.jpg]]
+[[./sleeping-on-daddy-3.webp]]
 
-[[./laying-on-daddy.jpg]]
+[[./laying-on-daddy.webp]]
 
-[[./laying-on-daddy-2.jpg]]
+[[./laying-on-daddy-2.webp]]

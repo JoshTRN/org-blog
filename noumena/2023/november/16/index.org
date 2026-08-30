@@ -2,13 +2,13 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 * Photos
-[[file:bubbles.jpg]]
+[[file:bubbles.webp]]
 
-[[file:bubbles-2.jpg]]
+[[file:bubbles-2.webp]]
 
-[[file:bubbles-3.jpg]]
+[[file:bubbles-3.webp]]
 
-[[file:crazy-hair.jpg]]
+[[file:crazy-hair.webp]]
 
 * Videos
 

@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/06/with-daddy-at-lake-arboretum-preview.jpg" />
 
-[[file:with-daddy-at-lake-arboretum.jpg]]
+[[file:with-daddy-at-lake-arboretum.webp]]
 
 * Good Morning, Noumena!
 
@@ -59,15 +59,15 @@ The arboretum is so close by, I'm compelled to take Noumena there. I carry her i
 </div>
 #+end_export
 
-[[file:crouching-with-daddy.jpg]]
+[[file:crouching-with-daddy.webp]]
 
-[[file:hugging-daddy-at-arboretum-lake.jpg]]
+[[file:hugging-daddy-at-arboretum-lake.webp]]
 
 We traversed all over the arboretum. Close to the pond that's there, there's a gazebo held up by pillars which have enough space to stand on. I ask Noumena if she can jump from one pillar to the next, so she attempts it. Of course, she's too little to do it on her own, so taking her by the hand I assist her in jumping from pillar to pillar. We make it to every single one that supports the gazebo.
 
-[[file:looking-over-lake-at-arboretum.jpg]]
+[[file:looking-over-lake-at-arboretum.webp]]
 
-[[file:sitting-on-tree-stump.jpg]]
+[[file:sitting-on-tree-stump.webp]]
 
 I take special care to take Noumena to all of the various boardwalks as she loves them so much.
 
@@ -75,7 +75,7 @@ It's getting late, a little past 2pm, and I know Noumena needs to take a nap, so
 
 * Nap Time
 
-[[file:sleeping-soundly.jpg]]
+[[file:sleeping-soundly.webp]]
 
 Noumena is exhausted by the time we get back. I change her diaper, put her down, tuck her in and within the span of 2 minutes she's already fast asleep. I gaze at her beauty briefly appreciating it before going to lay down myself.
 

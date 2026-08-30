@@ -1,7 +1,8 @@
 #+TITLE: September 19, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sleeping.jpg]]
+#+ATTR_ORG: :width 50%
+[[./photo/sleeping.webp]]
 
 * Morning
 

@@ -2,16 +2,16 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/07/chilling-with-chris-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/february/07/photo/chilling-with-chris-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="February  7, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/07/chilling-with-chris-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/07/photo/chilling-with-chris-preview.jpg" />
 
-[[file:chilling-with-chris.jpg]]
+[[file:chilling-with-chris.webp]]
 
 * Good Morning, Noumena!
 
-[[file:eating-and-smiling.jpg]]
+[[file:eating-and-smiling.webp]]
 
 Noumena gracefully let me sleep in this morning, which is good because I didn't finish last night's journal entry until late. Thankfully, she starts stirring awake an 9am allowing me to get plenty of sleep. I warm her oatmeal as she waits patiently in her room setting out her place mats and giving her a choice of spoon.
 
@@ -39,24 +39,24 @@ Yesterday, my friend Chris invited us to go to dinner. So, I picked up Noumena a
 </div>
 #+end_export
 
-[[file:photo-through-leaves.jpg]]
+[[file:photo-through-leaves.webp]]
 
-[[file:photo-through-leaves-2.jpg]]
+[[file:photo-through-leaves-2.webp]]
 
-[[file:photo-through-leaves-3.jpg]]
+[[file:photo-through-leaves-3.webp]]
 
 
 We're ordering from a food truck and then taking the food into the brewery that it's near, so after we finish ordering, we have 10-15 minutes to wait. We head into the brewery and sit down on a couch in a lounge spot with a coffee table that has a bunch of coaster. I pick up the coasters and start tossing them to Noumena who initially tosses them back at me, but then turns her attention to tossing them to Chris. We play like this until it's time to go get our food.
 
 Chris leaves to go check if the food is ready, but once Noumena sees him getting up and walking out the door, she's not ready to leave his company even for a moment so she starts chasing him down. I open the doors to the brewery and Noumena runs up to Chris once I've made him aware that she's chasing him. Arms outstretched, she demands Chris picks her up! we fetch our food and head back to the brewery to eat.
 
-[[file:vegan-fish-and-chips.jpg]]
+[[file:vegan-fish-and-chips.webp]]
 
 Noumena gets up quite a few times to go look out the window of the brewery in between bites of french fries and I have to call her back. While we finish up, Chris goes to refill my water glass and finds a very simple game I'm not sure what it's called. Two rings hang from a string on either end of a "T" shaped piece of wood with two hooks near the bottom of the "T" to catch the rings. Noumena and Chris play with this for a while until it's time to head out.
 
 On our way out, I noticed when we got our food that they were selling vegan cookies and so I went to get one for Noumena, give Chris a hug and say our goodbyes.
 
-[[file:vegan-cookie.jpg]]
+[[file:vegan-cookie.webp]]
 
 * Playing At Home
 
@@ -103,13 +103,13 @@ When it's time to take a bath, Noumena doesn't want to do it which has become ty
 
 * Night Night, Noumena!
 
-[[file:bed-time.jpg]]
+[[file:bed-time.webp]]
 
-[[file:bed-time-2.jpg]]
+[[file:bed-time-2.webp]]
 
-[[file:bed-time-3.jpg]]
+[[file:bed-time-3.webp]]
 
-[[file:bed-time-4.jpg]]
+[[file:bed-time-4.webp]]
 
 After getting Noumena dressed in her pajamas and brushing her hair and teeth, we have to fetch her pink blanky from the living room where she'd left it. Holding the blanky in her arms, she doesn't appear to be reaching for and leaning down from my arms towards the crib. I take this as an opportunity to dance with her in my arms as we listen to our playlist together. Tonight, she drifts off in my arms which I had missed so much and am so grateful for. From now on, I'm going to try to give her the blanket every time to see if that will prompt her to stay in my arms and dance with me. Hopefully it works and I can go back to putting my baby to sleep in my arms.
 

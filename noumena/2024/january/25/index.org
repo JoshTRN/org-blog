@@ -11,11 +11,11 @@
 
 * Hanging Out At Home
 
-[[file:chilling-with-daddy-1.jpg]]
+[[file:chilling-with-daddy-1.webp]]
 
-[[file:chilling-with-daddy-3.jpg]]
+[[file:chilling-with-daddy-3.webp]]
 
-[[file:chilling-with-daddy-6.jpg]]
+[[file:chilling-with-daddy-6.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -32,9 +32,9 @@
 
 * Nighttime Walk
 
-[[file:sitting-in-pothole-2.jpg]]
+[[file:sitting-in-pothole-2.webp]]
 
-[[file:sitting-in-pothole-3.jpg]]
+[[file:sitting-in-pothole-3.webp]]
 
 #+begin_export html
 <div class="video-container">

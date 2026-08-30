@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/february/27/eating-chocolate-preview.jpg" />
 
-[[file:eating-chocolate.jpg]]
+[[file:eating-chocolate.webp]]
 
 * Good Morning, Noumena!
 #+begin_export html
@@ -18,9 +18,9 @@
 
 * Ikea
 
-[[file:mirrors-at-ikea.jpg]]
+[[file:mirrors-at-ikea.webp]]
 
-[[file:tongue-out-mirror-at-ikea.jpg]]
+[[file:tongue-out-mirror-at-ikea.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -44,8 +44,8 @@
 
 * Bed Time
 
-[[file:sleeping-on-daddy.jpg]]
+[[file:sleeping-on-daddy.webp]]
 
-[[file:sleeping-on-daddy-2.jpg]]
+[[file:sleeping-on-daddy-2.webp]]
 
-[[file:sleeping-on-daddy-3.jpg]]
+[[file:sleeping-on-daddy-3.webp]]

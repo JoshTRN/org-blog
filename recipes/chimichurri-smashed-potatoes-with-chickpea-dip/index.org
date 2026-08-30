@@ -1,0 +1,62 @@
+#+title: Chimichurri Smashed Potatoes with Chickpea Dip
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~20 min/
++ *Cook Time*: /~40 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$1.75/
++ *Total Cost*: /~$6.75/
+
+* Ingredients
+** Potatoes
+- [ ] 750 g baby potatoes (whole, scrubbed)
+- [ ] 2 tbsp avocado oil (or spray)
+- [ ] 1 tsp coarse salt
+- [ ] 1/2 tsp black pepper
+
+** Chimichurri
+- [ ] 1/2 cup avocado oil
+- [ ] 2 tbsp red wine vinegar
+- [ ] 1/2 cup parsley (finely chopped)
+- [ ] 3–4 cloves garlic (minced)
+- [ ] 1–2 small red chilies (deseeded, finely chopped)
+- [ ] 3/4 tsp dried oregano
+- [ ] 1 tsp salt
+- [ ] 1/2 tsp black pepper
+
+** Chickpea Dip
+- [ ] 400 g canned chickpeas (drained, rinsed)
+- [ ] 3 tbsp vegan avocado-oil mayo
+- [ ] Juice of 1/2–1 lemon
+- [ ] 1/4 tsp salt
+- [ ] 1/8 tsp black pepper
+
+* Method
+** Chimichurri
+1. [ ] Stir together oil, vinegar, parsley, garlic, chili, oregano, salt, and pepper; rest 5–10 minutes.
+
+** Potatoes
+1. [ ] Boil potatoes in well-salted water 12–15 minutes until just tender. Drain and steam-dry.
+2. [ ] Heat oven to 425°F (220°C). Smash potatoes on a sheet tray, season, and oil.
+3. [ ] Roast 25–40 minutes, flipping once, until crisp and deeply golden.
+
+** Dip & Toss
+1. [ ] Blend chickpeas, mayo, lemon juice, salt, and pepper until smooth.
+2. [ ] Toss hot potatoes with 3 tbsp chimichurri; serve over the dip and drizzle remaining sauce.
+
+* Notes
+- [ ] Add chopped cilantro for a mixed-herb chimichurri.
+- [ ] Serve warm or room temperature.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~560   | 28%           |
+| Protein       | ~13 g  | 26%           |
+| Carbohydrates | ~63 g  | 21%           |
+| Fat           | ~30 g  | 38%           |
+| Fiber         | ~12 g  | 43%           |
+| Sugars        | ~6 g   | 12%           |
+| Sodium        | ~350 mg| 15%           |
+| Calcium       | ~100 mg| 8%            |
+| Iron          | ~4 mg  | 22%           |
+| Vitamin C     | ~45 mg | 50%           |

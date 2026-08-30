@@ -1,7 +1,16 @@
-#+TITLE: Noumena By Year
-#+HTML_HEAD_EXTRA: <link rel="manifest" href="/noumena/manifest.json">
+#+TITLE: Noumena
+#+HTML_HEAD_EXTRA:<link rel="manifest" href="/noumena/manifest.json">
 #+OPTIONS: num:nil ^:{}
+* By Year
 
-** [[file:2022][2022]]
-** [[file:2023][2023]]
-** [[file:2024][2024]]
+#+ATTR_HTML: :class sortable
+|------|
+| Year |
+|------|
+| [[file:2026][2026]] |
+| [[file:2025][2025]] |
+| [[file:2024][2024]] |
+| [[file:2023][2023]] |
+| [[file:2022][2022]] |
+
+* [[file:firsts/][Firsts]]

@@ -1,0 +1,94 @@
+#+TITLE: January 11, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/january/11/">
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January 11, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/january/11/" />
+
+* Good Morning, Noumena!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/U6VP1IThY0I" title="Making Gingerbread House With Daddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./making-gingerbread-house-with-daddy-1.webp]]
+
+[[./making-gingerbread-house-with-daddy-2.webp]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/5EyL5VOuGLY" title="Rocking Out To Periphery And Meshuggah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Lazy Saturday
+
+[[./hiding-behind-bookcase-1.webp]]
+
+[[./hiding-behind-bookcase-2.webp]]
+
+[[./cuddling-kisa-1.webp]]
+
+[[./cuddling-kisa-2.webp]]
+
+[[./cuddling-kisa-3.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="438" height="778" src="https://www.youtube.com/embed/IBeuQK8Lz64" title="Standing On Daddys Head" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Dinner
+
+[[./making-a-mess-at-dinner.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1905" height="705" src="https://www.youtube.com/embed/Do5Ii1OuI2E" title="Taking Care Of Her Toys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Evening
+
+[[./pot-belly.webp]]
+
+[[./running-around-shirtless-1.webp]]
+
+[[./running-around-shirtless-2.webp]]
+
+[[./running-around-shirtless-3.webp]]
+
+[[./running-around-shirtless-4.webp]]
+
+[[./running-around-shirtless-5.webp]]
+
+[[./running-around-shirtless-6.webp]]
+
+[[./running-around-shirtless-7.webp]]
+
+[[./running-around-shirtless-8.webp]]
+
+[[./running-around-shirtless-9.webp]]
+
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1920" height="689" src="https://www.youtube.com/embed/Um9TjjNgPys" title="Goofing Around On The Couch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./just-being-beautiful-1.webp]]
+
+[[./just-being-beautiful-2.webp]]
+
+[[./just-being-beautiful-3.webp]]
+
+[[./being-silly-with-daddy-1.webp]]
+
+[[./being-silly-with-daddy-2.webp]]

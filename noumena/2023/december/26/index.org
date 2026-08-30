@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/26/resting-hand-on-daddy-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/26/photo/resting-hand-on-daddy-2-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 26, 2023 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/26/resting-hand-on-daddy-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/26/photo/resting-hand-on-daddy-2-preview.jpg" />
 
-[[file:resting-hand-on-daddy-2.jpg]]
+[[file:resting-hand-on-daddy-2.webp]]
 
 * Good Morning, Noumena!!!
 
@@ -33,7 +33,7 @@ Mommy had gotten a flat tire yesterday and she needed to get it fixed because sh
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U2l0fW3HxV8?si=Eroo59-DI4acQTMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2l0fW3HxV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -44,7 +44,7 @@ On our way to the park, Mommy sees us walking down the street and so she takes u
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3fSqDZjtNVM?si=dZAof4L01rA7BFFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fSqDZjtNVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -53,7 +53,7 @@ On our way to the park, Mommy sees us walking down the street and so she takes u
 I had already prepared some rice for us to eat thinking I was also going to fry up some beans, but once Noumena saw the rice, she didn't want to wait at all, so I loaded some into her bowl and didn't even give her utensils to eat with. She shoveled it in her mouth with her hands. While she was eating, I heated up some of the left over /chana masala/ I had from out Indian dinner last night and mixed it into the rice sharing it with Noumena. Noumena's mother also made some chicken nuggets and fed that to her as well.
 * Hanging out At Home
 
-[[file:resting-hand-on-daddy.jpg]]
+[[file:resting-hand-on-daddy.webp]]
 
 Of course, throughout the evening, we couldn't resist listening to /Levitation 21/ by Tigran Hamasyan and also /ABC/ by Polyphia. But I get restless staying inside and I think Noumena does too. I asked Noumena if she wanted to go for a walk and we head out the door.
 

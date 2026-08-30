@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/31/swinging-preview.png">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/31/photo/swinging-preview-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 31, 2023 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/31/swinging-preview.png" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/31/photo/swinging-preview-preview.jpg" />
 
-[[file:wearing-tinsel.jpg]]
+[[file:wearing-tinsel.webp]]
 
 * Good Morning, Noumena!
 
@@ -19,7 +19,7 @@
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VSXlJsA8vu4?si=AFKu4ru4J1RIK2-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VSXlJsA8vu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -27,7 +27,7 @@ Noumena's mother had come over in the morning, so after cleaning up from breakfa
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SirlqdWzzA0?si=zhc6Oc0Wx-3UPiq_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SirlqdWzzA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -41,7 +41,7 @@ Noumena's starting to get excited to go to parks rather than just enjoying it wh
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z_w29jLzrUQ?si=sEziqA4EMgkYIlOe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z_w29jLzrUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -49,7 +49,7 @@ Once she tires of one swing she moves onto the next. We move from swing to swing
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rGH66o5-mcA?si=zCBQNU1RQXd9dcdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGH66o5-mcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -71,23 +71,23 @@ Since she had made quite the mess, I have to change her clothes. Mommy is about 
 
 It's not long thereafter I want to get out of the house, so I get Noumena bundled up and we head outside. I walk Noumena down the driveway, but for some reason tonight she wants to be held. I carry her all the way to the church where she finally wants to be let down. I called Oksana to wish her a happy new year while we there and we talk on the phone for a bit until I want to start capturing videos of Noumena. We spend maybe an hour at the church playing on the bench that sits right outside the entryway, but mostly running around in the grass.
 
-[[file:sitting-at-bench-at-church.jpg]]
+[[file:sitting-at-bench-at-church.webp]]
 
-[[file:playing-on-bench-at-church.jpg]]
+[[file:playing-on-bench-at-church.webp]]
 
-[[file:sitting-on-bench-at-church-2.jpg]]
+[[file:sitting-on-bench-at-church-2.webp]]
 
-[[file:sitting-on-bench-at-church-3.jpg]]
+[[file:sitting-on-bench-at-church-3.webp]]
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTDhN6BeYjk?si=lpyhMUNPWQzshe9j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTDhN6BeYjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rnp8Eamty2s?si=usocydizPpERo_72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rnp8Eamty2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -104,3 +104,8 @@ We follow our usual bath time routine, except she had a toy baby on the bed from
 After our bath, she picks the owl pajamas to sleep in. I dress her and brush her teeth and we go to the room where we listen to our playlist getting through the whole thing and listening to /Stand By Me/ an additional time for good measure while I lay beside her crib holding her hand through the bars until I'm certain she's asleep. She's sleeping really hard tonight. I turned up her white noise machine to the loudest setting worried that the fireworks would disturb her slumber, but even now as it's 2:40am and I write this, she hasn't made a peep. This is what they mean when they use the idiom to "sleep like a baby."
 
 Goodnight, Noumena! I'm glad that you weren't disturbed by the fireworks at all. I hope you rest well and am looking forward to another day we have together tomorrow!!!
+
+* Photos
+
+#+ATTR_ORG: :width 50%
+[[./photo/swinging-preview.webp]]

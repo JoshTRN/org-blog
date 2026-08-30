@@ -1,0 +1,56 @@
+#+title: Creamy Tuscan Tofu
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~25 min/
++ *Servings*: /~2/
++ *Cost per Serving*: /~$3.75/
++ *Total Cost*: /~$7.25/
+
+* Ingredients
+** Tofu
+- [ ] 1 block firm tofu (pressed, torn into chunks)
+- [ ] 1 tbsp cornstarch
+- [ ] 1 tbsp olive oil
+
+** Sauce
+- [ ] 1/2 medium onion (diced)
+- [ ] 2 cloves garlic (minced)
+- [ ] 1 cup cherry tomatoes (halved)
+- [ ] 1/4 tsp salt
+- [ ] 1 tsp Italian seasoning
+- [ ] 1 tbsp vegan cream cheese
+- [ ] 1/3 cup tomato purée
+- [ ] 1/3 cup water
+- [ ] 1 handful fresh spinach (roughly chopped)
+
+** Serving
+- [ ] 1 cup uncooked white rice (rinsed)
+
+* Method
+** Tofu
+1. [ ] Toss tofu with cornstarch; pan-fry in oil until golden on both sides. Set aside.
+
+** Sauce
+1. [ ] Sauté onion and garlic until fragrant. Add tomatoes and salt; cook until softened.
+2. [ ] Stir in Italian seasoning, vegan cream cheese, tomato purée, and water; simmer 3 minutes to thicken.
+3. [ ] Return tofu and fold in spinach until just wilted.
+
+** Rice
+1. [ ] Cook rice with 1 1/2 cups water until tender; rest covered 5 minutes. Serve with creamy tofu.
+
+* Notes
+- [ ] Air fry tofu at 400°F (200°C) 12–15 minutes for extra crispness.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~520   | 26%           |
+| Protein       | ~23 g  | 46%           |
+| Carbohydrates | ~75 g  | 25%           |
+| Fat           | ~16 g  | 21%           |
+| Fiber         | ~5 g   | 18%           |
+| Sugars        | ~7 g   | 14%           |
+| Sodium        | ~380 mg| 17%           |
+| Calcium       | ~250 mg| 19%           |
+| Iron          | ~4 mg  | 22%           |
+| Vitamin C     | ~20 mg | 22%           |

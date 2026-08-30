@@ -7,9 +7,9 @@
 
 * Sensory Towne
 
-[[file:swing-lights-sensory-towne.jpg]]
-[[file:with-mommy-on-couch-2.jpg]]
-[[file:with-mommy-playing-with-lights-sensory-town.jpg]]
+[[file:swing-lights-sensory-towne.webp]]
+[[file:with-mommy-on-couch-2.webp]]
+[[file:with-mommy-playing-with-lights-sensory-town.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -39,7 +39,7 @@
 
 * Hanging Out At Home After Nap
 
-[[file:mismatched-outfit.jpg]]
+[[file:mismatched-outfit.webp]]
 
 * Store
 

@@ -1,0 +1,47 @@
+#+title: Red Lentil Soup
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~25 min/
++ *Servings*: /~6/
++ *Cost per Serving*: /~$1.25/
++ *Total Cost*: /~$6.75/
+
+* Ingredients
+- [ ] 2 cups red lentils (rinsed, drained)
+- [ ] 2 large russet potatoes (peeled, small dice)
+- [ ] 1 carrot (finely diced)
+- [ ] 1 onion (finely diced)
+- [ ] 3 cloves garlic (minced)
+- [ ] 1 tomato (diced)
+- [ ] 7 cups hot water (or vegetable broth)
+- [ ] 3 tbsp olive oil
+- [ ] 2 tsp ground cumin
+- [ ] 2 tsp kosher salt
+- [ ] 1/4 tsp black pepper
+- [ ] Za’atar (to taste)
+- [ ] Lemon wedges (to serve)
+- [ ] Parsley (chopped, to serve)
+
+* Method
+1. [ ] Sauté onion in oil 3–4 minutes; add carrot 2 minutes; add garlic 1 minute.
+2. [ ] Stir in cumin, salt, pepper; add lentils and tomato; cook 1 minute.
+3. [ ] Add potatoes and hot water; bring to a boil, then simmer 20 minutes.
+4. [ ] Blend a portion for creaminess and return to pot. Adjust seasoning. Serve with lemon, parsley, olive oil, and za’atar.
+
+* Notes
+- Partially blending gives body while keeping texture.
+- Finish with a drizzle of olive oil.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~285   | 14%           |
+| Protein       | ~15 g  | 30%           |
+| Carbohydrates | ~48 g  | 16%           |
+| Fat           | ~7 g   | 9%            |
+| Fiber         | ~8 g   | 29%           |
+| Sugars        | ~6 g   | 12%           |
+| Sodium        | ~520 mg| 23%           |
+| Calcium       | ~80 mg | 6%            |
+| Iron          | ~5 mg  | 28%           |
+| Vitamin C     | ~18 mg | 20%           |

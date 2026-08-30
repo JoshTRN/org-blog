@@ -1,0 +1,82 @@
+#+TITLE: July  4, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/july/04/sparkler-5-preview.webp"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July  4, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/july/04/sparkler-5-preview.webp" />
+
+[[./sparkler-5.webp]]
+
+* Good Morning, Love!
+
+[[./shorts-like-skirt.webp]]
+
+* Grasshoppers
+
+[[./daddy-holding-grasshoppers-1.webp]]
+
+[[./daddy-holding-grasshoppers-2.webp]]
+
+[[./grasshoppers-1.webp]]
+
+[[./grasshoppers-2.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/zZzktFTnKCY" title="Grasshopper Tries To Mount Noumena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Watching Movies
+
+[[./laying-on-daddy-1.webp]]
+
+[[./laying-on-daddy-2.webp]]
+
+[[./laying-on-daddy-3.webp]]
+
+[[./laying-on-daddy-4.webp]]
+
+[[./laying-on-daddy-5.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/-7eyX52fY1w" title="Giving Daddy Affection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./playing-with-spices-.3webp]]
+
+[[./playing-with-spices-1.webp]]
+
+[[./playing-with-spices-2.webp]]
+
+* Dinner
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/GNpEu9Qqi4E" title="Counting Spices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./stuffy-nose.webp]]
+
+* Fireworks!
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/fZ1T5fh9jLU" title="Watching The Fireworks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./sparkler-1.webp]]
+
+[[./sparkler-2.webp]]
+
+[[./sparkler-3.webp]]
+
+[[./sparkler-4.webp]]
+
+[[./sparkler-6.webp]]

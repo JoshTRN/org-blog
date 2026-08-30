@@ -1,7 +1,7 @@
 #+TITLE: October 13, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:holding-noumena-at-daycare.jpg]]
+[[file:holding-noumena-at-daycare.webp]]
 
 * Morning
 
@@ -54,7 +54,7 @@ Part of the reason Mommy came over was so that she could give Noumena the Russia
 #+end_export
 
 * Tidewater Acres Park
-[[file:riding-on-daddys-shoulders.jpg]]
+[[file:riding-on-daddys-shoulders.webp]]
 
 #+begin_export html
 <div class="video-container">

@@ -1,0 +1,48 @@
+#+title: Beans and Orzo Situation
+#+INCLUDE: /home/joshua/org/blog/recipes/header.org
++ *Prep Time*: /~15 min/
++ *Cook Time*: /~20 min/
++ *Servings*: /~4/
++ *Cost per Serving*: /~$1.75/
++ *Total Cost*: /~$7.50/
+
+* Ingredients
+- [ ] 2 tbsp olive oil
+- [ ] 1 onion (diced)
+- [ ] 1 carrot (diced)
+- [ ] 1 celery stalk (diced)
+- [ ] 1 broccoli (stem diced, florets small)
+- [ ] 3 cloves garlic (minced)
+- [ ] 250 g orzo (or 150 g rice)
+- [ ] 1 L vegetable stock
+- [ ] 1 can (400 g) beans (cannellini or chickpeas; drained)
+- [ ] 20 g nutritional yeast
+- [ ] 1 lemon (juiced)
+- [ ] Salt (to taste)
+
+* Method
+** Build & Simmer
+1. [ ] Sauté onion, carrot, celery, and broccoli stem in oil 7–8 minutes until soft.
+2. [ ] Add garlic and orzo; toast 30 seconds.
+3. [ ] Pour in stock and beans; simmer 8–10 minutes until orzo is tender and broth thickens.
+
+** Finish
+1. [ ] Stir in nutritional yeast and lemon juice. Season to taste and serve.
+
+* Notes
+- [ ] Fold in spinach or kale in the last 2 minutes.
+- [ ] Chili flakes add a nice kick.
+
+* Nutrition
+| Nutrient      | Amount | % Daily Value |
+|---------------+--------+---------------|
+| Calories      | ~340   | 17%           |
+| Protein       | ~13 g  | 26%           |
+| Carbohydrates | ~56 g  | 19%           |
+| Fat           | ~9 g   | 12%           |
+| Fiber         | ~10 g  | 36%           |
+| Sugars        | ~7 g   | 14%           |
+| Sodium        | ~620 mg| 27%           |
+| Calcium       | ~90 mg | 7%            |
+| Iron          | ~3.5 mg| 20%           |
+| Vitamin C     | ~45 mg | 50%           |

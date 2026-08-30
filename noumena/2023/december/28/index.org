@@ -7,7 +7,7 @@
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
 #+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/28/cute-outfit-preview.jpg" />
 
-[[file:cute-outfit.jpg]]
+[[file:cute-outfit.webp]]
 
 * Good Morning, Noumena
 
@@ -39,7 +39,7 @@ Noumena's mom also heats up some of the leftover rice and beans for Noumena to e
 
 * Hanging Out At Home
 
-[[file:goofy-pose.jpg]]
+[[file:goofy-pose.webp]]
 
 Mommy reads Noumena a few books and plays with Noumena for a while. Noumena, finding her electronic flash card reader, brings it to Mommy to play with. Her flash cards are stored in a little red owl backpack her mother had gotten her for Christmas, so when she brings her mother the card reader, Mommy tells Noumena to get the backpack and bring it to her. Noumena hesitates and looks in the direction for a moment to evaluate the command she's just been given. Mommy tells me to show her where it is, but I tell Mommy to just let Noumena figure it out. Moments after I tell her mom to let Noumena figure out, she rushes over to the backpack to retrieve it for Mommy. They open the backpack and Noumena begins to remove the cards and assist Mommy in putting them into the reader.
 
@@ -47,7 +47,7 @@ After a little while of playing, Mommy's about to leave, so I tell Mommy to get 
 
 * Nighttime Walk
 
-[[file:cute-outfit-with-jacket.jpg]]
+[[file:cute-outfit-with-jacket.webp]]
 
 Just before we leave, I get Noumena dressed in her Jacket and we head out. I'll never stop being fascinated by Noumena's burgeoning mind. When we're walking, she invents a game out of squatting and then taking off from a squatted position, running for a few moments, turning around and then squatting again to repeat the process.
 
@@ -57,7 +57,7 @@ Just before we leave, I get Noumena dressed in her Jacket and we head out. I'll 
 </div>
 #+end_export
 
-[[file:at-the-stairs-at-church.jpg]]
+[[file:at-the-stairs-at-church.webp]]
 
 I'm not sure why the church parking lot seems like such a good place to go, but I often find myself there with Noumena. I guess it's a wide open, desolate space that she can run around in to her heart's content. We spend most of our time just hanging around the church, climbing stairs and getting into things. She must have climbed those steep stairs 10 times which is good because hopefully that means she'll be worn out by the end of it.
 
@@ -68,9 +68,9 @@ I'm not sure why the church parking lot seems like such a good place to go, but 
 #+end_export
 
 
-[[file:chillin-with-daddy-1.jpg]]
+[[file:chillin-with-daddy-1.webp]]
 
-[[file:chillin-with-daddy-2.jpg]]
+[[file:chillin-with-daddy-2.webp]]
 
 We make our way back to the parking lot from where Noumena was playing at the stairs and she finds a bench outside the doors the pattern on which she's fascinated by. I sit down and pull her on the bench and we chill there for a few minutes before heading back home. She's not excited about going home and voices her discontent, but luckily for me she's easy to calm and we make our way back home only stopping briefly to look at the moon. Her fascination with celestial bodies makes me think there's something in our DNA that predisposes us to be enthralled by them. I'm so excited as she grows to teach her about astronomy and the heavens, and some day take her to someplace deep in the wilderness away from all the light pollution so she can get a true glimpse into the beauty that sits overhead at all times.
 

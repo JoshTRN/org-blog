@@ -9,13 +9,13 @@
 
 * Good Morning, Noumena!
 
-[[./chillin-with-chalmers-1.jpg]]
+[[./chillin-with-chalmers-1.webp]]
 
-[[./chillin-with-chalmers-3.jpg]]
+[[./chillin-with-chalmers-3.webp]]
 
 * Tidewater Acres Park
 
-[[./daddy-noumena-silhouette.jpg]]
+[[./daddy-noumena-silhouette.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -31,7 +31,7 @@
 
 * Hanging Out At Home
 
-[[./falling-asleep-on-daddy.jpg]]
+[[./falling-asleep-on-daddy.webp]]
 
 
 #+begin_export html
@@ -48,13 +48,13 @@
 
 * Playing Outside After Nap
 
-[[./laying-in-grass-6.jpg]]
+[[./laying-in-grass-6.webp]]
 
-[[./laying-in-grass-10.jpg]]
+[[./laying-in-grass-10.webp]]
 
-[[./laying-in-grass-15.jpg]]
+[[./laying-in-grass-15.webp]]
 
-[[./laying-in-grass-17.jpg]]
+[[./laying-in-grass-17.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -62,19 +62,19 @@
 </div>
 #+end_export
 
-[[./laying-with-daddy-in-grass-3.jpg]]
+[[./laying-with-daddy-in-grass-3.webp]]
 
-[[./sitting-in-grass-3.jpg]]
+[[./sitting-in-grass-3.webp]]
 
-[[./sitting-in-grass-4.jpg]]
+[[./sitting-in-grass-4.webp]]
 
-[[./sitting-in-grass-5.jpg]]
+[[./sitting-in-grass-5.webp]]
 
-[[./sitting-in-grass-6.jpg]]
+[[./sitting-in-grass-6.webp]]
 
-[[./sitting-in-grass-9.jpg]]
+[[./sitting-in-grass-9.webp]]
 
-[[./sitting-with-daddy-in-grass-1.jpg]]
+[[./sitting-with-daddy-in-grass-1.webp]]
 
 * Playing At Home With Mommy
 
@@ -84,4 +84,4 @@
 </div>
 #+end_export
 
-[[./hand-dimples-2.jpg]]
+[[./hand-dimples-2.webp]]

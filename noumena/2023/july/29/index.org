@@ -1,7 +1,7 @@
 #+TITLE: July 29, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:huge-smile.jpg]]
+[[file:huge-smile.webp]]
 
 * Morning
 
@@ -32,15 +32,15 @@ We stay until 10am and then head back home. At 10:30am, we head out to go meet m
 
 * Story Time
 
-[[file:story-time-eating-keys.jpg]]
+[[file:story-time-eating-keys.webp]]
 
-[[file:story-time-eating-keys-2.jpg]]
+[[file:story-time-eating-keys-2.webp]]
 
 It's miss Alana at story time today and we learn the sign for "I love you." It looks like the metal devil horns, except the thumb is also extended. I really want to remember this one and use it frequently. It's a good and quick/easy way to teach Noumena that I love her using that sign. We make hearts, and sing and dance and Noumena does a pretty good job paying attention, although she does like spinning in the chair quite a bit.
 
-[[file:story-time.jpg]]
+[[file:story-time.webp]]
 
-[[file:story-time-eating-keys.jpg]]
+[[file:story-time-eating-keys.webp]]
 
 #+begin_export html
 <div class="video-container">

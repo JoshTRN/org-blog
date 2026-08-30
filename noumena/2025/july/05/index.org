@@ -1,0 +1,73 @@
+#+TITLE: July  5, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/july/05/funny-faces-1-preview.webp"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="July  5, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/july/05/funny-faces-1-preview.webp" />
+
+* Hanging Out With Daddy
+
+[[./stuffy-nose.webp]]
+
+[[./goofy-outfit-1.webp]]
+
+[[./goofy-outfit-2.webp]]
+
+[[./goofy-outfit-3.webp]]
+
+* Grasshoppers
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="548" src="https://www.youtube.com/embed/o_55K7dq9KY" title="Walking Around With Hoppers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./hoppers-1.webp]]
+
+[[./hoppers-2.webp]]
+
+[[./hoppers-3.webp]]
+
+[[./hoppers-4.webp]]
+
+[[./hoppers-5.webp]]
+
+[[./hoppers-6.webp]]
+
+[[./hoppers-7.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/8L-HYVskuKk" title="Searching For Hoppers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Nap Time
+
+[[./finally-asleep.webp]]
+
+[[./cuddled-up.webp]]
+
+* More Hangin Out
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="548" src="https://www.youtube.com/embed/UMddKRt3ON8" title="Playing With Cars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./funny-faces-1.webp]]
+
+[[./funny-faces-2.webp]]
+
+[[./funny-faces-3.webp]]
+
+[[./funny-faces-4.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/d65GPivPMIM" title="Beating Daddys Ass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

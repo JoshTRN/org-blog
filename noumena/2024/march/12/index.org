@@ -2,14 +2,14 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/12/skirt-on-daddys-head-1-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/12/photo/skirt-on-daddys-head-1-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 12, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/12/skirt-on-daddys-head-1-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/12/photo/skirt-on-daddys-head-1-preview.jpg" />
 
 * Good Morning, Noumena!
 
-[[file:laying-in-bed.jpg]]
+[[file:laying-in-bed.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -36,18 +36,18 @@
 </div>
 #+end_export
 
-[[file:skirt-on-daddys-head-1.jpg]]
+[[file:skirt-on-daddys-head-1.webp]]
 
-[[file:skirt-on-daddys-head-2.jpg]]
+[[file:skirt-on-daddys-head-2.webp]]
 
-[[file:skirt-on-daddys-head-3.jpg]]
+[[file:skirt-on-daddys-head-3.webp]]
 
 * Bath Time
 
 * Bed Time
 
-[[file:chosen-bedtime-outfit.jpg]]
+[[file:chosen-bedtime-outfit.webp]]
 
-[[file:falling-asleep-with-daddy-1.jpg]]
+[[file:falling-asleep-with-daddy-1.webp]]
 
-[[file:falling-asleep-with-daddy-2.jpg]]
+[[file:falling-asleep-with-daddy-2.webp]]

@@ -1,7 +1,7 @@
 #+TITLE: November 19, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:nap-time.jpg]]
+[[file:nap-time.webp]]
 
 * Video
 #+begin_export html
@@ -12,12 +12,12 @@
 
 
 * Photo
-[[file:eating-banana-bread.jpg]]
+[[file:eating-banana-bread.webp]]
 
-[[file:eating-banana-bread-2.jpg]]
+[[file:eating-banana-bread-2.webp]]
 
-[[file:eating-banana-bread-3.jpg]]
+[[file:eating-banana-bread-3.webp]]
 
-[[file:eating-banana-bread-4.jpg]]
+[[file:eating-banana-bread-4.webp]]
 
-[[file:looking-out-the-window.jpg]]
+[[file:looking-out-the-window.webp]]

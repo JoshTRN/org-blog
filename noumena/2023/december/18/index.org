@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/18/dinner-with-mommy-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2023/december/18/photo/dinner-with-mommy-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="December 18th Header Photo"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="Making Dinner With Mommy">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/18/dinner-with-mommy-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2023/december/18/photo/dinner-with-mommy-preview.jpg" />
 
-[[file:dinner-with-mommy.jpg]]
+[[file:dinner-with-mommy.webp]]
 
 
 * Good Morning, Noumena!
@@ -40,13 +40,13 @@ When dinner was ready, we sat down to enjoy our meal together. Mommy wanted Noum
 
 * Hanging out at Home
 
-[[file:wearing-daddys-coat.jpg]]
+[[file:wearing-daddys-coat.webp]]
 
 Mommy read a few books with Noumena and afterward Noumena and I just hung out while Mommy cleaned up. At some point I got the idea to put my hoodie on her. I tried to get it all the way on her, but obviously she felt restricted by that so started whining. I took it off immediately. I don't remember how we got back into Noumena's room, but when we did, she wanted to be in her crib. Noticing that she had a lot of energy, I wanted to do something that would wear her out, so we decided to go for a walk. We invited Mommy go with us, got Noumena dressed and left the house, but Mommy didn't feel so well so she decided to turn back.
 
-[[file:messy-hair.jpg]]
+[[file:messy-hair.webp]]
 
-[[file:reading.jpg]]
+[[file:reading.webp]]
 
 
 * Nightime Walk
@@ -61,13 +61,13 @@ I've been giving Noumena a lot of independence on our walks. I always stay close
 
 Once we got to parking lot of the church just down the street from us, again still trying to entice Noumena to follow my lead, I crouch down with my head to the ground and look at her from between my legs prompting her to follow in my ugh... head steps. At this time, I'm truly in the moment. I feel so connected to Noumena when it's just me and her out there in the cold weather together. I want to show her everything, teach her everything and always be there for her.
 
-[[file:being-goofy.jpg]]
+[[file:being-goofy.webp]]
 
-[[file:goof-ball.jpg]]
+[[file:goof-ball.webp]]
 
 We spend a lot of time jumping off ledges, running through the grass, playing hide and seek and climbing stairs. Mommy calls and says she's going home, but wants to say goodbye to us so I tell her we're in the parking lot of the church. Mommy drives by to say goodbye to Noumena and Noumena tries to crawl inside Mommy's car. Mommy picks Noumena up and lets her sit behind the wheel before giving her a kiss and saying goodbye. Noumena cries when she realizes Mommy's leaving, but I'm able to distract her and we leave for home to change Noumena's stinky diaper.
 
-[[file:driving-mommys-car.jpg]]
+[[file:driving-mommys-car.webp]]
 
 * Night
 

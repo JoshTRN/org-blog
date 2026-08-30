@@ -1,7 +1,7 @@
 #+TITLE: August 22, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:sprawled-out.jpg]]
+[[file:sprawled-out.webp]]
 
 * Morning
 
@@ -67,9 +67,9 @@ I dress Noumena in these cute new pajamas right before bed and we hang out in th
 </div>
 #+end_export
 
-[[file:pointing-with-pajamas.jpg]]
+[[file:pointing-with-pajamas.webp]]
 
-[[file:daddy-giving-kisses.jpg]]
+[[file:daddy-giving-kisses.webp]]
 
 * Bed Time
 

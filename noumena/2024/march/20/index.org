@@ -2,19 +2,19 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/20/playing-in-plants-2-preview.jpg">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/march/20/photo/playing-in-plants-2-preview.jpg">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="March 20, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/20/playing-in-plants-2-preview.jpg" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/march/20/photo/playing-in-plants-2-preview.jpg" />
 
 
 * Dinner At CAVA
 
-[[file:being-cute-arriving-home-1.jpg]]
+[[file:being-cute-arriving-home-1.webp]]
 
-[[file:being-cute-arriving-home-2.jpg]]
+[[file:being-cute-arriving-home-2.webp]]
 
-[[file:being-cute-arriving-home-3.jpg]]
+[[file:being-cute-arriving-home-3.webp]]
 
 * Playing Near St. John's River
 
@@ -24,10 +24,8 @@
 </div>
 #+end_export
 
-[[file:playing-in-plants-1.jpg]]
+[[file:playing-in-plants-1.webp]]
 
-[[file:playing-in-plants-2.jpg]]
+[[file:playing-in-plants-2.webp]]
 
-[[file:playing-in-plants-2-preview.jpg]]
-
-[[file:playing-in-plants-3.jpg]]
+[[file:playing-in-plants-3.webp]]

@@ -1,8 +1,9 @@
 #+TITLE: July 6, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
+#+FAVORITE: t
 
 #+ATTR_ORG: :width 50%
-[[file:daddy-noumena-chalmers-riding.jpg]]
+[[./photo/daddy-noumena-chalmers-riding.webp]]
 
 * Morning
 
@@ -58,7 +59,7 @@ At some point, chasing becomes the thing to do so Yaya and I end up chasing each
 
 * Living Room
 
-[[file:looking-back.jpg]]
+[[file:looking-back.webp]]
 
 
 The rest of the evening is spent in the living room after we get back. I ate some not very tasty canned peaches and tried to give Noumena some, but she agreed that they weren't very tasty so she didn't eat any. I gave her a fruit pouch instead.
@@ -99,7 +100,11 @@ The rest of the evening is spent in the living room after we get back. I ate som
 
 8:30pm comes so soon because we're having so much fun. I just never have enough time with this girl. Oksana gets some awesome bath time photos and films us while we dance with our nightly routine.
 
-[[file:shampoo-time.jpg]]
+#+ATTR_ORG: :width 50%
+[[./shampoo-time-2.webp]]
+
+#+ATTR_ORG: :width 50%
+[[./photo/shampoo-time.webp]]
 
 
 #+begin_export html
@@ -116,3 +121,5 @@ The rest of the evening is spent in the living room after we get back. I ate som
 
 
 Sweet dreams, Noumena! I had lots of fun with you today.
+
+* Photos

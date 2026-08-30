@@ -1,0 +1,74 @@
+#+TITLE: June 23, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/23/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 23, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/23/" />
+
+* Good Morning, Noumena!
+
+[[./cuddling-with-daddy.webp]]
+
+* Watching TV
+
+[[./ear-scratch.webp]]
+
+[[./watching-tv-between-bed-frame-1.webp]]
+
+[[./watching-tv-between-bed-frame-2.webp]]
+
+[[./watching-tv-between-bed-frame-3.webp]]
+
+* Dinner
+
+[[./cute-in-carseat-1.webp]]
+
+[[./cute-in-carseat-2.webp]]
+
+[[./cute-in-carseat-3.webp]]
+
+[[./cute-in-carseat-4.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="358" height="637" src="https://www.youtube.com/embed/Y5JEXL86eZA" title="Singing In The Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+[[./handing-upside-down-2.webp]]
+
+[[./hanging-upside-down-1.webp]]
+
+* YMCA Park
+
+#+begin_export html
+<div class="video-container">
+<iframe width="358" height="637" src="https://www.youtube.com/embed/9AKupo5dSgU" title="Running Down Hills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1559" height="548" src="https://www.youtube.com/embed/lHhPQwhPRUM" title="Running Around Art" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/5dmFsZDl6vk" title="Spy Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export
+
+* Headed Home
+
+[[./drinking-gatorade-1.webp]]
+
+[[./drinking-gatorade-2.webp]]
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/Eqy-jmniK7I" title="Thirsty In Her Tummy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

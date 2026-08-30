@@ -1,9 +1,9 @@
 #+TITLE: November 8, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:ready-for-school-2.jpg]]
+[[file:ready-for-school-2.webp]]
 
-[[file:ready-for-school.jpg]]
+[[file:ready-for-school.webp]]
 
 * Dinner
 #+begin_export html

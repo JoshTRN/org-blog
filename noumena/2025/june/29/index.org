@@ -1,0 +1,36 @@
+#+TITLE: June 29, 2025
+#+INCLUDE: ~/org/blog/noumena/header.org
+#+INCLUDE: ~/org/blog/image-preview-header.org
+
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2025/june/29/"/>
+#+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="June 29, 2025 alt"/>
+#+HTML_HEAD_EXTRA:<meta property="og:description" content="">
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2025/june/29/" />
+
+* Photos
+
+[[./signing-me-out-1.webp]]
+
+[[./signing-me-out-2.webp]]
+
+[[./standing-on-window-sil-1.webp]]
+
+[[./standing-on-window-sil-2.webp]]
+
+[[./standing-on-window-sil-3.webp]]
+
+[[./standing-on-window-sil-4.webp]]
+
+[[./standing-on-window-sil-5.webp]]
+
+[[./standing-on-window-sil-6.webp]]
+
+[[./standing-on-window-sil-7.webp]]
+
+* Video
+
+#+begin_export html
+<div class="video-container">
+<iframe width="1547" height="564" src="https://www.youtube.com/embed/ZcBIpAZEi20" title="Treating Daddy After Kowie Abuses Him" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+#+end_export

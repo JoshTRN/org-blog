@@ -2,12 +2,12 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 #+INCLUDE: ~/org/blog/image-preview-header.org
 
-#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/04/conducting-preview.png">
+#+HTML_HEAD_EXTRA:<meta property="og:image" content="https://joshua-wood.dev/noumena/2024/january/04/conducting-preview.webp">
 #+HTML_HEAD_EXTRA:<meta property="og:image:alt" content="January  4, 2024 alt"/>
 #+HTML_HEAD_EXTRA:<meta property="og:description" content="">
-#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/04/conducting-preview.png" />
+#+HTML_HEAD_EXTRA:<meta name="twitter:image" content="https://joshua-wood.dev/noumena/2024/january/04/conducting-preview.webp" />
 
-[[file:conducting-preview.png]]
+[[file:conducting-preview.webp]]
 
 Naturally so much of my time has been invested into these entries that my sleep has taken a backseat to this and my other priorities. Once Noumena goes to bed, I make sure to take care of all my responsibilities right away including writing these entries. Although the ease with which the words find themselves on the page and my writing has improved, the time investment has therefore increased in proportion. The common refrain "there simply aren't enough hours in a day" couldn't be more applicable than in my case. Weariness has somewhat begun to catch up with me.
 
@@ -33,19 +33,19 @@ It's been a long time coming---finally I've set up the account where I can view 
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4bAiSTpKEUA?si=CrwHWnSYF2Rb6RZY" title="Reading At Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bAiSTpKEUA" title="Reading At Daycare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sifDtNU4U9k?si=jnzwILduA9fxbfmA" title="Explaining Noumenas Acrobatics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sifDtNU4U9k" title="Explaining Noumenas Acrobatics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9b3bkgLWBA?si=Gxjx28E4p_DcYJ4a" title="Being A Little Acrobat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9b3bkgLWBA" title="Being A Little Acrobat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 
@@ -63,7 +63,7 @@ I didn't eat with Mommy and Noumena because I wanted to make tofu to eat with it
 
 #+begin_export html
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_EAAgA2ji4U?si=acsDcvsNNl-mShM4" title="Conducting To Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EAAgA2ji4U" title="Conducting To Tigran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 #+end_export
 

@@ -2,17 +2,17 @@
 #+INCLUDE: ~/org/blog/noumena/header.org
 
 * Photo
-[[file:snotty-nose.jpg]]
+[[file:snotty-nose.webp]]
 
-[[file:chilling-on-the-floor-2.jpg]]
+[[file:chilling-on-the-floor-2.webp]]
 
-[[file:daddy-mopped-the-floors.jpg]]
+[[file:daddy-mopped-the-floors.webp]]
 
-[[file:reading-with-daddy-2.jpg]]
+[[file:reading-with-daddy-2.webp]]
 
-[[file:reading-with-daddy-3.jpg]]
+[[file:reading-with-daddy-3.webp]]
 
-[[file:spitting-soymilk-all-over-daddy.jpg]]
+[[file:spitting-soymilk-all-over-daddy.webp]]
 
 * Video
 #+begin_export html

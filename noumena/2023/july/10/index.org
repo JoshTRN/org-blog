@@ -1,7 +1,7 @@
 #+TITLE:  July 10, 2023
 #+INCLUDE: ~/org/blog/noumena/header.org
 
-[[file:crazy-faces-with-daddy.jpg]]
+[[file:crazy-faces-with-daddy.webp]]
 
 * Morning
 
@@ -61,7 +61,7 @@ After reading and playing around with toys we decide to head to the park. Before
 
 * Park
 
-[[file:walking-to-the-park.jpg]]
+[[file:walking-to-the-park.webp]]
 
 Noumena, once again, is preoccupied with cleaning the park after we go down the slide once. I thought for sure since yesterday she'd want to go down the slide a bunch, but I guess that's just not her style. She has to clean the park. Every time we go, she leaves it cleaner than when we arrived. She's so little and I'm already so proud of her.
 

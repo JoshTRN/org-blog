@@ -10,13 +10,13 @@
 * Good Morning, Noumena!
 
 
-[[./going-down-slide-in-morning-1.jpg]]
+[[./going-down-slide-in-morning-1.webp]]
 
-[[./going-down-slide-in-morning-2.jpg]]
+[[./going-down-slide-in-morning-2.webp]]
 
-[[./going-down-slide-in-morning-4.jpg]]
+[[./going-down-slide-in-morning-4.webp]]
 
-[[./going-down-slide-in-morning-6.jpg]]
+[[./going-down-slide-in-morning-6.webp]]
 
 #+begin_export html
 <div class="video-container">
@@ -24,19 +24,19 @@
 </div>
 #+end_export
 
-[[./looking-at-big-grasshopper.jpg]]
+[[./looking-at-big-grasshopper.webp]]
 
-[[./saying-hi-to-grasshopper.jpg]]
+[[./saying-hi-to-grasshopper.webp]]
 
-[[./sitting-in-fairy-garden.jpg]]
+[[./sitting-in-fairy-garden.webp]]
 
-[[./smiling-at-grasshopper.jpg]]
+[[./smiling-at-grasshopper.webp]]
 
-[[./standing-tall.jpg]]
+[[./standing-tall.webp]]
 
-[[./front-yard.jpg]]
+[[./front-yard.webp]]
 
-[[./playing-out-front-1.jpg]]
+[[./playing-out-front-1.webp]]
 
 * Breakfast At Cracker Barrel
 
@@ -46,17 +46,17 @@
 </div>
 #+end_export
 
-[[./breakfast-with-mommy-1.jpg]]
+[[./breakfast-with-mommy-1.webp]]
 
-[[./breakfast-with-mommy-2.jpg]]
+[[./breakfast-with-mommy-2.webp]]
 
-[[./breakfast-with-mommy-3.jpg]]
+[[./breakfast-with-mommy-3.webp]]
 
-[[./breakfast-with-mommy-4.jpg]]
+[[./breakfast-with-mommy-4.webp]]
 
-[[./playing-with-toys-cracker-barrel-3.jpg]]
+[[./playing-with-toys-cracker-barrel-3.webp]]
 
-[[./playing-with-toys-cracker-barrel-4.jpg]]
+[[./playing-with-toys-cracker-barrel-4.webp]]
 
 
 #+begin_export html
@@ -81,13 +81,13 @@
 
 * Afternoon
 
-[[./falling-asleep-in-funny-position.jpg]]
+[[./falling-asleep-in-funny-position.webp]]
 
-[[./laying-with-daddy-2.jpg]]
+[[./laying-with-daddy-2.webp]]
 
-[[./laying-with-daddy-3.jpg]]
+[[./laying-with-daddy-3.webp]]
 
-[[./sleeping-hard-2.jpg]]
+[[./sleeping-hard-2.webp]]
 
 
 * Riverside Park
@@ -107,6 +107,6 @@
 
 * Dinner
 
-[[./dinner-with-daddy-1.jpg]]
+[[./dinner-with-daddy-1.webp]]
 
-[[./dinner-with-daddy-2.jpg]]
+[[./dinner-with-daddy-2.webp]]
